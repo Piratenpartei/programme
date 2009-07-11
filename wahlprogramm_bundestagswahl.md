@@ -340,11 +340,16 @@ Dies beinhaltet die Erstellung von Lehrmaterialien durch Lehrkräfte oder beauft
 
 Wir müssen zumindest folgendes am Urheberrecht ändern:
 
-  - Medien- oder Hardwareabgaben
-  - Eine Neubewertung der Pauschalabgaben ist nötig. Bis zu dieser Neubewertung wird im Sinne des Transparenzgebotes angestrebt, sowohl das resultierende Aufkommen nach Medien/Geräteart als auch seine Verteilung nach Empfänger öffentlich zu machen.
-  - Parlamente schreiben die Urheberrecht-Gesetze, nicht die Lobby
-  - Technische Maßnahmen, die verhindern, dass Kunden Kultur im Rahmen des Gesetzes zu nutzen, wie die sog. DRM-Technologie, sind ungesetzlich.
-  - Neue Geschäftsmodelle fördern
+#### Medien- oder Hardwareabgaben
+
+Eine Neubewertung der Pauschalabgaben ist nötig.
+Bis zu dieser Neubewertung wird im Sinne des Transparenzgebotes angestrebt, sowohl das resultierende Aufkommen nach Medien/Geräteart als auch seine Verteilung nach Empfänger öffentlich zu machen.
+
+#### Parlamente schreiben die Urheberrecht-Gesetze, nicht die Lobby
+
+Technische Maßnahmen, die verhindern, dass Kunden Kultur im Rahmen des Gesetzes zu nutzen, wie die sog. DRM-Technologie, sind ungesetzlich.
+
+#### Neue Geschäftsmodelle fördern
 
 Für viele Künstler, Schriftsteller, Journalisten, Programmierer und andere Kulturarbeiter stellt heutzutage das Urheberrecht eine wesentliche Grundlage ihrer Geschäftsmodelle und Verdienstmöglichkeiten dar.
 Die Möglichkeiten der digitalen Vernetzung und Kommunikation und die in oft digitaler Form vorliegenden Werke verändern die Grundlagen für diese Geschäftsmodelle zum Teil radikal.
