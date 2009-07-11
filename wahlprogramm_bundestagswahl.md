@@ -318,7 +318,7 @@ Insbesondere soll die gleichzeitige Ausübung von Amt und Mandat verboten werden
 
 ## Kapitel 4 - Immaterialgüterrechte
 
-### Urheberrecht
+### Urheberrecht und Nutzungsrechte
 
 Das Nutzungsrecht entfernt sich immer weiter vom Urheber und entwickelt sich hin zum Verwerterrecht.
 Musik- und Filmindustrie profitieren, während Nutzer kriminalisiert werden.
