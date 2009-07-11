@@ -222,7 +222,7 @@ Die strikte Gewaltenteilung soll gesetzlich verankert werden. Insbesondere soll 
 
 == Kapitel 4 - Immaterialgüterrechte ==
 
-=== Urheberrecht ===
+=== Urheberrecht und Nutzungsrechte ===
 
 Das Nutzungsrecht entfernt sich immer weiter vom Urheber und entwickelt sich hin zum Verwerterrecht. Musik- und Filmindustrie profitieren, während Nutzer kriminalisiert werden. Wir PIRATEN fordern für Privatleute ohne kommerzielle Interessen das Recht, Werke frei verwenden und kopieren zu dürfen. Der Einsatz von Maßnahmen, wie die DRM-Technologie oder ähnliche Kopierschutzmechanismen, die diese und andere rechtmäßige Nutzungen einseitig verhindern, soll untersagt werden. Abgeleitete Werke sind neue künstlerische Schöpfungen und müssen dem Kreativen grundsätzlich erlaubt sein. Dies wird durch eine Anpassung des Urheberrechts gewährleistet. 
 
@@ -277,8 +277,7 @@ In Deutschland sollte jede Universität ein eigenes Open-Access-Repository führ
 
 ==== Open Access in der öffentlichen Verwaltung ====
 
-Wir fordern die Einbeziehung von Software und anderen digitalen Gütern, die mit öffentlichen Mitteln produziert werden, in das Open-Access-Konzept. Werke, die von oder im Auftrag von staatlichen Stellen erstellt werden, sollen der Öffentlichkeit zur freien Verwendung zur Verfügung gestellt werden. Der Quelltext von Software muss dabei Teil der Veröffentlichung sein. Dies ist nicht nur zum direkten Nutzen der Öffentlichkeit, sondern die staatlichen Stellen können auch im Gegenzug von Verbesserungen durch die Öffentlichkeit profitieren (Open-Source-Prinzip/Freie Software). Weiterhin wird die Nachhaltigkeit der öffentlich eingesetzten IT-Infrastruktur verbessert und die Abhängigkeit von Softwareanbietern verringert. 
-
+Wir fordern die Einbeziehung von Software und anderen digitalen Gütern, die mit öffentlichen Mitteln produziert werden, in das Open-Access-Konzept. Werke, die von oder im Auftrag von staatlichen Stellen erstellt werden, sollen der Öffentlichkeit zur freien Verwendung zur Verfügung gestellt werden. Der Quelltext von Software muss dabei Teil der Veröffentlichung sein. Dies ist nicht nur zum direkten Nutzen der Öffentlichkeit, sondern die staatlichen Stellen können auch im Gegenzug von Verbesserungen durch die Öffentlichkeit profitieren (Open-Source-Prinzip/Freie Software). Weiterhin wird die Nachhaltigkeit der öffentlich eingesetzten IT-Infrastruktur verbessert und die Abhängigkeit von Softwareanbietern verringert.
 
 == Kapitel 5 - Infrastrukturen offen halten ==
 
