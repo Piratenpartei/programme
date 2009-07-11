@@ -235,19 +235,19 @@ Die für eine internationale Neuausrichtung des Urheberrechts zu verhandelnden T
 Wir PIRATEN setzen uns für die Veröffentlichung von Lehrmaterialien unter freien Lizenzen und die bevorzugte Nutzung von freien Lehrmaterialien in der Bildung ein. Dies beinhaltet die Erstellung von Lehrmaterialien durch Lehrkräfte oder beauftragte Personen unter freien Lizenzen. 
 
 Wir müssen zumindest folgendes am Urheberrecht ändern: 
-* Medien- oder Hardwareabgaben
-* Eine Neubewertung der Pauschalabgaben ist nötig. Bis zu dieser Neubewertung wird im Sinne des Transparenzgebotes angestrebt, sowohl das resultierende Aufkommen nach Medien/Geräteart als auch seine Verteilung nach Empfänger öffentlich zu machen. 
-* Parlamente schreiben die Urheberrecht-Gesetze, nicht die Lobby
-* Technische Maßnahmen, die verhindern, dass Kunden Kultur im Rahmen des Gesetzes zu nutzen, wie die sog. DRM-Technologie, sind ungesetzlich. 
-* Neue Geschäftsmodelle fördern
+==== Medien- oder Hardwareabgaben ====
+Eine Neubewertung der Pauschalabgaben ist nötig. Bis zu dieser Neubewertung wird im Sinne des Transparenzgebotes angestrebt, sowohl das resultierende Aufkommen nach Medien/Geräteart als auch seine Verteilung nach Empfänger öffentlich zu machen. 
+==== Parlamente schreiben die Urheberrecht-Gesetze, nicht die Lobby ====
+Technische Maßnahmen, die verhindern, dass Kunden Kultur im Rahmen des Gesetzes zu nutzen, wie die sog. DRM-Technologie, sind ungesetzlich. 
 
+==== Neue Geschäftsmodelle fördern ====
 Für viele Künstler, Schriftsteller, Journalisten, Programmierer und andere Kulturarbeiter stellt heutzutage das Urheberrecht eine wesentliche Grundlage ihrer Geschäftsmodelle und Verdienstmöglichkeiten dar. Die Möglichkeiten der digitalen Vernetzung und Kommunikation und die in oft digitaler Form vorliegenden Werke verändern die Grundlagen für diese Geschäftsmodelle zum Teil radikal. 
 
 Anstatt den alte Geschäftsmodellen nachzutrauern und sie mit unzumutbaren Eingriffen in die Privatsphäre der Bürger künstlich am Leben zu erhalten zu wollen, fordern die PIRATEN dazu auf, neue Geschäftsmodelle zu entwickeln. Diese Geschäftsmodelle sollen den Urhebern der digitalen Kulturgesellschaft ermöglichen, auf marktwirtschaftliche Art und Weise Erlöse aus der Verwertung ihrer Werke oder deren Umfeld zu erzielen, wenn sie dies anstreben. 
 
 Überholte Vermittlerfunktionen von Rechteverwertern, die in der Vergangenheit z.B. in der Unterhaltungsmusikindustrie zu hohen Renditen geführt haben, sind größtenteils nicht mehr zeitgemäß und werden in diesem Umfang keinen Bestand haben. Die Ausschaltung von Zwischenhändlern ermöglicht es, dass den Künstlern vom Erlös ihrer Werke ein größerer Teil verbleibt und direkter zufließt. Außerdem wird damit das Spektrum der Kulturszene deutlich erweitert. 
 
-Insbesondere die Verwendung von CreativeCommons-Lizenzen erlaubt heutzutage bereits die erfolgreiche wirtschaftliche Verwertung von Werken ohne jegliche Einschränkung bei der digitalen Privatkopie und deren Verbreitung. 
+Insbesondere die Verwendung von CreativeCommons-Lizenzen erlaubt heutzutage bereits die erfolgreiche wirtschaftliche Verwertung von Werken ohne jegliche Einschränkung bei der digitalen Privatkopie und deren Verbreitung.
 
 === Patentrecht ===
 
