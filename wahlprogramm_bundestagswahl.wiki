@@ -1,4 +1,7 @@
-{{offiziell}}
+<noinclude>
+{{Offiziell}}
+{{Über die Partei}}
+</noinclude>
 
 Dieses Wahlprogramm wurde auf dem [[Bundesparteitag 2009.1]] beschlossen.
 
