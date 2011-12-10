@@ -9,6 +9,18 @@ Das Papier zur Reform des Urheberrechts von Daniel Neumann et. al. [1] wurde als
 
 [1] http://wiki.piratenpartei.de/wiki/images/0/07/UrhG_Arguments_FassungBPT2011-2.pdf
 
+== Freier Zugang zu öffentlichen Inhalten ==
+Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugung und Aufbereitung von Texten, Daten und Medien. Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung. Die Bürger haben zu einem Großteil dieser Inhalte keinen oder nur sehr eingeschränkten Zugang, obwohl sie bereits für deren Herstellung bezahlt haben.
+
+Die Piratenpartei setzt sich dafür ein, dass möglichst alle durch öffentlichen Stellen erzeugten oder mit Hilfe öffentlicher Förderung entstanden Inhalte der breiten Öffentlichkeit frei zugänglich gemacht werden. Die Verfügbarkeit darf nicht durch Antragsverfahren, Lizenzen, Gebühren oder technische Mittel erschwert werden. Die Inhalte werden in offenen Formaten online zur Verfügung gestellt und archiviert. Weiterverbreitung sowie kommerzielle Nutzung sind ausdrücklich erwünscht.
+
+Wir sehen die universelle Verfügbarkeit und Verknüpfbarkeit von Informationen als wichtigen Teil der öffentlichen Infrastruktur auf deren Basis neues Wissen entsteht und mit dessen Hilfe der öffentliche Sektor kontrollierbar und optimierbar wird.
+
+In Ausnahmefällen können bestimmte Informationen vorübergehend oder dauerhaft von der Veröffentlichungspflicht befreit werden. Dafür müssen jedoch konkrete, schwerwiegende Gründe (z.B. der Schutz persönlicher Daten oder die Bewahrung sehr wichtiger Geheimnisse) vorliegen. Die Begründung muss in jedem Einzelfall explizit dargelegt und veröffentlicht werden und ist generell anfechtbar.
+
+Im Bereich Wissenschaft wird die Publikation nach dem Open Access Prinzip so schnell wie möglich ein zentrales Kriterium bei der Vergabe öffentlicher Fördermittel. Die öffentlich rechtlichen Sendeanstalten werden nicht mehr daran gehindert, sondern verpflichtet, ihre Produktionen dauerhaft online abrufbar zu machen. Das Informationsfreiheitsgesetz wird überarbeitet und die Spielräume zur systematischen Umgehung der Informationspflichten beseitigt.
+
+Langfristig wird ein öffentlich zugängliches Bürgerinformations-Portal geschaffen. Behörden und andere Institutionen werden angewiesen, ihre öffentlichen Daten dort einzustellen bzw. die eigenen Datenbanken an das Portal anzubinden. Das System muss umfangreiche Kategorisierungs-, Such- und Exportfunktionen sowie geeignete Programmierschnittstellen für automatisierte Anfragen bieten. 
 
 == Bedingungsloses Grundeinkommen und Mindestlohn ==
 Wir Piraten setzen uns für die Einführung eines bedingungslosen Grundeinkommens ein, das die Ziele des "Rechts auf sichere Existenz und gesellschaftlicher Teilhabe" aus unserem Parteiprogramm erfüllt. Es soll:
