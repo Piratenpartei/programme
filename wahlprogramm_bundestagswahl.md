@@ -34,7 +34,7 @@ Die Piratenpartei Deutschland setzt sich für eine Stärkung der Selbstständigk
 Zu diesem Ziel soll die völlige Unabhängigkeit der Kontrollstellen entsprechend der EU-Datenschutzrichtlinie und der Rechtsprechung des Europäischen Gerichtshofes (EuGH) sichergestellt werden.
 Die Kontrollbehörden müssen entsprechend ihren Aufgaben ausgestattet werden, damit sie ihre Aufsichts- und Kontrollfunktion auch ausüben können.
 
-Für Unternehmen sowie öffentlichen Stellen fordert die Piratenpartei darüber hinaus rechtlich anerkannte freiwillige Datenschutz- und Datensicherheitsprüfungen (Audits) sowie Zertifizierungen durch die unabhängigen Behörden.
+Für Unternehmen sowie öffentliche Stellen fordert die Piratenpartei darüber hinaus rechtlich anerkannte freiwillige Datenschutz- und Datensicherheitsprüfungen (Audits) sowie Zertifizierungen durch die unabhängigen Behörden.
 
 ### Verantwortungsvollen Umgang mit Meldedaten sicherstellen, Datenhandel eindämmen
 
@@ -90,7 +90,7 @@ Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugu
 Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung.
 Die Bürger haben zu einem Großteil dieser Inhalte keinen oder nur sehr eingeschränkten Zugang, obwohl sie bereits für deren Herstellung bezahlt haben.
 
-Die Piratenpartei setzt sich dafür ein, dass möglichst alle durch öffentlichen Stellen erzeugten oder mit Hilfe öffentlicher Förderung entstanden Inhalte der breiten Öffentlichkeit frei zugänglich gemacht werden.
+Die Piratenpartei setzt sich dafür ein, dass möglichst alle durch öffentliche Stellen erzeugten oder mit Hilfe öffentlicher Förderung entstanden Inhalte der breiten Öffentlichkeit frei zugänglich gemacht werden.
 Die Verfügbarkeit darf nicht durch Antragsverfahren, Lizenzen, Gebühren oder technische Mittel erschwert werden.
 Die Inhalte werden in offenen Formaten online zur Verfügung gestellt und archiviert.
 Weiterverbreitung sowie kommerzielle Nutzung sind ausdrücklich erwünscht.
