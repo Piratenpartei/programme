@@ -207,6 +207,28 @@ Langfristig wird ein öffentlich zugängliches Bürgerinformations-Portal gescha
 Behörden und andere Institutionen werden angewiesen, ihre öffentlichen Daten dort einzustellen bzw. die eigenen Datenbanken an das Portal anzubinden.
 Das System muss umfangreiche Kategorisierungs-, Such- und Exportfunktionen sowie geeignete Programmierschnittstellen für automatisierte Anfragen bieten.
 
+## Infrastruktur
+
+### Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle
+
+Die Piratenpartei setzt sich dafür ein, ein staatlich finanziertes Trustcenter einzurichten, das jedem Menschen unabhängig vom Einkommen die Möglichkeit gibt, Dokumente und E-Mails für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren.
+
+Die dafür notwendigen Zertifikate sollen deshalb für Privatpersonen (nicht juristische Personen) kostenlos zu erwerben und zu verwenden sein und dazu dienen, jedermann abhörsichere Kommunikation und rechtssichere Geschäfte bzw. Vertragsabschlüsse über das Internet zu ermöglichen.
+
+Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d.h. er darf keine Kenntnis der geheimen Schlüssel besitzen).
+
+### Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
+
+Ein Zwang zur Verwendung von amtlich erfassten Namen ist abzulehnen.
+Diese Praxis ist bereits nach entsprechender Gesetzgebung in Südkorea gescheitert.
+Die Piratenpartei setzt sich dafür ein, den Benutzerinnen und Benutzern von sozialen Netzwerken und ähnlichen Diensten den pseudo- sowie autonymen Zugang gesetzlich zu garantieren.
+Genauso muss der anonyme Zugang zum Netz unmissverständlich gesetzlich garantiert sein.
+Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht aus Gründen etwaiger Sicherheit beschnitten werden.
+
+### Abschaffung des "Hackerparagraphen" § 202c StGB
+
+Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen" § 202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
+
 # Bildung und Forschung
 
 ## Freier Zugang zu Ergebnissen wissenschaftlicher Forschung
