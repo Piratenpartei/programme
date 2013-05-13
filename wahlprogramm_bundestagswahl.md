@@ -1144,6 +1144,135 @@ Damit soll sie über ihren monogamen Anspruch hinaus auch das Zusammenleben von 
 
 # Gesundheitspolitik
 
+Die PIRATEN orientieren sich in ihren gesundheitspolitischen Positionen am Wohl der Patienten, ohne die Seite der Leistungserbringer und Dienstleister im Gesundheitswesen zu vernachlässigen.
+Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehend Mitteln notwendig ist.
+Für uns zeichnet sich eine gute Gesundheitsversorgung durch ihren niedrigschwellige Zugang aus, der allen Menschen in Deutschland eine zugewandte Behandlung nach aktuellem Stand der Erkenntnis ermöglicht.
+
+### Transparenz im Gesundheitssystem
+
+Für Patientinnen und Patienten ist es kaum möglich die Qualität der ärztlichen Behandlung sowohl im Krankenhaus als auch insbesondere im niedergelassenen Bereich zu überprüfen.
+Die PIRATEN fordern daher die verständliche Aufbereitung, Veröffentlichung und priorisierte Weiterentwicklung von Qualitätsmerkmalen.
+
+Weiterhin fordern wir die Nachvollziehbarkeit von Entscheidungsprozessen von der Entstehung über die Bearbeitung und Beratung bis hin zur Beschlussfassung.
+Das gilt sowohl für die Entscheidungsträger in der Selbstverwaltung des Gesundheitswesens als auch für die politischen Gremien, die daran mitwirken.
+Dies schließt Beschlüsse über die Verwendung gemeinschaftlich aufgebrachter Mittel, z.B. Pflichtversicherungsbeiträge, ein.
+
+### Patientenvertretung stärken
+
+In den Organen der Selbstverwaltung des Gesundheitswesens ist die Patientenvertretung ohne Stimmrecht beteiligt.
+Die PIRATEN wirken darauf hin, dass die Seite der Patientenvertretung mit Stimmrecht ausgestattet und gleichberechtigter Teil der Selbstverwaltungsorgane des Gesundheitswesens wird.
+Die Patientenvertretung ist finanziell und organisatorisch mit dem Ziel größerer Transparenz unabhängig auszustatten.
+
+### Überversorgung abbauen
+
+Der Zugang zu medizinischen Angeboten ist für Patientinnen und Patienten heute stark abhängig von ihrem Wohnort.
+So sind in Großstädten je Einwohner deutlich mehr Ärzte angesiedelt als in ländlichen Regionen.
+Deshalb streben die Piraten eine Bedarfsplanung an, in der jede Abweichung vom Durchschnitt der Versorgungsdichte öffentlich zu begründen ist.
+Zur Schließung von Versorgungslücken werden wir uns dafür einsetzen, dass Kommunen das Recht erhalten hausärztliche Vertragsarztsitze zu übernehmen und dort Ärzte anzustellen.
+
+Abgesehen von regionalen Besonderheiten und einem Stadt/Land-Gefälle gibt es in Deutschland tendenziell eine Überversorgung mit medizinischen Leistungen, die zu Lasten der Versichertengemeinschaft aufrechterhalten wird, insbesondere von Arztpraxen und Krankenhäusern.
+Mit dem Ziel einer ausgeglichenen Verteilung ist daher einem Überangebot von Gesundheitsleistungen in einer Region über dem Durchschnitt mit entsprechenden Anreizen entgegenzuwirken.
+Die PIRATEN werden sich dafür einsetzen, dass jede Abweichung vom Durchschnitt der Versorgungsdichte besonders und öffentlich zu begründen ist.
+Dort wo regionale Gebietskörperschaften oder Kommunen bewusst eine überdurchschnittliche Versorgung beibehalten, sind sie für deren Finanzierung aus dem eigenen Haushalt verantwortlich, um die Versichertengemeinschaft zu entlasten.
+
+### Unterversorgung vermeiden
+
+Die Menschen in der Bundesrepublik Deutschland haben ein Anrecht auf eine angemessene Gesundheitsversorgung.
+Dazu gehört auch, dass gemeindenah bzw. wortortnah ausreichend Ärzte aller Fachrichtungen vertreten sind.
+Die Bedarfsplanungen für Vertragsärzte müssen unter Einbeziehung der regionalen Gegebenheiten, eine ausreichende Zahl von Vertragsärzten in sinnvoll gegliederten und homogen strukturierten Versorgungsgebieten vorsehen.
+In ländlichen Regionen mit Unterversorgung ist auch das Modell mobiler Arztpraxen und die Anstellung von Ärzten durch die Kommune eine sinnvolle Ergänzung.
+
+Wir sehen die Trägervielfalt (öffentliche, freigemeinnützige, und private Träger) als Anreiz für einen Wettbewerb um die Versorgungsqualität.
+Gleichzeitig betrachten wir die Gewährleistung der Gesundheitsvorsorge und Behandlung von Krankheiten als Fürsorgepflicht des Staates.
+Deshalb befürworten wir Initiativen, die einen Erhalt von Kliniken in öffentlicher Trägerschaft zum Ziel haben.
+
+### Fehlversorgung beenden
+
+Bestimmte Leistungen, die aus Sicht der Gesundheitsdienstleister einerseits aufwändig und andererseits nicht angemessen honoriert sind, werden nicht oder nur in geringem Umfang erbracht.
+Neben aufsuchender Behandlung benachteiligt dies vor allem Patienten mit Behinderungen, chronischen Erkrankungen oder eingeschränkter Mobilität.
+Die PIRATEN werden sich dafür einsetzen, dass insbesondere diese Patienten angemessen auch auf der Seite der Krankenversicherungen und Arztpraxen Berücksichtigung finden.
+Wo die freie Aushandlung der Honorare durch die Selbstverwaltungspartner diese Mängel nicht zeitnah abstellt, werden sich PIRATEN dafür einsetzen, dass es zusätzliche Aushandlungsmöglichkeiten unter Beteiligung aller Betroffenen gibt, d.h. den Selbstverwaltungen und ihren Vertretern auch Patientenvertreter stimmberechtigt zur Seite gestellt werden.
+Gleichzeitig werden die Verhandlungen weitestgehend transparent gemacht durch Veröffentlichung der jeweiligen Positionen.
+
+Zur Bekämpfung von Fehlversorgung setzen die Piraten zudem auf die Förderung der evidenzbasierten Medizin, d.h. dem Treffen von versorgungsrelevanten Entscheidungen nach umfangreichen Recherchen in den verfügbaren Quellen des Wissens.
+Nur belastbare Studien zur Beurteilung der Wirkung von Therapien und Medikamenten können Grundlage der Entscheidungen über die Erstattung der Kosten durch die Krankenkassen sein.
+Therapien und Medikamente, deren Wirksamkeitsnachweis nicht erbracht wurde, dürfen nur dann zu Lasten der gesetzlichen Krankenkassen erbracht werden, wenn für die zu behandelnde Krankheit keine heilenden Therapien zur Verfügung stehen oder eine wissenschaftliche Bewertung mit höchster Evidenz sich aus ethischen Gründen verbietet.
+
+### Stärkung der Versorgungsforschung
+
+Grundlage eines modernen Gesundheitssystems ist die fortlaufende Prüfung der angebotenen Gesundheitsleistungen.
+Wir wissen heute noch viel zu wenig über die Wirksamkeit von beispielsweise bestimmten Präventionsmaßnahmen.
+Daher möchten wir massiv die Versorgungsforschung stärken.
+Die Finanzierung soll durch die Einführung einer Positivliste erfolgen, wie sie in der Mehrzahl der europäischen Länder existiert.
+Sie garantiert, dass Patienten nur Arzneimittel mit einem hohen Grad an Nutzen und Bewährungsgrad und einem vernünftigen Kosten-Nutzen-Verhältnis verschrieben bekommen.
+Außerdem soll mit den Einsparungen die nicht-kommerziellen Forschung im Bereich der Arzneimittel gefördert werden, um insbesondere Therapien für seltene Krankheiten zu erforschen.
+
+### Gesundheitliche Bildung
+
+Es besteht wissenschaftliche Einigkeit, dass Bildung und Umweltfaktoren große Auswirkungen auf die Gesundheit der Menschen haben.
+Wir setzen uns für die Erprobung eines Faches "Gesundheitsbildung" in Schulen ein, das vermittelt welche Faktoren sich positiv und negativ auf Gesundheit auswirken und wie man sie erhalten kann.
+Die Finanzierung des Faches soll als Teil einer Präventionsstrategie aus der gesetzlichen Krankenversicherung erfolgen.
+Neben der schulischen Bildung sehen wir die Notwendigkeit einer umfassenden gesundheitlichen Aufklärung als nächsten Schritt einer sozialen Inklusion von Menschen mit gesundheitlichen Einschränkungen.
+In den Fokus der Aufklärung sollen vor allem jene Krankheits- und Störungsbilder sowie Behinderungen gerückt werden, die häufig von Vorurteilen und Ausgrenzungen betroffen sind.
+Die PIRATEN sehen hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten.
+Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit gesundheitlichen Einschränkungen ein gleichberechtigter Teil der Gesellschaft sind.
+
+### Finanzierung
+
+Die Finanzierung des Gesundheitssystems betrachten wir als gesamtgesellschaftliche Aufgabe.
+Daher sehen wir in der Einbeziehung sämtlicher Bürgerinnen und Bürger in die Sozialversicherung unter Berücksichtigung möglichst aller Einkommensarten ein sinnvolles Modell zur Finanzierung dieses Systems.
+Wir erkennen allerdings die Einschränkungen der Wahlfreiheit in dieser Art der Finanzierung für Bürgerinnen und Bürger sowie die Anbieter privater Krankenversicherungen an und verstehen ihre Bedenken.
+Daher setzen wir uns für einen Volksentscheid ein, um einen gesellschaftlichen Konsens in dieser wichtigen Frage des gemeinschaftlichen Zusammenlebens zu erreichen.
+
+### Vergütungssysteme überprüfen
+
+Jede Form der Vergütung setzt Anreize, die zum Teil erwünscht sind, zum Teil jedoch auch zu unerwünschten und für das Gesamtsystem schädlichen Ergebnissen führt.
+Dies verstärkt sich in der Regel im Verlauf der Anwendung des Vergütungssystems.
+Aus diesem Grund sind Vergütungssysteme regelhaft einer unabhängigen Analyse und Anpassung zu unterziehen.
+Dies gilt für die Fallpauschalen in Krankenhäusern ebenso, wie für pauschale- oder Einzelleistungsvergütungen im ambulanten Bereich.
+Hier sollen mit Modellprojekten neue Vergütungsformen regional entwickelt und getestet werden.
+
+### Notfallmedizin
+
+Die Überlebenschancen von Patienten hängen in Notfallsituation unmittelbar von der Reaktion beteiligten Bürgerinnen und Bürger ab.
+Um die Bevölkerung besser in die Lage zu versetzen in solchen Situation richtig zu handeln fordern wir Programme zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen.
+Ein angemessenes Verhalten in Notfallsituationen soll auch durch die Einrichtung und Förderung von Schulsanitätsdiensten auf freiwilliger Basis in Schulen erleichtert werden.
+Unterstützend möchten wir die Verbreitung von Defibrillatoren im öffentlichen Raum fördern.
+Um nach Eintreffen des Rettungsdienstes jeder Patientin und jedem Patienten unabhängig von seinem Aufenthaltsort eine bestmögliche Erstversorgung zu gewährleisten setzen wir uns für bundeseinheitliche Mindeststandards in der Ausstattung von Rettungswagen ein.
+
+### Elektronische Gesundheitskarte
+
+Wir erkennen den Vorteil an, den eine rasche Zugriffsmöglichkeit von Ärzten auf diagnose- und behandlungsrelevante Patientendaten hat.
+Elektronische Kommunikation im Gesundheitswesen ist der Schlüssel zum Abbau der Versorgungsgrenzen und der kontinuierlichen Versorgung chronisch erkrankter Patientinnen und Patienten.
+In der derzeitig geplanten Form lehnen die PIRATEN die elektronische Gesundheitskarte jedoch ab.
+Wir fordern ergänzend die verbindliche Einführung dezentraler Speichermöglichkeiten direkt auf der Chipkarte.
+Durch diesen Speicher können, ergänzt durch die Möglichkeit rechtssicherer elektronischer Unterschriften, alle Anforderungen an eine moderne IT-Infrastruktur bei gleichzeitiger Wahrung des Datenschutzes erfüllt werden.
+So erhalten Patientinnen und Patienten die volle Entscheidungshoheit über ihre Daten und können die Vorteile dieser Technologie nutzen.
+
+### Rezeptfreie Abgabe der *Pille danach*
+
+Wir wollen uns für eine rezeptfreie Abgabe der "Pille danach" (mit dem Wirkstoff Levonorgestrel) einsetzen.
+Diese entspricht den Empfehlungen der Weltgesundheitsorganisation und wird bereits in den meisten anderen europäischen Ländern praktiziert.
+Durch die Einnahme der "Pille danach" können ungewollte Schwangerschaften und Schwangerschaftsabbrüche vermieden werden.
+Zudem ist sie relativ gut verträglich; eine vorhergehende ärztliche Untersuchung ist nicht notwendig.
+Daher stellt die Rezeptpflicht dieses Medikaments für Frauen einen absolut unangemessenen Eingriff in das Recht auf Selbstbestimmung dar.
+
+### Pflegequalität und Pflegesicherheit
+
+Die PIRATEN sprechen sich für klare und eindeutige Regeln zum Personaleinsatz in Krankenhäusern und Pflegeeinrichtungen der Langzeitversorgung aus.
+Es sind durch Fachgremien anhand empirisch festgestellter Fakten Zahlenschlüssel festzulegen, nach denen die maximale Anzahl von Patient pro dreijährig examinierter Pflegekraft definiert ist.
+Zusätzlich ist je nach Bereich festzulegen wie viele Pflegehilfskräfte minimal und maximal im Verhältnis zu dreijährig examiniertem Personal einzusetzen sind.
+In Abteilungen mit besonderen Belastungen, wie zum Beispiel Intensivstationen, sind Sonderschlüssel anzuwenden, die wie im Fall der Intensivmedizin bereits durch die (Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI) definiert wurden.
+Diese Festlegungen werden durch ein Fachgremium des Bundes oder Landes, nicht aber der Landschaftsverbände, getroffen bzw. bestätigt.
+
+### Fortbildungspflicht in der Pflege
+
+Die professionelle berufliche Pflege in Form der Gesundheits- und Krankenpflege, als auch der Altenpflege ist einem enormen Arbeits- als auch Wissensdruck ausgesetzt.
+Die ständig zunehmenden wissenschaftlichen Erkenntnisse im Bereich der Medizin als auch der Pflege sowie die wirtschaftlichen und sozialen Herausforderungen machen eine ständige und fundierte Fortbildung unausweichlich.
+Die PIRATEN fordern eine Fortbildungsverpflichtung und einen Fortbildungsnachweis von professionell beruflich Pflegenden, um den modernen pflegerischen als auch medizinischen Anforderungen gerecht zu werden.
+Die Form des Nachweises kann dabei in einem Punktesystem ähnlich dem Modellprojekt " Registrierung beruflich Pflegender" erfolgen.
+Die Fortbildungen sind so zu etablieren, dass es eine Freistellungspflicht seitens der Arbeitgeber gibt.
+
 # Europa
 
 # Außenpolitik
