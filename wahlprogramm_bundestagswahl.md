@@ -776,6 +776,12 @@ Bis zur Einführung eines bedingungslosen Grundeinkommens setzen sich die PIRATE
 
 Die Piratenpartei Deutschland setzt sich für die Verbesserung der Situation der Erwerbslosen ein, insbesondere für die Abschaffung und sofortige Nichtanwendung (Moratorium) der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII).
 
+### Mindestlohn in öffentlichen Ausschreibungen
+
+  -   - Der folgenden Textbaustein entspricht dem [G220](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_220 "wikilink") (76,2% Zustimmung) und ist dem vorhandenen Text anzufügen\*
+
+Wir fordern, dass der Staat in öffentlichen Ausschreibungen Auftragnehmern einen Mindestlohn zwingend vorschreibt.
+
 ## Begrenzung der Leiharbeit
 
 Leiharbeit stellt für die Wirtschaft ein sinnvolles und notwendiges Instrument dar, um Auftragsspitzen zu bewältigen.
