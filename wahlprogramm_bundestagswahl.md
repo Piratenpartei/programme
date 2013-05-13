@@ -66,6 +66,9 @@ Das vor der Einführung der Vorratsdatenspeicherung bestehende Recht, die unverz
 Das Briefgeheimnis muss zum Schutz elektronischer Kommunikation zu einem allgemeinen Kommunikationsgeheimnis erweitert werden.
 Das Recht auf anonyme Bezahlung im Internet und auf anonyme Kommunikation muss verteidigt werden.
 
+Die Piratenpartei lehnt die Bestrebungen der EU zum Aufbau und Unterhaltung einer Fernverkehrsdatenspeicherung ab.
+Die verdachtsunabhängige Sammlung und Speicherung von Reisedaten, sowie die Umkehr der Unschuldsvermutung, sind nicht vereinbar mit unserer Vorstellung eines freiheitlich demokratischen Staatswesens.
+
 Auch andere Formen der verdachtsunabhängigen Datenerfassung, wie z.B. die Hotelmeldepflicht oder das Nachfolgeprojekt des elektronischen Entgeltnachweis-Verfahrens ELENA, OMS (Optimiertes Meldeverfahren in der sozialen Sicherung), beurteilt die Piratenpartei kritisch.
 
 Die Piratenpartei lehnt die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Missbrauchspotentials ab.
