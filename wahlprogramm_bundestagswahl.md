@@ -115,6 +115,8 @@ Wenn wir für die Abschaffung und Verhinderung solcher Eingriffe keine ausreiche
     Ebenso obliegt es dem Richter zu bewerten, ob die gewonnenen Erkenntnisse letztendlich den schweren Eingriff in die Grundrechte des Betroffenen rechtfertigen.
   - Ein parlamentarisches Kontrollgremium wird die Berichte der Richter sammeln, regelmässig zusammenfassen und auswerten. Anhand der Auswertungen ist regelmäßig zu prüfen, ob diese Grundrechtseingriffe in der Praxis überhaupt gerechtfertigt sind und insgesamt benötigt werden.
 
+Auch wenn alle diese Maßnahmen im Gesetz verankert werden, werden wir uns weiterhin konsequent für die Abschaffung und ein strafbewertes Verbot der verdeckten Eingriffe in informationstechnische Sysgteme einsetzen.
+
 ### Schutz der Privatsphäre im Grundgesetz
 
 Die Piratenpartei setzt sich für die bedingungslose Bewahrung der Privatsphäre der Bürgerinnen und Bürger gegenüber staatlicher Überwachung in jedweder Form ein.
