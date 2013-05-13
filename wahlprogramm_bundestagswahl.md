@@ -240,6 +240,196 @@ Ziel dieses Fonds ist, Open Access-Veröffentlichungen aus der Nutzenabwägung i
 Die Piratenpartei setzt sich für eine Stärkung der Eigenarchivierungsrechte von Autoren (z.B. auf Homepages der Autoren) ein.
 Diese stellen neben Zeitschriften für die Bevölkerung eine weitere kostenfreie Zugangsmöglichkeit zu Ergebnissen wissenschaftlicher Forschung dar.
 
+## Forschung und Wissenschaft
+
+### Open Access in der Entwicklungspolitik
+
+  -   - Hinweis: Dieser Textbaustein entspricht [G204](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_204 "wikilink") (86,7% Zustimmung) \*
+
+Die Piratenpartei hat erkannt, dass der freie Zugang und Austausch von Wissen ein elementarer Bestandteil der deutschen Entwicklungsarbeit sein muss.
+Deshalb fordern wir, dass alle entwicklungspolitischen Akteure, sobald sie finanzielle Mittel vom BMZ (Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung) beziehen, dazu verpflichtet sind, die Ergebnisse ihrer entwicklungspolitischen Projekte, deren Rohdaten, sowie Gutachten, die sich auf die Effizienz und Effektivität der Projekte beziehen, gemäß den Maßstäben zu "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" (2003), zu veröffentlichen.
+Die Veröffentlichung geschieht über eine vom BMZ zu erstellende kostenfreie Internet Plattform, auf der sich sämtliche Veröffentlichungen, sowohl nach Ländern, als auch nach Stichworten, durchsuchen lassen.
+
+## Bildung
+
+  -   - Hinweis: Dieser Textbaustein entspricht [G171](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_171 "wikilink") (83,8% Zustimmung) \*
+
+  -   - Hinweis: Diese Abschnittsüberschrift ist neu in die Gliederung des Wahlprogramms aufzunehmen\*
+
+### Prolog
+
+Die Bundesrepublik Deutschland gibt weniger Geld für Bildung aus als andere OECD-Länder.
+Zu Recht wird diese Sparsamkeit an der falschen Stelle von der OECD gerügt.
+Eine Steigerung der Bildungsausgaben ist kein Luxus, sondern eine Frage richtiger Prioritätensetzung.
+
+Bildung ist nicht nur Ländersache, sondern eine Aufgabe für die gesamte Gesellschaft.
+Die Piratenpartei setzt sich für eine Aufhebung des Kooperationsverbotes ein, damit künftig Bund und Länder wieder im Schul- und Hochschulbereich kooperieren dürfen.
+
+Der freie Zugang zu steuerfinanzierten Bildungseinrichtungen muss unabhängig von Religionszugehörigkeit, Geschlecht und Einkommen der Eltern gewährleistet sein.
+Bildungsgebühren jeglicher Art für steuerfinanzierten Bildungseinrichtungen schränken den Zugang zu Bildung ein und sind deshalb abzulehnen.
+
+### Frühkindliche Bildung
+
+Bildung beginnt mit der Geburt und hört nie auf, ein wichtiger Bestandteil des Lebens zu sein.
+Frühkindliche Bildung ist dabei von zentraler Bedeutung.
+Alle Kinder müssen ungeachtet bestehender Unterschiede in den persönlichen Kompetenzen so gefördert werden, dass sie mit möglichst guten Grundvoraussetzungen ihre Schullaufbahn beginnen können.
+Der gebührenfreie und bei Bedarf ganztägige Besuch von Krippen und Kindergärten im sozialen Umfeld soll möglichst flächendeckend gewährleistet werden.
+Die Erziehung in Bildungseinrichtungen ist als Ergänzung der Erziehung durch die Eltern zu verstehen und soll diese nicht ersetzen.
+
+### Schule
+
+Der Schulbesuch soll alle Kinder und Jugendliche - mit und ohne sonderpädagogischen Förderbedarf - in ihrer Entwicklung zu selbstbestimmten, eigenverantwortlichen und sozial kompetenten Mitgliedern der Gesellschaft unterstützen.
+Er soll ihnen Fähigkeiten und Kenntnisse vermitteln, die sie für ihren Lebensalltag und ihre weitere berufliche Entwicklung brauchen.
+
+Jedes Kind soll wohnortnah und barrierefrei eine Schule seiner Wahl besuchen können.
+Das Recht förderbedürftiger Kinder und deren Erziehungsberechtigter auf freie Wahl der Schulart (Regelschule oder Förderschule / Förderzentrum) soll bundeseinheitlich in allen Bundesländern gesetzlich festgeschrieben werden.
+Kostenfreie Lehr-, Lern- und sonstige Hilfsmittel, qualifiziertes Personal für Unterricht und Assistenzleistungen sowie technische Ausstattung auf aktuellem Stand müssen gewährleistet sein.
+
+Um Schüler vom Niveau der Förderschule bis zum Realschulabschluss oder Abitur gemeinsam zu unterrichten, muss die Anzahl der Schüler pro Lehrer reduziert werden.
+Die pädagogischen Konzepte müssen für individuelle Lernwege überarbeitet werden.
+Schulen sollen mehr Rechte zur Selbstverwaltung haben.
+Die Mitbestimmungsrechte von Schülern, Eltern und Lehrkräften sollen gestärkt werden.
+
+Bildungschancen, Bildungsmöglichkeiten und Bildungsziele müssen bundesweit gleich sein.
+Unterschiede in Art und Anerkennung der Abschlüsse zwischen den einzelnen Bundesländern müssen abgebaut werden.
+
+### Duale Ausbildung
+
+Die berufliche Ausbildung nach dem Dualen System ist seit Jahrzehnten ein Garant für Fachkräfte und ein Exportschlager.
+Bestrebungen, dieses System von der breiten und qualifizierten Grund- und Fachausbildung hin zu firmenspezifischen Anlern-Ausbildungen umzubauen, lehnt die Piratenpartei ab.
+Die Berufsschulpflicht macht aus Sicht der Piratenpartei keinen Sinn, soweit diese nicht im direkten Zusammenhang mit einer Ausbildung steht.
+Daher fordern wir die Abschaffung der bisherigen Berufsschulpflicht und setzen uns für die Pflicht der Beschulung innerhalb einer Dualen Ausbildung ein.
+
+### Hochschule
+
+Durch die Exzellenzinitiative werden kommerzielle Anreize gesetzt und die Zielsetzungen der Hochschulen beeinflusst.
+Die Forschungsziele sollten nicht alleine nach ihrer wirtschaftlichen Rentabilität gefördert werden.
+Dies stellt eine Gefahr für die Freiheit und die Vielfalt der Forschung dar.
+Innovation findet auch in den Bereichen statt, die nicht im Fokus des medialen Interesses liegen.
+Aus diesem Grund lehnt die Piratenpartei die Exzellenzinitiative ab und fordert eine verbesserte allgemeine Förderung der Hochschulen.
+
+Die Piratenpartei fordert, die allgemeine Wissenschaftsschranke für die Lehrenden im Urheberrecht gesetzlich zu verankern.
+Dadurch sollen die Lehrenden Rechtssicherheit für die Lehre mit urheberrechtlich geschütztem Material erhalten.
+
+### Erwachsenenbildung
+
+Dem lebenslangen und berufsbegleitenden Lernen fällt eine zunehmend wichtige Rolle in Gesellschaft und Wirtschaft zu.
+Die Piratenpartei sieht daher die Pflicht, lebenslanges Lernen zu fördern: durch Bereitstellung kostenfrei zugänglichen Lehrmaterials für Standardabschlüsse und Zertifizierungen sowie dem Angebot modularer Prüfungen.
+In der Folge ergeben sich flexible Anpassungsmöglichkeiten an individuelle Lebensumstände sowie eine Motivation zur Steigerung der Bildung quer durch die Bevölkerung.
+
+### OER (Open Educational Resources)
+
+Der technische Fortschritt schafft neue Möglichkeiten, Wissen und Lernkonzepte international auszutauschen und gemeinsam weiter zu entwickeln.
+Um diese Chance zu nutzen, unterstützen wir freie und offene Lehr- und Lernmaterialien (OER).
+Die Piratenpartei setzt sich für die Entwicklung und den Einsatz solcher Materialien ein.
+Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision in die Bildungsrealität zu übertragen.
+
+### Kirche und Bildung
+
+Freiheit und Vielfalt an kulturellen, religiösen und weltanschaulichen Sichtweisen in der Bildung kennzeichnen die modernen Gesellschaften.
+Die weltanschauliche Neutralität im gesamten Bildungsbereich ist eine notwendige Voraussetzung für die Inklusion aller Glaubensgemeinschaften.
+
+## (vor-)schulische, Berufliche und Akademische Bildung
+
+### Inklusives Schulsystem
+
+  -   - Hinweis: Dieser Textbaustein entspricht [G126](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_126 "wikilink") (76,6% Zustimmung) \*
+
+Inklusion ist ein Menschenrecht.
+Sie darf und soll nicht bei der Bildung unserer Kinder aufhören, denn Bildung ist die Vorraussetzung für eine vollumfängliche Teilhabe am gesellschaftlichen Leben.
+Die Piratenpartei setzt sich dafür ein, dass jedes Kind, egal ob mit oder ohne Behinderung bzw. sonderpädagogischer Förderbedarf, wohnortnah einen Lernort bzw. eine Schule besuchen kann.
+
+Alle Lernorte bzw. Schulen müssen über barrierefreie Zugänge für alle Kinder verfügen, die nicht nur auf die baulichen Vorraussetzungen beschränkt werden dürfen.
+Weiterhin müssen diese über eine adäquate Ausstattung und Qualifizierung an Personal, Assistenzleistungen, Lehr-, und Lernmitteln sowie sonstige Hilfsmittel für jedes Kind verfügen.
+Wir setzen uns dafür ein, dass kein Kind wegen fehlenden Zugangsvorraussetzungen und Ressourcen an dem Lernort bzw. der Schule ihrer Wahl abgewiesen wird.
+Das Wunsch- und Wahlrecht des Kindes und dessen Erziehungsberechtigten über den Lernort bzw. die Schule (Regelschule vs. Förderzentrum) muss in allen Bundesländern gesetzlich festgeschrieben werden.
+
+## Patente und Markenrecht
+
+### Konkrete Reformvorschläge für das Patentwesen
+
+  -   - Hinweis: Dieser Textbaustein entspricht [G187](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_187 "wikilink") (77,6% Zustimmung) \*
+
+#### Grundlegendes
+
+Patente sind Teil des gewerblichen Rechtsschutzes.
+Ihr Sinn besteht darin, dass Erfinder durch ein zeitlich begrenztes Monopol dazu ermutigt werden, ihre Erfindungen in einer Patentschrift zu veröffentlichen.
+Entgegen einer weit verbreiteten Meinung, sind sie nicht geeignet als Innovationsanreiz zu dienen.
+Gerade aktuell werden Patente eher als "Waffen" genutzt um Konkurrenz aus dem Markt zu drängen, was Fortschritt deutlich hemmt.
+Einige Unternehmen – sogenannte "Patenttrolle " – haben sich gar darauf spezialisiert Unternehmen mit innovativen Produkten mithilfe von Patenten und überteuerten Rechtsstreiten regelrecht zu erpressen.
+Die Piratenpartei setzt sich für eine Reform des aktuellen Patentrechts zugunsten von mehr Innovation und Freiheit ein.
+
+#### Patentierbare Erfindungen
+
+Neben klassischen technischen Erfindungen, gibt es Bestrebungen durch neue Gesetze oder Auslegung vorhandener Gesetze neue Arten von patentierbaren Erfindungen zu erschließen.
+Darunter befinden sich drei problematische Patentgegenstände, deren Auswirkungen in einem starken Missverhältnis zum Ziel der Offenlegung der Erfindung stehen.
+
+Zum einen seien hier Patente auf Leben genannt.
+Besonders die Gentechnik brachte hier eine Vielzahl von Patenten auf Verfahren zur Ermittlung und Erstellung von Gensequenzen hervor, was effektiv einer Patentierung von Gensequenzen entspricht.
+Solche Gensequenzen sind aber eine Entdeckung und keine Erfindung, wie etwa ein Naturgesetz.
+Ihr Schutz wirft die Innovation zu weit zurück.
+Aus diesem Grund muss das Patentrecht so gestaltet sein, dass auch über die Umwege der Patentierung von technischen Verfahren keine Gensequenzen patentierbar sind.
+
+Aus den USA stammt der Trend der Patentierung von Geschäftsmodellen.
+Im Gegensatz zur Patentierung von technischen Erfindungen, die einen Wettbewerbsvorteil darstellen, führt die Patentierung von Geschäftsmodellen zur Monopolisierung ganzer Märkte.
+Das Patentrecht muss eine Patentierung von Geschäftsmodellen explizit ausschließen.
+
+Zuletzt sind in den letzten Jahren politische Forderungen nach Patenten auf "computer-implementierte Erfindungen", sogenannte Softwarepatente, aufgetaucht.
+Diese in einigen Ländern praktizierte Patentierung von einzelnen Aspekten von Computerprogrammen führt unweigerlich zum Sterben kleiner und mittlerer Softwareunternehmen, da Software besonders darauf angewiesen ist bestimmte für den Nutzer leicht einprägsame und quasi-standardisierte Elemente zu nutzen.
+Software ist durch das Urheberrecht bereits ausreichend geschützt, ein Schutz durch Patente ist aus diesem Grund überhaupt nicht notwendig.
+
+### Kurzfristige Maßnahmen zur Verbesserung des Patentrechts
+
+#### Patentlaufzeiten
+
+Während die Produktlebenszyklen sich in der Vergangenheit immer weiter verkürzt haben, sind die Patentlaufzeiten unverändert geblieben.
+Wir fordern im Laufe der Patentreform belastbare Erhebungen der Produktlebenszyklen der unterschiedlichen Branchen und die Verkürzung der Patentlaufzeiten im entsprechenden Maße.
+
+#### Gerichtskosten bei Patentstreitigkeiten vom Streitwert entkoppeln
+
+Die Streitwerte bei Patentverletzungsverfahren können schnell enorme Summen annehmen.
+Dies treibt die Gerichtskosten in die Höhe, was nicht zuletzt dem Geschäftsmodell vieler Patenttrolle entgegen kommt.
+Diese benutzen das Kostenrisiko als Druckmittel um eine außergerichtliche Einigung ohne Überprüfung des Patents zu erreichen.
+Für diese Einigungen werden von den beklagten Firmen zwar nur Bruchteile des Streitwerts bezahlt, welche aber aufgrund der Höhe des Streitwerts immer noch entsprechend umfangreich sind.
+
+Patente stellen als gesetzlich garantierte Monopole große Anforderungen an die staatlichen Organe.
+Wenn der Gesetzgeber ein Patent garantiert, dann sind Gerichte im besonderen Maße dazu verpflichtet diese zu überprüfen.
+Aus diesem Grund fordert die Piratenpartei, dass die Gerichtskosten bei Patentstreitigkeiten ausschließlich auf die tatsächlich entstandenen Kosten beschränkt sein müssen um die gerichtliche Überprüfung von Patenten ohne großes finanzielles Risiko zu ermöglichen.
+
+#### Nutzungsbindung von Patenten
+
+Die Piratenpartei fordert, dass ein erteiltes Patent nur dann gegen ein auf dem Markt befindliches Produkt durchsetzbar sein soll, wenn der Patentinhaber oder ein Lizenznehmer ein Bemühen um eine der Erfindung angemessenen wirtschaftliche Nutzung glaubhaft machen kann.
+Dies soll zum einen der Praxis der Patenttrolle begegnen, die ausschließlich Patente horten ohne ein Interesse an der Fertigung entsprechender Produkte zu haben.
+
+Zum anderen erleichtert es das Problem von Preisen für Patentlizenzen.
+Als Monopolist hat der Patentinhaber derzeit große Freiheiten bei der Preisgestaltung für Patentlizenzen, besonders wenn er das Patent nicht selbst wirtschaftlich verwertet.
+Durch die Nutzungsbindung ergibt sich ein spieltheoretischer Zustand, der einem nicht-monopolistischen Markt zumindest ähnelt.
+
+#### Bekämpfung von wettbewerbswidrigem Patentmissbrauch
+
+Neben ihrem legitimen Nutzen werden Patente auch auf grob wettbewerbswidrige Weise zum Zwecke der Marktbeherrschung durch wenige große Unternehmen eingesetzt.
+In der Praxis räumen sich diese die Nutzung ihrer jeweiligen Patente häufig durch sogenannte "Kreuzlizenzierung" gegenseitig ein, während besonders kleinen Unternehmen der Zugang zur Patentnutzung und damit zum Markt verwehrt wird.
+
+In den Fällen in denen große Teile des Marktes ein Patent nutzen, es aber einen kleinen Teil verwehrt wird, soll das Kartellamt die Möglichkeit haben, den Sachverhalt zu prüfen.
+Im Falle von marktbeherrschendem Missbrauchs des Patents soll die Möglichkeit bestehen, das Patent vorzeitig auslaufen zu lassen.
+
+#### Mittelfristige Demokratisierung des Patentvergabeprozesses
+
+Die Bewertung ob ein beantragtes Patent erteilt werden soll, fällt häufig sogar Fachleuten schwer.
+Dieses Problem kann dadurch abgemildert werden, dass nicht nur einzelne Fachleute sondern die gesamte "Gemeinde" über die Vergabe von Patenten entscheidet.
+
+Mittelfristig soll deshalb jeder, der die entsprechenden überprüfbaren fachlichen Voraussetzungen hat, am Patentvergabeprozess mitentscheiden können.
+Dies fördert nicht nur die Transparenz der Patentvergabe, sondern wirkt auch der Vergabe von Trivialpatenten entgegen, deren Veröffentlichung keinen nennenswerten Nutzen, aber Probleme für die Volkswirtschaft bringen kann.
+
+#### Langfristige Aufgabe des Patentsystems zugunsten des wettbewerbsgetriebenen Fortschritts
+
+Die positiven Aspekte der Veröffentlichung von Erfindungen durch Patente sind durchaus erfreulich, aber es stellt sich die Frage ob sie die Innovationsbremsung durch die zeitlichen Monopole rechtfertigen.
+Eine Wettbewerbssituation wirkt sich dagegen deutlich positiver auf die Innovation aus, da alle Unternehmen sich kontinuierlich verbessern müssen um ihre Marktposition zu erhalten bzw. auszubauen.
+Ein "Ausruhen" auf Patenten ist dann nicht mehr möglich.
+
+Aus diesem Grund ist das Ziel der Piratenpartei, das Patentwesen langfristig durch andere Mechanismen zur Offenlegung von Erfindungen zu ersetzen, die ohne gesetzliche Monopole auskommen.
+Die Entwicklung solcher Modelle soll durch die Bundesrepublik Deutschland und die Europäische Union aktiv voran getrieben werden.
+
 # Umwelt und Verbraucherschutz
 
 ## Nachhaltigkeit
