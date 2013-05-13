@@ -56,6 +56,13 @@ Auch andere Formen der verdachtsunabhängigen Datenerfassung, wie z.B. die Hotel
 
 Die Piratenpartei lehnt die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Missbrauchspotentials ab. Grundsätzlich soll die Erhebung biometrischer Merkmale freiwillig erfolgen und durch unabhängige Stellen kontrolliert und bewertet werden. Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben. Ausweis- und Passdokumente müssen auch ohne biometrische Merkmale gültig sein – auch im Ausland.
 
+
+===Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung ===
+
+Die Piratenpartei Deutschland spricht sich deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware aus. Sie verurteilt den kommerziellen Handel mit Überwachungssoftware, einschließlich Dienstleistungen für Überwachungssoftware. Überwachungssoftware ist jede Software, die Dritten Zugang zu nicht-öffentlichen Daten, Kommunikationen und Aktivitäten eines Rechensystems verschaffen kann, ohne dass die eigentlichen Nutzer des Rechensystems darüber Kenntnis haben. Der Grund für diese Position ist, dass Überwachungssoftware sowohl im Inland wie weltweit eingesetzt wird, um Menschenrechte wie das Recht auf Privatsphäre auszuhebeln. Häufig werden die so erhaltenen privaten Daten genutzt, um Regimegegner zu verfolgen und sogar zu foltern, und um Bewegungen für mehr Demokratie zu bekämpfen.
+
+Um aktiv gegen Überwachungssoftware vorzugehen, fordert die Piratenpartei eine gesetzliche Pflicht bei Herstellern und Dienstleistern von Überwachungssoftware, volle Transparenz über alle Produkte, und über alle Vertragspartner und Kunden, die Überwachungssoftware und Dienstleistungen nutzen, herzustellen. Desweiteren fordert die Piratenpartei die gesetzliche Pflicht zur Offenlegung des vollständigen Quellcodes von Überwachungssoftware. Die Offenlegung all dieser Informationen hat an die Öffentlichkeit zu geschehen, das bedeutet: nicht nur an ein Parlamentarisches Kontrollgremium.
+
 ==Überwachung==
 
 ==="Digitale Netzwerke" ins Grundgesetz ===
