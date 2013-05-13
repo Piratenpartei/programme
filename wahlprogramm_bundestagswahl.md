@@ -158,6 +158,25 @@ Das ILA soll unter anderem Vereinbarungen enthalten über
   - die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
   - die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
 
+#### Stärkung der Rechte Prostituierter
+
+Die Entscheidung zur Ausübung der Prostitution fällt
+
+1.  unter das Recht auf freie Berufswahl sowie
+2.  unter das Recht auf sexuelle Selbstbestimmung.
+
+Die Entscheidung zur Ausübung der Prostitution ist daher von Staat und Gesellschaft zu akzeptieren.
+Eine Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden lehnt die Piratenpartei ab.
+
+Selbstbestimmt tätige Sexarbeiter sind keine Opfer.
+Vielmehr üben sie ihren Beruf eigenverantwortlich auf der Grundlage einer freien Entscheidung aus.
+Ihre Tätigkeit bedarf besonderer Fähigkeiten und Kenntnisse und verdient gesellschaftliche Anerkennung.
+
+Deshalb werden wir alle Sonderregelungen zur Reglementierung von Prostitution dahingehend prüfen, ob sie geeignet, erforderlich und angemessen sind, die Anerkennung und die Rechte von Sexarbeitern sicherzustellen.
+
+Die Stärkung der Rechte selbstbestimmt tätiger Sexarbeiter ist das beste Mittel gegen jedwede Fremdbestimmung.
+Sie dient der rechtlichen Gleichbehandlung sowie der freien und ungehinderten Berufsausübung.
+
 # Demokratie wagen
 
 ## Wahlrecht
