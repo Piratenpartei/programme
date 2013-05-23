@@ -375,6 +375,18 @@ Die Piratenpartei lehnt es ab, die diskriminierungsfreie Übertragung von Daten 
 Es muss den an die Kommunikationsinfrastruktur angeschlossenen Personen überlassen bleiben, aus dem Angebot an Diensten das Gewünschte auszuwählen.
 Damit das Internet ein Ort der Innovation und Gleichberechtigung bleibt, muss der Gesetzgeber ein klares Bekenntnis für die Konzentrierung der anwendungsspezifischen Funktionen bei den mit dem Netz verbundenen Endgeräten abgeben (End-to-End-Prinzip) und Eingriffe in die Vermittlungsschicht oder das Betrachten der Transportschicht der durchgeleiteten Daten konsequent untersagen.
 
+## Schutz der Freiheit und Privatsphäre im Internet
+
+Der unzureichende Datenschutz im Internet führt immer wieder zu Datenverlust, Datendiebstahl und Datenmissbrauch.
+Gleichzeitig gefährden Überwachungs-, Filter-, Sperr- und Löschmaßnahmen, die Internet-Diensteanbieter im Interesse privater Rechteinhaber einsetzen, den freien Meinungs- und Informationsaustausch im Internet.
+Um Abhilfe zu schaffen, wollen wir die "Störerhaftung" von Internetanbietern deutlich eindämmen.
+Anbieter von Internetzugängen (z.B. WLAN-Anbieter) und von Internet-Speicherdiensten sollen künftig nicht mehr verpflichtet sein, Rechtsverletzungen anderer Personen nach Art einer Privatpolizei präventiv zu verhüten.
+Auch eine Überwachung der Internetnutzung durch Internet-Zugangsanbieter zur Versendung von Warnhinweisen oder Sperrungen des Internetzugangs ("Three Strikes") lehnen wir ab.
+Rechteinhaber sollen die Löschung angeblich rechtswidriger, von Nutzern eingestellter Inhalte künftig nur mit richterlichem Beschluss verlangen können.
+Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fernmeldegeheimnis um ein "Telemediennutzungsgeheimnis" für Internet-Diensteanbieter ergänzt werden.
+Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind.
+Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
+
 # Bildung und Forschung
 
 ## Freier Zugang zu Ergebnissen wissenschaftlicher Forschung
