@@ -904,6 +904,80 @@ Mit Hilfe eines solchen Zertifizierungsinstrumentes, das interdisziplinär-wisse
 
 Die Piratenpartei setzt sich zu einer Verbesserung des Verbraucher- und des Tierschutzes für eine Ausdehnung der Eierkennzeichnung auf verarbeitete Eiprodukte ein.
 
+### Vergabe öffentlicher Aufträge
+
+Bauen ist auch Verantwortung, daher muss sichergestellt werden, dass bei allen Hoch- und Tiefbaumaßnahmen nur geeignete Fachkräfte und Unternehmen tätig werden können.
+Die Bauwirtschaft und ihre Auftraggeber sind stärker als bisher zu kontrollieren.
+Alle öffentlichen Aufträge und Vergaben sollen transparent und nachvollziehbar veröffentlicht werden und kontrollierbar sein.
+Die Bauaufsicht als Kontrollinstanz ist deutlich zu verstärken.
+Wir wollen ein Vergaberegister schaffen, mit dessen Hilfe bereits auffällig gewordene Firmen künftig von der Vergabe öffentlicher Aufträge ausgeschlossen werden, bis diese nachweislich die Gründe, die zuvor zur Sperrung geführt haben, für zukünftige Bauaufträge behoben haben.
+Diese Informationen sollen nicht nur Behörden, sondern auch der interessierten Öffentlichkeit zur Verfügung stehen.
+
+### Alters- und familiengerechtes Bauen und Wohnen
+
+Die Piratenpartei setzt sich für ein generationsübergreifendes Wohnen ein.
+Die Stadtentwicklung, der Wohnungsbau und die sozialen Infrastrukturen müssen als Reaktion auf den demographischen Wandel stärker den Bedürfnissen einer Gesellschaft mit steigender Lebenserwartung angepasst werden.
+Wir fordern und fördern den barrierearmen Umbau von Wohnraum sowie die Anpassung an die Bedürfnisse junger Familien und älterer Menschen.
+Alle Neubauten sind barrierearm, kinder- und altersgerecht zu errichten, Altbauten möglichst entsprechend zu modernisieren.
+Bei Investitionen in die öffentliche Infrastruktur, beispielsweise Krankenhäuser und Bahnhöfe, muss das Prinzip der Barrierearmut gelten.
+
+### Sicherung eines bezahlbaren Wohnens
+
+Insbesondere in den Städten wird bezahlbarer Wohnraum immer knapper.
+Die Gründe dafür sind vielfältig:
+steigende Nachfrage nach größeren Wohnungen, anhaltender Trend zu Einpersonenhaushalten, geringere Einkommen, steigende Mieten durch "Aufwertung" und vor allem der Rückzug der öffentlichen Hand bei der Schaffung preiswerten Wohnraums.
+Bezahlbarer und vor allem alters- und familiengerechter Wohnraum wird zunehmend nur in Randlagen angeboten, während die teuren Innenstadtlagen einer besser verdienenden Zielgruppe vorbehalten bleiben.
+Dies führt zu einer nicht akzeptablen sozialen Segregation in unserer Gesellschaft.
+Die Piratenpartei fordert daher eine dauerhafte Förderung eines gemeinnützigen Wohnungsbaus auf Bundes- und Länderebene.
+Dieser sichert nicht nur Wohnraum für finanziell schlechter gestellte Haushalte, er spart letztlich auch Transferleistungen und wirkt dämpfend auf das allgemein ansteigende Mietzinsniveau.
+In diesem Zusammenhang sollen auch der genossenschaftliche Wohnungsbau und die Mietshäusersyndikate gefördert werden, die den Zweck haben, ihren Mitgliedern dauerhaft preiswerten Wohnraum zur Verfügung zu stellen.
+Die öffentliche Hand muss im Rahmen transparenter Planung Rechenschaft darüber ablegen, welche Grundstücke sich im öffentlichen Besitz befinden und warum diese nicht für die Schaffung preiswerten Wohnraums zur Verfügung gestellt werden.
+Grundstücke der öffentlichen Hand sollen nicht verkauft, sondern nach Projektqualität in Erbbaupacht mit periodischen Pachtabschlägen vergeben werden.
+In Frage kommende Grundstücke sollen dabei vorrangig für genossenschaftlichen und sozialen Wohnbau verwendet werden.
+
+### Modernisierungsumlagen abschaffen
+
+Derzeit können Eigentümer die Kosten für Modernisierungsmaßnahmen mit 11% pro Jahr auf die Miete umlegen.
+Diese Umlage wird dauerhaft erhoben, auch wenn die Modernisierungsmaßnahmen längst abbezahlt sind.
+Die Piratenpartei fordert diese Umlagen zu streichen.
+
+### Energetische Sanierungen
+
+Die Piratenpartei fordert, dass nach vorgenommener energetischer Sanierung eine Mieterhöhung maximal in Höhe der durchschnittlichen Energiekosteneinsparung gestattet wird.
+Aus der Energiesanierung darf dem Mieter bei durchschnittlichem Heizwärmeverbrauch kein finanzieller Nachteil entstehen.
+Zur Finanzierung der energetischen Sanierungen von Wohngebäuden können von den Eigentümern Fördermittel zur Energieeinsparung für die Sanierung von Wohnraum (KfW, Städtebauförderung, EU-Fonds etc.) in Anspruch genommen werden.
+Die Inanspruchnahme von Fördermitteln muss verpflichtenden Vorrang vor der Umlage auf die Mieten haben.
+
+### Mietendeckelung bei Neuvermietung
+
+Bei Neuvermietungen von Bestandswohnungen darf die Miete nicht mehr als 10% über der ortsüblichen, durchschnittlichen Vergleichsmiete nach gültigem Mietenspiegel liegen.
+
+### Grundmietenerhöhung
+
+Die Kappungsgrenze (§ 558 Absatz 3 BGB) bei der Anpassung an die ortsübliche Vergleichsmiete (Mietspiegelmiete) soll auf maximal 15% in vier Jahren geändert werden.
+Eine Miete, welche die ortsübliche Vergleichsmiete um mehr als 20% übersteigt, soll als ordnungswidrig gelten.
+
+### Kündigung, Mietminderung, Betriebskostenumlage
+
+Anfang 2013 wurde von der schwarz-gelben Bundesregierung das Mietrechtsänderungsgesetz verabschiedet, welches im April desselben Jahres in Kraft trat.
+Dies verschiebt ein notwendiges Gleichgewicht zwischen Eigentümer- und Mieterinteressen zu Ungunsten der Mieter.
+Anliegen der PIRATEN ist es hier wieder einen gerechten Interessenausgleich herzustellen.
+
+#### Ordentliche Kündigung
+
+Fristgerechte Kündigungen wegen Zahlungsverzugs sollen, wie fristlose Kündigungen, unwirksam werden, wenn der Mieter innerhalb einer Frist die Ausstände nachzahlt.
+Fristlose, wie fristgerechte Kündigungen wegen nicht gezahlter Mieterhöhung sollen erst möglich sein, wenn die Berechtigung zur Mieterhöhung rechtskräftig festgestellt ist und der Mieter den Erhöhungsbetrag dennoch nicht zahlt.
+Die Möglichkeit zur Kündigung wegen Eigenbedarf soll auf Eigenbedarf zum Wohnen und auf Verwandte in gerader Linie beschränkt werden.
+
+#### Mietminderungsrecht
+
+Die Einschränkungen des Mietminderungsrechts durch das Mietrechtsänderungsgesetz von 2013 sollen zurückgenommen werden, sodass ein Recht zur Mietminderung bei eingeschränkter Nutzbarkeit der Mietsache durch Modernisierungsmaßnahmen nicht erst nach drei Monaten besteht.
+
+#### Betriebskostenumlagen
+
+Der Mieter soll immer, wie bislang nur für Sozialwohnungen gesetzlich geregelt, das Recht, zur Prüfung von Heiz- und Betriebskostenabrechnungen haben und dafür Kopien der Kostenbelege erhalten.
+Bei der Abrechnung von Heiz- und Betriebskosten ist immer die tatsächliche Wohnfläche zu Grunde zu legen und nicht die vereinbarte.
+
 ## Landwirtschaft
 
 ### Stärkung der Landwirtschaft
