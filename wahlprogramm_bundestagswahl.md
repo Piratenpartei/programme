@@ -220,6 +220,16 @@ Hier muss zur Gewaltprävention die Arbeit der Fanprojekte und Fanbeauftragten u
 Bei den Einlasskontrollen zu den Stadien ist unbedingt darauf zu achten, dass die Würde der Stadionbesucher gewahrt bleibt.
 Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme, die in keinem Verhältnis zu den zu verhindernden Ordnungswidrigkeiten stehen und lehnen diese entschieden ab.
 
+## Position der Piratenpartei zu Pyrotechnik
+
+Die Piratenpartei setzt sich dafür ein, den kontrollierten Einsatz von Pyrotechnik durch Fans, dort wo es die lokalen Gegebenheiten zulassen, zu ermöglichen.
+Pyrotechnik ist für viele Fans fester Bestandteil der Fankultur und ein wichtiges Mittel, ihren Emotionen Ausdruck zu verleihen.
+Die bisherigen Versuche, den Einsatz von Pyrotechnik zu unterbinden, sind gescheitert und haben nur zu einer immer stärker werdenden Überwachung und Gängelung der Fans geführt.
+Derzeit wird Pyrotechnik heimlich ins Stadion geschafft und dort verdeckt im Schutz der Masse gezündet.
+Das hierdurch entstehende Verletzungsrisiko ließe sich bei kontrollierter Nutzung innerhalb extra dafür vorgesehener Zonen erheblich reduzieren.
+Dort wo der Einsatz von Pyrotechnik durch Fans möglich ist, z.B. in Norwegen oder Österreich, hat man sehr positive Erfahrungen damit gemacht und auch in Deutschland gibt es, z.B. beim Eishockey, bereits positive Erfahrungen.
+Wir fordern daher, dass der DFB den 2011 begonnenen Dialog zur Legalisierung von Pyrotechnik wieder aufnimmt und die Politik parallel die rechtlichen Voraussetzungen dafür schafft, dies zu ermöglichen.
+
 # Demokratie wagen
 
 ## Wahlrecht
