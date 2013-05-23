@@ -209,6 +209,56 @@ Die Piratenpartei befürwortet Bürgerbeteiligung in einer Vielzahl von geregelt
 Bürger sollen bundesweit ihre Meinung zur sinnvollen Verwendung von Investitionsgeldern sowie zu Einsparmaßnahmen im Bundeshaushalt äußern.
 Die Stellungnahmen sollen gewichtet werden und bei der Aufstellung des Haushalts durch den Bundestag Berücksichtigung finden.
 
+## Einführung bundesweiter Volksentscheide
+
+Es ist längst Zeit, das Versprechen des Artikels 20 des Grundgesetzes auch auf Bundesebene zu erfüllen, wonach die Bürger die Staatsgewalt nicht nur in Wahlen, sondern auch in Abstimmungen ausüben.
+Die direkte Demokratie kann die Politik erheblich bereichern und die Politikverdrossenheit eindämmen.
+Grundsätzlich sollen die Bürger das Recht erhalten, neue, eigene Vorlagen in einem dreistufigen Verfahren bis zur Volksabstimmung zu bringen (Recht auf Gesetzesinitiative).
+Darüber hinaus soll es die Möglichkeit geben, Gesetze, die vom Parlament verabschiedet wurden, noch zu stoppen, bevor sie in Kraft treten (Fakultatives Referendum).
+Schließlich sollen Volksabstimmungen bei der Abgabe von Hoheitsrechten und bei Grundgesetzänderungen automatisch vorgesehen sein (Obligatorisches Referendum).
+Diese drei Varianten, zu einer Volksabstimmung zu kommen, werden in der Schweiz seit vielen Jahren mit großem Erfolg angewandt.
+Die beschriebenen Unterschriftenzahlen, Fristen und Eintragungsmöglichkeiten orientieren sich an bewährten Hürden im In- und Ausland.
+
+### Einführung eines dreistufigen Verfahrens bei Initiativen aus dem Volk:
+
+1\. Volksinitiative:
+
+  - 100.000 Stimmberechtigte unterschreiben in freier Sammlung für einen Gesetzentwurf oder eine Vorlage zu einem anderen Gegenstand der politischen Willensbildung (z.B. Handlungsaufforderung an die Bundesregierung).
+  - Vertreter der Volksinitiative haben das Recht auf Anhörung im Bundestag, im Bundesrat und in deren Ausschüssen.
+  - Lehnt der Bundestag die Volksinitiative ab, kann ein Volksbegehren eingeleitet werden.
+
+2\. Volksbegehren:
+
+  - Halten die Bundesregierung oder ein Drittel der Mitglieder des Bundestages das Volksbegehren für grundgesetzwidrig, können sie das Bundesverfassungsgericht anrufen.
+  - Ein Volksbegehren ist zustande gekommen, wenn es innerhalb von sechs Monaten mindestens eine Million, bei Grundgesetzänderungen mindestens zwei Millionen Stimmberechtigte unterzeichnet haben. Die Eintragung kann auf dem Amt und in freier Sammlung erfolgen.
+
+3\. Volksabstimmung:
+
+  - Der Bundestag kann (gebenenfalls mit Zustimmung des Bundesrates) eine eigene Vorlage beim Volksentscheid zur Abstimmung stellen.
+  - Jeder Stimmberechtigte bekommt im Vorfeld eine Abstimmungsbroschüre mit den Stellungnahmen der Vertreter des Volksbegehrens sowie denen des Bundestages und Bundesrates.
+  - Es entscheidet, wie bei Wahlen, die Mehrheit der abgegebenen Stimmen.
+  - Gesetze, die der Zustimmung der Länder bedürfen, kommen zustande, wenn zusätzlich die Zahl der Bundesratsstimmen jener Länder, in denen eine zustimmende Mehrheit im Volksentscheid erreicht wurde, der im Bundesrat erforderlichen Mehrheit entspricht (bei Grundgesetzänderungen: Zweidrittel-Mehrheit).
+
+### Fakultatives Referendum
+
+Hat ein Volksbegehren ein parlamentarisch zustande gekommenes, aber noch nicht gegengezeichnetes und vom Bundespräsidenten ausgefertigtes Gesetz zum Gegenstand, so ist es zustande gekommen, wenn es 500.000 Stimmberechtigte innerhalb von drei Monaten unterschreiben.
+Ein solches Gesetz kann nur vorbehaltlich einer Annahme in dem so beantragten Volksentscheid in Kraft treten.
+
+### Obligatorisches Referendum
+
+Die Übertragung von Hoheitsrechten (auf die EU oder andere zwischenstaatliche Einrichtungen) sowie Grundgesetzänderungen bedürfen der Zustimmung durch einen Volksentscheid.
+
+### Spendentransparenz
+
+Analog zum Parteiengesetz sollen Spenden oberhalb einer Bagatellgrenze, die zu Gunsten einer Initiative erfolgen, zeitnah offengelegt werden.
+
+### Information
+
+\=
+Eine ausgewogene Information der Öffentlichkeit über die Inhalte von Volksbegehren und Volksentscheiden ist zu gewährleisten.
+Vor dem Volksentscheid erhält jeder Stimmberechtigte eine Informationsbroschüre, in der die Initiative, der Bundestag und der Bundesrat ihre Auffassungen erläutern.
+Zur Förderung der öffentlichen Diskussion und zur Informierung der Öffentlichkeit im Vorfeld eines Volksentscheids erhält die Initiative eine staatliche Kostenerstattung.
+
 # Internet, Netzpolitik und Artverwandtes
 
 ## Urheberrecht
