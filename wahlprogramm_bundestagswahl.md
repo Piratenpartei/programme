@@ -387,6 +387,70 @@ Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fer
 Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind.
 Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
 
+## Reform des Urheberrechts
+
+Das Urheberrecht stellt ein Interessenausgleichsrecht zwischen Urhebern, Nutzern, der Allgemeinheit und Rechteinhabern dar.
+Dieser Ausgleich findet derzeit jedoch vor allem zugunsten der Rechteinhaber statt.
+Unsere Reform wird diese Schieflage beheben und vor allem Sorge tragen, dass sich das Urheberrecht dem digitalen Wandel nicht mehr verschließt, Missverständnisse und Missstände ausräumt und das Gleichgewicht zwischen Urhebern, Rechteverwertern und der Allgemeinheit zugunsten der Kulturschaffenden und Verbraucher wiederherstellt.
+
+### Allgemeines
+
+Für die von uns angestrebte Reform müssen die im Urheberrecht verankerten Rechte der Allgemeinheit, die sogenannten Urheberrechtsschranken, deutlich ausgeweitet werden.
+Ferner muss die Geltungsdauer des Urheberrechts abgesenkt werden.
+Die derzeitige Dauer von 70 Jahren nach dem Tod des Urhebers führt den Sinn des Urheberrechts, nämlich den Urheber an sich zu schützen, ad absurdum, weil kein Urheber persönlich etwas davon hat, wenn sein Werk bis weit nach seinem Tod geschützt ist.
+Nach der Vorstellung der Piraten wird die Dauer des Urheberrechts höchstens bis 10 Jahre nach dem Tod des Urhebers gelten.
+Für bestimmte Werkarten fordern wir aus Praktikabilitätsgründen Fristen ab der Veröffentlichung.
+So wird für Filme das Urheberrecht maximal 50 Jahre nach Veröffentlichung gelten – für Software maximal 20 Jahre nach Veröffentlichung.
+
+### Stärkung von Nutzern
+
+Im Interesse der Allgemeinheit an einem möglichst freien Zugang zu Bildung und Kultur wird die Urheberrechtsreform der Piraten folgende Kernmerkmale beinhalten:
+Das Recht auf Privatkopie und die Erstellung von Remixes und Mashups wird erleichtert, Kopierschutzmaßnahmen werden komplett untersagt und die Nutzung von Tauschbörsen vollständig legalisiert.
+Die Vergangenheit hat gezeigt, dass eine möglichst freie Verbreitung und ein freier Umgang mit Kultur zu deren Verbreitung beitragen und sich positiv auf die Entwicklung des Kulturgütermarktes auswirken.
+Die ehrlichen Erwerber von Werken sehen sich regelmäßig einer Kriminalisierung und verschiedensten Einschränkungen ausgesetzt.
+Eine Privatkopie herzustellen ist oft nicht möglich, das Remixen/Mashen steckt voller Unsicherheiten und der Weiterverkauf als Gebrauchtware ist nicht möglich.
+Unser Bestreben ist es, die Rechte der fairen Erwerber von Werken wieder zu stärken.
+Kein Nutzer sollte sich nach dem legalen Erwerb eines Werkes Gedanken über das Urheberrecht machen müssen.
+
+### Stärkung von Urhebern
+
+Neben den zuvor genannten Zugeständnissen an die Nutzer müssen die Rechte der Urheber gegenüber den Rechteinhabern und Rechteverwertern deutlich gestärkt werden.
+Wir Piraten werden Urhebern unter anderem Zweitverwertungsrechte einräumen, Rechte bei Nichtausübung schneller zurückfallen lassen und verhindern, dass unbekannte Nutzungsarten pauschal eingeräumt werden können.
+Ferner werden wir die Vergabe ausschließlicher Nutzungsrechte auf maximal 20 Jahre beschränken und diese Rechte anschließend zurück an die Urheber fallen lassen.
+Zudem werden wir ausschließen, dass sich Verleger zusätzlich Anteile an den Vergütungen der Urheber sichern können.
+Für die eigentlichen Urheber von Werken steckt unser aktuelles Urheberrecht voller kleiner Bevormundungen, vertraglicher Umgehungsmöglichkeiten und so weiter zugunsten der Rechteerwerber.
+Bei einer Reform werden wir hier somit ebenfalls ansetzen und den Urhebern selbst wieder mehr Rechte und Kontrolle über ihre eigenen Werke ermöglichen.
+
+### Freie Bildung und Forschung
+
+Im Bildungskontext muss die Mediennutzung für alle Bildungseinrichtungen frei von Urheberrechtsabgaben erfolgen können.
+Bildung ist ein viel zu wichtiges Gut, um es unnötig vielen Einschränkungen zu unterwerfen.
+Bildung ist Motor für Wissen, Wirtschaft, Innovation und Kreativität und unentbehrlich für die Weiterentwicklung einer Gesellschaft sowie die souveräne Teilhabe ihrer Mitglieder an dieser.
+Zusätzlich muss die Position öffentlicher Bibliotheken gestärkt werden sowie die Digitalisierung und Archivierung von Werken und der Zugriff darauf ausgeweitet und erleichtert werden.
+So soll etwa die Absurdität entfallen, dass nur so viele digitalisierte Kopien eines Werkes verliehen werden dürfen, wie physische Exemplare vorhanden sind.
+Auch für wissenschaftliche Forschungseinrichtungen werden wir eine möglichst freie Mediennutzung ermöglichen.
+Forschung sollte ebenso wie Bildung möglichst wenigen Beschränkungen unterliegen – sei es die naturwissenschaftliche Forschung oder Forschung im Rahmen der Zeitgeschichte.
+
+### Forschung und Wissenschaft
+
+Forschung und Wissenschaft werden jährlich mit mehreren Milliarden Euro durch die öffentliche Hand gefördert und unterstützt.
+Deren Ergebnisse müssen somit im Anschluss auch der Öffentlichkeit in vollem Umfang zur Verfügung gestellt werden.
+Dies fördert die Verbreitung von Wissen und ermöglicht dessen konsequente Weiterentwicklung.
+Um wissenschaftlichen Verlagen ihre Arbeit weiter zu ermöglichen, könnte eine mögliche Sperrfrist hier höchstens ein halbes Jahr betragen.
+
+### Förderung alternativer Vertriebsmodelle
+
+Die Piratenpartei setzt sich nachdrücklich dafür ein, alternative Bezahl- und Finanzierungsmodelle für Urheber und Künstler zu fördern und in der öffentlichen Wahrnehmung zu verbreiten.
+Unser Fokus liegt dabei sowohl auf den Möglichkeiten der Selbstvermarktung als auch auf der Finanzierung durch Micropaymentsysteme oder Crowdfundingmodelle.
+Durch eine möglichst große Verbreitung und Akzeptanz dieser neuen Möglichkeiten möchten wir ein selbstbestimmtes und faires Bezahlmodell durch die Nutzer ermöglichen und etablieren.
+Diese selbstbestimmte Teilhabe am Kulturmarkt kann nach Meinung der Piraten ihrerseits wieder neue Wege der finanziellen Vergütung für Werke generell ermöglichen und viele aktuell existente Probleme des Urheberrechts minimieren.
+
+### Gemeinfreiheit aller amtlichen Werke
+
+Um einen transparenten Staat und transparente Behörden sowie die Nachvollziehbarkeit von behördlichen Abläufen zu fördern und zu verbessern, müssen alle amtlichen und von Ämtern in Auftrag gegebene Werke in Zukunft für die Bevölkerung ohne Einschränkungen nutzbar sein und sollen vom Urheberrecht generell ausgenommen werden.
+Nach unserem Willen soll dies auch für unveröffentlichte und behördeninterne Werke gelten, wenn wegen einer aktuellen politischen Situation ein besonderes öffentliches Interesse an diesen besteht.
+Auf diese Weise kann verhindert werden, dass das Urheberrecht bei behördeninternen Fehlern vorgeschoben werden kann, um missbilligte Dokumente zurückhalten zu können.
+
 # Bildung und Forschung
 
 ## Freier Zugang zu Ergebnissen wissenschaftlicher Forschung
