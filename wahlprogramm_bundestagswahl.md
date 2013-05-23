@@ -506,7 +506,7 @@ Die Piratenpartei setzt sich für gleiche Förderungsmöglichkeiten öffentliche
 
 ### Schule
 
-### Individuelle Bildungswege und Lernformen
+#### Individuelle Bildungswege und Lernformen
 
 Individuelle Bildungswege und Lernformen sowie selbstständiges Lernen erfordern eine Vielfalt von Unterrichtsformen und eine Abkehr von Lehrplänen hin zu klaren Lernzielen.
 Jeder Schüler hat das Recht auf Unterstützung durch Mentoren.
@@ -515,20 +515,21 @@ Sie erleichtern auch den Schulwechsel und Wechsel in andere Bundesländer.
 Ziffernoten und sogenannte Kopfnoten lehnen wir ab.
 Bewertungen sollen den Lernenden vorrangig als Rückmeldung über ihre Bildungsfortschritte dienen und nicht der interpersonellen Vergleichbarkeit.
 
-### Längeres gemeinsames Lernen und Chancengleichheit
+#### Längeres gemeinsames Lernen und Chancengleichheit
 
 Im europäischen Vergleich fällt Deutschland durch eine besonders hohe soziale Selektion im Bildungssystem auf.
 Durch die frühe Aufteilung in verschiedene Schultypen ist der Bildungserfolg besonders von den finanziellen Mitteln und dem Bildungshintergrund des Elternhauses abhängig.
 Daher unterstützt die Piratenpartei das lange gemeinsame Lernen unterschiedlicher Schüler in Schulen mit Binnendifferenzierung.
 Lehrkräfte müssen für unbewusste Selektionsmechanismen und ihre Auswirkungen sensibilisiert werden, um ihnen entgegenwirken zu können.
 
-\===Mehrsprachigkeit als Chance begreifen und fördern
+#### Mehrsprachigkeit als Chance begreifen und fördern
+
 Eine zweisprachige Sozialisation wird in Deutschland nur bei populären Sprachen geschätzt.
 Die Piratenpartei sieht in der Mehrsprachigkeit auch bei Jugendlichen mit Migrationshintergrund ein Qualifikationsmerkmal.
 Die Muttersprache beim Erlernen weiterer Sprachen einzubeziehen ist wichtig, um in diesen Sprachen einen sicheren Stand zu erwerben.
 Dafür müssen die vorhandenen pädagogischen Erkenntnisse aus bilingualem Unterricht, z.B. an Europaschulen, für alle Schulen verfügbar gemacht werden.
 
-### Inklusion in der Bildung
+#### Inklusion in der Bildung
 
 Der Schulbesuch soll alle Kinder und Jugendlichen - mit und ohne besondere Förderbedarfe - in ihrer Entwicklung zu selbstbestimmten, eigenverantwortlichen und sozial kompetenten Mitgliedern der Gesellschaft unterstützen.
 Jedes Kind soll wohnortnah und barrierefrei eine Schule seiner Wahl besuchen können.
@@ -536,7 +537,7 @@ Das Recht förderbedürftiger Kinder und deren Erziehungsberechtigter auf freie 
 Kostenfreie Lehr-, Lern- und sonstige Hilfsmittel, qualifiziertes Personal für Unterricht und Assistenzleistungen sowie technische Ausstattung auf aktuellem Stand müssen gewährleistet sein.
 Die pädagogischen Konzepte müssen für individuelle Bildungswege überarbeitet werden.
 
-### Demokratisierung von Bildungseinrichtungen
+#### Demokratisierung von Bildungseinrichtungen
 
 Eine auf den Prinzipien von Selbstbestimmung und Mitbestimmung aufbauende Gesellschaft muss auch ihr Bildungssystem auf diese Grundlagen stellen.
 Deshalb müssen alle Bildungseinrichtungen demokratisch verfasst und transparent organisiert sein.
