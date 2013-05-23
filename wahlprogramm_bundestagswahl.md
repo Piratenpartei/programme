@@ -583,6 +583,15 @@ Um diese Chance zu nutzen, unterstützen wir freie und offene Lehr- und Lernmate
 Die Piratenpartei setzt sich für die Entwicklung und den Einsatz solcher Materialien ein.
 Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision in die Bildungsrealität zu übertragen.
 
+#### OER - Freie Bildungsmaterialien im Hochschulbereich
+
+Bildungspolitik macht in einer globalisierten Welt nicht an Staatsgrenzen halt.
+Die Piratenpartei setzt sich für den Einsatz von frei zugänglichen und frei nutzbaren Bildungsressourcen (OER = Open Educational Resources) ein und spricht sich für eine Orientierung an den UNESCO-Richtlinien für die Hochschulbildung aus.
+Die UNESCO-Richtlinien geben hierzu Eckpunkte vor, die eine Zusammenarbeit bei OER nicht nur zwischen verschiedenen Bildungseinrichtungen und Bundesländern, sondern auch international im akademischen Bereich erleichtern.
+Wir fordern die Verwendung von OER in der Hochschulbildung, wobei sich die Rahmenbedingungen an den genannten UNESCO-Richtlinien orientieren sollen.
+Das Anliegen von OER soll grundsätzlich bekannter gemacht werden und die IT/Konnektivität sowie die Kooperation unter den Hochschulen gefördert werden.
+Wir fordern das Teilen von hochqualitativem Lern- und Lehrmaterial für eine nachhaltige Entwicklung von OER.
+
 ### Kirche und Bildung
 
 Freiheit und Vielfalt an kulturellen, religiösen und weltanschaulichen Sichtweisen in der Bildung kennzeichnen die modernen Gesellschaften.
