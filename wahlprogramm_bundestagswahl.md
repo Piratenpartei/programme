@@ -1045,6 +1045,20 @@ Um dabei über eine Vielfalt an Konzepten gleichzeitig entscheiden zu können, s
 
 Bis zur Einführung eines bedingungslosen Grundeinkommens setzen sich die PIRATEN für einen bundesweiten gesetzlichen Mindestlohn ein.
 
+### Forderung nach einem allgemeinen gesetzlichen Mindestlohn
+
+Die Piratenpartei fordert als kurzfristige Maßnahme bis zur Einrichtung einer Expertenkommission die Einführung eines allgemeinen gesetzlichen Mindestlohns, der sich wie folgt berechnet:
+
+<center>
+
+\< u\>60% vom durchschnittlichen Jahresarbeitslohn in Deutschland + 1000 Euro Werbekostenpauschale</u>  
+2080 Stunden (52 Wochen a 40 Wochenstunden)
+
+</center>
+
+Bei Zeitverträgen soll dieser Mindestlohn um 8,33% erhöht werden\!
+Für das Jahr 2013 bedeutet dies: 9,02 Euro für unbefristete und 9,77 Euro für befristete Arbeitsverhältnisse.
+
 ## Abschaffung der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII)
 
 Die Piratenpartei Deutschland setzt sich für die Verbesserung der Situation der Erwerbslosen ein, insbesondere für die Abschaffung und sofortige Nichtanwendung (Moratorium) der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII).
