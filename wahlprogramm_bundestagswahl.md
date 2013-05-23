@@ -2524,35 +2524,55 @@ Beibehalten wird sie aus EU- und Bundestagssicht nur noch wegen einer einheitlic
 
 # Außen- und Sicherheitspolitik
 
-### Transparente Aussenpolitik
+## Außen- und sicherheitspolitisches Programm
+
+Die Veränderung der internationalen Beziehungen durch die Digitalisierung der Welt macht es notwendig, außen- und sicherheitspolitische Konzepte für das 21. Jahrhundert zu erarbeiten, die diesen Rechnung tragen.
+Als Piraten können wir bei der Verletzung von Menschen- und Bürgerrechten nicht wegschauen.
+Die Voraussetzung für eine verantwortungsvolle Außen- und Sicherheitspolitik im Rahmen des Piratenkodexes ist eine Betrachtung sozialer, politischer, wirtschaftlicher, ökologischer und militärischer Faktoren.
+Piraten sind dabei erfinderisch, nachhaltige und effektive Lösungen in den internationalen Diskurs einzubringen.
+
+Die Piratenpartei setzt sich für eine globale Sicherheitspolitik ein, welche nicht nur die Symptome von Konflikten aufgreift, sondern deren Ursachen angehen möchte.
+Dies kann nur erreicht werden mit einem außensicherheitspolitischen Ansatz, der eine Gesamtbetrachtung politischer, rechtlicher, sozialer, wirtschaftlicher, ökologischer und militärischer Themen enthält.
+Unsere Sicherheitspolitik muss eine langfristige Präventionspolitik sein, die auf Vermittlung und Deeskalation setzt.
+Wir bleiben einer Kultur der politischen Zurückhaltung mit militärischen Mitteln verpflichtet.
+Das Primat der Politik bedingt, dass der Einsatz militärischer Mittel immer nur eine letzte Option sein kann.
+
+Die momentanen Maßnahmen gegen terroristische Bedrohungen entsprechen einer Reaktionspolitik, welche pauschal die Rechte unbescholtener Bürger beschneidet.
+Freiheit und Bürgerrechte geben wir aber nicht zugunsten einer unbewiesenen Verbesserung der Sicherheitslage auf.
+Aus Sicht der Piraten bedarf es stattdessen einer Präventionspolitik.
+Es ist eine Analyse der Ursachen, aufgrund derer sich Menschen radikalisieren, nötig.
+Ein langfristiger außensicherheitspolitischer Ansatz ist hierzu erforderlich.
+Welcher auch eine Gesamtbetrachtung politischer, rechtlicher, sozialer, wirtschaftlicher, ökologischer und militärischer Faktoren einschließt.
+
+## Transparente Aussenpolitik
 
 Die langfristigen außen­politischen Ziele der Bundesrepublik Deutschland sind transparent und offen zugänglich zu dokumentieren.
 Die Dokumentation muss in einem vom Auswärtigen Amt zu publizierenden Weißbuch erfolgen und bei gegebenem Anlass aktualisiert werden.
 
-#### Transparente Europäische Außen- und Sicherheitspolitik
+### Transparente Europäische Außen- und Sicherheitspolitik
 
 Im Zuge der Entwicklung der vertraglichen Grundlagen der Europäischen Union wurden Institutionen einer gemeinsamen Außen- und Sicherheitspolitik entwickelt und erweitert.
 Die Piratenpartei fordert Transparenz, auch in der Außenpolitik.
 Deshalb steht sie dafür ein, dass die EU-Organe die langfristigen außenpolitischen Ziele der EU definieren und öffentlich kommunizieren.
 
-### Piraten gegen Cyberwar
+## Piraten gegen Cyberwar
 
 Offene und verdeckte Aktionen von staatlichen, privaten und öffentlichen Organisationen, die den Cyberspace als Konfliktdomäne nutzen und die Zivilbevölkerung gefährden, lehnen wir dezidiert ab.
 Schadsoftware, die in der Lage ist Menschenleben durch Angriffe auf gesellschaftliche Versorgungsnetzwerke (Stichwort: KRITIS) zu gefährden, betrachten wir als inakzeptables Sicherheitsrisiko und fordern ein Bekenntnis von Regierungen, im speziellen der dt.
 Regierung, zu friedenserhaltenden Maßnahmen, gemäß den internationalen Konventionen zur Verbesserung des friedlichen menschlichen Zusammenlebens durch Technik auf der Welt.
 Die Piratenpartei Deutschland fordert alle Regierungen dieser Erde auf die globalen Informations- und Kommunikationsnetze gemeinsam zu schützen und als ein hohes gemeinschaftliches Gut aller Menschen anzuerkennen.
 
-### Global Menschenrechte stärken
+## Global Menschenrechte stärken
 
-#### Ablehnung von Körperstrafen
+### Ablehnung von Körperstrafen
 
 Die Piratenpartei setzt sich im Sinne der Menschenrechte international für die Abschaffung von Körperstrafen ein.
 
-#### Ablehnung der Todesstrafe
+### Ablehnung der Todesstrafe
 
 Die Piratenpartei setzt sich im Sinne der Menschenrechte international für die Abschaffung der Todesstrafe ein.
 
-#### Kategorische Ablehnung ethnischer Säuberungen
+### Kategorische Ablehnung ethnischer Säuberungen
 
 Die Piratenpartei lehnt gewaltsame Vertreibung, Umsiedlung, Deportation und Mord kategorisch ab.
 Sie unterstützt UN-Initiativen die das Ziel haben, dies zu verhindern.
