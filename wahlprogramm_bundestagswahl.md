@@ -472,72 +472,108 @@ Die Piratenpartei hat erkannt, dass der freie Zugang und Austausch von Wissen ei
 Deshalb fordern wir, dass alle entwicklungspolitischen Akteure, sobald sie finanzielle Mittel vom BMZ (Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung) beziehen, dazu verpflichtet sind, die Ergebnisse ihrer entwicklungspolitischen Projekte, deren Rohdaten, sowie Gutachten, die sich auf die Effizienz und Effektivität der Projekte beziehen, gemäß den Maßstäben zu "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" (2003), zu veröffentlichen.
 Die Veröffentlichung geschieht über eine vom BMZ zu erstellende kostenfreie Internet Plattform, auf der sich sämtliche Veröffentlichungen, sowohl nach Ländern, als auch nach Stichworten, durchsuchen lassen.
 
-## Bildung
+## Bildung und Forschung
 
-  -   - Hinweis: Dieser Textbaustein entspricht [G171](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_171 "wikilink") (83,8% Zustimmung) \*
+### Präambel
 
-  -   - Hinweis: Diese Abschnittsüberschrift ist neu in die Gliederung des Wahlprogramms aufzunehmen\*
+Unsere Vision eines Bildungssystems baut auf einem positiven Menschenbild auf.
+Jeder Mensch hat das Recht auf freien Zugang zu Information und Bildung.
+Dies ist in einer freiheitlich-demokratischen Gesellschaft notwendig, um allen unabhängig von ihrer sozialen Herkunft ein größtmögliches Maß an gesellschaftlicher Teilhabe zu ermöglichen.
+Bildung ist unser wichtigstes Gut für den Erhalt, die Weitergabe und die Vermehrung von Wissen, Fortschritt und gesellschaftlichem Wohlstand.
+Das Bildungssystem darf nicht auf den Arbeitsmarkt und die ökonomische Verwertbarkeit von Bildung ausgerichtet sein.
+Unsere Gesellschaft braucht Menschen, die kompetent und kritisch ihr Leben und ihre Aufgaben meistern und sich ihrer sozialen Verantwortung bewusst sind.
 
-### Prolog
+### Finanzierung der Bildung
 
-Die Bundesrepublik Deutschland gibt weniger Geld für Bildung aus als andere OECD-Länder.
+Die Ausgaben im Bildungssektor liegen, gemessen am Bruttoinlandsprodukt, in der Bundesrepublik Deutschland seit Jahren unter dem OECD-Durchschnitt.
 Zu Recht wird diese Sparsamkeit an der falschen Stelle von der OECD gerügt.
-Eine Steigerung der Bildungsausgaben ist kein Luxus, sondern eine Frage richtiger Prioritätensetzung.
-
+Die Piratenpartei fordert daher eine Anhebung mindestens auf den OECD-Durchschnitt.
 Bildung ist nicht nur Ländersache, sondern eine Aufgabe für die gesamte Gesellschaft.
-Die Piratenpartei setzt sich für eine Aufhebung des Kooperationsverbotes ein, damit künftig Bund und Länder wieder im Schul- und Hochschulbereich kooperieren dürfen.
-
+Die Piratenpartei setzt sich für eine Aufhebung des Kooperationsverbotes ein.
+Der Bund muss öffentliche Bildungseinrichtungen finanzieren dürfen.
+Forderungen anderer Parteien, das Kooperationsverbot partiell zur Bevorzugung ausgewählter Bereiche wie der Exzellenz-Universitäten zu lockern, erteilen wir eine Absage:
+Wir bestehen auf einer Besserstellung des gesamten Bildungssystems.
 Der freie Zugang zu steuerfinanzierten Bildungseinrichtungen muss unabhängig von Religionszugehörigkeit, Geschlecht und Einkommen der Eltern gewährleistet sein.
-Bildungsgebühren jeglicher Art für steuerfinanzierten Bildungseinrichtungen schränken den Zugang zu Bildung ein und sind deshalb abzulehnen.
+Wir lehnen Bildungsgebühren jeglicher Art für steuerfinanzierte Bildungseinrichtungen kategorisch ab, da sie den Zugang zu Bildung einschränken.
 
 ### Frühkindliche Bildung
 
 Bildung beginnt mit der Geburt und hört nie auf, ein wichtiger Bestandteil des Lebens zu sein.
 Frühkindliche Bildung ist dabei von zentraler Bedeutung.
-Alle Kinder müssen ungeachtet bestehender Unterschiede in den persönlichen Kompetenzen so gefördert werden, dass sie mit möglichst guten Grundvoraussetzungen ihre Schullaufbahn beginnen können.
-Der gebührenfreie und bei Bedarf ganztägige Besuch von Krippen und Kindergärten im sozialen Umfeld soll möglichst flächendeckend gewährleistet werden.
-Die Erziehung in Bildungseinrichtungen ist als Ergänzung der Erziehung durch die Eltern zu verstehen und soll diese nicht ersetzen.
+Alle Kinder müssen ungeachtet bestehender Unterschiede so gefördert werden, dass sie mit möglichst guten Voraussetzungen ihre Schullaufbahn beginnen können.
+Dazu braucht es gebührenfreie, flexible, bei Bedarf ganztägig und gut erreichbare Angebote in Krippen, Kindergärten und bei Tageseltern.
+Die Piratenpartei setzt sich für gleiche Förderungsmöglichkeiten öffentlicher und freier Träger ein.
 
 ### Schule
 
-Der Schulbesuch soll alle Kinder und Jugendliche - mit und ohne sonderpädagogischen Förderbedarf - in ihrer Entwicklung zu selbstbestimmten, eigenverantwortlichen und sozial kompetenten Mitgliedern der Gesellschaft unterstützen.
-Er soll ihnen Fähigkeiten und Kenntnisse vermitteln, die sie für ihren Lebensalltag und ihre weitere berufliche Entwicklung brauchen.
+### Individuelle Bildungswege und Lernformen
 
+Individuelle Bildungswege und Lernformen sowie selbstständiges Lernen erfordern eine Vielfalt von Unterrichtsformen und eine Abkehr von Lehrplänen hin zu klaren Lernzielen.
+Jeder Schüler hat das Recht auf Unterstützung durch Mentoren.
+Individuelle Schullaufbahnen, ein flexibles Kurssystem und der Einsatz von Mentoren machen das Wiederholen eines ganzen Schuljahres überflüssig.
+Sie erleichtern auch den Schulwechsel und Wechsel in andere Bundesländer.
+Ziffernoten und sogenannte Kopfnoten lehnen wir ab.
+Bewertungen sollen den Lernenden vorrangig als Rückmeldung über ihre Bildungsfortschritte dienen und nicht der interpersonellen Vergleichbarkeit.
+
+### Längeres gemeinsames Lernen und Chancengleichheit
+
+Im europäischen Vergleich fällt Deutschland durch eine besonders hohe soziale Selektion im Bildungssystem auf.
+Durch die frühe Aufteilung in verschiedene Schultypen ist der Bildungserfolg besonders von den finanziellen Mitteln und dem Bildungshintergrund des Elternhauses abhängig.
+Daher unterstützt die Piratenpartei das lange gemeinsame Lernen unterschiedlicher Schüler in Schulen mit Binnendifferenzierung.
+Lehrkräfte müssen für unbewusste Selektionsmechanismen und ihre Auswirkungen sensibilisiert werden, um ihnen entgegenwirken zu können.
+
+\===Mehrsprachigkeit als Chance begreifen und fördern
+Eine zweisprachige Sozialisation wird in Deutschland nur bei populären Sprachen geschätzt.
+Die Piratenpartei sieht in der Mehrsprachigkeit auch bei Jugendlichen mit Migrationshintergrund ein Qualifikationsmerkmal.
+Die Muttersprache beim Erlernen weiterer Sprachen einzubeziehen ist wichtig, um in diesen Sprachen einen sicheren Stand zu erwerben.
+Dafür müssen die vorhandenen pädagogischen Erkenntnisse aus bilingualem Unterricht, z.B. an Europaschulen, für alle Schulen verfügbar gemacht werden.
+
+### Inklusion in der Bildung
+
+Der Schulbesuch soll alle Kinder und Jugendlichen - mit und ohne besondere Förderbedarfe - in ihrer Entwicklung zu selbstbestimmten, eigenverantwortlichen und sozial kompetenten Mitgliedern der Gesellschaft unterstützen.
 Jedes Kind soll wohnortnah und barrierefrei eine Schule seiner Wahl besuchen können.
-Das Recht förderbedürftiger Kinder und deren Erziehungsberechtigter auf freie Wahl der Schulart (Regelschule oder Förderschule / Förderzentrum) soll bundeseinheitlich in allen Bundesländern gesetzlich festgeschrieben werden.
+Das Recht förderbedürftiger Kinder und deren Erziehungsberechtigter auf freie Wahl der Schulart soll bundeseinheitlich in allen Bundesländern gesetzlich festgeschrieben werden.
 Kostenfreie Lehr-, Lern- und sonstige Hilfsmittel, qualifiziertes Personal für Unterricht und Assistenzleistungen sowie technische Ausstattung auf aktuellem Stand müssen gewährleistet sein.
+Die pädagogischen Konzepte müssen für individuelle Bildungswege überarbeitet werden.
 
-Um Schüler vom Niveau der Förderschule bis zum Realschulabschluss oder Abitur gemeinsam zu unterrichten, muss die Anzahl der Schüler pro Lehrer reduziert werden.
-Die pädagogischen Konzepte müssen für individuelle Lernwege überarbeitet werden.
-Schulen sollen mehr Rechte zur Selbstverwaltung haben.
-Die Mitbestimmungsrechte von Schülern, Eltern und Lehrkräften sollen gestärkt werden.
+### Demokratisierung von Bildungseinrichtungen
 
-Bildungschancen, Bildungsmöglichkeiten und Bildungsziele müssen bundesweit gleich sein.
-Unterschiede in Art und Anerkennung der Abschlüsse zwischen den einzelnen Bundesländern müssen abgebaut werden.
+Eine auf den Prinzipien von Selbstbestimmung und Mitbestimmung aufbauende Gesellschaft muss auch ihr Bildungssystem auf diese Grundlagen stellen.
+Deshalb müssen alle Bildungseinrichtungen demokratisch verfasst und transparent organisiert sein.
+Ihre Mitgestaltung und Nutzung muss Lernenden und Lehrenden offen stehen; das bezieht sich auch auf die Lerninhalte.
+Die Entwicklung einer kritischen und selbstständigen Persönlichkeit wird durch die Demokratisierung von Bildungseinrichtungen unterstützt.
+Demokratische Werte werden dabei nicht nur vermittelt, sondern auch gelebt.
 
-### Duale Ausbildung
+### Berufsschule und Duale Ausbildung
 
-Die berufliche Ausbildung nach dem Dualen System ist seit Jahrzehnten ein Garant für Fachkräfte und ein Exportschlager.
-Bestrebungen, dieses System von der breiten und qualifizierten Grund- und Fachausbildung hin zu firmenspezifischen Anlern-Ausbildungen umzubauen, lehnt die Piratenpartei ab.
-Die Berufsschulpflicht macht aus Sicht der Piratenpartei keinen Sinn, soweit diese nicht im direkten Zusammenhang mit einer Ausbildung steht.
-Daher fordern wir die Abschaffung der bisherigen Berufsschulpflicht und setzen uns für die Pflicht der Beschulung innerhalb einer Dualen Ausbildung ein.
+Die berufliche Ausbildung nach dem Dualen System ist seit Jahrzehnten ein Garant für Fachkräfte und weltweit ein Vorbild.
+Bestrebungen, dieses System von der breiten und qualifizierten Grund- und Fachausbildung hin zu firmenspezifischen Anlern-Ausbildungen umzubauen, lehnen die Piraten ab.
+Die Berufsschulpflicht macht aus Sicht der Piratenpartei nur im direkten Zusammenhang mit einer dualen Ausbildung Sinn.
+Daher fordern wir die Abschaffung der bisherigen Berufsschulpflicht, setzen uns aber für die Beibehaltung der Beschulung innerhalb einer Dualen Ausbildung ein.
+Die Piraten fordern eine stärkere Kontrolle der Betriebe, damit Auszubildende nicht ausbildungsfremd als billige Arbeitskräfte missbraucht werden.
+Die Berufsschule muss sich neuen Unterrichtsmethoden stärker öffnen und muss auch junge Erwachsene ansprechen, die den Vermittlungsformen der Regelschulen den Rücken gekehrt haben.
+Berufsspezifische Kenntnisse und Fähigkeiten dürfen nicht als Voraussetzung zur Ausbildung verlangt werden.
+Sie müssen vielmehr im Rahmen der Ausbildung vermittelt oder aufgefrischt werden.
+Versuche der Wirtschaft, Forderungen nach einer Ausbildungsplatzabgabe mit dem Argument fehlender geeigneter Bewerber abzuwehren, sieht die Piratenpartei kritisch.
 
 ### Hochschule
 
-Durch die Exzellenzinitiative werden kommerzielle Anreize gesetzt und die Zielsetzungen der Hochschulen beeinflusst.
-Die Forschungsziele sollten nicht alleine nach ihrer wirtschaftlichen Rentabilität gefördert werden.
-Dies stellt eine Gefahr für die Freiheit und die Vielfalt der Forschung dar.
-Innovation findet auch in den Bereichen statt, die nicht im Fokus des medialen Interesses liegen.
-Aus diesem Grund lehnt die Piratenpartei die Exzellenzinitiative ab und fordert eine verbesserte allgemeine Förderung der Hochschulen.
-
-Die Piratenpartei fordert, die allgemeine Wissenschaftsschranke für die Lehrenden im Urheberrecht gesetzlich zu verankern.
-Dadurch sollen die Lehrenden Rechtssicherheit für die Lehre mit urheberrechtlich geschütztem Material erhalten.
+Unter der Vorgabe der internationalen Vergleichbarkeit der Abschlüsse wurde die Studienlandschaft in den letzten Jahren im Rahmen des Bologna-Prozesses tiefgreifend umgebaut.
+Die Verkürzung der Studiengänge geht einher mit oberflächlichem und verschulten Lernen und einer nicht hinnehmbaren Zahl von Studienabbrechern.
+Die Reform war mit einem Qualitätseinbruch verbunden, ohne tatsächlich Vergleichbarkeit zu erreichen.
+Die Piratenpartei strebt daher eine kritische Revision des Bologna-Prozesses an.
+Die finanzielle Bevorzugung einzelner Forschungsfelder aufgrund ihrer wirtschaftlichen Verwertbarkeit, wie zum Beispiel bei der Exzellenzinitiative, gefährdet Freiheit und Vielfalt der Forschung.
+Innovation findet auch in den Bereichen statt, die nicht im Fokus des medialen (und ökonomischen) Interesses liegen.
+Aus diesem Grund lehnt die Piratenpartei kurzfristige Projektförderung ab und setzt sich für eine verbesserte langfristige Sockelfinanzierung der Hochschulen ein.
+Die Piratenpartei fordert eine Anpassung des Urheberrechts:
+Lehrende und Lernende müssen den Spielraum und die Rechtssicherheit erhalten, mit urheberrechtlich geschütztem Material frei arbeiten zu können.
 
 ### Erwachsenenbildung
 
-Dem lebenslangen und berufsbegleitenden Lernen fällt eine zunehmend wichtige Rolle in Gesellschaft und Wirtschaft zu.
-Die Piratenpartei sieht daher die Pflicht, lebenslanges Lernen zu fördern: durch Bereitstellung kostenfrei zugänglichen Lehrmaterials für Standardabschlüsse und Zertifizierungen sowie dem Angebot modularer Prüfungen.
-In der Folge ergeben sich flexible Anpassungsmöglichkeiten an individuelle Lebensumstände sowie eine Motivation zur Steigerung der Bildung quer durch die Bevölkerung.
+Im Zuge des Lebenslangen Lernens muss das Bildungssystem offen sein für den Erwerb neuer Kompetenzen und Fähigkeiten für alle Altersgruppen.
+Dabei sollte sich das Weiterbildungsangebot nicht primär an der besseren Verwertbarkeit auf dem Arbeitsmarkt ausrichten, sondern vor allem an den individuellen Bedürfnissen.
+Die Piratenpartei sieht daher die Pflicht, lebenslanges Lernen zu fördern: durch die Bereitstellung kostenfrei zugänglicher Lehrangebote, Lehrmaterials und der Möglichkeit, individuelles Coaching in Anspruch zu nehmen.
+Prüfungen und Kurse müssen sich flexibel an individuelle Lebensumstände anpassen, um mehr Menschen die Nutzung von Weiterbildungsangeboten zu ermöglichen.
 
 ### OER (Open Educational Resources)
 
