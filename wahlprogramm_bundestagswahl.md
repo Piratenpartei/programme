@@ -2280,6 +2280,15 @@ Jede Erhöhung des Stammkapitals soll von den demokratisch gewählten Volksvertr
 Das Europäische Parlament soll die Befugnis erhalten, die Immunität der Mitglieder des europäischen Gouverneursrat und des Direktoriums aufheben zu können.
 Die Gehälter der Mitglieder des Gouverneursrates und des Direktoriums sind offenzulegen.
 
+## Zeitumstellung
+
+Die Piraten wollen die Zeitumstellung in der Europäischen Union abschaffen.
+
+Die nach der Abschaffung gültige Zeit soll die Normalzeit sein.
+
+Die Zeitumstellung hat keine Vorteile, sondern bringt lediglich Nachteile und mittleren bis hohen Umstellungsaufwand mit sich.
+Beibehalten wird sie aus EU- und Bundestagssicht nur noch wegen einer einheitlichen Umstellung innerhalb der EU, was sich allerdings auch durch eine Abschaffung erreichen ließe.
+
 # Außen- und Sicherheitspolitik
 
 ### Transparente Aussenpolitik
