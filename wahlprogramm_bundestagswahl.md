@@ -698,6 +698,11 @@ Ein "Ausruhen" auf Patenten ist dann nicht mehr möglich.
 Aus diesem Grund ist das Ziel der Piratenpartei, das Patentwesen langfristig durch andere Mechanismen zur Offenlegung von Erfindungen zu ersetzen, die ohne gesetzliche Monopole auskommen.
 Die Entwicklung solcher Modelle soll durch die Bundesrepublik Deutschland und die Europäische Union aktiv voran getrieben werden.
 
+### Unbegrenzte Arbeitsmöglichkeiten für Akademiker – Änderung des Wissenschaftszeitvertragsgesetzes (WissZeitVG)
+
+Die Piratenpartei Deutschland spricht sich dafür aus, §2, Absatz 1 des Wissenschaftszeitvertragsgesetzes (WissZeitVG) zu streichen.
+Das WissZeitVG ist so zu überarbeiten, dass befristete Verträge mit nach oben offener Laufzeit für Wissenschaftlerinnen und Wissenschaftler auf Haushalts- und Drittmittelstellen vergeben werden können, ohne eine Maximalbeschäftigungsgrenze zu benennen.
+
 # Umwelt und Verbraucherschutz
 
 ## Nachhaltigkeit
