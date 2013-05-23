@@ -368,6 +368,13 @@ Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht 
 
 Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen" § 202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
 
+## Netzneutralität stärken und gesetzlich verankern
+
+Die Piratenpartei Deutschland setzt sich für eine gesetzliche Festschreibung des neutralen Charakters der Datendurchleitung im Internet ein (Prinzip der Netzneutralität), um Informations-, Presse- und Meinungsfreiheit zu sichern und die Innovationsfähigkeit des Netzes zu erhalten.
+Die Piratenpartei lehnt es ab, die diskriminierungsfreie Übertragung von Daten durch die Einführung von Güteklassen, Angebotseinschränkungen oder Zugangserschwernissen zu beschneiden.
+Es muss den an die Kommunikationsinfrastruktur angeschlossenen Personen überlassen bleiben, aus dem Angebot an Diensten das Gewünschte auszuwählen.
+Damit das Internet ein Ort der Innovation und Gleichberechtigung bleibt, muss der Gesetzgeber ein klares Bekenntnis für die Konzentrierung der anwendungsspezifischen Funktionen bei den mit dem Netz verbundenen Endgeräten abgeben (End-to-End-Prinzip) und Eingriffe in die Vermittlungsschicht oder das Betrachten der Transportschicht der durchgeleiteten Daten konsequent untersagen.
+
 # Bildung und Forschung
 
 ## Freier Zugang zu Ergebnissen wissenschaftlicher Forschung
