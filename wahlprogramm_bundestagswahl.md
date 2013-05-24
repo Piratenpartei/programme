@@ -2653,6 +2653,94 @@ Auf dem Weg zu einer kernwaffenfreien Welt ("Global Zero") setzt sich die Pirate
 
 # Wirtschaft & Finanzen
 
+### Präambel
+
+Die Wirtschafts-, Finanz- und Sozialordnung soll allen Menschen und der Gemeinschaft dienen.
+Traditionelle Kennzahlen, wie etwa das Bruttoinlandsprodukt (BIP) oder die Wachstumsrate, die nur bedingt mit dem Wohlstand der Menschen und der Nachhaltigkeit des Wirtschaftens verknüpft sind, sollen daher nicht mehr alleinige Orientierungsgrößen für die Wirtschaftspolitik sein.
+
+Das Leitbild der Piraten ist eine Ordnung, die sowohl freiheitlich als auch gerecht als auch nachhaltig gestaltet ist.
+
+Da Freiheit, Gerechtigkeit und Nachhaltigkeit universelle Grundwerte sind, wollen wir auch über den nationalen Rahmen hinaus auf die Berücksichtigung dieser Werte hinwirken.
+
+Freiheitlich ist eine Gesellschaftsordnung, in der die individuelle Entfaltung des Menschen im Mittelpunkt steht.
+Sie wird durch das Gemeinwohl sowohl gestärkt als auch beschränkt.
+Deshalb sind Freiheit und Verantwortung untrennbar miteinander verbunden.
+
+Gerecht bedeutet, dass die Rahmenbedingungen in Wirtschaft und Gesellschaft so gestaltet sind, dass sowohl eine Teilhabe als auch ein angemessenes Leben grundsätzlich gewährleistet werden.
+
+Nachhaltig ist ist ein auf Dauer angelegter, verantwortungsvoller Umgang mit Ressourcen und der Umwelt.
+Die Haushalts- und Subventionspolitik, sowie das Finanzsystem, müssen dem Menschen und der Realwirtschaft langfristig dienen.
+
+### Wirtschaftspolitik
+
+Die Wirtschaftspolitik der Piratenpartei basiert auf einem humanistischen Menschenbild und ist bestimmt von Freiheit, Transparenz und gerechter Teilhabe.
+Auf diesem Fundament stehen unsere Konzepte für eine freiheitliche und soziale Wirtschaftsordnung, deren Ziel die selbstbestimmte Entfaltung und das Wohlergehen aller Menschen ist.  
+Weltweite Vernetzung und Digitalisierung machen ganz neue Formen der Produktion, der Arbeit und des Austausches möglich.
+Diese neuen Formen des Wirtschaftens bieten enormes Potential, erfordern aber auch eine Weiterentwicklung der Wirtschaftsordnung.
+Hier bietet sich die Chance, einen zentralen Bereich der Gesellschaft politisch neu zu gestalten.  
+Dabei ist für Piraten Wirtschaftspolitik nicht gleich Wachstumspolitik.
+Die über den Markt verkauften Güter und Dienstleistungen sind nur ein sehr unvollständiges und zuweilen irreführendes Maß für den Wohlstand und für die Lebensqualität in einer Gesellschaft.
+An diesen Steuerungsgrößen allein darf sich Wirtschaftspolitik nicht ausrichten, sie muss sich stattdessen den individuellen Lebensentwürfen der Menschen öffnen, unabhängig davon, wie stark diese ins Wirtschaftsgeschehen eingebunden sind.
+Die Wirtschaftspolitik der Piratenpartei soll den Rahmen zur Verwirklichung dieser Lebensentwürfe in einer globalisierten Wirtschaft schaffen.
+
+### Ökologie
+
+Die Piratenpartei setzt sich für einen nachhaltigen Umgang mit natürlichen Ressourcen ein.
+Dazu gehört auch, dass die wirtschaftliche Nutzung von natürlichen Ressourcen so bepreist ist, dass eine Ausbeutung auf Kosten der Allgemeinheit nicht möglich ist.
+
+In der Umstellung auf regenerative Energiequellen und in der Dezentralisierung der Erzeuger- und Verteilungsstrukturen sehen wir großes Potential für die deutsche Wirtschaft, gerade für kleine, innovative Unternehmen.
+Wir werden dazu beitragen, dass dieses Potential genutzt wird und dadurch bundesweit Innovationen und Arbeitsplätze entstehen.
+
+### Verbraucherschutz
+
+Damit eine freie Marktwirtschaft auch sozial ist, müssen die Rechte der Konsumentinnen und Konsumenten gegenüber der Macht der Anbieter gestärkt werden.
+Dies kann jedoch nicht durch weitere Bevormundung des Einzelnen und wenig sinnvolle Warnungen geschehen.
+Die Piratenpartei will stattdessen Produzenten und Dienstleister dazu verpflichten, umfassende und verständliche Informationen bezüglich ihrer Produkte und deren Herstellung öffentlich bereitzustellen.
+Die Möglichkeiten, die neue Medien hier bieten, sollten nicht nur für Werbung sondern auch solche Informationen genutzt werden.
+Nur informierte Konsumierende können frei entscheiden, wofür sie ihr Geld ausgeben und damit direkten Einfluss auf die Anbieter ausüben.
+
+### Arbeitsmarkt
+
+#### Arbeit und Mensch
+
+Arbeit ist für uns nicht nur eine handelbare Ware, sondern immer auch die persönliche Leistung eines Menschen.
+Es ist daher ein Gebot der Menschenwürde, dass jeder Mensch frei entscheiden kann, welchen Beruf er ausüben will und welche Arbeit er annehmen will, aber auch, dass diese Leistung entsprechend gewürdigt wird.
+
+Die technologische Entwicklung ermöglicht es, dass nicht mehr jede monotone, wenig sinnstiftende oder sogar gefährliche Aufgabe von Menschenhand erledigt werden muss.
+Wir sehen dies als großen Fortschritt, den wir begrüßen und weiter vorantreiben wollen.
+Daher betrachten wir das Streben nach absoluter Vollbeschäftigung als weder zeitgemäß noch sozial wünschenswert.
+Stattdessen wollen wir uns dafür einsetzen, dass alle Menschen gerecht am Gesamtwohlstand beteiligt werden und werden dazu die Einführung eines bedingungslosen Grundeinkommens prüfen.
+
+#### Mindestlohn als Brückentechnologie
+
+Es gehört zu den Aufgaben des Staates sicherzustellen, dass auch im freien Markt die Menschenwürde respektiert wird.
+Wer voll berufstätig ist, darf nicht unter der Armutsgrenze leben und auf staatliche Zusatzleistungen angewiesen sein.
+Zudem verzerren Dumpinglöhne die Wettbewerbsbedingungen innerhalb und zwischen freien Märkten.  
+Um allen Menschen eine würdige Existenz und die Teilhabe am gesellschaftlichen Leben zu ermöglichen, werden wir uns daher für einen bundesweiten gesetzlichen Mindestlohn einsetzen.
+Mittelfristig wollen wir jedoch mit dem "Recht auf sichere Existenz und gesellschaftliche Teilhabe" ein umfassenderes System zur allgemeinen, bedingungslosen Existenzsicherung etablieren.
+
+#### Betriebliche Mitbestimmung
+
+Die Piratenpartei tritt für die stärkere Demokratisierung der Wirtschaft ein.
+Dieser Prozess findet aber nicht nur auf der Ebene von Staat und Markt statt, sondern auch innerhalb einzelner Unternehmen.
+Das Arbeitsumfeld ist ein wesentlicher Teil des Lebensumfeldes, auf das Menschen einen angemessenen Gestaltungsanspruch haben, der letztendlich auch den Unternehmen zugute kommt.
+Wir werden daher die existierenden Mitbestimmungsrechte für Angestellte verteidigen und wo nötig weiter ausbauen.
+Die Beteiligung der Mitarbeiterbasis an der Unternehmensführung begünstigt sozialere und nachhaltigere Entscheidungsfindung sowie unternehmerische Innovationen.
+
+### Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden (ausgenommen Rechtsanwalts-, Notar- und Ärztekammern)
+
+Die Piratenpartei tritt für die Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden wie der Industrie- und Handelskammer (IHK) sowie der Landwirtschafts- oder Handwerkskammer ein.
+Rechtsanwalts-, Notar- und Ärztekammern sind von diesem Ziel nicht erfasst.
+
+### Globalisierung
+
+Die zunehmende weltweite Vernetzung sehen wir grundsätzlich als positive und bereichernde Entwicklung.
+Das Internet mit seinen fast unbegrenzten Möglichkeiten wird dabei ein immer bedeutenderer Wirtschaftsfaktor, der weit über nationale Politik hinausgeht.
+Der weltweite Ausbau eines freien Internets ist daher nicht nur ein ideelles, sondern auch ein wirtschaftspolitisches Ziel der Piratenpartei.
+
+Wir werden uns dafür einsetzen, dass die Globalisierung dem Gemeinwohl aller Menschen dient.
+Konkret heißt das, dass wir uns dafür einsetzen werden, die Rechte der Menschen in weniger stark industrialisierten Ländern am Weltmarkt zu stärken, und dass wir in zunehmend vernetzten Märkten für den Angleich und die Verbesserung der Rahmenbedingungen für alle Arbeitnehmerinnen und Konsumenten eintreten werden
+
 # Innen- und Rechtspolitik
 
 ## politische Transparenz und Antikorruption
