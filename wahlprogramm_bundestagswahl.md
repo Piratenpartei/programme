@@ -398,7 +398,6 @@ Analog zum Parteiengesetz sollen Spenden oberhalb einer Bagatellgrenze, die zu G
 
 ### Information
 
-\=
 Eine ausgewogene Information der Öffentlichkeit über die Inhalte von Volksbegehren und Volksentscheiden ist zu gewährleisten.
 Vor dem Volksentscheid erhält jeder Stimmberechtigte eine Informationsbroschüre, in der die Initiative, der Bundestag und der Bundesrat ihre Auffassungen erläutern.
 Zur Förderung der öffentlichen Diskussion und zur Informierung der Öffentlichkeit im Vorfeld eines Volksentscheids erhält die Initiative eine staatliche Kostenerstattung.
