@@ -296,52 +296,13 @@ Eine ausgewogene Information der Öffentlichkeit über die Inhalte von Volksbege
 
 = Internet, Netzpolitik und Artverwandtes =
 
-== Urheberrecht ==
-
-Das Papier zur Reform des Urheberrechts von Daniel Neumann et. al. [1] wurde als Grundlage für das Wahlprogramm zur nächsten Bundestagswahl beschlossen.
-
-[1] http://wiki.piratenpartei.de/wiki/images/0/07/UrhG_Arguments_FassungBPT2011-2.pdf
-
-== Freier Zugang zu öffentlichen Inhalten ==
-
-Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugung und Aufbereitung von Texten, Daten und Medien. Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung. Die Bürger haben zu einem Großteil dieser Inhalte keinen oder nur sehr eingeschränkten Zugang, obwohl sie bereits für deren Herstellung bezahlt haben.
-
-Die Piratenpartei setzt sich dafür ein, dass möglichst alle durch öffentliche Stellen erzeugten oder mit Hilfe öffentlicher Förderung entstanden Inhalte der breiten Öffentlichkeit frei zugänglich gemacht werden. Die Verfügbarkeit darf nicht durch Antragsverfahren, Lizenzen, Gebühren oder technische Mittel erschwert werden. Die Inhalte werden in offenen Formaten online zur Verfügung gestellt und archiviert. Weiterverbreitung sowie kommerzielle Nutzung sind ausdrücklich erwünscht.
-
-Wir sehen die universelle Verfügbarkeit und Verknüpfbarkeit von Informationen als wichtigen Teil der öffentlichen Infrastruktur auf deren Basis neues Wissen entsteht und mit dessen Hilfe der öffentliche Sektor kontrollierbar und optimierbar wird.
-
-In Ausnahmefällen können bestimmte Informationen vorübergehend oder dauerhaft von der Veröffentlichungspflicht befreit werden. Dafür müssen jedoch konkrete, schwerwiegende Gründe (z.B. der Schutz persönlicher Daten oder die Bewahrung sehr wichtiger Geheimnisse) vorliegen. Die Begründung muss in jedem Einzelfall explizit dargelegt und veröffentlicht werden und ist generell anfechtbar.
-
-Im Bereich Wissenschaft wird die Publikation nach dem Open Access Prinzip so schnell wie möglich ein zentrales Kriterium bei der Vergabe öffentlicher Fördermittel. Die öffentlich rechtlichen Sendeanstalten werden nicht mehr daran gehindert, sondern verpflichtet, ihre Produktionen dauerhaft online abrufbar zu machen. Das Informationsfreiheitsgesetz wird überarbeitet und die Spielräume zur systematischen Umgehung der Informationspflichten beseitigt.
-
-Langfristig wird ein öffentlich zugängliches Bürgerinformations-Portal geschaffen. Behörden und andere Institutionen werden angewiesen, ihre öffentlichen Daten dort einzustellen bzw. die eigenen Datenbanken an das Portal anzubinden. Das System muss umfangreiche Kategorisierungs-, Such- und Exportfunktionen sowie geeignete Programmierschnittstellen für automatisierte Anfragen bieten.
-
-==Infrastruktur==
-
-===Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle===
-Die Piratenpartei setzt sich dafür ein, ein staatlich finanziertes Trustcenter einzurichten, das jedem Menschen unabhängig vom Einkommen die Möglichkeit gibt, Dokumente und E-Mails für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren.
- 
-Die dafür notwendigen Zertifikate sollen deshalb für Privatpersonen (nicht juristische Personen) kostenlos zu erwerben und zu verwenden sein und dazu dienen, jedermann abhörsichere Kommunikation und rechtssichere Geschäfte bzw. Vertragsabschlüsse über das Internet zu ermöglichen.
-
-Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d.h. er darf keine Kenntnis der geheimen Schlüssel besitzen). 
-
-===Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten===
-Ein Zwang zur Verwendung von amtlich erfassten Namen ist abzulehnen. Diese Praxis ist bereits nach entsprechender Gesetzgebung in Südkorea gescheitert. Die Piratenpartei setzt sich dafür ein, den Benutzerinnen und Benutzern von sozialen Netzwerken und ähnlichen Diensten den pseudo- sowie autonymen Zugang gesetzlich zu garantieren. Genauso muss der anonyme Zugang zum Netz unmissverständlich gesetzlich garantiert sein. Die freie   Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht aus Gründen etwaiger Sicherheit beschnitten werden.
-
-===Abschaffung des "Hackerparagraphen" § 202c StGB===
-Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen"  § 202c StGB ein, da er für erhebliche  Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im  IT-Sicherheitsbereich tätiger Personen öffnet.
-
 ==Netzneutralität stärken und gesetzlich verankern==
 
 Die Piratenpartei Deutschland setzt sich für eine gesetzliche Festschreibung des neutralen Charakters der Datendurchleitung im Internet ein (Prinzip der Netzneutralität), um Informations-, Presse- und Meinungsfreiheit zu sichern und die Innovationsfähigkeit des Netzes zu erhalten.
 Die Piratenpartei lehnt es ab, die diskriminierungsfreie Übertragung von Daten durch die Einführung von Güteklassen, Angebotseinschränkungen oder Zugangserschwernissen zu beschneiden. Es muss den an die Kommunikationsinfrastruktur angeschlossenen Personen überlassen bleiben, aus dem Angebot an Diensten das Gewünschte auszuwählen.
 Damit das Internet ein Ort der Innovation und Gleichberechtigung bleibt, muss der Gesetzgeber ein klares Bekenntnis für die Konzentrierung der anwendungsspezifischen Funktionen bei den mit dem Netz verbundenen Endgeräten abgeben (End-to-End-Prinzip) und Eingriffe in die Vermittlungsschicht oder das Betrachten der Transportschicht der durchgeleiteten Daten konsequent untersagen.
 
-==Schutz der Freiheit und Privatsphäre im Internet==
- 
-Der unzureichende Datenschutz im Internet führt immer wieder zu Datenverlust, Datendiebstahl und Datenmissbrauch. Gleichzeitig gefährden Überwachungs-, Filter-, Sperr- und Löschmaßnahmen, die Internet-Diensteanbieter im Interesse privater Rechteinhaber einsetzen, den freien Meinungs- und Informationsaustausch im Internet. Um Abhilfe zu schaffen, wollen wir die “Störerhaftung“ von Internetanbietern deutlich eindämmen. Anbieter von Internetzugängen (z.B. WLAN-Anbieter) und von Internet-Speicherdiensten sollen künftig nicht mehr verpflichtet sein, Rechtsverletzungen anderer Personen nach Art einer Privatpolizei präventiv zu verhüten. Auch eine Überwachung der Internetnutzung durch Internet-Zugangsanbieter zur Versendung von Warnhinweisen oder Sperrungen des Internetzugangs (“Three Strikes“) lehnen wir ab. Rechteinhaber sollen die Löschung angeblich rechtswidriger, von Nutzern eingestellter Inhalte künftig nur mit richterlichem Beschluss verlangen können. Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fernmeldegeheimnis um ein “Telemediennutzungsgeheimnis“ für Internet-Diensteanbieter ergänzt werden. Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind. Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
-
-==Reform des Urheberrechts==
+== Urheberrecht ==
 
 Das Urheberrecht stellt ein Interessenausgleichsrecht zwischen Urhebern, Nutzern, der Allgemeinheit und Rechteinhabern dar. Dieser Ausgleich findet derzeit jedoch vor allem zugunsten der Rechteinhaber statt.
 Unsere Reform wird diese Schieflage beheben und vor allem Sorge tragen, dass sich das Urheberrecht dem digitalen Wandel nicht mehr verschließt, Missverständnisse und Missstände ausräumt und das Gleichgewicht zwischen Urhebern, Rechteverwertern und der Allgemeinheit zugunsten der Kulturschaffenden und Verbraucher wiederherstellt.
@@ -373,6 +334,43 @@ Durch eine möglichst große Verbreitung und Akzeptanz dieser neuen Möglichkeit
 ===Gemeinfreiheit aller amtlichen Werke===
 Um einen transparenten Staat und transparente Behörden sowie die Nachvollziehbarkeit von behördlichen Abläufen zu fördern und zu verbessern, müssen alle amtlichen und von Ämtern in Auftrag gegebene Werke in Zukunft für die Bevölkerung ohne Einschränkungen nutzbar sein und sollen vom Urheberrecht generell ausgenommen werden.
 Nach unserem Willen soll dies auch für unveröffentlichte und behördeninterne Werke gelten, wenn wegen einer aktuellen politischen Situation ein besonderes öffentliches Interesse an diesen besteht. Auf diese Weise kann verhindert werden, dass das Urheberrecht bei behördeninternen Fehlern vorgeschoben werden kann, um missbilligte Dokumente zurückhalten zu können.
+
+
+==Infrastruktur==
+
+===Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle===
+Die Piratenpartei setzt sich dafür ein, ein staatlich finanziertes Trustcenter einzurichten, das jedem Menschen unabhängig vom Einkommen die Möglichkeit gibt, Dokumente und E-Mails für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren.
+ 
+Die dafür notwendigen Zertifikate sollen deshalb für Privatpersonen (nicht juristische Personen) kostenlos zu erwerben und zu verwenden sein und dazu dienen, jedermann abhörsichere Kommunikation und rechtssichere Geschäfte bzw. Vertragsabschlüsse über das Internet zu ermöglichen.
+
+Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d.h. er darf keine Kenntnis der geheimen Schlüssel besitzen). 
+
+===Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten===
+Ein Zwang zur Verwendung von amtlich erfassten Namen ist abzulehnen. Diese Praxis ist bereits nach entsprechender Gesetzgebung in Südkorea gescheitert. Die Piratenpartei setzt sich dafür ein, den Benutzerinnen und Benutzern von sozialen Netzwerken und ähnlichen Diensten den pseudo- sowie autonymen Zugang gesetzlich zu garantieren. Genauso muss der anonyme Zugang zum Netz unmissverständlich gesetzlich garantiert sein. Die freie   Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht aus Gründen etwaiger Sicherheit beschnitten werden.
+
+===Abschaffung des "Hackerparagraphen" § 202c StGB===
+Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen"  § 202c StGB ein, da er für erhebliche  Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im  IT-Sicherheitsbereich tätiger Personen öffnet.
+
+
+
+==Schutz der Freiheit und Privatsphäre im Internet==
+ 
+Der unzureichende Datenschutz im Internet führt immer wieder zu Datenverlust, Datendiebstahl und Datenmissbrauch. Gleichzeitig gefährden Überwachungs-, Filter-, Sperr- und Löschmaßnahmen, die Internet-Diensteanbieter im Interesse privater Rechteinhaber einsetzen, den freien Meinungs- und Informationsaustausch im Internet. Um Abhilfe zu schaffen, wollen wir die “Störerhaftung“ von Internetanbietern deutlich eindämmen. Anbieter von Internetzugängen (z.B. WLAN-Anbieter) und von Internet-Speicherdiensten sollen künftig nicht mehr verpflichtet sein, Rechtsverletzungen anderer Personen nach Art einer Privatpolizei präventiv zu verhüten. Auch eine Überwachung der Internetnutzung durch Internet-Zugangsanbieter zur Versendung von Warnhinweisen oder Sperrungen des Internetzugangs (“Three Strikes“) lehnen wir ab. Rechteinhaber sollen die Löschung angeblich rechtswidriger, von Nutzern eingestellter Inhalte künftig nur mit richterlichem Beschluss verlangen können. Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fernmeldegeheimnis um ein “Telemediennutzungsgeheimnis“ für Internet-Diensteanbieter ergänzt werden. Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind. Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
+
+
+== Freier Zugang zu öffentlichen Inhalten ==
+
+Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugung und Aufbereitung von Texten, Daten und Medien. Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung. Die Bürger haben zu einem Großteil dieser Inhalte keinen oder nur sehr eingeschränkten Zugang, obwohl sie bereits für deren Herstellung bezahlt haben.
+
+Die Piratenpartei setzt sich dafür ein, dass möglichst alle durch öffentliche Stellen erzeugten oder mit Hilfe öffentlicher Förderung entstanden Inhalte der breiten Öffentlichkeit frei zugänglich gemacht werden. Die Verfügbarkeit darf nicht durch Antragsverfahren, Lizenzen, Gebühren oder technische Mittel erschwert werden. Die Inhalte werden in offenen Formaten online zur Verfügung gestellt und archiviert. Weiterverbreitung sowie kommerzielle Nutzung sind ausdrücklich erwünscht.
+
+Wir sehen die universelle Verfügbarkeit und Verknüpfbarkeit von Informationen als wichtigen Teil der öffentlichen Infrastruktur auf deren Basis neues Wissen entsteht und mit dessen Hilfe der öffentliche Sektor kontrollierbar und optimierbar wird.
+
+In Ausnahmefällen können bestimmte Informationen vorübergehend oder dauerhaft von der Veröffentlichungspflicht befreit werden. Dafür müssen jedoch konkrete, schwerwiegende Gründe (z.B. der Schutz persönlicher Daten oder die Bewahrung sehr wichtiger Geheimnisse) vorliegen. Die Begründung muss in jedem Einzelfall explizit dargelegt und veröffentlicht werden und ist generell anfechtbar.
+
+Im Bereich Wissenschaft wird die Publikation nach dem Open Access Prinzip so schnell wie möglich ein zentrales Kriterium bei der Vergabe öffentlicher Fördermittel. Die öffentlich rechtlichen Sendeanstalten werden nicht mehr daran gehindert, sondern verpflichtet, ihre Produktionen dauerhaft online abrufbar zu machen. Das Informationsfreiheitsgesetz wird überarbeitet und die Spielräume zur systematischen Umgehung der Informationspflichten beseitigt.
+
+Langfristig wird ein öffentlich zugängliches Bürgerinformations-Portal geschaffen. Behörden und andere Institutionen werden angewiesen, ihre öffentlichen Daten dort einzustellen bzw. die eigenen Datenbanken an das Portal anzubinden. Das System muss umfangreiche Kategorisierungs-, Such- und Exportfunktionen sowie geeignete Programmierschnittstellen für automatisierte Anfragen bieten.
 
 = Bildung und Forschung =
 
