@@ -328,7 +328,6 @@ Wir fordern daher, dass der DFB den 2011 begonnenen Dialog zur Legalisierung von
 ### Einführung von offenen Listen, kumulieren und panaschieren
 
 Die Bürger sollen bei Bundestagswahlen mehr Einfluss darauf erhalten, welche Personen und Parteien sie im Parlament vertreten.
-
 Die Piratenpartei ist für "offene Listen", damit die Wählenden mit ihren Zweitstimmen für konkrete Listenbewerber stimmen können.
 Die Reihenfolge der Kandidaten, die die jeweilige Partei zuvor bestimmt hat, soll nicht mehr unveränderlich sein.
 
