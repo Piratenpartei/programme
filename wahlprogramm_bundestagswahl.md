@@ -479,12 +479,11 @@ Auf diese Weise kann verhindert werden, dass das Urheberrecht bei behördeninter
 ### Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle
 
 Die Piratenpartei setzt sich dafür ein, ein staatlich finanziertes Trustcenter einzurichten, das jedem Menschen unabhängig vom Einkommen die Möglichkeit gibt, Dokumente und E-Mails für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren.
-
 Die dafür notwendigen Zertifikate sollen deshalb für Privatpersonen (nicht juristische Personen) kostenlos zu erwerben und zu verwenden sein und dazu dienen, jedermann abhörsichere Kommunikation und rechtssichere Geschäfte bzw. Vertragsabschlüsse über das Internet zu ermöglichen.
 
-Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d.h. er darf keine Kenntnis der geheimen Schlüssel besitzen).
+Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d. h. er darf keine Kenntnis der geheimen Schlüssel besitzen).
 
-### Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
+### Gesetzliche Garantie für den anonymen sowie autonymen und pseudonymen Zugang zu Netzdiensten
 
 Ein Zwang zur Verwendung von amtlich erfassten Namen ist abzulehnen.
 Diese Praxis ist bereits nach entsprechender Gesetzgebung in Südkorea gescheitert.
@@ -494,7 +493,7 @@ Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht 
 
 ### Abschaffung des "Hackerparagraphen" § 202c StGB
 
-Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen" § 202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
+Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen " §  202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
 
 ## Schutz der Freiheit und Privatsphäre im Internet
 
