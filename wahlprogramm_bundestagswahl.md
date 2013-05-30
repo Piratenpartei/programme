@@ -1442,7 +1442,7 @@ Daher setzt sich die Piratenpartei für faire und sichere Arbeitsbedingungen und
 
 #### Expertenkommission
 
-Nach niederländischem Vorbild soll eine paritätisch besetzte Expertenkommission einberufen werden, die halbjährig Empfehlungen zur Erhöhung des Mindestlohns ausarbeitet.
+Nach niederländischem Vorbild soll eine paritätisch besetzte Expertenkommission einberufen werden, die halbjährlich Empfehlungen zur Erhöhung des Mindestlohns ausarbeitet.
 Diese Empfehlung wird an den Gesetzgeber weitergeleitet, damit der Mindestlohn zeitnah erhöht wird.
 Die paritätische Besetzung soll die Interessen von Arbeitnehmern und Arbeitgebern ausgleichen.
 
@@ -1452,7 +1452,7 @@ Wir fordern, dass der Staat in öffentlichen Ausschreibungen Auftragnehmern eine
 
 #### Geschlechterunabhängige Chancen
 
-Die Piratenpartei Deutschland fordert geschlechterunabhängige gleiche Bezahlung, Chancen- und Entwicklungsmöglichkeiten.
+Die Piratenpartei Deutschland fordert geschlechterunabhängige, gleiche Bezahlung, Chancen- und Entwicklungsmöglichkeiten.
 
 #### Ost-West-Gefälle
 
@@ -1468,11 +1468,11 @@ Auf der anderen Seite erkennt sie viele Probleme, die eine Neuregelung für die 
 
 b.) Die Piratenpartei setzt sich dafür ein, Missbrauch durch Arbeitgeber zu unterbinden.
 Ein nicht für Ausbildung oder Studium benötigtes Praktikum ist auf drei Monate zu begrenzen oder es ist nach Ablauf von drei Monaten ein angemessenes Praktikantengehalt zu zahlen und der Praktikant rechtlich dem festangestellten Mitarbeiter gleichzustellen.
-Auf Antrag sollen Betriebe finanzielle Unterstützung durch die Bundesagentur für Arbeit beantragen können.
+Auf Antrag sollen Betriebe finanzielle Unterstützung durch die Bundesagentur für Arbeit erhalten können.
 
 #### Bekämpfung von "prekärem Unternehmertum"
 
-Die Piratenpartei unterstützt und fördert ausdrücklich das freie Unternehmertum, setzt sich jedoch dafür ein, dass abhängig Beschäftigte nicht als Subunternehmer ohne Sozialabgabepflicht beschäftigt werden und so das unternehmerische Risiko ausgelagert wird, ohne entsprechend honoriert zu werden.
+Die Piratenpartei unterstützt und fördert ausdrücklich das freie Unternehmertum, setzt sich jedoch dafür ein, dass nicht abhängig Beschäftigte als Subunternehmer ohne Sozialabgabepflicht beschäftigt werden und so das unternehmerische Risiko ausgelagert wird, ohne dass sie entsprechend honoriert werden.
 
 ### Mitbestimmung
 
@@ -1493,84 +1493,81 @@ Daher befürworten wir alle notwendigen gesetzlichen Schutzmaßnahmen im Betrieb
 Die Piratenpartei tritt dafür ein, die Kirchen im Arbeitsrecht mit den übrigen Tendenzbetrieben gleichzustellen.
 Damit würden Kündigungsschutz, Mitbestimmung, Streikrecht, Koalitionsfreiheit und Arbeitnehmerrechte entsprechend dem Betriebsverfassungs- und Personalvertretungsrecht gelten.
 Deshalb spricht sich die Piratenpartei dafür aus, § 118 (2) des Betriebsverfassungsgesetzes (Sonderregelung für Religionsgemeinschaften) zu streichen und § 9 des allgemeinen Gleichberechtigungsgesetzes entsprechend den EU-Regelungen umzugestalten.
-Die Piratenpartei spricht sich dafür aus, dass für überwiegend aus öffentlichen Mitteln finanzierte Betriebe - etwa im Bereich des Sozial- und Gesundheitswesens - die Beachtung der Grundrechte und der Regeln des allgemeinen Gleichberechtigungsgesetzes Voraussetzung für die öffentliche Förderung sein muss.
+
+Die Piratenpartei spricht sich dafür aus, dass für überwiegend aus öffentlichen Mitteln finanzierte Betriebe – etwa im Bereich des Sozial- und Gesundheitswesens – die Beachtung der Grundrechte und der Regeln des allgemeinen Gleichberechtigungsgesetzes Voraussetzung für die öffentliche Förderung sein muss.
 
 ### Maßnahmen gegen Mobbing
 
 Die Piratenpartei setzt sich für einen umfassenden gesetzlichen Schutz vor Mobbing am Arbeitsplatz und in Schulen ein.
-Um Mobbing wirksam zu begegnen, muss Mobbing als Straftatbestand von Amts wegen verfolgt und durch spürbarem Schadensersatz zu Lasten der Schädigenden kompensiert werden.
+Um Mobbing wirksam zu begegnen, muss Mobbing als Straftatbestand von Amts wegen verfolgt und durch spürbaren Schadensersatz zu Lasten der Schädigenden kompensiert werden.
 Der Arbeitnehmerschutz muss durch eine Anpassung der geltenden arbeits- und sozialrechtlichen Bestimmungen ergänzt werden, wenn Arbeitsplatz oder Arbeitsfähigkeit als Folge von Mobbing verloren gehen.
 
-Die Piratenpartei setzt sich für die Schaffung eines Rahmengesetzes auf Bundesebene für Mobbingbeautragte des Bundes, der Länder und der Landkreise mit Zuständigkeit für alle weiteren in der Verwaltungsgliederung untergeordneten Behörden ein.
-Ihnen soll im Rahmen eines zu schaffenden Antimobbinggesetzes Vetorecht gegen Rechtsakte gegeben werden, die mit ihren Untersuchungen in Zusammenhang stehen.
+Die Piratenpartei setzt sich für die Schaffung eines Rahmengesetzes auf Bundesebene für Mobbingbeauftragte des Bundes, der Länder und der Landkreise mit Zuständigkeit für alle weiteren in der Verwaltungsgliederung untergeordneten Behörden ein.
+Den Mobbingbeauftragten soll im Rahmen eines zu schaffenden Antimobbinggesetzes Vetorecht gegen Rechtsakte gegeben werden, die mit ihren Untersuchungen in Zusammenhang stehen.
 Sie sollen einen jährlichen Bericht veröffentlichen.
 
 ### Telearbeit
 
 Die moderne Arbeitswelt fordert vom Arbeitnehmer ein hohes Maß an Flexibilität.
-Im Gegenzug fordert die Piratenpartei auch vom Arbeitgeber Flexibiltät.
+Im Gegenzug fordert die Piratenpartei auch vom Arbeitgeber Flexibilität.
 Daher soll ein Arbeitnehmer, sofern es seine Tätigkeit erlaubt, auf eigenen Wunsch seine Arbeitsleistung von zu Hause aus erbringen können.
 Der Arbeitgeber hat für die notwendige technische Infrastruktur zu sorgen.
 Ein Telearbeitsplatz mit der notwendigen Ausstattung soll nur bei dauerhafter Nutzung vorgeschrieben sein, damit eine gelegentliche Inanspruchnahme von Telearbeit, z.B. bei Erkrankung eines Kindes, unbürokratisch möglich ist.
 Gelegentliche Heimarbeit darf der Arbeitnehmer kurzfristig und formlos anzeigen.
 
 Gleichzeitig darf Heimarbeit nicht zur Überwachung, zu einer Ausweitung der Arbeitszeit oder dem Unterlaufen der Arbeitsschutzvorschriften führen.
-Zur Vermeidung von leistungsbedingte Erkrankungen wie Burnout ist auch ein informeller Druck zur fortwährenden dauernden Erreichbarkeit außerhalb der Arbeitszeit nicht zulässig.
+Zur Vermeidung von leistungsbedingten Erkrankungen wie Burnout ist auch ein informeller Druck zur fortwährenden dauernden Erreichbarkeit außerhalb der Arbeitszeit nicht zulässig.
 
 ### Leiharbeit
 
 #### Allgemeine Forderungen
 
 Von Zeitarbeitern werden besondere Talente, hohe Flexibilität und die Akzeptanz eines höheren Arbeitslosigkeitsrisikos gefordert.
-Die arbeitsrechtlichen Bedingungen von Zeitarbeitern dürfen daher die branchenüblichen oder tarifvertraglichen Regelungen nicht unterschreiten, da es sich um "besondere Arbeitsverhältnisse" handelt.
+Die arbeitsrechtlichen Bedingungen von Zeitarbeitern dürfen daher, gerade weil es sich um "besondere Arbeitsverhältnisse" handelt, nicht die branchenüblichen oder tarifvertraglichen Regelungen unterschreiten.
 
-Ähnlich wie zur Bekämpfung der Schwarzarbeit sollen die Beschäftigungsverrhältnisse stärker kontrolliert werden.
-Für Zeiten der Nichtbeschäftigung, die der Leiharbeitsnehmer nicht zu vertreten hat, müssen Leiharbeitnehmer trotzdem bezahlt werden.
+Ähnlich wie zur Bekämpfung der Schwarzarbeit sollen Beschäftigungsverhältnisse hier stärker kontrolliert werden.
+In Zeiten von Nichtbeschäftigung, die der Leiharbeitnehmer nicht selbst zu vertreten hat, muss er trotzdem bezahlt werden.
 Gleiches gilt bei ärztlich bescheinigter Arbeitsunfähigkeit.
+Die Piratenpartei setzt sich dafür ein, dass die Zeitarbeitsunternehmen bei Nichtzahlung von Fahrtkosten oder Zuschlägen an die Arbeitnehmer haften und bei wiederholtem Verstoß zunehmend hart sanktioniert wird, bis hin zum Entzug der Gewerbeerlaubnis.
 
-Die Piratenpartei setzt sich dafür ein, dass die Zeitarbeitsunternehmen bei Nichtzahlung von Fahrtkosten / Zuschlägen an die Arbeitnehmer haften und bei wiederholtem Verstoß progressiv ansteigend sanktioniert wird, bis hin zum Entzug der Gewerbeerlaubnis.
-
-Das Leiharbeitsverhältnis soll nach spätestens sechs Monaten in ein festes Arbeitsverhältnis münden, es sei denn der Arbeitnehmer wünscht weiter in Leiharbeit beschäftigt zu bleiben.
+Das Leiharbeitsverhältnis soll nach spätestens sechs Monaten in einem festen Arbeitsverhältnis münden, es sei denn, der Arbeitnehmer wünscht weiter in Leiharbeit beschäftigt zu bleiben.
 Die Probezeit soll im Falle der Übernahme des Leiharbeitnehmers durch den Entleiherbetrieb entfallen.
-
 Die Piratenpartei fordert, die gesetzlichen Kündigungsfristen der Leiharbeiter den Regelungen der festangestellten Arbeitnehmer des Unternehmens gleichzustellen.
 Diese Fristen sollen auch in den gängigen branchenüblichen Tarifverträgen zeitnah umgesetzt werden.
 
 #### Gleiche Behandlung für gleiche Leistung
 
-Die Piratenpartei setzt sich dafür ein, dass betriebliche Zusatzleistungen, wie z.B. subventioniertes Mittagessen oder auch andere freiwillige Leistungen im Sinne der grundgesetzlich geschützten unternehmerischen Freiheit beibehalten bleiben, aber gleichermaßen für alle Beschäftigten verfügbar sind.
-Daher fordert die Piratenpartei, dass Leiharbeitsverhältnisse regulären Beschäftigungsverhältnissen in Bezug von Sachleistungen wie Berufskleidung mindestens gleichgesetzt werden.
-
+Die Piratenpartei setzt sich dafür ein, dass betriebliche Zusatzleistungen, wie z.B. subventioniertes Mittagessen oder auch andere freiwillige Leistungen im Sinne der grundgesetzlich geschützten unternehmerischen Freiheit, beibehalten werden, aber gleichermaßen für alle Beschäftigten verfügbar sind.
+Daher fordert die Piratenpartei, dass Leiharbeitsverhältnisse regulären Beschäftigungsverhältnissen in Bezug auf Sachleistungen wie Berufskleidung mindestens gleichgestellt werden.
 Wir regen daher eine stärkere Zusammenarbeit der Beteiligten an und fordern sie auf, dieser Diskriminierung beispielweise mit Betriebsvereinbarungen entgegenzuwirken.
 
-Die Piratenpartei fordert, dass Leiharbeiter in allen Belangen der Stammbelegschaft gleichgestellt werden müssen.
-
+Die Piratenpartei fordert, dass Leiharbeiter in allen Belangen der Stammbelegschaft gleichgestellt werden.
 Dies impliziert auch, dass der Betriebsrat des Entleiherbetriebes in den Angelegenheiten des Betriebes auch für die Leiharbeiter zuständig sein muss, soweit es nicht solche Angelegenheiten sind, die ausschließlich den Entleiherbetrieb betreffen.
 Die Pflichten des Betriebsrates müssen in diesen Fällen vollumfänglich auch für die Leiharbeitnehmer gelten.
 
 #### Arbeitnehmerüberlassung im SGB
 
-Um keine Arbeitnehmer "zweite Klasse" entstehen zu lassen, fordern die Piraten, dass in Eingliederungsvereinbarungen keine Aufforderung mehr festgeschrieben werden, Bewerbungen bei Zeitarbeitsunternehmen / Personaldienstleistern vorzunehmen.
+Um keine Arbeitnehmer "zweite Klasse" entstehen zu lassen, fordern die Piraten, dass in Eingliederungsvereinbarungen keine Aufforderungen mehr festgeschrieben werden, Bewerbungen bei Zeitarbeitsunternehmen oder Personaldienstleistern vorzunehmen.
 Die Verweigerung einer solchen Bewerbung darf nicht als mangelnde Eigenbemühung oder Mitwirkung gelten.
 
 ### Arbeitsbedingungen besonderer Personengruppen
 
 #### Mitarbeitende in Jobcentern
 
-Wir fordern eine regelmäßige, qualitativ hochwertige Fort- und Weiterbildung der Mitarbeitenden in den Jobcentern, die fachliche und soziale Kompetenzen vermitteln müssen.
+Wir fordern eine regelmäßige, qualitativ hochwertige Fort- und Weiterbildung der Mitarbeitenden in den Jobcentern, die fachliche und soziale Kompetenzen vermitteln muss.
 
 #### Elternfreundliche Arbeitsbedingungen
 
 Die Piratenpartei setzt sich für flexible, elternfreundliche Arbeitsbedingungen und Betreuungsmöglichkeiten in Unternehmen und Betrieben ein.
-Kindererziehung und Erwerbstätigkeit müssen für beide Elternteile gleichermaßen miteinander vereinbart werden können.
+Kindererziehung und Erwerbstätigkeit müssen für beide Elternteile gleichermaßen miteinander vereinbar sein.
 
-Die Piratenpartei setzt sich dafür ein, dass bei der Besetzung von Stellen in bundeseigenen öffentlichen Verwaltungen und Betrieben allein erziehende Elternteile mit Kindern unterhalb der Schulpflicht bei gleicher Qualifikation bevorzugt eingestellt werden.
+Die Piratenpartei setzt sich dafür ein, dass bei der Besetzung von Stellen in bundeseigenen öffentlichen Verwaltungen und Betrieben alleinerziehende Elternteile mit Kindern unterhalb des schulpflichtigen Alters bei gleicher Qualifikation bevorzugt eingestellt werden.
 Der Anspruch auf eine Teilzeitbeschäftigung ist besonders zu berücksichtigen.
 Weitere organisatorische Ansätze zur Vereinbarkeit von Familie und Beruf sind zu fördern.
 
 Die bereits existierenden Förderprogramme zur Einstellung Alleinerziehender lehnen wir ab.
-Sie stellen lediglich einen Mitnahmeeffekt dar.
-Dem gegenüber sind Maßnahmen im organisatorischen Bereich zur Flexibilisierung der Arbeitszeit und -situation einzelfallbezogen zu fördern.
+Sie erzielen lediglich einen Mitnahmeeffekt.
+Demgegenüber sind Maßnahmen im organisatorischen Bereich zur Flexibilisierung der Arbeitszeit und ‑situation einzelfallbezogen zu fördern.
 
 #### Scheinselbstständige
 
@@ -1585,7 +1582,7 @@ Hierbei ist zu berücksichtigen, dass Honorarkräfte von ihren Stundensätzen au
 
 #### Call-Center-Mitarbeiter
 
-Die Einsatzzeiten für Mitarbeiter in Call-Centern sollen sich an die üblichen Geschäftszeiten (8:00-20:00 h) halten und diese sollen jeweils einen Monat im voraus bekannt gemacht werden.
+Die Einsatzzeiten für Mitarbeiter in Call-Centern sollen sich an die üblichen Geschäftszeiten (8:00-20:00 h) halten und jeweils einen Monat im Voraus bekannt gemacht werden.
 Dies gilt auch für gegebenenfalls nötige Bereitschaftdienste.
 Ein Einsatz außerhalb der üblichen Geschäftszeiten soll möglich sein, sofern der Mitarbeiter dies wünscht.
 
