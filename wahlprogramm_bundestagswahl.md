@@ -2546,7 +2546,7 @@ Welcher auch eine Gesamtbetrachtung politischer, rechtlicher, sozialer, wirtscha
 
 ## Transparente Aussenpolitik
 
-Die langfristigen außen­politischen Ziele der Bundesrepublik Deutschland sind transparent und offen zugänglich zu dokumentieren.
+Die langfristigen außenpolitischen Ziele der Bundesrepublik Deutschland sind transparent und offen zugänglich zu dokumentieren.
 Die Dokumentation muss in einem vom Auswärtigen Amt zu publizierenden Weißbuch erfolgen und bei gegebenem Anlass aktualisiert werden.
 
 ### Transparente Europäische Außen- und Sicherheitspolitik
@@ -2558,8 +2558,7 @@ Deshalb steht sie dafür ein, dass die EU-Organe die langfristigen außenpolitis
 ## Piraten gegen Cyberwar
 
 Offene und verdeckte Aktionen von staatlichen, privaten und öffentlichen Organisationen, die den Cyberspace als Konfliktdomäne nutzen und die Zivilbevölkerung gefährden, lehnen wir dezidiert ab.
-Schadsoftware, die in der Lage ist Menschenleben durch Angriffe auf gesellschaftliche Versorgungsnetzwerke (Stichwort: KRITIS) zu gefährden, betrachten wir als inakzeptables Sicherheitsrisiko und fordern ein Bekenntnis von Regierungen, im speziellen der dt.
-Regierung, zu friedenserhaltenden Maßnahmen, gemäß den internationalen Konventionen zur Verbesserung des friedlichen menschlichen Zusammenlebens durch Technik auf der Welt.
+Schadsoftware, die in der Lage ist Menschenleben durch Angriffe auf gesellschaftliche Versorgungsnetzwerke (Stichwort: KRITIS) zu gefährden, betrachten wir als inakzeptables Sicherheitsrisiko und fordern ein Bekenntnis von Regierungen, im speziellen der deutschen Regierung, zu friedenserhaltenden Maßnahmen, gemäß den internationalen Konventionen zur Verbesserung des friedlichen menschlichen Zusammenlebens durch Technik auf der Welt.
 Die Piratenpartei Deutschland fordert alle Regierungen dieser Erde auf die globalen Informations- und Kommunikationsnetze gemeinsam zu schützen und als ein hohes gemeinschaftliches Gut aller Menschen anzuerkennen.
 
 ## Global Menschenrechte stärken
@@ -2584,7 +2583,7 @@ Sie unterstützt UN-Initiativen die das Ziel haben, dies zu verhindern.
 Die Vereinten Nationen als wichtigste Institution für die friedliche Verständigung zwischen den Staaten der Erde bedürfen innerer Reformen, um für die neuen Herausforderungen gerüstet zu sein.
 Eine angemessene Beteiligung aller Kontinente am Sicherheitsrat ist dauerhaft sicherzustellen.
 Insbesondere sollen Schwellenländer, angesichts ihrer wachsenden regionalen Bedeutung, stärker an den Mechanismen zur Wahrnehmung globaler Verantwortung beteiligt werden.
-Die Vereinten Nationen können ihre Aufgaben nur erfüllen, wenn die Mitgliedstaaten ihren Beitrags­zahlungen nachkommen.
+Die Vereinten Nationen können ihre Aufgaben nur erfüllen, wenn die Mitgliedstaaten ihren Beitragszahlungen nachkommen.
 Es bietet sich an, die Vereinten Nationen in Zukunft noch stärker an der Koordination von Katastrophenhilfeprojekten zu beteiligen.
 
 ## Nukleare Abrüstung und Rüstungskontrolle
@@ -2592,7 +2591,7 @@ Es bietet sich an, die Vereinten Nationen in Zukunft noch stärker an der Koordi
 ### Vision einer kernwaffenfreien Welt
 
 Die Piratenpartei teilt die Vision einer kernwaffenfreien Welt und möchte diese durch konkrete Schritte - wo immer sie sich ergeben - verwirklichen.
-Dazu unterstützen wir Inititativen, welche Kommunikation, Vertrauensbildung und Transparenz zwischen den Staaten unter Berücksichtigung der jeweiligen Sicherheitsinteressen fördern.
+Dazu unterstützen wir Initiativen, welche Kommunikation, Vertrauensbildung und Transparenz zwischen den Staaten unter Berücksichtigung der jeweiligen Sicherheitsinteressen fördern.
 Die Ziele der nuklearen Abrüstung und Nichtverbreitung sollen dabei parallel verfolgt werden.
 
 ### Schritte zur kernwaffenfreien Welt
