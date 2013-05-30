@@ -1762,7 +1762,7 @@ Durch die einkommensabhängige Verteilung werden diese Zahlungen jedoch untersch
 Dies lehnen wir ab, weil dies unserem Verständnis von Chancengleichheit widerspricht.
 Jedes Kind hat einen Anspruch auf finanzielle Unterstützung durch den Staat.
 
-Das existierende Ehegattensplitting passt nicht in unser Familienbild, da es auch kinerlose Ehen finanziell fördert und ist sukzessive abzuschaffen.
+Das existierende Ehegattensplitting passt nicht in unser Familienbild, da es auch kinderlose Ehen finanziell fördert und ist sukzessive abzuschaffen.
 
 ## Kostenfreie und flexible Betreuungs- und Bildungsangebote
 
