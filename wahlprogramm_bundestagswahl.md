@@ -1602,15 +1602,17 @@ Um diese Ziele zu erreichen, muss das Rentensystem so umgestaltet werden,dass di
 ### Grundsätzliche Vorgehensweise zur Grundrente
 
 Alle bestehenden Rentensysteme, berufsständische Versorgungssysteme und Pensionen im öffentlichen Dienst werden zu einer Rentenkasse zusammengeführt.
+
 Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet.
 Keine Berufsgruppe wird ausgenommen, die Bemessungsgrenze soll entfallen.
 In die Rentenkasse zahlen alle in Deutschland lebenden Menschen einkommensabhängig ein.
-
 Die Beiträge von Selbstständigen werden sich an ihren jeweiligen Unternehmenszahlen orientieren, sodass diese in ihrer Existenz nicht gefährdet werden.
 
 Die Rentenbezüge bewegen sich in einem Korridor von Mindest- bis Maximalrente.
+
 Die Renten werden jährlich um einen Faktor, der die Inflationsrate berücksichtigt angepasst.
 Dieser Faktor berücksichtigt außerdem die Änderung weiterer Kosten, wie zum Beispiel Gesundheitskosten.
+
 Die staatliche Rentenkasse verwaltet sich eigenverantwortlich, ohne direkten Zugriff durch den Staat.
 Der Staat schafft den gesetzlichen Rahmen.
 Die Rentenkasse ist für die Rente zweckgebunden\!
@@ -1626,7 +1628,6 @@ Die Piratenpartei sieht durch die rückwirkende Beitragspflicht für Altverträg
 Dazu hat der Arbeitgeber keine Sozialversicherungsbeiträge für die Beiträge während der Ansparphase bezahlt.
 
 Wir fordern, dass die Beitragspflicht zur gesetzlichen Kranken- und Pflegeversicherung für Altverträge wieder komplett aufgehoben wird.
-
 Die Piraten setzen sich generell für die Einführung einer Informationspflicht gegenüber den Versicherten vor dem Vertragsabschluss einer betrieblichen Altersvorsorge ein.
 Staat und Versicherungsunternehmen sollen über die Beitragszahlungen im Alter transparent und umfassend informieren.
 
