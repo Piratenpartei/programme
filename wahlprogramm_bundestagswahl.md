@@ -1376,10 +1376,12 @@ Dies soll insbesondere auch für ältere Arbeitnehmer gelten.
 ### Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II) und Bürgerarbeit
 
 Die Piratenpartei fordert, die sogenannten "Ein-Euro-Jobs" (Vermittlung in Arbeitsgelegenheiten mit Mehraufwandsentschädigung, AGH-MAE) mit sofortiger Wirkung auszusetzen, weil diese keinen Zugang zum ersten Arbeitsmarkt ermöglichen.
-Vielfach vernichten diese staatlich subventionierten Einsätze sogar reguläre Arbeitsplätze im Kleingewerbebereich, weil kein öffentlicher Auftrag preiswerter durchgeführt werden kann, als über einen "1-Euro-Jobber".
+Vielfach vernichten diese staatlich subventionierten Einsätze sogar reguläre Arbeitsplätze im Kleingewerbebereich, weil kein öffentlicher Auftrag preiswerter durchgeführt werden kann, als durch einen "1-Euro-Jobber".
+
 Ebenso lehnt die Piratenpartei das vom Bundesministerium für Arbeit und Soziales unter Beteiligung der Europäischen Union und des Europäischen Sozialfonds Deutschlands initiierte Modellprojekt "Bürgerarbeit" ab.
 Hier werden Arbeitslose für drei Jahre in Kommunen, Städten oder Kreisen sozialversicherungspflichtig beschäftigt, ohne jedoch arbeitslosenversichert zu sein.
-Das bedeutet, dass innerhalb dieser Erwerbstätigkeit keine Ansprüche auf Versicherungsleistungen (ALG I) erworben werden, so dass der Betroffene nach 3 Jahren weiterhin im "Hartz-IV"-Bezug verbleibt.
+Das bedeutet, dass innerhalb dieser Erwerbstätigkeit keine Ansprüche auf Versicherungsleistungen (ALG I) erworben werden, sodass der Betroffene nach drei Jahren weiterhin im "Hartz-IV"-Bezug verbleibt.
+
 In beiden Fällen gelten die von der Piratenpartei abgelehnten Sanktionsbestimmungen des SGB II.
 
 ### Stärkung der Arbeitslosen-Selbsthilfegruppen
@@ -1387,7 +1389,7 @@ In beiden Fällen gelten die von der Piratenpartei abgelehnten Sanktionsbestimmu
 1\.
 Um die Rechte der Leistungsberechtigten innerhalb des komplexen Sozial- und Verwaltungsrechtes zu stärken, fordert die Piratenpartei eine qualitative und quantitative Aufrüstung der lokalen Arbeitslosen-Selbsthilfegruppen.
 Die Organisationsstruktur und Finanzierung soll sich analog am Bundesverband der Verbraucherzentralen und ihren jeweiligen Verbraucherzentralen orientieren.
-Somit wären gut 85 Prozent der Mittel durch das betreffende Bundesministerium abgedeckt.
+So wären gut 85 Prozent der Mittel durch das betreffende Bundesministerium abgedeckt.
 Die Finanzierung soll über Mittel aus dem Bundeshaushalt erfolgen.
 
 2\. Vereine und Hilfsgruppen, die Arbeitsgelegenheiten mit Mehraufwandsentschädigung anbieten oder durchführen, sind von der Nutzung dieser Finanzmittel auszuschließen.
@@ -1396,7 +1398,7 @@ Die Finanzierung soll über Mittel aus dem Bundeshaushalt erfolgen.
 
 1\.
 Die Piratenpartei fordert das uneingeschränkte Recht auf Akteneinsicht.
-Es muss die Möglichkeit eingeräumt werden, die gesamte persönliche, auch digitale Dokumentation (Aufzeichnungen, Profiling etc.) unmittelbar nach jedem Termin einzusehen und auf Verlangen ausgehändigt zu bekommen.
+Es muss die Möglichkeit eingeräumt werden, die gesamte, auch digitale, persönliche Dokumentation (Aufzeichnungen, Profiling etc.) unmittelbar nach jedem Termin einzusehen und auf Verlangen ausgehändigt zu bekommen.
 
 2\. Es sollen verbindliche, nachvollziehbare Informations- und Beratungsrichtlinien für das Jobcenter geschaffen werden, die dem Leistungsberechtigten zugänglich sein müssen.
 Leistungsberechtigte sind schriftlich vollumfänglich und konkret im Vorfeld über seine Rechte und Pflichten aufzuklären.
@@ -1424,7 +1426,7 @@ Wir setzen uns dafür ein, dass die Bundesanstalt für Arbeit unverfälschte Zah
 
 ### Prozesskostenhilfe
 
-Die Piratenpartei setzt sich dafür ein, dass jeder Mensch unabhängig vom Einkommen die Möglichkeit haben muss, seine Rechte vor einem Gericht geltend zu machen.
+Die Piratenpartei setzt sich dafür ein, dass jeder Mensch unabhängig vom Einkommen die Möglichkeit hat, seine Rechte vor einem Gericht geltend zu machen.
 Daher lehnen wir Einschränkungen im Bereich der Prozesskostenhilfe und des Beratungshilferechts ab, wenn hierdurch die Anspruchsvoraussetzungen für die Gewährung von Unterstützung angehoben werden.
 Persönlichkeitsrechte der Betroffenen müssen gewahrt bleiben und der Hilfe Empfangende muss sich darauf verlassen können, dass ihm einmal gewährte finanzielle Hilfe nicht im laufenden Verfahren wieder entzogen wird.
 
