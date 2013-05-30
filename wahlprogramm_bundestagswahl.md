@@ -249,7 +249,7 @@ Das ILA soll unter anderem Vereinbarungen enthalten über
   - die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
   - die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
 
-#### Stärkung der Rechte Prostituierter
+### Stärkung der Rechte Prostituierter
 
 Die Entscheidung zur Ausübung der Prostitution fällt
 
