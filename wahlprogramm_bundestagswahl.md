@@ -1224,8 +1224,6 @@ Die Piratenpartei Deutschland setzt sich für die Verbesserung der Situation der
 
 ### Mindestlohn in öffentlichen Ausschreibungen
 
-  -   - Der folgenden Textbaustein entspricht dem [G220](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_220 "wikilink") (76,2% Zustimmung) und ist dem vorhandenen Text anzufügen\*
-
 Wir fordern, dass der Staat in öffentlichen Ausschreibungen Auftragnehmern einen Mindestlohn zwingend vorschreibt.
 
 ## Begrenzung der Leiharbeit
