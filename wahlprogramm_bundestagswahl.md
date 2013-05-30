@@ -965,7 +965,6 @@ Das Recht der Bevölkerung auf Schutz vor Verkehrs- und Industrielärm ist Teil 
 Jeder Mensch hat das Recht auf Schutz vor Verkehrs- und Industrielärm unter Berücksichtigung des Standes der Technik.
 Aktiver Schutz (Vermeidung von Lärm an der Quelle) ist dem passivem Schutz (am Wirkungsort) vorzuziehen.
 Besonders schützenswert ist die Nacht.
-
 Lärmemissionen sind in ihrer Wirkung unter Berücksichtigung aller Gesundheitskosten gesamtheitlich zu betrachten und wirtschaftliche Chancen den gesundheitlichen Risiken gegenüberzustellen.
 
 #### Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
@@ -973,11 +972,9 @@ Lärmemissionen sind in ihrer Wirkung unter Berücksichtigung aller Gesundheitsk
 Die Piratenpartei setzt sich für die Kartierung von Straßen-, Bahn-, Flug- und Industrielärmemissionen ein – unter Nutzung aller verfügbarer Daten, unabhängig von Mindestbelastungs-Grenzwerten.
 Die on- und offline Darstellung der Emissionsbelastung muss bundesweit einheitlich erfolgen.
 Lärmquellen sind entsprechend zu kennzeichnen.
-
-Alle vorhandenen Daten sollen nach dem OpenData-Prinzip transparent und maschinenlesbar im Internet veröffentlicht werden, um eine dynamische, idealerweise webbasierte Darstellung der Einzel- und Gesamtbelastungen zu ermöglichen.
+Alle vorhandenen Daten sollen nach dem Open-Data-Prinzip transparent und maschinenlesbar im Internet veröffentlicht werden, um eine dynamische, idealerweise webbasierte Darstellung der Einzel- und Gesamtbelastungen zu ermöglichen.
 Betroffenen müssen die Möglichkeit haben, ihre individuelle Belastungen schnell und unkompliziert zu erfahren.
 Lärmemissionsberechnungen sollen auf Antrag der Betroffenen durch Messungen validiert werden.
-
 Die Piratenpartei unterstützt die Einführung eines Lärmlabels.
 Mit Hilfe eines solchen Zertifizierungsinstrumentes, das interdisziplinär-wissenschaftlich erarbeitet werden muss, sollen Lärmquellen aller Art einfach und bürgerfreundlich gekennzeichnet werden können.
 
