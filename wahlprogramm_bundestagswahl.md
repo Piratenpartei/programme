@@ -3005,7 +3005,7 @@ Es ist zu erwarten, dass die resultierende Disziplinierung zu einer erhöhten So
 ### Kein fliegender Gerichtsstand bei Verstößen im Internet
 
 Wir werden uns dafür einsetzen, dass für Klagen wegen Rechtsverstößen, die im Internet begangen wurden, der fliegende Gerichtsstand keine Anwendung findet, solange nach den übrigen Vorschriften ein deutsches Gericht zuständig ist.
-Die derzeitige Rechtslage, die bei Veröffentlichungen im Internet eine Klage überall dort zulässt, wo der entsprechende Inhalt abgerufen werden kann, widerspricht dem Sinn und Zweck der Regelung, da ein solcher Gerichtsstand die Auswahl des Gerichts nach Erfolgschancen erlaubt und so die Beklagten benachteiligt.
+Die derzeitige Rechtslage, die bei Veröffentlichungen im Internet eine Klage überall dort zulässt, wo der entsprechende Inhalt abgerufen werden kann, widerspricht dem Sinn und weck der Regelung, da ein solcher Gerichtsstand die Auswahl des Gerichts nach Erfolgschancen erlaubt und so die Beklagten benachteiligt.
 Das lehnen wir ab und wollen eine verbraucherfreundliche Regelung schaffen.
 
 ### Begründungserfordernis bei ablehnenden Entscheidungen erweitern
