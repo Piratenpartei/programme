@@ -859,7 +859,7 @@ Wer radioaktive Produkte herstellt oder in den Verkehr bringt, muss einen Entsor
 
 #### Energiewende solidarisch finanzieren
 
-Die Zahl der von der EEG Umlage befreiten Unternehmen muss deutlich reduziert werden.
+Die Zahl der von der EEG-Umlage befreiten Unternehmen muss deutlich reduziert werden.
 Nur Unternehmen die tatsächlich von den niedrigen Strompreisen existenziell abhängig sind sollen eine Reduzierung oder Befreiung erhalten.
 Die Reduzierung oder Befreiung soll dabei auch von durchgeführten oder geplanten Maßnahmen zur Energieeffizienz und Lastflexibilisierung dieser Unternehmen abhängig sein.
 
