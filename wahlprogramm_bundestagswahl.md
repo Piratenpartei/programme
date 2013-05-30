@@ -1257,7 +1257,7 @@ Zusätzlich werden wir eine Höchstquote von Leiharbeitern je Unternehmen bezoge
 
 #### Ein Grundeinkommen ist seriös zu finanzieren
 
-Die Piratenpartei startet mit vorsichtigen Annahmen und einem geringen Grundeinkommen - sollte die Entwicklung dann günstiger verlaufen als die Annahmen, ist die Erhöhung des Grundeinkommens schnell beschlossen.
+ie Piratenpartei startet mit vorsichtigen Annahmen und einem geringen Grundeinkommen – sollte die Entwicklung dann günstiger verlaufen als die Annahmen, ist die Erhöhung des Grundeinkommens schnell beschlossen.
 Die Einführung eines Grundeinkommens darf jedoch nicht zur Schlechterstellung von wirtschaftlich Schwächeren führen.
 
 #### Schrittweise Veränderung des Steuer- und Sozialsystems
@@ -1297,19 +1297,19 @@ Bei den Mindestsicherungen sind bis zur Einführung des Grundeinkommens der Rege
 
 #### Abschaffung der Kinderarmut
 
-Die Piratenpartei setzt sich auf Bundesebene für die Einführung eines Kindergrundeinkommens ein.
-Nach Unicef-Angaben liegt der Anteil der Kinder, die in Deutschland unter Kinderarmut leiden, bei 8,8%.
+Nach UNICEF-Angaben liegt der Anteil der Kinder, die in Deutschland unter Kinderarmut leiden, bei 8,8%.
+Die Piratenpartei setzt sich daher auf Bundesebene für die Einführung eines Kindergrundeinkommens ein.
 
 Die Grundeinkommenssätze für Kinder und Jugendliche können von denen für Erwachsene abweichen.
 Dabei ist zu berücksichtigen, dass Kinder nicht in der Lage sind, ihren Lebensunterhalt selbst zu erwirtschaften.
 Insgesamt wollen wir eine deutliche Besserstellung der Familien, unabhängig vom Familienmodell.
-Kinderarmut schließt Kinder einkommensschwacher Eltern von gesellschaftlicher Teilnahme, insbesondere von vielen Bildungsangeboten aus.
+Kinderarmut schließt Kinder einkommensschwacher Eltern von gesellschaftlicher Teilhabe, insbesondere von vielen Bildungsangeboten aus.
 Auf diese Weise wird die Benachteiligung durch Herkunft von Beginn an verfestigt.
 Gleiche Bildungschancen für alle können mit einem Kindergrundeinkommen viel wirkungsvoller realisiert werden als beispielsweise mit bürokratieintensiven "Bildungspaketen ".
 
 #### Bildungsgrundeinkommen
 
-Die Piratenpartei setzt sich dafür ein, die BAFöG-Leistungen durch ein Bildungsgrundeinkommen zu ersetzen.
+Die Piratenpartei setzt sich dafür ein, die BAföG-Leistungen durch ein Bildungsgrundeinkommen zu ersetzen.
 Dieses Bildungsgrundeinkommen sichert das Einkommen derer, die eine Ausbildung, ein Studium oder eine Fortbildung absolvieren, aber keinen Anspruch auf Grundsicherungsleistungen haben.
 
 #### Abschaffung der Altersarmut, Prävention zukünftiger Altersarmut durch die Weiterentwicklung der Grundsicherung
@@ -1327,9 +1327,9 @@ Die Piratenpartei unterstützt weltweit Initiativen zur Einführung des bedingun
 
 ### Sockeleinkommen als ein Zwischenschritt zum bedingungslosem Grundeinkommen
 
-Die Piratenpartei fordert die Einführung eines bedingungslosen Sockeleinkommens als Zwischenschritt zu einem bedingungslosem Grundeinkommen.
+Die Piratenpartei fordert die Einführung eines bedingungslosen Sockeleinkommens als Zwischenschritt zu einem bedingungslosen Grundeinkommen.
 
-Das Sockeleinkommen soll sich aus einem oder mehreren, unabhängigen Finanzierungsbausteinen zusammensetzen und sich letztendlich zu einem bedingungslosen Grundeinkommen entwickeln.
+Das Sockeleinkommen soll sich aus einem oder mehreren unabhängigen Finanzierungsbausteinen zusammensetzen und sich letztendlich zu einem bedingungslosen Grundeinkommen entwickeln.
 Zudem wird bereits durch die Einführung des Sockeleinkommens eine neue, schlanke Verwaltungsstruktur für das bedingungslose Grundeinkommen geschaffen.
 
 Das Sockeleinkommen ist kein zu versteuerndes Einkommen und wird nicht auf bestehende Sozialleistungen angerechnet.
@@ -1338,7 +1338,7 @@ Das Sockeleinkommen ist kein zu versteuerndes Einkommen und wird nicht auf beste
 
 Die Piratenpartei fordert die Anhebung des ermäßigten Umsatzsteuersatzes von aktuell 7% auf 19% mit dem Ziel, einen einheitlichen Regelsteuersatz zu schaffen und die sogenannte Mehrwertsteuer zu vereinfachen.
 
-Durch die Ausschüttung der Steuermehreinnahmen als Sockeleinkommen ist die Anhebung des Mehrwertsteuersatzes sozial, da das Sockeleinkommen die Kostenerhöhung durch den höheren Umsatzsteuersatz für Familien und einkommenschwache Menschen nicht nur ausgleicht, sondern sogar zu einem kleinen Teil übersteigt.
+Durch die Ausschüttung der Steuermehreinnahmen als Sockeleinkommen ist die Anhebung des Mehrwertsteuersatzes sozial, da das Sockeleinkommen die Kostenerhöhung durch den höheren Umsatzsteuersatz für Familien und einkommensschwache Menschen nicht nur ausgleicht, sondern sogar zu einem kleinen Teil übersteigt.
 
 #### Sockeleinkommen durch Finanztransaktionssteuer
 
@@ -1352,9 +1352,9 @@ Die Piratenpartei fordert eine Reform der Einkommensteuer durch ein allgemein ve
 Diese große Reform umfasst:
 
 1.  Sockeleinkommen statt "Aufstocken "
-2.  Personenbezogener Grundfreibetrag für alle statt unzeitgemäßem Ehegattensplitting
+2.  personenbezogener Grundfreibetrag für alle statt unzeitgemäßem Ehegattensplitting
 3.  Kranken- und Pflegeversicherungsbeiträge von der Steuer abziehen statt absetzen
-4.  Einheitliches Verfahren statt Sonderregelungen - Abschaffung diverser Ausnahmeregelungen
+4.  einheitliches Verfahren statt Sonderregelungen – Abschaffung diverser Ausnahmeregelungen
 
 Erst durch die Kombination der vier Reformbestandteile gelingt die Gestaltung eines ausgeglicheneren Steuersystems bei gleichzeitiger Einführung eines Sockeleinkommens.
 
