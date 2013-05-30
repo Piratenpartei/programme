@@ -2899,7 +2899,6 @@ Nach dem Vorbild anderer Verbandsklagerechte wollen wir Bürgerrechtsorganisatio
 Die Sicherheitsforschung aus Steuergeldern wollen wir demokratisieren und an den Bedürfnissen und Rechten der Bürgerinnen und Bürger ausrichten.
 In beratenden Gremien sollen künftig neben Verwaltungs- und Industrievertretern in gleicher Zahl auch Volksvertreter sämtlicher Fraktionen, Kriminologen, Opferverbände und Nichtregierungsorganisationen vertreten sein.
 Eine Entscheidung über die Ausschreibung eines Projekts soll erst getroffen werden, wenn eine öffentliche Untersuchung über die Auswirkungen des jeweiligen Forschungsziels auf unsere Grundrechte (impact assessment) vorliegt.
-
 Die Entwicklung von Technologien zur verstärkten Überwachung,Erfassung und Kontrolle von Bürgerinnen und Bürgern lehnen wir ab.
 Stattdessen muss die Sicherheitsforschung auf sämtliche Optionen zur Kriminal- und Unglücksverhütung erstreckt werden und eine unabhängige Untersuchung von Wirksamkeit, Kosten, schädlichen Nebenwirkungen und Alternativen zu den einzelnen Vorschlägen zum Gegenstand haben.
 
