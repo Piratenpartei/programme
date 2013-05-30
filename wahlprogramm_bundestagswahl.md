@@ -680,8 +680,6 @@ Die weltanschauliche Neutralität im gesamten Bildungsbereich ist eine notwendig
 
 ### Inklusives Schulsystem
 
-  -   - Hinweis: Dieser Textbaustein entspricht [G126](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_126 "wikilink") (76,6% Zustimmung) \*
-
 Inklusion ist ein Menschenrecht.
 Sie darf und soll nicht bei der Bildung unserer Kinder aufhören, denn Bildung ist die Vorraussetzung für eine vollumfängliche Teilhabe am gesellschaftlichen Leben.
 Die Piratenpartei setzt sich dafür ein, dass jedes Kind, egal ob mit oder ohne Behinderung bzw. sonderpädagogischer Förderbedarf, wohnortnah einen Lernort bzw. eine Schule besuchen kann.
