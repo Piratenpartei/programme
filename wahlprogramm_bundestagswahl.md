@@ -547,8 +547,6 @@ Diese stellen neben Zeitschriften für die Bevölkerung eine weitere kostenfreie
 
 ### Open Access in der Entwicklungspolitik
 
-  -   - Hinweis: Dieser Textbaustein entspricht [G204](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_204 "wikilink") (86,7% Zustimmung) \*
-
 Die Piratenpartei hat erkannt, dass der freie Zugang und Austausch von Wissen ein elementarer Bestandteil der deutschen Entwicklungsarbeit sein muss.
 Deshalb fordern wir, dass alle entwicklungspolitischen Akteure, sobald sie finanzielle Mittel vom BMZ (Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung) beziehen, dazu verpflichtet sind, die Ergebnisse ihrer entwicklungspolitischen Projekte, deren Rohdaten, sowie Gutachten, die sich auf die Effizienz und Effektivität der Projekte beziehen, gemäß den Maßstäben zu "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" (2003), zu veröffentlichen.
 Die Veröffentlichung geschieht über eine vom BMZ zu erstellende kostenfreie Internet Plattform, auf der sich sämtliche Veröffentlichungen, sowohl nach Ländern, als auch nach Stichworten, durchsuchen lassen.
