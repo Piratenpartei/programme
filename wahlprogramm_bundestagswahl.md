@@ -1947,12 +1947,12 @@ Wir fordern, dass die Sprachkurse generell kostenfrei sind, um Inklusionsbarrier
 # Gesundheitspolitik
 
 Die PIRATEN orientieren sich in ihren gesundheitspolitischen Positionen am Wohl der Patienten, ohne die Seite der Leistungserbringer und Dienstleister im Gesundheitswesen zu vernachlässigen.
-Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehend Mitteln notwendig ist.
-Für uns zeichnet sich eine gute Gesundheitsversorgung durch ihren niedrigschwellige Zugang aus, der allen Menschen in Deutschland eine zugewandte Behandlung nach aktuellem Stand der Erkenntnis ermöglicht.
+Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehenden Mitteln notwendig ist.
+Für uns zeichnet sich eine gute Gesundheitsversorgung durch ihren niedrigschwelligen Zugang aus, der allen Menschen in Deutschland eine zugewandte Behandlung nach aktuellem Stand der Erkenntnis ermöglicht.
 
 ### Transparenz im Gesundheitssystem
 
-Für Patientinnen und Patienten ist es kaum möglich die Qualität der ärztlichen Behandlung sowohl im Krankenhaus als auch insbesondere im niedergelassenen Bereich zu überprüfen.
+Für Patientinnen und Patienten ist es kaum möglich, die Qualität der ärztlichen Behandlung sowohl im Krankenhaus als auch insbesondere im niedergelassenen Bereich zu überprüfen.
 Die PIRATEN fordern daher die verständliche Aufbereitung, Veröffentlichung und priorisierte Weiterentwicklung von Qualitätsmerkmalen.
 
 Weiterhin fordern wir die Nachvollziehbarkeit von Entscheidungsprozessen von der Entstehung über die Bearbeitung und Beratung bis hin zur Beschlussfassung.
@@ -1970,7 +1970,7 @@ Die Patientenvertretung ist finanziell und organisatorisch mit dem Ziel größer
 Der Zugang zu medizinischen Angeboten ist für Patientinnen und Patienten heute stark abhängig von ihrem Wohnort.
 So sind in Großstädten je Einwohner deutlich mehr Ärzte angesiedelt als in ländlichen Regionen.
 Deshalb streben die Piraten eine Bedarfsplanung an, in der jede Abweichung vom Durchschnitt der Versorgungsdichte öffentlich zu begründen ist.
-Zur Schließung von Versorgungslücken werden wir uns dafür einsetzen, dass Kommunen das Recht erhalten hausärztliche Vertragsarztsitze zu übernehmen und dort Ärzte anzustellen.
+Zur Schließung von Versorgungslücken werden wir uns dafür einsetzen, dass Kommunen das Recht erhalten, hausärztliche Vertragsarztsitze zu übernehmen und dort Ärzte anzustellen.
 
 Abgesehen von regionalen Besonderheiten und einem Stadt/Land-Gefälle gibt es in Deutschland tendenziell eine Überversorgung mit medizinischen Leistungen, die zu Lasten der Versichertengemeinschaft aufrechterhalten wird, insbesondere von Arztpraxen und Krankenhäusern.
 Mit dem Ziel einer ausgeglichenen Verteilung ist daher einem Überangebot von Gesundheitsleistungen in einer Region über dem Durchschnitt mit entsprechenden Anreizen entgegenzuwirken.
@@ -1980,7 +1980,7 @@ Dort wo regionale Gebietskörperschaften oder Kommunen bewusst eine überdurchsc
 ### Unterversorgung vermeiden
 
 Die Menschen in der Bundesrepublik Deutschland haben ein Anrecht auf eine angemessene Gesundheitsversorgung.
-Dazu gehört auch, dass gemeindenah bzw. wortortnah ausreichend Ärzte aller Fachrichtungen vertreten sind.
+Dazu gehört auch, dass gemeindenah bzw. wohnortnah ausreichend Ärzte aller Fachrichtungen vertreten sind.
 Die Bedarfsplanungen für Vertragsärzte müssen unter Einbeziehung der regionalen Gegebenheiten, eine ausreichende Zahl von Vertragsärzten in sinnvoll gegliederten und homogen strukturierten Versorgungsgebieten vorsehen.
 In ländlichen Regionen mit Unterversorgung ist auch das Modell mobiler Arztpraxen und die Anstellung von Ärzten durch die Kommune eine sinnvolle Ergänzung.
 
@@ -2012,7 +2012,7 @@ Außerdem soll mit den Einsparungen die nicht-kommerziellen Forschung im Bereich
 ### Gesundheitliche Bildung
 
 Es besteht wissenschaftliche Einigkeit, dass Bildung und Umweltfaktoren große Auswirkungen auf die Gesundheit der Menschen haben.
-Wir setzen uns für die Erprobung eines Faches "Gesundheitsbildung" in Schulen ein, das vermittelt welche Faktoren sich positiv und negativ auf Gesundheit auswirken und wie man sie erhalten kann.
+Wir setzen uns für die Erprobung eines Faches "Gesundheitsbildung" in Schulen ein, das vermittelt, welche Faktoren sich positiv und negativ auf Gesundheit auswirken und wie man sie erhalten kann.
 Die Finanzierung des Faches soll als Teil einer Präventionsstrategie aus der gesetzlichen Krankenversicherung erfolgen.
 Neben der schulischen Bildung sehen wir die Notwendigkeit einer umfassenden gesundheitlichen Aufklärung als nächsten Schritt einer sozialen Inklusion von Menschen mit gesundheitlichen Einschränkungen.
 In den Fokus der Aufklärung sollen vor allem jene Krankheits- und Störungsbilder sowie Behinderungen gerückt werden, die häufig von Vorurteilen und Ausgrenzungen betroffen sind.
@@ -2031,16 +2031,16 @@ Daher setzen wir uns für einen Volksentscheid ein, um einen gesellschaftlichen 
 Jede Form der Vergütung setzt Anreize, die zum Teil erwünscht sind, zum Teil jedoch auch zu unerwünschten und für das Gesamtsystem schädlichen Ergebnissen führt.
 Dies verstärkt sich in der Regel im Verlauf der Anwendung des Vergütungssystems.
 Aus diesem Grund sind Vergütungssysteme regelhaft einer unabhängigen Analyse und Anpassung zu unterziehen.
-Dies gilt für die Fallpauschalen in Krankenhäusern ebenso, wie für pauschale- oder Einzelleistungsvergütungen im ambulanten Bereich.
+Dies gilt für die Fallpauschalen in Krankenhäusern ebenso, wie für pauschale oder Einzelleistungsvergütungen im ambulanten Bereich.
 Hier sollen mit Modellprojekten neue Vergütungsformen regional entwickelt und getestet werden.
 
 ### Notfallmedizin
 
 Die Überlebenschancen von Patienten hängen in Notfallsituation unmittelbar von der Reaktion beteiligten Bürgerinnen und Bürger ab.
-Um die Bevölkerung besser in die Lage zu versetzen in solchen Situation richtig zu handeln fordern wir Programme zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen.
+Um die Bevölkerung besser in die Lage zu versetzen, in solchen Situation richtig zu handeln, fordern wir Programme zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen.
 Ein angemessenes Verhalten in Notfallsituationen soll auch durch die Einrichtung und Förderung von Schulsanitätsdiensten auf freiwilliger Basis in Schulen erleichtert werden.
 Unterstützend möchten wir die Verbreitung von Defibrillatoren im öffentlichen Raum fördern.
-Um nach Eintreffen des Rettungsdienstes jeder Patientin und jedem Patienten unabhängig von seinem Aufenthaltsort eine bestmögliche Erstversorgung zu gewährleisten setzen wir uns für bundeseinheitliche Mindeststandards in der Ausstattung von Rettungswagen ein.
+Um nach Eintreffen des Rettungsdienstes jeder Patientin und jedem Patienten unabhängig von seinem Aufenthaltsort eine bestmögliche Erstversorgung zu gewährleisten, setzen wir uns für bundeseinheitliche Mindeststandards in der Ausstattung von Rettungswagen ein.
 
 ### Elektronische Gesundheitskarte
 
@@ -2063,13 +2063,13 @@ Daher stellt die Rezeptpflicht dieses Medikaments für Frauen einen absolut unan
 
 Die PIRATEN sprechen sich für klare und eindeutige Regeln zum Personaleinsatz in Krankenhäusern und Pflegeeinrichtungen der Langzeitversorgung aus.
 Es sind durch Fachgremien anhand empirisch festgestellter Fakten Zahlenschlüssel festzulegen, nach denen die maximale Anzahl von Patient pro dreijährig examinierter Pflegekraft definiert ist.
-Zusätzlich ist je nach Bereich festzulegen wie viele Pflegehilfskräfte minimal und maximal im Verhältnis zu dreijährig examiniertem Personal einzusetzen sind.
+Zusätzlich ist je nach Bereich festzulegen, wie viele Pflegehilfskräfte minimal und maximal im Verhältnis zu dreijährig examiniertem Personal einzusetzen sind.
 In Abteilungen mit besonderen Belastungen, wie zum Beispiel Intensivstationen, sind Sonderschlüssel anzuwenden, die wie im Fall der Intensivmedizin bereits durch die (Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI) definiert wurden.
 Diese Festlegungen werden durch ein Fachgremium des Bundes oder Landes, nicht aber der Landschaftsverbände, getroffen bzw. bestätigt.
 
 ### Fortbildungspflicht in der Pflege
 
-Die professionelle berufliche Pflege in Form der Gesundheits- und Krankenpflege, als auch der Altenpflege ist einem enormen Arbeits- als auch Wissensdruck ausgesetzt.
+Die professionelle berufliche Pflege in Form der Gesundheits- und Krankenpflege als auch der Altenpflege ist einem enormen Arbeits- als auch Wissensdruck ausgesetzt.
 Die ständig zunehmenden wissenschaftlichen Erkenntnisse im Bereich der Medizin als auch der Pflege sowie die wirtschaftlichen und sozialen Herausforderungen machen eine ständige und fundierte Fortbildung unausweichlich.
 Die PIRATEN fordern eine Fortbildungsverpflichtung und einen Fortbildungsnachweis von professionell beruflich Pflegenden, um den modernen pflegerischen als auch medizinischen Anforderungen gerecht zu werden.
 Die Form des Nachweises kann dabei in einem Punktesystem ähnlich dem Modellprojekt " Registrierung beruflich Pflegender" erfolgen.
@@ -2098,7 +2098,6 @@ Wir glauben, dass die Stärkung von sozialer Kompetenz und Selbstbewusstsein ein
 ### Nachhaltige Prävention fängt in der Schule an
 
 Die Maßnahmen zur Suchtprävention an Schulen und der Ausbildungsstand der Lehrkräfte sind unzureichend.
-
 Pilotprojekte haben gezeigt, wie nachhaltig eine gute Prävention bereits ab dem Grundschulalter wirkt.
 Auf der Basis der dort gesammelten Erfahrungen ist ein bundesweites Aufklärungskonzept und sachgerechtes, undogmatisches Lehrmaterial für einen fundierten Unterricht zu entwickeln.
 Externe Fachreferenten sollen besonders in der Sekundarstufe das Wissen bei Lehrern und Schülern vertiefen.
@@ -2113,7 +2112,6 @@ Die umfassende Aufklärung über Drogen, ihren Gebrauch und mögliche Folgen dar
 
 Präventionsprogramme sind zielgruppengerecht zu gestalten.
 Der Einsatz von Streetworkern und Sozialarbeitern ist auszubauen, vor allem in bisher unterversorgten Kleinstädten und ländlichen Gebieten, unter besonderer Berücksichtigung des Suchtstoffes Alkohol.
-
 Es ist dringend notwendig, die Mittel für niedrigschwellige Hilfsangebote in der Suchthilfe deutlich aufzustocken.
 Die präventive Arbeit wird dabei stoffliche und nicht stoffgebundene Süchte gleichberechtigt einschließen.
 
@@ -2148,8 +2146,7 @@ Neben den Ärzten sind auch medizinisches Personal, Therapeuten und Mitarbeiter 
 
 ### Zugang zu medizinischem Cannabis erleichtern
 
-Cannabinoidhaltige Medikamente sollen anderen verkehrsfähigen Medikamenten
-gleichgestellt werden.
+Cannabinoidhaltige Medikamente sollen anderen verkehrsfähigen Medikamenten gleichgestellt werden.
 Es liegt dabei im Ermessen des behandelnden Arztes, ob dabei der Echtstoff zum Einsatz kommen soll.
 Die Kosten sind von den Krankenkassen zu tragen.
 
@@ -2191,7 +2188,7 @@ Allein die Vermutung oder die Feststellung, dass eine Person Drogen oder Medikam
 Der derzeit freie Handel und Gebrauch liquidverdampfender E-Zigaretten soll nicht über den Jugendschutz hinaus eingeschränkt werden.
 Stattdessen fordern wir die Schaffung von Qualitätsstandards für Produktion und Handel von E-Zigaretten und Liquids.
 
-E-Zigaretten ins Nichtraucherschutzgesetz aufzunehmen, oder eine Besteuerung nach dem Tabaksteuergesetz lehnen wir hingegen ab.
+E-Zigaretten ins Nichtraucherschutzgesetz aufzunehmen oder eine Besteuerung nach dem Tabaksteuergesetz lehnen wir hingegen ab.
 
 ### Umwandlung der Tabaksteuer
 
@@ -2212,7 +2209,7 @@ Dem sollte durch verstärkte Einbeziehung des Alkohols in die allgemeine Drogena
 Die Piratenpartei wendet sich gegen Werbung für alkoholische Getränke, alkoholhaltige Getränke und als frei verkäufliche Arzneimittel deklarierte, hochprozentige Alkoholika.
 Alle diese Produkte sind geeignet, Abhängigkeiten hervorzurufen.
 
-Bei allen zum Verzehr geeigneten, alkoholhaltigen Produkten ist deutlich lesbar und gut sichtbar auf der Vorderseite der Verpackung anzugeben, wieviel Alkohol das Produkt enthält.
+Bei allen zum Verzehr geeigneten alkoholhaltigen Produkten ist deutlich lesbar und gut sichtbar auf der Vorderseite der Verpackung anzugeben, wie viel Alkohol das Produkt enthält.
 Jeder enthaltene Alkohol muss angegeben werden.
 Vorhandene Lücken in der Deklarationspflicht sind zu schließen.
 
@@ -2310,7 +2307,7 @@ Diesen Inhalten muss bereits frühzeitig, also noch während des Studiums oder d
 #### Pflegepersonal in der Psychiatrie
 
 Die Piratenpartei fordert eine deutliche Erhöhung des Personalschlüssels auf psychiatrischen Stationen.
-Desweiteren soll das Pflegepersonal auf psychiatrischen Stationen durch umfangreichere und praxisbezogene Weiterbildungsmaßnahmen besser im Umgang mit Patienten mit psychischen Störungen geschult werden.
+Des weiteren soll das Pflegepersonal auf psychiatrischen Stationen durch umfangreichere und praxisbezogene Weiterbildungsmaßnahmen besser im Umgang mit Patienten mit psychischen Störungen geschult werden.
 
 ### Inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen
 
@@ -2349,7 +2346,7 @@ Dafür erforderliche Richtlinienänderungen sollen von den wissenschaftlichen Fa
 
 #### Freier Zugang zu Patientenakten
 
-Jeder Patient hat das Recht, seine Patientenakte in vollem Umfang zu lesen.
+eder Patient hat das Recht, seine Patientenakte in vollem Umfang zu lesen.
 Die Piratenpartei fordert für alle Patienten den freien, uneingeschränkten Zugang zu ihren Patientenakten.
 Die Einsichtnahme soll unbürokratisch, kostenfrei, zeitnah und in therapeutischer Umgebung (Begleit-Pflicht) ermöglicht werden.
 
