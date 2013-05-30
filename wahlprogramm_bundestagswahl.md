@@ -693,8 +693,6 @@ Das Wunsch- und Wahlrecht des Kindes und dessen Erziehungsberechtigten über den
 
 ### Konkrete Reformvorschläge für das Patentwesen
 
-  -   - Hinweis: Dieser Textbaustein entspricht [G187](Initiative_gemeinsames_Wahlprogramm/Anträge_für_die_Umfrage_2013/Wahlprogramm_BPT_-_187 "wikilink") (77,6% Zustimmung) \*
-
 #### Grundlegendes
 
 Patente sind Teil des gewerblichen Rechtsschutzes.
