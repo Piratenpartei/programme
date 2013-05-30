@@ -1057,12 +1057,14 @@ Wir Piraten setzen uns für eine nachhaltige Bekämpfung der Altersarmut, die di
 === Grundsätzliche Vorgehensweise zur Grundrente ===
 
 Alle bestehenden Rentensysteme, berufsständische Versorgungssysteme und Pensionen im öffentlichen Dienst werden zu einer Rentenkasse zusammengeführt.
-Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet. Keine Berufsgruppe wird ausgenommen, die Bemessungsgrenze soll entfallen. In die Rentenkasse zahlen alle in Deutschland lebenden Menschen einkommensabhängig ein.
 
+Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet. Keine Berufsgruppe wird ausgenommen, die Bemessungsgrenze soll entfallen. In die Rentenkasse zahlen alle in Deutschland lebenden Menschen einkommensabhängig ein.
 Die Beiträge von Selbstständigen werden sich an ihren jeweiligen Unternehmenszahlen orientieren, sodass diese in ihrer Existenz nicht gefährdet werden.
 
 Die Rentenbezüge bewegen sich in einem Korridor von Mindest- bis Maximalrente.
+
 Die Renten werden jährlich um einen Faktor, der die Inflationsrate berücksichtigt angepasst. Dieser Faktor berücksichtigt außerdem die Änderung weiterer Kosten, wie zum Beispiel Gesundheitskosten.
+
 Die staatliche Rentenkasse verwaltet sich eigenverantwortlich, ohne direkten Zugriff durch den Staat. Der Staat schafft den gesetzlichen Rahmen. Die Rentenkasse ist für die Rente zweckgebunden!
 
 === Betriebliche Altersvorsorge ===
@@ -1071,17 +1073,16 @@ Der Gesetzgeber hat im Jahre 2004 das GKV-Modernisierungsgesetz (GMG) beschlosse
 
 Somit ergibt sich bei einer einmaligen Auszahlung von 100.000€ aus einer Direktversicherung und dem aktuellen Beitragssatz von 15,5% (Krankenversicherung) und 2,2% (Pflegeversicherung) ein Beitrag von 17.700€. Betroffene müssen in Folge dessen 10 Jahre lang 147,50€ pro Monat Beiträge an die Krankenkasse entrichten.
 
-Die Piratenpartei sieht durch die rückwirkende Beitragspflicht für Altverträge den Vertrauens- und Bestandsschutz für die Verträge missachtet. Dazu hat der Arbeitgeber keine Sozialversicherungsbeiträge für die Beiträge während der Ansparphase bezahlt. 
+Die Piratenpartei sieht durch die rückwirkende Beitragspflicht für Altverträge den Vertrauens- und Bestandsschutz für die Verträge missachtet. Dazu hat der Arbeitgeber keine Sozialversicherungsbeiträge für die Beiträge während der Ansparphase bezahlt.
 
 Wir fordern, dass die Beitragspflicht zur gesetzlichen Kranken- und Pflegeversicherung für Altverträge wieder komplett aufgehoben wird.
-
 Die Piraten setzen sich generell für die Einführung einer Informationspflicht gegenüber den Versicherten vor dem Vertragsabschluss einer betrieblichen Altersvorsorge ein. Staat und Versicherungsunternehmen sollen über die Beitragszahlungen im Alter transparent und umfassend informieren.
 
 Insgesamt sollte eine Neuregelung der betrieblichen Altersvorsorge mit klaren und transparenten Regeln erfolgen. Die derzeitige Regelung, dass Verträge steuerlich gefördert werden, im Alter jedoch die Sozialversicherungspflicht voll greift, macht die betriebliche Altersvorsorge oft zu einem Verlustgeschäft, fördert stattdessen die private Versicherungswirtschaft und begünstigt vor allem die Arbeitgeber. Außerdem verringern sich durch die betriebliche Altersvorsorge die Einzahlungen in die gesetzliche Rentenversicherung, was das Solidarsystem durch ein geringeres sozialversicherungspflichtiges Bruttogehalt zusätzlich schwächt.
 
 === Transparenz bei der privaten Altersvorsorge ===
 
-Die Piratenpartei setzt sich für klar nachvollziehbare Kostenstrukturen bei den privaten Rentenversicherungen ein: Die effektiv anfallenden Kosten und Gebühren einer privaten Rentenversicherung sind als Summe aller Einzelposten in der Gesamtlaufzeit, welche von den Versicherten an nichtstaatliche Versicherungsunternehmen zu zahlen sind, direkt neben der zu erwartenden Ablaufleistung (Auszahlungssumme) im Versicherungsangebot sowie in der Versicherungspolice auszuweisen. Der Versicherungsberater hat auf die Gebühren im Gespräch explizit hinzuweisen. Der spekulative Charakter der ausgewiesenen potenziellen Ablaufleistung ist klar darzustellen. Im Beratungsgespräch sowie in den Angebots- und Vertragsunterlagen muss deutlich darauf hingewiesen werden, dass möglicherweise die garantierten Werte nicht signifikant überschritten werden. 
+Die Piratenpartei setzt sich für klar nachvollziehbare Kostenstrukturen bei den privaten Rentenversicherungen ein: Die effektiv anfallenden Kosten und Gebühren einer privaten Rentenversicherung sind als Summe aller Einzelposten in der Gesamtlaufzeit, welche von den Versicherten an nichtstaatliche Versicherungsunternehmen zu zahlen sind, direkt neben der zu erwartenden Ablaufleistung (Auszahlungssumme) im Versicherungsangebot sowie in der Versicherungspolice auszuweisen. Der Versicherungsberater hat auf die Gebühren im Gespräch explizit hinzuweisen. Der spekulative Charakter der ausgewiesenen potenziellen Ablaufleistung ist klar darzustellen. Im Beratungsgespräch sowie in den Angebots- und Vertragsunterlagen muss deutlich darauf hingewiesen werden, dass möglicherweise die garantierten Werte nicht signifikant überschritten werden.
 
 == Menschen mit Behinderungen ==
 
