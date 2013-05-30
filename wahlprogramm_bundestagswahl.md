@@ -1204,8 +1204,6 @@ Um dabei über eine Vielfalt an Konzepten gleichzeitig entscheiden zu können, s
 
 Bis zur Einführung eines bedingungslosen Grundeinkommens setzen sich die PIRATEN für einen bundesweiten gesetzlichen Mindestlohn ein.
 
-### Forderung nach einem allgemeinen gesetzlichen Mindestlohn
-
 Die Piratenpartei fordert als kurzfristige Maßnahme bis zur Einrichtung einer Expertenkommission die Einführung eines allgemeinen gesetzlichen Mindestlohns, der sich wie folgt berechnet:
 
 <center>
