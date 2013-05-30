@@ -1737,8 +1737,6 @@ Staatliche Institutionen haben in ihren Jahresberichten zu Aktivität und Fortsc
 
 # Familie und Gesellschaft
 
-## Präambel
-
 Die Piratenpartei steht für eine zeitgemäße und gerechte Familienpolitik, die auf dem Prinzip der freien Selbstbestimmung über Angelegenheiten des persönlichen Lebens beruht.
 Wir wollen, dass Politik der existierenden Vielfalt gerecht wird.
 Die Piratenpartei setzt sich dafür ein, die einseitige Bevorzugung traditioneller Rollen-, Familien- und Arbeitsmodelle zu überwinden.
