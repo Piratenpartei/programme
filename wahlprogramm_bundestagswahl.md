@@ -3122,7 +3122,7 @@ Aussagekräftige Statistiken sind notwendig, um über die Wirksamkeit und die Fo
 
 ### Kennzeichnungspflicht für Polizisten
 
-ie Piratenpartei setzt sich für eine Kennzeichnungspflicht für Polizeibeamte ein.
+Die Piratenpartei setzt sich für eine Kennzeichnungspflicht für Polizeibeamte ein.
 Beamtinnen und Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen.
 Die Kennzeichen sind pseudonym (z. B. in Form einer Nummer) zu gestalten und dürfen von Einsatz zu Einsatz wechseln.
 
