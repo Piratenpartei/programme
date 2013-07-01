@@ -114,36 +114,22 @@ Wir setzen uns daher für die Abschaffung der Befugnisse für staatliche Behörd
 
 Wenn wir für die Abschaffung und Verhinderung solcher Eingriffe keine ausreichende parlamentarische Mehrheit finden, werden wir uns bei der gesetzlichen Umsetzung eines solchen Grundrechteeingriffs zusätzlich zu den Vorgaben des Bundesverfassungsgericht dafür einsetzen, diesen erheblichen Eingriff in bürgerliche Grundrechte durch folgende Maßnahmen streng zu reglementieren und zu kontrollieren:
 
-Durch die Installation einer komplexen Software zur Durchführung des verdeckten Zugriffs werden informationstechnische Systeme prinzipbedingt nachhaltig verändert.
-Die Integrität der gespeicherten Daten ist so nicht mehr gewährleistet.
-Die dabei gewonnenen Erkenntnisse sind daher als Beweis vor Gericht völlig ungeeignet.
-Wir setzen uns deshalb für ein gesetzlich geregeltes ausnahmsloses Verwertungsverbot von Beweisen ein, die auf diese Art gewonnen wurden.
-
-Eine Unterscheidung zwischen Quellen-TKÜ und einem weitergehenden Eingriff ist lediglich ein realitätsfernes theoretisches Konstrukt.
-In der Praxis können wir keinen Unterschied in der Tiefe des Eingriffs in die Grundrechte der Betroffenen erkennen.
-Die Eingriffschwelle für die Quellen-TKÜ ist daher mindestens ebenso hoch wie für jeden anderen verdeckten Eingriff in ein informationstechnisches System.
-
-Anordnungen für diese Eingriffe werden ausschließlich von Richtern beschlossen.
-Eine Anordnung im Falle einer Gefahr im Verzug durch die Exekutive (z. B. Staatsanwalt, Behördenleiter, Ministerien) schließen wir aus.
-Eine Anordnung darf nur erfolgen, wenn bereits andere mildere Maßnahmen durchgeführt wurden und erfolglos waren.
-
-Durch Gesetz bzw. Verordnung werden technische Vorgaben – insbesondere bzgl. zwingend notwendiger Sicherheitsmechanismen – im Detail bundesweit einheitlich geregelt.
-
-Die Einhaltung der technischen Vorgaben wird durch eine von den Ermittlungsbehörden vollständig unabhängige staatliche Stelle überwacht.
-Programme und Software, die von den Ermittlungsbehörden für den verdeckten Eingriff eingesetzt werden sollen, müssen vorab von dieser unabhängigen Stelle untersucht und für den Einsatz freigegeben werden.
-
-Da die Umsetzung des Eingriffs nur in absoluten Ausnahmefällen – also als Ultima Ratio – erfolgen darf, wird diese in der Bundesrepublik auf sehr wenige gleichzeitige Fälle beschränkt sein.
-Diese Aufgabe wird daher zentral von einer kleinen Zahl sehr gut ausgebildeter Fachkräfte übernommen und in einer von den berechtigten Stellen unabhängigen Bundesbehörde gebündelt.
-Die berechtigten Stellen des Bundes und der Länder können diese Bundesbehörde im Wege der Amtshilfe mit rechtlich zulässigen Maßnahmen beauftragen.
-Diese Bundesbehörde wird einer strengen parlamentarischen Kontrolle unterworfen.
-
-Das anordnende Gericht wird verpflichtet, innerhalb von 30 Tagen nach Abschluss einen ausführlichen Bericht über die durchgeführte Maßnahme zu erstellen.
-Mit der Erstellung des Berichts ist ein Richter zu betrauen, der bisher nicht an der entsprechenden Ermittlung beteiligt war.
-In diesem Bericht ist festzustellen, ob die Maßnahme ordnungsgemäß im Rahmen der gesetzlichen Bestimmungen und nach den Bestimmungen der richterlichen Anordnung durchgeführt wurde.
-Ebenso obliegt es dem Richter zu bewerten, ob die gewonnenen Erkenntnisse letztendlich den schweren Eingriff in die Grundrechte des Betroffenen rechtfertigen.
-
-Ein parlamentarisches Kontrollgremium wird die Berichte der Richter sammeln, regelmäßig zusammenfassen und auswerten.
-Anhand der Auswertungen ist regelmäßig zu prüfen, ob diese Grundrechtseingriffe in der Praxis überhaupt gerechtfertigt sind und insgesamt benötigt werden.
+  - Durch die Installation einer komplexen Software zur Durchführung des verdeckten Zugriffs werden informationstechnische Systeme prinzipbedingt nachhaltig verändert. Die Integrität der gespeicherten Daten ist so nicht mehr gewährleistet.
+    Die dabei gewonnenen Erkenntnisse sind daher als Beweis vor Gericht völlig ungeeignet.
+    Wir setzen uns deshalb für ein gesetzlich geregeltes ausnahmsloses Verwertungsverbot von Beweisen ein, die auf diese Art gewonnen wurden.
+  - Eine Unterscheidung zwischen Quellen-TKÜ und einem weitergehenden Eingriff ist lediglich ein realitätsfernes theoretisches Konstrukt. In der Praxis können wir keinen Unterschied in der Tiefe des Eingriffs in die Grundrechte der Betroffenen erkennen.
+    Die Eingriffschwelle für die Quellen-TKÜ ist daher mindestens ebenso hoch wie für jeden anderen verdeckten Eingriff in ein informationstechnisches System.
+  - Anordnungen für diese Eingriffe werden ausschließlich von Richtern beschlossen. Eine Anordnung im Falle einer Gefahr im Verzug durch die Exekutive (z. B. Staatsanwalt, Behördenleiter, Ministerien) schließen wir aus.
+    Eine Anordnung darf nur erfolgen, wenn bereits andere mildere Maßnahmen durchgeführt wurden und erfolglos waren.
+  - Durch Gesetz bzw. Verordnung werden technische Vorgaben – insbesondere bzgl. zwingend notwendiger Sicherheitsmechanismen – im Detail bundesweit einheitlich geregelt.
+  - Die Einhaltung der technischen Vorgaben wird durch eine von den Ermittlungsbehörden vollständig unabhängige staatliche Stelle überwacht. Programme und Software, die von den Ermittlungsbehörden für den verdeckten Eingriff eingesetzt werden sollen, müssen vorab von dieser unabhängigen Stelle untersucht und für den Einsatz freigegeben werden.
+  - Da die Umsetzung des Eingriffs nur in absoluten Ausnahmefällen – also als Ultima Ratio – erfolgen darf, wird diese in der Bundesrepublik auf sehr wenige gleichzeitige Fälle beschränkt sein. Diese Aufgabe wird daher zentral von einer kleinen Zahl sehr gut ausgebildeter Fachkräfte übernommen und in einer von den berechtigten Stellen unabhängigen Bundesbehörde gebündelt.
+    Die berechtigten Stellen des Bundes und der Länder können diese Bundesbehörde im Wege der Amtshilfe mit rechtlich zulässigen Maßnahmen beauftragen.
+    Diese Bundesbehörde wird einer strengen parlamentarischen Kontrolle unterworfen.
+  - Das anordnende Gericht wird verpflichtet, innerhalb von 30 Tagen nach Abschluss einen ausführlichen Bericht über die durchgeführte Maßnahme zu erstellen. Mit der Erstellung des Berichts ist ein Richter zu betrauen, der bisher nicht an der entsprechenden Ermittlung beteiligt war.
+    In diesem Bericht ist festzustellen, ob die Maßnahme ordnungsgemäß im Rahmen der gesetzlichen Bestimmungen und nach den Bestimmungen der richterlichen Anordnung durchgeführt wurde.
+    Ebenso obliegt es dem Richter zu bewerten, ob die gewonnenen Erkenntnisse letztendlich den schweren Eingriff in die Grundrechte des Betroffenen rechtfertigen.
+  - Ein parlamentarisches Kontrollgremium wird die Berichte der Richter sammeln, regelmäßig zusammenfassen und auswerten. Anhand der Auswertungen ist regelmäßig zu prüfen, ob diese Grundrechtseingriffe in der Praxis überhaupt gerechtfertigt sind und insgesamt benötigt werden.
 
 Auch wenn alle diese Maßnahmen im Gesetz verankert werden, werden wir uns weiterhin konsequent für die Abschaffung und ein strafbewehrtes Verbot der verdeckten Eingriffe in informationstechnische Systeme einsetzen.
 
@@ -260,19 +246,19 @@ Dies soll dafür sorgen, dass das Abkommen letztlich nicht nur einen Konsens der
 
 Das ILA soll unter anderem Vereinbarungen enthalten über
 
-unverzichtbare Anforderungen an die Ausgestaltung von Kommunikations-, Informations- und Redefreiheit,
-eine Durchführung von Ermittlungs-, Ordnungs-, Zivil- und Strafverfahren, die sicherstellt, dass nicht schon die Angst vor negativen Auswirkungen von letztlich ungerechtfertigten Anschuldigungen Menschen von der Ausübung ihrer Grundrechte abhält ("Chilling"-Effekt u. Ä.),
-das nicht einschränkbare Recht auf Zugang zu Informations- und Kommunikationsmedien, insbesondere ein expliziter Ausschluss von Zugangssperren als Strafsanktionen für einfache Vergehen ("Three Strikes"),
-die Verpflichtung zum beiderseitigen Versuch, Streitigkeiten über nicht-kommerzielle, mutmaßliche Rechts-Verstöße zunächst kostenlos und außergerichtlich zu schlichten,
-die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
-die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
+  - unverzichtbare Anforderungen an die Ausgestaltung von Kommunikations-, Informations- und Redefreiheit,
+  - eine Durchführung von Ermittlungs-, Ordnungs-, Zivil- und Strafverfahren, die sicherstellt, dass nicht schon die Angst vor negativen Auswirkungen von letztlich ungerechtfertigten Anschuldigungen Menschen von der Ausübung ihrer Grundrechte abhält ("Chilling"-Effekt u. Ä.),
+  - das nicht einschränkbare Recht auf Zugang zu Informations- und Kommunikationsmedien, insbesondere ein expliziter Ausschluss von Zugangssperren als Strafsanktionen für einfache Vergehen ("Three Strikes"),
+  - die Verpflichtung zum beiderseitigen Versuch, Streitigkeiten über nicht-kommerzielle, mutmaßliche Rechts-Verstöße zunächst kostenlos und außergerichtlich zu schlichten,
+  - die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
+  - die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
 
 ## Stärkung der Rechte Prostituierter
 
 Die Entscheidung zur Ausübung der Prostitution fällt
 
-unter das Recht auf freie Berufswahl sowie
-unter das Recht auf sexuelle Selbstbestimmung.
+  - unter das Recht auf freie Berufswahl sowie
+  - unter das Recht auf sexuelle Selbstbestimmung.
 
 Die Entscheidung zur Ausübung der Prostitution ist daher von Staat und Gesellschaft zu akzeptieren.
 Eine Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden lehnt die Piratenpartei ab.
@@ -371,11 +357,11 @@ Die Reihenfolge der Kandidaten, die die jeweilige Partei zuvor bestimmt hat, sol
 Die Piratenpartei will die direkten und indirekten Mitbestimmungsmöglichkeiten eines jeden Einzelnen steigern.
 Die Bürger sollen in Volksabstimmungen direkt über Gesetze entscheiden können und so Verantwortung übernehmen:
 
-Ein im Parlament beschlossenes Gesetz soll nicht in Kraft treten, wenn die Bürger es in einer Abstimmung ablehnen (fakultatives Referendum).
-Wichtige EU-Reformen und Verfassungsänderungen müssen immer durch die Bürger in einer Abstimmung bestätigt werden (obligatorisches Referendum).
-Die Piratenpartei ist für die Einführung von Volksinitiativen, Volksbegehren und Volksentscheiden auf Bundesebene.
-Wir unterstützen die Ergänzung der Europäischen Bürgerinitiative durch unionsweite Bürgerbegehren und Bürgerentscheide im Bereich der EU-Gesetzgebung.
-Alle Verfahrenshürden müssen für die Bürger bei angemessenem Aufwand überwindbar sein.
+  - Ein im Parlament beschlossenes Gesetz soll nicht in Kraft treten, wenn die Bürger es in einer Abstimmung ablehnen (fakultatives Referendum).
+  - Wichtige EU-Reformen und Verfassungsänderungen müssen immer durch die Bürger in einer Abstimmung bestätigt werden (obligatorisches Referendum).
+  - Die Piratenpartei ist für die Einführung von Volksinitiativen, Volksbegehren und Volksentscheiden auf Bundesebene.
+  - Wir unterstützen die Ergänzung der Europäischen Bürgerinitiative durch unionsweite Bürgerbegehren und Bürgerentscheide im Bereich der EU-Gesetzgebung.
+  - Alle Verfahrenshürden müssen für die Bürger bei angemessenem Aufwand überwindbar sein.
 
 ## Mitbestimmung
 
@@ -399,22 +385,21 @@ Die beschriebenen Unterschriftenzahlen, Fristen und Eintragungsmöglichkeiten or
 
 #### 1\. Volksinitiative:
 
-100.000 Stimmberechtigte unterschreiben in freier Sammlung für einen Gesetzentwurf oder eine Vorlage zu einem anderen Gegenstand der politischen Willensbildung (z. B. Handlungsaufforderung an die Bundesregierung).
-Vertreter der Volksinitiative haben das Recht auf Anhörung im Bundestag, im Bundesrat und in deren Ausschüssen.
-Lehnt der Bundestag die Volksinitiative ab, kann ein Volksbegehren eingeleitet werden.
+  - 100.000 Stimmberechtigte unterschreiben in freier Sammlung für einen Gesetzentwurf oder eine Vorlage zu einem anderen Gegenstand der politischen Willensbildung (z. B. Handlungsaufforderung an die Bundesregierung).
+  - Vertreter der Volksinitiative haben das Recht auf Anhörung im Bundestag, im Bundesrat und in deren Ausschüssen.
+  - Lehnt der Bundestag die Volksinitiative ab, kann ein Volksbegehren eingeleitet werden.
 
 #### 2\. Volksbegehren:
 
-Halten die Bundesregierung oder ein Drittel der Mitglieder des Bundestages das Volksbegehren für grundgesetzwidrig, können sie das Bundesverfassungsgericht anrufen.
-Ein Volksbegehren ist zustande gekommen, wenn es innerhalb von sechs Monaten mindestens eine Million, bei Grundgesetzänderungen mindestens zwei Millionen Stimmberechtigte unterzeichnet haben.
-Die Eintragung kann auf dem Amt und in freier Sammlung erfolgen.
+  - Halten die Bundesregierung oder ein Drittel der Mitglieder des Bundestages das Volksbegehren für grundgesetzwidrig, können sie das Bundesverfassungsgericht anrufen.
+  - Ein Volksbegehren ist zustande gekommen, wenn es innerhalb von sechs Monaten mindestens eine Million, bei Grundgesetzänderungen mindestens zwei Millionen Stimmberechtigte unterzeichnet haben. Die Eintragung kann auf dem Amt und in freier Sammlung erfolgen.
 
 #### 3\. Volksabstimmung:
 
-Der Bundestag kann (gegebenenfalls mit Zustimmung des Bundesrates) eine eigene Vorlage beim Volksentscheid zur Abstimmung stellen.
-Jeder Stimmberechtigte bekommt im Vorfeld eine Abstimmungsbroschüre mit den Stellungnahmen der Vertreter des Volksbegehrens sowie denen des Bundestages und Bundesrates.
-Es entscheidet, wie bei Wahlen, die Mehrheit der abgegebenen Stimmen.
-Gesetze, die der Zustimmung der Länder bedürfen, kommen zustande, wenn zusätzlich die Zahl der Bundesratsstimmen jener Länder, in denen eine zustimmende Mehrheit im Volksentscheid erreicht wurde, der im Bundesrat erforderlichen Mehrheit entspricht (bei Grundgesetzänderungen: Zweidrittel-Mehrheit).
+  - Der Bundestag kann (gegebenenfalls mit Zustimmung des Bundesrates) eine eigene Vorlage beim Volksentscheid zur Abstimmung stellen.
+  - Jeder Stimmberechtigte bekommt im Vorfeld eine Abstimmungsbroschüre mit den Stellungnahmen der Vertreter des Volksbegehrens sowie denen des Bundestages und Bundesrates.
+  - Es entscheidet, wie bei Wahlen, die Mehrheit der abgegebenen Stimmen.
+  - Gesetze, die der Zustimmung der Länder bedürfen, kommen zustande, wenn zusätzlich die Zahl der Bundesratsstimmen jener Länder, in denen eine zustimmende Mehrheit im Volksentscheid erreicht wurde, der im Bundesrat erforderlichen Mehrheit entspricht (bei Grundgesetzänderungen: Zweidrittel-Mehrheit).
 
 ### Fakultatives Referendum
 
@@ -1252,7 +1237,12 @@ Bis zur Einführung eines bedingungslosen Grundeinkommens setzen sich die PIRATE
 
 Die Piratenpartei fordert als kurzfristige Maßnahme bis zur Einrichtung einer Expertenkommission die Einführung eines allgemeinen gesetzlichen Mindestlohns, der sich wie folgt berechnet:
 
-(60 % vom durchschnittlichen Jahresarbeitslohn in Deutschland + 1.000 € Werbekostenpauschale) geteilt durch 2.080 Stunden \[52 Wochen à 40 Wochenstunden\]
+<center>
+
+\< u\>60% vom durchschnittlichen Jahresarbeitslohn in Deutschland + 1000 Euro Werbekostenpauschale</u>  
+2080 Stunden (52 Wochen a 40 Wochenstunden)
+
+</center>
 
 Bei Zeitverträgen soll dieser Mindestlohn um 8,33 % erhöht werden\!
 Für das Jahr 2013 bedeutet dies: 9,02 Euro für unbefristete und 9,77 Euro für befristete Arbeitsverhältnisse.
@@ -1291,10 +1281,10 @@ Es darf keine "Behandlung nach Kassenlage" erfolgen.
 
 Mittelfristig muss das Grundeinkommen den "vier Kriterien"
 
-1\. ohne Bedingungen,
-2\. existenzsichernd,
-3\. individuell berechnet,
-4\. ohne Bedürftigkeitsprüfung
+1.  ohne Bedingungen,
+2.  existenzsichernd,
+3.  individuell berechnet,
+4.  ohne Bedürftigkeitsprüfung
 
 genügen.
 In der Phase der Einführung sind Modelle denkbar, die diesen Kriterien nur teilweise genügen.
@@ -1361,10 +1351,10 @@ Die Piratenpartei fordert eine Reform der Einkommensteuer durch ein allgemein ve
 
 Diese große Reform umfasst:
 
-1\. Sockeleinkommen statt "Aufstocken ",
-2\. personenbezogener Grundfreibetrag für alle statt unzeitgemäßem Ehegattensplitting,
-3\. Kranken- und Pflegeversicherungsbeiträge von der Steuer abziehen statt absetzen,
-4\. einheitliches Verfahren statt Sonderregelungen - Abschaffung diverser Ausnahmeregelungen.
+1.  Sockeleinkommen statt "Aufstocken",
+2.  personenbezogener Grundfreibetrag für alle statt unzeitgemäßem Ehegattensplitting,
+3.  Kranken- und Pflegeversicherungsbeiträge von der Steuer abziehen statt absetzen,
+4.  einheitliches Verfahren statt Sonderregelungen - Abschaffung diverser Ausnahmeregelungen.
 
 Erst durch die Kombination der vier Reformbestandteile gelingt die Gestaltung eines ausgeglicheneren Steuersystems bei gleichzeitiger Einführung eines Sockeleinkommens.
 
@@ -1394,32 +1384,27 @@ In beiden Fällen gelten die von der Piratenpartei abgelehnten Sanktionsbestimmu
 
 ### Stärkung der Arbeitslosen-Selbsthilfegruppen
 
-1\.
-Um die Rechte der Leistungsberechtigten innerhalb des komplexen Sozial- und Verwaltungsrechtes zu stärken, fordert die Piratenpartei eine qualitative und quantitative Aufrüstung der lokalen Arbeitslosen-Selbsthilfegruppen.
-Die Organisationsstruktur und Finanzierung soll sich analog am Bundesverband der Verbraucherzentralen und ihren jeweiligen Verbraucherzentralen orientieren.
-Somit wären gut 85 Prozent der Mittel durch das betreffende Bundesministerium abgedeckt.
-Die Finanzierung soll über Mittel aus dem Bundeshaushalt erfolgen.
-2\. Vereine und Hilfsgruppen, die Arbeitsgelegenheiten mit Mehraufwandsentschädigung anbieten oder durchführen, sind von der Nutzung dieser Finanzmittel auszuschließen.
+1.  Um die Rechte der Leistungsberechtigten innerhalb des komplexen Sozial- und Verwaltungsrechtes zu stärken, fordert die Piratenpartei eine qualitative und quantitative Aufrüstung der lokalen Arbeitslosen-Selbsthilfegruppen.
+    Die Organisationsstruktur und Finanzierung soll sich analog am Bundesverband der Verbraucherzentralen und ihren jeweiligen Verbraucherzentralen orientieren.
+    Somit wären gut 85 Prozent der Mittel durch das betreffende Bundesministerium abgedeckt.
+    Die Finanzierung soll über Mittel aus dem Bundeshaushalt erfolgen.
+2.  Vereine und Hilfsgruppen, die Arbeitsgelegenheiten mit Mehraufwandsentschädigung anbieten oder durchführen, sind von der Nutzung dieser Finanzmittel auszuschließen.
 
 ### Akteneinsicht/Transparenz in Jobcentern
 
-1\.
-Die Piratenpartei fordert das uneingeschränkte Recht auf Akteneinsicht.
-Es muss die Möglichkeit eingeräumt werden, die gesamte persönliche, auch digitale Dokumentation (Aufzeichnungen, Profiling etc.) unmittelbar nach jedem Termin einzusehen und auf Verlangen ausgehändigt zu bekommen.
-2\. Es sollen verbindliche, nachvollziehbare Informations- und Beratungsrichtlinien für das Jobcenter geschaffen werden, die dem Leistungsberechtigten zugänglich sein müssen.
-Leistungsberechtigte sind schriftlich vollumfänglich und konkret im Vorfeld über ihre Rechte und Pflichten aufzuklären.
-3\.
-Alle internen Arbeitsanweisungen sind offen zu legen.
+1.  Die Piratenpartei fordert das uneingeschränkte Recht auf Akteneinsicht.
+    Es muss die Möglichkeit eingeräumt werden, die gesamte persönliche, auch digitale Dokumentation (Aufzeichnungen, Profiling etc.) unmittelbar nach jedem Termin einzusehen und auf Verlangen ausgehändigt zu bekommen.
+2.  Es sollen verbindliche, nachvollziehbare Informations- und Beratungsrichtlinien für das Jobcenter geschaffen werden, die dem Leistungsberechtigten zugänglich sein müssen.
+    Leistungsberechtigte sind schriftlich vollumfänglich und konkret im Vorfeld über ihre Rechte und Pflichten aufzuklären.
+3.  Alle internen Arbeitsanweisungen sind offen zu legen.
 
 ### Qualitätsstandards für die Vermittlung in Arbeit (Jobcenter)
 
-1\.
-Die Piratenpartei verfolgt das Anliegen, dass die Mitarbeitenden der Jobcenter im Regelfall unbefristete Arbeitsverträge erhalten, um permanent gleichmäßige Ausbildungs- und Bearbeitungsstandards zu gewährleisten.
-Damit werden die Grundlagen geschaffen, dass die Leistungsberechtigten umfassender aufgeklärt, beraten und vermittelt werden können.
-Wir fordern eine regelmäßige, qualitativ hochwertige Fort- und Weiterbildung der Mitarbeitenden in den Jobcentern, die fachliche und soziale Kompetenzen vermitteln müssen.
-2\.
-Die Piratenpartei setzt sich dafür ein, dass die Mitarbeitenden im Vermittlungsbereich nur diejenigen Berufsgruppen beraten, deren Berufsbilder sie kennen und mit deren fachlichen Inhalten und Anforderungen sie vertraut sind.
-Die Zuordnung und Betreuung der Arbeitslosen im Vermittlungsbereich sollte nicht mehr nach dem Anfangsbuchstaben des Namens des Antragstellers, Stadtteilen, BG-Nummern oder anderen bürokratischen Kriterien erfolgen.
+1.  Die Piratenpartei verfolgt das Anliegen, dass die Mitarbeitenden der Jobcenter im Regelfall unbefristete Arbeitsverträge erhalten, um permanent gleichmäßige Ausbildungs- und Bearbeitungsstandards zu gewährleisten.
+    Damit werden die Grundlagen geschaffen, dass die Leistungsberechtigten umfassender aufgeklärt, beraten und vermittelt werden können.
+    Wir fordern eine regelmäßige, qualitativ hochwertige Fort- und Weiterbildung der Mitarbeitenden in den Jobcentern, die fachliche und soziale Kompetenzen vermitteln müssen.
+2.  Die Piratenpartei setzt sich dafür ein, dass die Mitarbeitenden im Vermittlungsbereich nur diejenigen Berufsgruppen beraten, deren Berufsbilder sie kennen und mit deren fachlichen Inhalten und Anforderungen sie vertraut sind.
+    Die Zuordnung und Betreuung der Arbeitslosen im Vermittlungsbereich sollte nicht mehr nach dem Anfangsbuchstaben des Namens des Antragstellers, Stadtteilen, BG-Nummern oder anderen bürokratischen Kriterien erfolgen.
 
 ### Transparenz bei Arbeitslosenstatistik
 
@@ -1479,20 +1464,17 @@ Die Piratenpartei Deutschland fordert geschlechterunabhängige gleiche Bezahlung
 
 #### Ost-West-Gefälle
 
-1\.
-Die Piratenpartei Deutschland setzt sich dafür ein, dass Lohnunterschiede zwischen Ost- und Westdeutschland abgebaut werden.
-2\. Hier soll der öffentliche Dienst eine Vorbildfunktion einnehmen.
+1.  Die Piratenpartei Deutschland setzt sich dafür ein, dass Lohnunterschiede zwischen Ost- und Westdeutschland abgebaut werden.
+2.  Hier soll der öffentliche Dienst eine Vorbildfunktion einnehmen.
 
 #### Missbrauch von Berufspraktika verhindern
 
-1\.
-Die Piratenpartei sieht Berufspraktika als eine sinnvolle und notwendige Ergänzung der Berufsausbildung an.
-Sie vermitteln Praxisbezug und erleichtern den Eintritt ins Berufsleben.
-Auf der anderen Seite erkennt sie viele Probleme, die eine Neuregelung für die Beschäftigung von Praktikanten notwendig machen.
-2\.
-Die Piratenpartei setzt sich dafür ein, Missbrauch durch Arbeitgeber zu unterbinden.
-Ein nicht für Ausbildung oder Studium benötigtes Praktikum ist auf drei Monate zu begrenzen oder es ist nach Ablauf von drei Monaten ein angemessenes Praktikantengehalt zu zahlen und der Praktikant rechtlich dem festangestellten Mitarbeiter gleichzustellen.
-Auf Antrag sollen Betriebe finanzielle Unterstützung durch die Bundesagentur für Arbeit erhalten können.
+1.  Die Piratenpartei sieht Berufspraktika als eine sinnvolle und notwendige Ergänzung der Berufsausbildung an.
+    Sie vermitteln Praxisbezug und erleichtern den Eintritt ins Berufsleben.
+    Auf der anderen Seite erkennt sie viele Probleme, die eine Neuregelung für die Beschäftigung von Praktikanten notwendig machen.
+2.  Die Piratenpartei setzt sich dafür ein, Missbrauch durch Arbeitgeber zu unterbinden.
+    Ein nicht für Ausbildung oder Studium benötigtes Praktikum ist auf drei Monate zu begrenzen oder es ist nach Ablauf von drei Monaten ein angemessenes Praktikantengehalt zu zahlen und der Praktikant rechtlich dem festangestellten Mitarbeiter gleichzustellen.
+    Auf Antrag sollen Betriebe finanzielle Unterstützung durch die Bundesagentur für Arbeit erhalten können.
 
 #### Bekämpfung von "prekärem Unternehmertum"
 
@@ -2300,15 +2282,12 @@ Allgemeinkrankenhäuser, die für den Aufbau der Psychiatrischen Abteilung zunä
 Die Piratenpartei fordert, dass in allen Gebietskörperschaften die Strukturen der sozialen, komplementären Versorgung für Menschen mit psychischen Störungen bedarfsdeckend aufgebaut bzw. (bei Trägerschaft von gemeinnützigen Vereinen) durch entsprechende Fördermittel erhalten werden.
 Diese komplementäre Versorgung ist das Kernstück der sozialen Inklusion; dazu gehört vor allem die Unterstützung in den Bereichen Wohnen, Arbeit und Freizeit.
 
-Wohnen: Die meisten psychischen Störungen treten erstmalig in der Jugend und im frühen Erwachsenenalter auf.
-Für diesen Personenkreis haben sich betreute Wohngemeinschaften ebenso bewährt wie zur "Wiederbeheimatung", zur Rückführung von Langzeitpatienten, die in sog. "Heime" verschoben und dort ausgegrenzt wurden.
-Solche Wohngemeinschaften, oft unter Betreuung von Sozialarbeitern, sind bedarfsdeckend einzurichten.
-Arbeit: Die Arbeitssituation der Betroffenen ist häufig fatal; entweder bleibt ihnen der 1. Arbeitsmarkt aufgrund der Stigmatisierung verschlossen, oder sie sind tatsächlich den Anforderungen nicht gewachsen.
-In Regionen, in denen langjährig sozialpsychiatrisch gearbeitet wurde, entstand eine Palette von Arbeitsmöglichkeiten im 3. Arbeitsmarkt, von einfachen Zuverdienstfirmen bis zu komplett autonomen Firmen, die weiter geführt werden müssen.
-Freizeit: Die Freizeit sinnvoll mit anderen zu gestalten, ist für Menschen mit psychischen Störungen ebenfalls nicht so einfach wie für andere.
-Diverse Clubs, in denen sich alle (auch nicht Betroffene) treffen können, Patientencafés inmitten der Städte etc. sind daher unverzichtbare Bausteine einer komplementären sozialpsychiatrischen Versorgung.
-Tagesstätten: Im Gegensatz zu Tageskliniken findet in Tagesstätten keine medizinische Versorgung statt, sondern Therapeuten aller Ausbildungstypen (z. B. Ergo-, Kunst- und Musiktherapeuten etc.) gestalten zusammen mit Beschäftigten der Gesundheits- und Krankenpflege, Sozialarbeit und engagierten Bürgern den Alltag der Betroffenen.
-Tagesstätten haben sich zudem als besonders nützlich erwiesen, wenn Demenzkranke ältere Menschen von ihren berufstätigen Kindern versorgt werden und müssen daher flächendeckend angeboten werden.
+  - Wohnen: Die meisten psychischen Störungen treten erstmalig in der Jugend und im frühen Erwachsenenalter auf. Für diesen Personenkreis haben sich betreute Wohngemeinschaften ebenso bewährt wie zur "Wiederbeheimatung", zur Rückführung von Langzeitpatienten, die in sog. "Heime" verschoben und dort ausgegrenzt wurden.
+    Solche Wohngemeinschaften, oft unter Betreuung von Sozialarbeitern, sind bedarfsdeckend einzurichten.
+  - Arbeit: Die Arbeitssituation der Betroffenen ist häufig fatal; entweder bleibt ihnen der 1. Arbeitsmarkt aufgrund der Stigmatisierung verschlossen, oder sie sind tatsächlich den Anforderungen nicht gewachsen.
+    In Regionen, in denen langjährig sozialpsychiatrisch gearbeitet wurde, entstand eine Palette von Arbeitsmöglichkeiten im 3. Arbeitsmarkt, von einfachen Zuverdienstfirmen bis zu komplett autonomen Firmen, die weiter geführt werden müssen.
+  - Freizeit: Die Freizeit sinnvoll mit anderen zu gestalten, ist für Menschen mit psychischen Störungen ebenfalls nicht so einfach wie für andere. Diverse Clubs, in denen sich alle (auch nicht Betroffene) treffen können, Patientencafés inmitten der Städte etc. sind daher unverzichtbare Bausteine einer komplementären sozialpsychiatrischen Versorgung.
+  - Tagesstätten: Im Gegensatz zu Tageskliniken findet in Tagesstätten keine medizinische Versorgung statt, sondern Therapeuten aller Ausbildungstypen (z. B. Ergo-, Kunst- und Musiktherapeuten etc.) gestalten zusammen mit Beschäftigten der Gesundheits- und Krankenpflege, Sozialarbeit und engagierten Bürgern den Alltag der Betroffenen. Tagesstätten haben sich zudem als besonders nützlich erwiesen, wenn Demenzkranke ältere Menschen von ihren berufstätigen Kindern versorgt werden und müssen daher flächendeckend angeboten werden.
 
 #### Bundesweite Notrufnummer
 
@@ -2321,13 +2300,13 @@ Des Weiteren soll psychiatrische Notfallhilfe per E-Mail und SMS ganztags erreic
 
 Die Piratenpartei fordert im Zuge der Aufklärung über psychische Störungen die Bereitstellung eines Internetangebotes vom Bundesministerium für Gesundheit (BMG) mit folgendem Inhalt:
 
-Datenbank aller praktizierenden Psychiater, Ärztlicher und Psychologischer Psychotherapeuten, Psychologen sowie aller psychiatrischen Fachkrankenhäuser mit:
-Adressen,
-Wartezeiten/Anzahl freier Sprechstunden/Anzahl freier Plätze,
-Fachgebiet,
-Spezialgebiet,
-Vorstellung und Erklärungen von Therapieangeboten,
-Anträge zum Download und Antragserklärungen.
+  - Datenbank aller praktizierenden Psychiater, Ärztlicher und Psychologischer Psychotherapeuten, Psychologen sowie aller psychiatrischen Fachkrankenhäuser mit:
+      - Adressen,
+      - Wartezeiten/Anzahl freier Sprechstunden/Anzahl freier Plätze,
+      - Fachgebiet,
+      - Spezialgebiet,
+  - Vorstellung und Erklärungen von Therapieangeboten,
+  - Anträge zum Download und Antragserklärungen.
 
 An dieses Internetangebot soll eine Telefonhotline angeschlossen sein, die zu den Inhalten ebenfalls Auskunft geben kann.
 Die inhaltliche Ausgestaltung soll koordinierend vom BMG mit fachlicher Kompetenz erfolgen.
@@ -2672,7 +2651,7 @@ Auf dem Weg zu einer kernwaffenfreien Welt ("Global Zero") setzt sich die Pirate
 Die Wirtschafts-, Finanz- und Sozialordnung soll allen Menschen und der Gemeinschaft dienen.
 Traditionelle Kennzahlen, wie etwa das Bruttoinlandsprodukt (BIP) oder die Wachstumsrate, die nur bedingt mit dem Wohlstand der Menschen und der Nachhaltigkeit des Wirtschaftens verknüpft sind, sollen daher nicht mehr alleinige Orientierungsgrößen für die Wirtschaftspolitik sein.
 
-Das Leitbild der Piraten ist eine Ordnung, die sowohl freiheitlich als auch gerecht als auch nachhaltig gestaltet ist.
+Das Leitbild der Piraten ist eine Ordnung, die sowohl <B> freiheitlich </B> als auch <B> gerecht </B> als auch <B> nachhaltig </B> gestaltet ist.
 
 Da Freiheit, Gerechtigkeit und Nachhaltigkeit universelle Grundwerte sind, wollen wir auch über den nationalen Rahmen hinaus auf die Berücksichtigung dieser Werte hinwirken.
 Freiheitlich ist eine Gesellschaftsordnung, in der die individuelle Entfaltung des Menschen im Mittelpunkt steht.
@@ -2856,10 +2835,9 @@ Die Piratenpartei Deutschland tritt dafür ein, das Abgeordnetengesetz (Gesetz �
 
 Dazu gehört:
 
-1\. die Mandatspflichten eines Abgeordneten zu definieren,
-2\. den Begriff des ungerechtfertigten Vorteils zu definieren sowie
-3\. die Annahme von Spenden durch Abgeordnete zu untersagen.
-
+1\. die Mandatspflichten eines Abgeordneten zu definieren,  
+2\. den Begriff des ungerechtfertigten Vorteils zu definieren sowie  
+3\. die Annahme von Spenden durch Abgeordnete zu untersagen.  
 Spenden sollten nur von Parteien bzw. Wählergemeinschaften angenommen werden dürfen.
 Für parteilose und fraktionslose Abgeordnete könnte gegebenenfalls eine Sonderregelung geschaffen werden.
 
@@ -2900,28 +2878,28 @@ In einem freiheitlichen Rechtsstaat ist eine derart breite Erfassung beliebiger 
 
 Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit einem "Freiheitspaket" wieder aufheben, darunter
 
-die Übertragung exekutiver Polizeibefugnisse einschließlich Online-Durchsuchung auf das Bundeskriminalamt,
-gemeinsame Dateien von Polizeien und Geheimdiensten,
-die flächendeckende Erhebung biometrischer Daten sowie deren Speicherung in RFID-Ausweisdokumenten,
-die lebenslängliche Steuer-Identifikationsnummer,
-das elektronische Bankkontenverzeichnis,
-die verpflichtende elektronische Gesundheitskarte,
-die Überwachung von Wohnungen, von Ärzten, Rechtsanwälten, Geistlichen,
-Abgeordneten und anderen Vertrauenspersonen,
-den Identifizierungszwang für Handy- und Internetnutzer,
-das Verbot anonymen elektronischen Bargeldes (Zahlungskarten) über 100 Euro sowie
-die Auslieferung von Personendaten an die USA und andere Staaten ohne wirksamen Grundrechtsschutz.
+  - die Übertragung exekutiver Polizeibefugnisse einschließlich Online-Durchsuchung auf das Bundeskriminalamt,
+  - gemeinsame Dateien von Polizeien und Geheimdiensten,
+  - die flächendeckende Erhebung biometrischer Daten sowie deren Speicherung in RFID-Ausweisdokumenten,
+  - die lebenslängliche Steuer-Identifikationsnummer,
+  - das elektronische Bankkontenverzeichnis,
+  - die verpflichtende elektronische Gesundheitskarte,
+  - die Überwachung von Wohnungen, von Ärzten, Rechtsanwälten, Geistlichen,
+  - Abgeordneten und anderen Vertrauenspersonen,
+  - den Identifizierungszwang für Handy- und Internetnutzer,
+  - das Verbot anonymen elektronischen Bargeldes (Zahlungskarten) über 100 Euro sowie
+  - die Auslieferung von Personendaten an die USA und andere Staaten ohne wirksamen Grundrechtsschutz.
 
 #### Neue Überwachungspläne stoppen
 
 Um den fortschreitenden Abbau der Bürgerrechte seit 2001 zu stoppen, fordern wir ein Moratorium für weitere Grundrechtseingriffe im Namen der Kriminalitätsbekämpfung, solange nicht die systematische Überprüfung der bestehenden Befugnisse abgeschlossen ist.
 Insbesondere lehnen wir ab
 
-eine flächendeckende Protokollierung aller unserer Telefon- oder Internetverbindungen (Vorratsdatenspeicherung) gleich für welche Dauer,
-eine Vorratsspeicherung von Flug-, Schiff- und sonstigen Passagierdaten,
-eine systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm der EU),
-den Einsatz von Überwachungsdrohnen sowie
-den Einsatz von Rasterfahndungs-Software in Online-Netzwerken.
+  - eine flächendeckende Protokollierung aller unserer Telefon- oder Internetverbindungen (Vorratsdatenspeicherung) gleich für welche Dauer,
+  - eine Vorratsspeicherung von Flug-, Schiff- und sonstigen Passagierdaten,
+  - eine systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm der EU),
+  - den Einsatz von Überwachungsdrohnen sowie
+  - den Einsatz von Rasterfahndungs-Software in Online-Netzwerken.
 
 #### Grundrechtskonformität der Gesetzgebung stärken
 
