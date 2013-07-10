@@ -14,7 +14,7 @@
 
 <big> Wahlprogramm in diversen Formaten: </big> <br>
 
-: {{PDF|PP-Bund-BTW13v1|Wahlprogramm inkl. Fotos als PDF}} 
+: {{PDF|Wahlprogramm_zur_Bundestagswahl_2013_Onlineversion|Wahlprogramm inkl. Fotos als PDF}} 
 
 <br>
 </div><!-- /noprint -->
