@@ -16,6 +16,9 @@
 
 : {{PDF|Wahlprogramm_zur_Bundestagswahl_2013_Onlineversion|Wahlprogramm inkl. Fotos als PDF}} 
 
+: [http://piratenpartei.de/wp-content/uploads/BTW13-Programm-v1.epub Wahlprogramm als ePUB-Format (307 KB)]
+: [http://piratenpartei.de/wp-content/uploads/BTW13-Programm.epub Wahlprogramm als ePUB-Format (108 KB)]
+
 <br>
 </div><!-- /noprint -->
 
