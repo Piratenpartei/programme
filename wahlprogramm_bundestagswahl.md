@@ -1503,6 +1503,7 @@ Daher befürworten wir alle notwendigen gesetzlichen Schutzmaßnahmen im Betrieb
 Die Piratenpartei tritt dafür ein, die Kirchen im Arbeitsrecht mit den übrigen Tendenzbetrieben gleichzustellen.
 Damit würden Kündigungsschutz, Mitbestimmung, Streikrecht, Koalitionsfreiheit und Arbeitnehmerrechte entsprechend dem Betriebsverfassungs- und Personalvertretungsrecht gelten.
 Deshalb spricht sich die Piratenpartei dafür aus, § 118 (2) des Betriebsverfassungsgesetzes (Sonderregelung für Religionsgemeinschaften) zu streichen und § 9 des Allgemeinen Gleichberechtigungsgesetzes entsprechend den EU-Regelungen umzugestalten.
+
 Die Piratenpartei spricht sich dafür aus, dass für überwiegend aus öffentlichen Mitteln finanzierte Betriebe - etwa im Bereich des Sozial- und Gesundheitswesens - die Beachtung der Grundrechte und der Regeln des Allgemeinen Gleichberechtigungsgesetzes Voraussetzung für die öffentliche Förderung sein muss.
 
 ### Maßnahmen gegen Mobbing
