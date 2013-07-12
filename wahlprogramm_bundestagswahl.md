@@ -1519,7 +1519,9 @@ Sie sollen einen jährlichen Bericht veröffentlichen.
 ### Telearbeit
 
 Die moderne Arbeitswelt fordert vom Arbeitnehmer ein hohes Maß an Flexibilität.
+
 Im Gegenzug fordert die Piratenpartei auch vom Arbeitgeber Flexibilität.
+
 Daher soll ein Arbeitnehmer, sofern es seine Tätigkeit erlaubt, auf eigenen Wunsch seine Arbeitsleistung von zu Hause aus erbringen können.
 Der Arbeitgeber hat für die notwendige technische Infrastruktur zu sorgen.
 Ein Telearbeitsplatz mit der notwendigen Ausstattung soll nur bei dauerhafter Nutzung vorgeschrieben sein, damit eine gelegentliche Inanspruchnahme von Telearbeit, z. B. bei Erkrankung eines Kindes, unbürokratisch möglich ist.
