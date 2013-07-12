@@ -1065,7 +1065,9 @@ Aktiver Schutz (Vermeidung von Lärm an der Quelle) ist dem passivem Schutz (am 
 Besonders schützenswert ist die Nacht.
 
 Lärmemissionen sind in ihrer Wirkung unter Berücksichtigung aller Gesundheitskosten gesamtheitlich zu betrachten und wirtschaftliche Chancen den gesundheitlichen Risiken gegenüberzustellen.
-Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
+
+#### Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
+
 Die Piratenpartei setzt sich für die Kartierung von Straßen-, Bahn-, Flug- und Industrielärmemissionen ein – unter Nutzung aller verfügbarer Daten, unabhängig von Mindestbelastungs-Grenzwerten.
 Die on- und offline Darstellung der Emissionsbelastung muss bundesweit einheitlich erfolgen.
 Lärmquellen sind entsprechend zu kennzeichnen.
