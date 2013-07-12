@@ -1154,6 +1154,7 @@ Die Beiträge von Selbstständigen werden sich an ihren jeweiligen Unternehmensz
 
 Die Rentenbezüge bewegen sich in einem Korridor von Mindest- bis Maximalrente.
 Die Renten werden jährlich um einen Faktor, der die Inflationsrate berücksichtigt, angepasst. Dieser Faktor berücksichtigt außerdem die Änderung weiterer Kosten, wie zum Beispiel Gesundheitskosten.
+
 Die staatliche Rentenkasse verwaltet sich eigenverantwortlich, ohne direkten Zugriff durch den Staat. Der Staat schafft den gesetzlichen Rahmen. Die Rentenkasse ist für die Rente zweckgebunden!
 
 === Betriebliche Altersvorsorge ===
