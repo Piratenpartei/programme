@@ -527,7 +527,7 @@ Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht 
 
 Die Piratenpartei setzt sich für die vollständige Abschaffung des sogenannten "Hackerparagraphen" § 202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
 
-### Schutz der Freiheit und Privatsphäre im Internet
+## Schutz der Freiheit und Privatsphäre im Internet
 
 Der unzureichende Datenschutz im Internet führt immer wieder zu Datenverlust, Datendiebstahl und Datenmissbrauch.
 Gleichzeitig gefährden Überwachungs-, Filter-, Sperr- und Löschmaßnahmen, die Internet-Diensteanbieter im Interesse privater Rechteinhaber einsetzen, den freien Meinungs- und Informationsaustausch im Internet.
@@ -539,7 +539,7 @@ Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fer
 Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind.
 Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
 
-### Freier Zugang zu öffentlichen Inhalten
+## Freier Zugang zu öffentlichen Inhalten
 
 Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugung und Aufbereitung von Texten, Daten und Medien.
 Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung.
