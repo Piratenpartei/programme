@@ -3,7 +3,7 @@
 {{Über die Partei}}
 </noinclude>
 
-<big> <big> <big> '''Wahlprogramm zur Bundestagswahl 2013 der Piratenpartei Deutschland''' </big></big> </big> <br> <br>
+<big> <big>'''Wahlprogramm zur Bundestagswahl 2013 der Piratenpartei Deutschland''' </big></big> <br> <br>
 
 <div class="noprint"> 
 <big> Programmgeschichte </big> <br>
@@ -18,6 +18,13 @@
 
 : [http://piratenpartei.de/wp-content/uploads/BTW13-Programm-v1.epub Wahlprogramm als ePUB-Format (307 KB)]
 : [http://piratenpartei.de/wp-content/uploads/BTW13-Programm.epub Wahlprogramm als ePUB-Format (108 KB)]
+
+: {{PDF|Wahlprogramm_zur_Bundestagswahl_2013_Onlineversion|Wahlprogramm inkl. Fotos als PDF}} 
+
+
+<big> Wahlprogramm in Leichter Sprache barrierefrei: </big> <br>
+
+: {{PDF|Wahlprogramm_der_Piratenpartei_in_Leichter_Sprache_Barrierefrei|Wahlprogramm in Leichter Sprache barrierefrei}} 
 
 <br>
 </div><!-- /noprint -->
