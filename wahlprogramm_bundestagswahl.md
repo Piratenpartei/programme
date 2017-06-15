@@ -139,16 +139,17 @@ Zur Abschaffung des großen Lauschangriffs sollen dazu konkret die Absätze 3 bi
 Zur Abschaffung der Eingriffe in das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis soll dazu konkret der Absatz 2 des Art. 10 Grundgesetz (GG) entfernt werden.
 Die Erfahrungen z. B. mit dem "Staatstrojaner" haben gezeigt, dass der Staat einen verantwortungsvollen Umgang mit Eingriffen in die Privatsphäre der Bürgerinnen und Bürger nicht gewährleisten kann und dass weiterhin kein Konzept für eine wirksame Kontrolle existiert.
 
-2 Asyl und Migration
-2.1 Für eine solidarische Asylpolitik – Menschenrechte gelten für alle\!
+# Asyl und Migration
 
-2.1.1 Grundsätze
+## Für eine solidarische Asylpolitik – Menschenrechte gelten für alle\!
+
+### Grundsätze
 
 Wir PIRATEN stehen für eine offene, freie und pluralistische Gesellschaft ein, in der verschiedene Kulturen, Weltanschauungen und Religionen friedlich gemeinsam leben können.
 Wir setzen uns deshalb für eine solidarische und menschenwürdige Asylpolitik ein, die am Wohl und Schutz der asylsuchenden Menschen interessiert ist und auf Instrumente zur Abschreckung, Isolation und Diskriminierung ausnahmslos verzichtet.
 Asylpolitik muss immer an humanitären und nicht an nationalstaatlichen oder wirtschaftlichen Interessen ausgerichtet sein.
 
-2.1.2 Ursachenbekämpfung, Konfliktprävention
+### Ursachenbekämpfung, Konfliktprävention
 
 Flucht- und Migrationsbewegungen und bewaffnete Konflikte haben Ursachen.
 Ziel unserer Politik ist es, frühzeitig Konfliktentwicklungen zu erkennen und diesen entgegenzuwirken.
@@ -162,7 +163,7 @@ Militärisches Eingreifen lehnen wir grundsätzlich ab.
 
 Ob in besonderen Einzelfällen wie organisiertem Völkermord ein Eingreifen unabwendbar ist, bedarf einer besonders sorgfältigen Abwägung und eines Beschlusses der Vereinten Nationen.
 
-2.1.3 Migration, Wirtschaftsmigration
+### Migration, Wirtschaftsmigration
 
 Wir erkennen an, dass Menschen aus den verschiedensten Gründen zu uns kommen und bei uns dauerhaft leben wollen.
 Den Umfang regelt ein Zuwanderungsgesetz, das auch angemessen berücksichtigt, dass die Ursachen für Migration unterschiedlich sind.
@@ -181,9 +182,9 @@ Mobilität umfasst dabei ein größeres Konzept als Migration alleine, denn sie 
 Wir setzen uns daher für eine mobilitätsfreundliche Visapolitik ein, die z. B. Lernen und Arbeiten von Menschen aus Drittstaaten erleichtert.
 Dieses Konzept muss auch auf europäischer Ebene etabliert und nationale Regelungen harmonisiert werden.
 
-2.1.4 Für ein liberales Aufenthaltsrecht
+### Für ein liberales Aufenthaltsrecht
 
-2.1.4.1 Erleichterung des Ehegattennachzugs
+#### Erleichterung des Ehegattennachzugs
 
 Die Familie steht laut Grundgesetz unter besonderem Schutz.
 Dennoch ist es für Ehegatten, die aus Nicht-EU-Ländern stammen, Pflicht, noch vor der Einreise nach Deutschland einen Sprachkurs Deutsch zu belegen und erfolgreich abzuschließen.
@@ -191,7 +192,7 @@ Wir PIRATEN sehen hierin vor allem eine Abschottungsmaßnahme gegenüber Ehegatt
 Wir fordern die Abschaffung der verpflichtenden Deutschkenntnisse noch vor der Einreise.
 Es ist vollkommen ausreichend, wenn nachziehende Ehegatten hier vor Ort Deutschkurse belegen.
 
-2.1.4.2 Legalisierung von Papierlosen
+#### Legalisierung von Papierlosen
 
 Wir brauchen eine intensivere Politik für Menschen, die sich ohne gültige Aufenthaltsgenehmigung in Deutschland aufhalten, um deren Recht- und Perspektivlosigkeit zu beenden.
 Dabei ist es wichtig, dass sowohl langfristige Konzepte entwickelt als auch kurzfristige Maßnahmen durchgeführt werden.
@@ -202,7 +203,7 @@ Bremen hat hierbei bereits Vorbildprojekte auf den Weg gebracht.
 Zudem fordern wir eine Initiative zur Legalisierung von Menschen, die sich ohne gültige Aufenthaltsgenehmigung in Deutschland befinden.
 Diese sollen eine unbefristete Aufenthalts- und Arbeitserlaubnis erhalten, um einen geregeltes Leben in Würde führen zu können.
 
-2.1.5 Staatsangehörigkeit – mehrfach und durch Geburt
+### Staatsangehörigkeit – mehrfach und durch Geburt
 
 Wir PIRATEN setzen uns für die Akzeptanz doppelter und mehrfacher Staatsangehörigkeiten ein, um die Hürde zur Annahme der deutschen Staatsangehörigkeit und des damit verbundenen Wahlrechts zu senken.
 Der Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht) entfällt.
@@ -210,7 +211,7 @@ Menschen, die seit langem in Deutschland leben, sollen unabhängig von wirtschaf
 Dies ist Teil des Integrationsprozesses, nicht dessen Ziel.
 Wir setzen uns für ein bedingungsloses Recht aller in Deutschland geborener Menschen, egal welcher Abstammung, auf die deutsche Staatsangehörigkeit ein.
 
-2.1.6 Wiederherstellung des Rechts auf Asyl, Asylgründe erweitern und Hürden für Aufenthaltserlaubnis senken
+### Wiederherstellung des Rechts auf Asyl, Asylgründe erweitern und Hürden für Aufenthaltserlaubnis senken
 
 Wir PIRATEN fordern die Wiederherstellung des ursprünglichen Art. 16a Abs. 1 GG ( "Politisch Verfolgte genießen Asylrecht") und die Streichung von Art. 16a Abs. 2-5 GG, die dieses Grundrecht einschränken.
 
@@ -225,7 +226,7 @@ Schutzsuchende haben ein Recht auf individuelle Prüfung ihrer Situation.
 Bei der Prüfung, ob eine Berechtigung zum Asyl vorliegt, ist im Zweifel zu Gunsten der Asylsuchenden zu entscheiden.
 Dabei ist auf diskriminierende und inhumane Beweisverfahren zu verzichten.
 
-2.1.7 Grundrechte auf alle Menschen ausweiten
+### Grundrechte auf alle Menschen ausweiten
 
 Das Grundrecht auf Asyl und die Inhalte der Genfer Konvention sind für uns nicht verhandelbar.
 Geflüchtete genießen den Schutz der Gemeinschaft und ihrer Institutionen.
@@ -239,7 +240,7 @@ Aktuell werden Asylsuchende in einem nicht hinnehmbaren Maße vom gesellschaftli
 Durch restriktive Vorschriften, wie z. B. die Residenzpflicht, wird ihre Bewegungsfreiheit massiv eingeschränkt und ein freizügiges, selbstbestimmtes Leben, ebenso wie die Beteiligung an politischen oder sozialen Veranstaltungen, nahezu unmöglich gemacht.
 Wir setzen uns dafür ein, dass Asylsuchenden die Möglichkeit gegeben wird, sich frei und unkontrolliert im gesamten Gebiet der Europäischen Union zu bewegen.
 
-2.1.8 Offenere Grenzen statt der Festung Europa
+### Offenere Grenzen statt der Festung Europa
 
 An den Außengrenzen der Europäischen Union wird seit Jahren eine zunehmende Abriegelung angestrebt und umgesetzt, die Flüchtenden den Zugang nach Europa immer stärker versperrt.
 Durch nationale Polizeibehörden, das Militär und private Sicherheitsunternehmen sowie die EU-Agentur für Grenzschutz werden Menschen gewaltsam am Betreten der EU gehindert und damit der Chance beraubt, durch einen Asylantrag Schutz in Europa zu finden.
@@ -252,11 +253,11 @@ Sie durchzuführen ist nicht die Aufgabe der Zivilgesellschaft.
 Wo dies geschieht, dürfen Rettende für ihre Zivilcourage weder behindert noch kriminalisiert werden.
 Wir kritisieren die momentane Praxis, immer neue Straftatbestände zu konstruieren, um Schutzsuchende zu inhaftieren.
 
-2.1.9 Freie Wahl des Aufenthaltsortes für alle Menschen
+### Freie Wahl des Aufenthaltsortes für alle Menschen
 
 Durch vermehrte technische Überwachung an den Grenzen, zunehmende Datensammlungen über einreisende Personen (z. B. "smart borders", EURODAC) und die Ausweitung polizeilicher Befugnisse wird deutlich, dass die Europäische Union nicht an der Aufnahme von schutzsuchenden Menschen interessiert ist, sondern auf Abschottung setzt.
 
-2.1.10 Isolation beenden – menschenwürdige und dezentrale Unterkünfte schaffen\!
+### Isolation beenden – menschenwürdige und dezentrale Unterkünfte schaffen\!
 
 Durch die Unterbringung in Lagern und Gemeinschaftsunterkünften, die zumeist einen maroden Zustand vorweisen und abgelegen von Stadtkernen liegen, sind Asylsuchende zu einem isolierten Leben gezwungen.
 Die prekäre Unterbringungssituation ist für die Betroffenen belastend und steht der Integration im Weg.
@@ -269,7 +270,7 @@ Wir halten diesen menschenunwürdigen Zustand für nicht länger hinnehmbar und 
 Wohnungen müssen hierfür dezentral organisiert werden, eine Abkehr von der bestehenden Lagerpraxis ist unabdingbar.
 Der Zugang zu Bildung, Kultur, Sprachkursen und neuen, modernen Kommunikationsmedien wie dem Internet muss barrierefrei und kostenfrei sichergestellt sein.
 
-2.1.11 Faires Asylverfahren schaffen – Behördengänge vereinfachen, rechtsstaatliches Asylverfahren sicherstellen
+### Faires Asylverfahren schaffen – Behördengänge vereinfachen, rechtsstaatliches Asylverfahren sicherstellen
 
 Allen Menschen, die in Deutschland einen Asylantrag stellen, muss genügend Zeit gegeben werden, die auf der Flucht und im Herkunftsland erlebten Geschehnisse zu verarbeiten.
 Dafür muss gewährleistet sein, dass Asylsuchenden eine psychologische Betreuung gestellt wird, die sie dabei unterstützt und begleitet.
@@ -289,7 +290,7 @@ Die Regierung hat sich in dieser Frage ihrer Verantwortung zu stellen und das Ve
 Forderungen nach schnelleren Abschiebungen halten wir hingegen für gefährlichen Populismus.
 Der Rechtsweg muss für die Beteiligten ebenso gewahrt bleiben wie die Gründlichkeit des rechtsstaatlichen Verfahrens.
 
-2.1.12 Für ein Ende von Abschiebungen und Abschiebehaft
+### Für ein Ende von Abschiebungen und Abschiebehaft
 
 Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insbesondere zwischen dem 15. November eines Jahres und dem 15. März des Folgejahres ein.
 Eine Rückführung zieht in vielen Herkunftsländern eine zusätzliche Gefahr für Leib und Leben nach sich.
@@ -301,7 +302,7 @@ Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung si
 Die Abschiebehaft ist sofort bundesweit auszusetzen.
 Inhaftierte Personen sind sofort zu entlassen.
 
-2.1.13 Echte Existenzsicherung statt diskriminierender Sondergesetze
+### Echte Existenzsicherung statt diskriminierender Sondergesetze
 
 Das Urteil des Bundesverfassungsgerichts zum "Asylbewerberleistungsgesetz" ist eindeutig und zeigt, dass es verfassungswidrig ist, Asylsuchende unter dem "Existenzminimum" zu halten.
 Dies zeigt, wie stark Asylsuchende bereits durch die Gesetzgebung in ihrem Alltag diskriminiert und eines selbstbestimmten Lebens beraubt werden.
@@ -309,32 +310,32 @@ Dies zeigt, wie stark Asylsuchende bereits durch die Gesetzgebung in ihrem Allta
 Wir setzen uns dafür ein, dass Asylsuchende Anspruch auf Sozialleistungen haben, ohne dabei diskriminierende Sondergesetzgebungen unterstellt zu werden.
 Das Recht auf sichere Existenz und Teilhabe muss für alle Menschen gelten – auch und besonders für Schutzsuchende.
 
-2.1.14 Finanzierung zur Versorgung der aufgenommenen Geflüchteten
+### Finanzierung zur Versorgung der aufgenommenen Geflüchteten
 
 Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöhten Aufkommens geflüchteter Menschen ab.
 Es ist nicht vermittelbar, dass deutsche Unternehmen am Waffenexport in Krisenregionen verdienen und damit Fluchtursachen schaffen, die Bürgerinnen und Bürger aber wie bei der Bankenrettung die Zeche zahlen müssen.
 Wir setzen uns daher für eine Zusatzbesteuerung aller in Deutschland hergestellten Waffen und anderer Kriegsmittel ein.
 
-2.2 Migration
+## Migration
 
-2.2.1 Für eine moderne, weltoffene Verwaltung
+### Für eine moderne, weltoffene Verwaltung
 
 Um eine vernünftige Gesellschaftspolitik zu gewährleisten, müssen die zuständigen Akteure über finanzielle Ausgestaltung und ausreichende Unabhängigkeit verfügen.
 
-2.2.1.1 Unabhängigkeit und Kompetenz für die zuständigen Akteure
+#### Unabhängigkeit und Kompetenz für die zuständigen Akteure
 
 Wir fordern eine Stärkung des für Migrationsfragen zuständigen Staatsministeriums oder die Schaffung eines eigenen Bundesministeriums für Integrationsangelegenheiten, um die derzeit fragmentierten integrationspolitischen Aufgaben zu bündeln.
 Dabei werden die Verantwortungsbereiche unter den Ministerien des Innern, Arbeit und Soziales und Familie, Senioren, Frauen und Jugend zu einem Bereich zusammengeführt.
 Integrationspolitik muss stringent und kohärent in einer Hand liegen.
 
-2.2.2.1 Abschaffung des Mehr-Klassen-Systems auf dem Arbeitsmarkt
+#### Abschaffung des Mehr-Klassen-Systems auf dem Arbeitsmarkt
 
 Wir wollen eine Mehr-Klassen-Situation auf dem Arbeitsmarkt beenden.
 Diskriminierungsmaßnahmen jeder Art stellen unnötige und unangemessene Hürden für die Menschen dar, schaffen unnötige Bürokratie für Arbeitgeberinnen und Arbeitgeber und behindern die Entwicklung der Wirtschaft.
 Wir setzen uns dafür ein, die gesetzliche Schlechterstellung von Menschen aus Nicht-EU-Staaten auf dem Arbeitsmarkt abzuschaffen.
 Außerdem soll die europaweite Übertragbarkeit von Sozial- und Rentenleistungen gefördert werden.
 
-2.2.2.2 Anerkennung ausländischer Berufs- und Schulabschlüsse und Fähigkeiten
+#### Anerkennung ausländischer Berufs- und Schulabschlüsse und Fähigkeiten
 
 Durch die mangelnde Bereitschaft, ausländische Abschlüsse anzuerkennen, werden zum Teil hochqualifizierte Menschen an der Ausübung ihres erlernten Berufes oder an der Durchführung notwendiger Weiterbildungsmaßnahmen gehindert.
 Wir setzen uns für die Erleichterung der Anerkennung ausländischer Diplome und Zertifizierungen ein.
@@ -344,29 +345,29 @@ Für die Anerkennung von nicht formalisierten beruflichen Erfahrungen, Qualifika
 So könnte es zum Beispiel möglich sein, durch eine Prüfung vor den Industrie- und Handelskammern oder Handwerksinnungen eine der Berufsausbildung gleichwertige Zertifizierung zu erhalten.
 Wir setzen uns ein für diskriminierungsfreie Prüfinhalte, die interkulturelle Kompetenz und Mehrsprachigkeit wertschätzen.
 
-2.2.3 Gegen Diskriminierung und für Toleranz
+### Gegen Diskriminierung und für Toleranz
 
 Wir sprechen uns dagegen aus, verschiedene gesellschaftliche Gruppen gegeneinander auszuspielen und dabei die Kriminalisierung von ganzen Volksgruppen mutwillig in Kauf zu nehmen.
 Toleranz muss gleichzeitig Grundlage und Ziel des politischen Handelns sein.
 Die Bundesrepublik Deutschland muss sich ihrer Rolle als ausgleichender Faktor in der Mitte Europas stellen und ihrer historischen Verantwortung gerecht werden.
 
-2.2.4.2 Freier Zugang zu Deutschkursen
+#### Freier Zugang zu Deutschkursen
 
 Zur Zeit wird die Kursgebühr für die verpflichtenden Deutschkurse für Zuwanderinnen und Zuwanderer bis zum Sprachniveau B1 übernommen, wenn diese nicht in der Lage sind, die Kursgebühr aufzubringen (z. B. ALG II beziehen).
 Dieses Sprachniveau reicht gerade aus, um einfachen Berufstätigkeiten nachzugehen.
 Für ein Studium jedoch ist zum Beispiel das höhere Niveau C2 Voraussetzung.
 Wir fordern, dass die Sprachkurse generell kostenfrei sind, um Inklusionsbarrieren abzubauen oder dass zumindest die Kursgebühren für Bedürftige auch für weiterführende Kurse übernommen werden.
 
-3 Sportpolitik
+# Sportpolitik
 
-3.1 Piraten für Fanrechte
+## Piraten für Fanrechte
 
 Wir PIRATEN setzen uns für die Wahrung der Rechte von Fans und für einen sachlichen Dialog auf Augenhöhe zwischen allen Interessengruppen beim Fußball und anderen Sportarten ein.
 
 Der derzeitige Druck der Innenminister des Bundes und der Länder sowie der Polizeibehörden auf die Verbände, repressive Maßnahmen gegen große Teile der Fanszenen neu zu schaffen oder bestehende zu verschärfen, muss gestoppt werden.
 Die Verfolgung und Sanktionierung von Straftaten muss im gesetzlichen Rahmen von der Polizei durchgeführt werden, statt sie in das Vereinsrecht zu verlagern, wo Mittel und Verfahren rechtsstaatlichen Ansprüchen nicht genügen.
 
-3.1.1 Gegen Kollektivstrafen
+### Gegen Kollektivstrafen
 
 Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen und Pläne, dieses Vorgehen gesetzlich zu legitimieren, lehnen wir entschieden ab.
 
@@ -374,7 +375,7 @@ Ebenso sehen wir keine Rechtsgrundlage für die Versuche einiger Vereine, hohe S
 
 Ein friedliches und respektvolles Miteinander ist nur ohne solche Drohkulissen möglich, die für die überwiegend jugendlichen Betroffenen langfristig stark negative Folgen haben.
 
-3.1.2 Gewalttäter Sport
+### Gewalttäter Sport
 
 Die Datei " Gewalttäter Sport" ist eine von der Zentralen Informationsstelle Sporteinsätze geführte Datei, in der Informationen zu Personen gesammelt werden, deren Personalien im Rahmen von Sportveranstaltungen – meistens beim Fußball – erfasst wurden.
 
@@ -388,12 +389,12 @@ Bei Unschuld oder Einstellung des Verfahrens wegen Geringfügigkeit muss der Ein
 
 Um den Betroffenen das Beschreiten des Rechtsweges zu ermöglichen, müssen diese direkt nach der Eintragung schriftlich unter Angabe aller gespeicherten Daten informiert werden.
 
-3.1.3 Keine Einschränkungen der Freiheit der Person
+### Keine Einschränkungen der Freiheit der Person
 
 Wir PIRATEN sprechen uns gegen die Praxis vieler Polizeibehörden aus, Fans ohne richterliche Anordnung mit sogenannten Bereichsbetretungsverboten oder Ausreiseverboten zu belegen, sowie gegen Bestrebungen, dies bundesweit zu ermöglichen.
 Diese Einschränkung der Grundrechte der Betroffenen ist für uns nicht hinnehmbar.
 
-3.1.4 Stadionverbote
+### Stadionverbote
 
 Derzeit werden insbesondere vom Deutschen Fußball-Bund (DFB) bundesweite Stadionverbote häufig auf Verdacht ausgesprochen, ohne dass die Betroffenen sich zur Sache äußern könnten.
 Dies hat nicht selten große soziale Folgen, gerade für jene Betroffenen, die im Stadion einen ihrer Lebensmittelpunkte haben.
@@ -407,12 +408,12 @@ Liegen die Ursachen des Fehlverhaltens des Fans außerhalb des Stadions, verlage
 Hooligans und organisierte Gewalttäter werden durch Stadionverbote nicht von der Begehung von Straftaten außerhalb der Stadien abgehalten.
 Hier muss zur Gewaltprävention die Arbeit der Fanprojekte und Fanbeauftragten unterstützt werden, um zu verhindern, dass Jugendliche in die Hooliganszenen abdriften.
 
-3.1.5 Einlasskontrollen
+### Einlasskontrollen
 
 Bei den Einlasskontrollen zu den Stadien ist unbedingt darauf zu achten, dass die Würde der Stadionbesucher gewahrt bleibt.
 Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme, die in keinem Verhältnis zu den zu verhindernden Ordnungswidrigkeiten stehen und lehnen diese entschieden ab.
 
-3.1.6 Pyrotechnik
+### Pyrotechnik
 
 Wir PIRATEN setzen sich dafür ein, den kontrollierten Einsatz von Pyrotechnik durch Fans, dort wo es die lokalen Gegebenheiten zulassen, zu ermöglichen.
 
@@ -426,7 +427,7 @@ Dort wo der Einsatz von Pyrotechnik durch Fans möglich ist, z. B. in Norwegen o
 
 Wir fordern daher, dass der DFB den 2011 begonnenen Dialog zur Legalisierung von Pyrotechnik wieder aufnimmt und die Politik parallel die rechtlichen Voraussetzungen dafür schafft, dies zu ermöglichen.
 
-4 Demokratie wagen
+# Demokratie wagen
 
 4.1 Wahlrecht
 
