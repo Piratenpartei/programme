@@ -529,35 +529,35 @@ Die beschriebenen Unterschriftenzahlen, Fristen und Eintragungsmöglichkeiten or
   - Es entscheidet, wie bei Wahlen, die Mehrheit der abgegebenen Stimmen.
   - Gesetze, die der Zustimmung der Länder bedürfen, kommen zustande, wenn zusätzlich die Zahl der Bundesratsstimmen jener Länder, in denen eine zustimmende Mehrheit im Volksentscheid erreicht wurde, der im Bundesrat erforderlichen Mehrheit entspricht (bei Grundgesetzänderungen: Zweidrittel-Mehrheit).
 
-4.4.2 Fakultatives Referendum
+### Fakultatives Referendum
 
 Hat ein Volksbegehren ein parlamentarisch zustande gekommenes, aber noch nicht gegengezeichnetes und vom Bundespräsidenten ausgefertigtes Gesetz zum Gegenstand, so ist es zustande gekommen, wenn es 500.000 Stimmberechtigte innerhalb von drei Monaten unterschreiben.
 Ein solches Gesetz kann nur vorbehaltlich einer Annahme in dem so beantragten Volksentscheid in Kraft treten.
 
-4.4.3 Obligatorisches Referendum
+### Obligatorisches Referendum
 
 Die Übertragung von Hoheitsrechten (auf die EU oder andere zwischenstaatliche Einrichtungen) sowie Grundgesetzänderungen bedürfen der Zustimmung durch einen Volksentscheid.
 
-4.4.4 Spendentransparenz
+### Spendentransparenz
 
 Analog zum Parteiengesetz sollen Spenden oberhalb einer Bagatellgrenze, die zu Gunsten einer Initiative erfolgen, zeitnah offengelegt werden.
 
-4.4.5 Information
+### Information
 
 Eine ausgewogene Information der Öffentlichkeit über die Inhalte von Volksbegehren und Volksentscheiden ist zu gewährleisten.
 Vor dem Volksentscheid erhält jeder Stimmberechtigte eine Informationsbroschüre, in der die Initiative, der Bundestag und der Bundesrat ihre Auffassungen erläutern.
 Zur Förderung der öffentlichen Diskussion und zur Information der Öffentlichkeit im Vorfeld eines Volksentscheids erhält die Initiative eine staatliche Kostenerstattung.
 
-4.5 Jugendparlament auf Bundesebene
+## Jugendparlament auf Bundesebene
 
 Wir PIRATEN setzen uns für die dauerhafte Verankerung eines Kinder- und Jugendparlaments auf Bundesebene ein.
 Die gewählten Jugendlichen und deren Beschlüsse müssen konkreten Einfluss auf laufende Beratungsprozesse im Bundestag haben können.
 Die Kinder- und Jugendparlamente sind Beratungsgremien mit Rede-, Antrags- und aufschiebendem Vetorecht, welche die Interessen der Kinder und Jugendlichen gegenüber den bei Bundestagswahlen gewählten Mandatsträgern vertreten.
 Die Kinder- und Jugendparlamente werden demokratisch durch alle im jeweiligen Wahlgebiet lebenden Kinder und Jugendliche, die das 21. Lebensjahr noch nicht vollendet haben, gewählt.
 
-5 Internet, Netzpolitik und Artverwandtes
+# Internet, Netzpolitik und Artverwandtes
 
-5.1 Netzneutralität stärken und gesetzlich verankern
+## Netzneutralität stärken und gesetzlich verankern
 
 Wir PIRATEN setzen uns für eine gesetzliche Festschreibung des neutralen Charakters der Datendurchleitung im Internet ein (Prinzip der Netzneutralität), um Informations-, Presse- und Meinungsfreiheit zu sichern und die Innovationsfähigkeit des Netzes zu erhalten.
 Die Netzneutralität muss bedingungslos ermöglicht werden\!
@@ -568,7 +568,7 @@ Der Zugang zum Netz ist jedoch von technischen und finanziellen Voraussetzungen 
 Wir sehen es im Rahmen der Daseinsfürsorge als eine essenzielle Aufgabe Deutschlands an, ein niederschwelliges Angebot an Internetzugangsmöglichkeiten zu verwirklichen und zu fördern.
 Zugang zum Internet ist im 21. Jahrhundert entscheidend für die Teilhabe des Einzelnen an der Gesellschaft und deren Mitgestaltung.
 
-5.2 Mauer der digitalen Spaltung überwinden
+## Mauer der digitalen Spaltung überwinden
 
 Die immer schneller werdende technische Entwicklung hat in den letzten Jahren dazu geführt, dass alltägliche Geräte und Technologien immer komplexer geworden sind.
 Diese erhöhte Komplexität führt zu einer immer größer werdenden digitalen Spaltung der Gesellschaft hinsichtlich des Verständnisses von Technik.
@@ -577,16 +577,16 @@ Nur so können sie ihre Grundrechte im 21 Jahrhundert wahrnehmen und an der Gese
 Wir PIRATEN setzen uns für kostenfreie, durch Deutschland geförderte Schulungsmöglichkeiten für alle interessierten Menschen ein, die die Möglichkeit bieten, die digitale Spaltung zu überwinden.
 Wir werden in Zusammenarbeit mit öffentlichen und gemeinnützigen Trägern sowie gemeinnützigen Vereinen flächendeckende Schulungsmöglichkeiten schaffen.
 
-5.3 Bereitstellung von Internetzugängen
+## Bereitstellung von Internetzugängen
 
 Wir PIRATEN sorgen dafür, dass in Verantwortung Deutschlands in allen öffentlichen Einrichtungen flächendeckend mittels WLAN ein freier Internetzugang angeboten wird.
 Mit diesen Zugängen werden nicht nur die Informationsmöglichkeiten im öffentlichen Bereich verbessert, sie leisten auch einen Beitrag zur Steigerung der Wettbewerbsfähigkeit Deutschlands als Bildungs-, Wissenschafts- und Wirtschaftsstandort.
 Über die Bereitstellung hinaus ist die Vernetzung der Zugangspunkte untereinander umzusetzen und nach Möglichkeit in örtliche Freifunknetze einzubinden, um die Interaktion, den Wissens-, Meinungs- und Erfahrungsaustausch zwischen den Menschen zu ermöglichen.
 Telekommunikationsprovider werden dahingehend reguliert, dass die Datenvolumenbegrenzung von mobilen Internetverträgen ungültig ist.
 
-5.4 Infrastruktur
+## Infrastruktur
 
-5.4.1 Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle
+### Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle
 
 Wir PIRATEN setzen uns dafür ein, ein staatlich finanziertes Trustcenter einzurichten, das jedem Menschen unabhängig vom Einkommen die Möglichkeit gibt, Dokumente und E-Mails für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren.
 
@@ -594,7 +594,7 @@ Die dafür notwendigen Zertifikate sollen deshalb für Privatpersonen (nicht jur
 
 Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d. h. er darf keine Kenntnis der geheimen Schlüssel besitzen).
 
-5.4.2 Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
+### Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
 
 Einen Zwang zur Verwendung von amtlich erfassten Namen lehnen wir ab.
 Diese Praxis ist bereits nach entsprechender Gesetzgebung in Südkorea gescheitert.
@@ -602,11 +602,11 @@ Wir PIRATEN setzen uns dafür ein, den Benutzerinnen und Benutzern von sozialen 
 Genauso muss der anonyme Zugang zum Netz unmissverständlich gesetzlich garantiert sein.
 Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht aus Gründen etwaiger Sicherheit beschnitten werden.
 
-5.4.3 Abschaffung des "Hackerparagraphen " § 202c StGB
+### Abschaffung des "Hackerparagraphen" § 202c StGB
 
 Wir PIRATEN setzen uns für die vollständige Abschaffung des sogenannten "Hackerparagraphen" § 202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
 
-5.5 Schutz der Freiheit und Privatsphäre im Internet
+## Schutz der Freiheit und Privatsphäre im Internet
 
 Der unzureichende Datenschutz im Internet führt immer wieder zu Datenverlust, Datendiebstahl und Datenmissbrauch.
 Gleichzeitig gefährden Überwachungs-, Filter-, Sperr- und Löschmaßnahmen, die Internet-Diensteanbieter im Interesse privater Rechteinhaber einsetzen, den freien Meinungs- und Informationsaustausch im Internet.
@@ -620,7 +620,7 @@ Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fer
 Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind.
 Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
 
-5.6 Freier Zugang zu öffentlichen Inhalten
+## Freier Zugang zu öffentlichen Inhalten
 
 Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugung und Aufbereitung von Texten, Daten und Medien.
 Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung.
@@ -650,7 +650,7 @@ Langfristig wird ein öffentlich zugängliches Bürgerinformations-Portal gescha
 Behörden und andere Institutionen werden angewiesen, ihre öffentlichen Daten dort einzustellen bzw. die eigenen Datenbanken an das Portal anzubinden.
 Das System muss umfangreiche Kategorisierungs-, Such- und Exportfunktionen sowie geeignete Programmierschnittstellen für automatisierte Anfragen bieten.
 
-5.6.1 Freie Bildung und Forschung
+### Freie Bildung und Forschung
 
 Im Bildungskontext muss die Mediennutzung für alle Bildungseinrichtungen frei von Urheberrechtsabgaben erfolgen können.
 Bildung ist ein viel zu wichtiges Gut, um es unnötig vielen Einschränkungen zu unterwerfen.
@@ -662,23 +662,23 @@ So soll etwa die Absurdität entfallen, dass nur so viele digitalisierte Kopien 
 Auch für wissenschaftliche Forschungseinrichtungen werden wir eine möglichst freie Mediennutzung ermöglichen.
 Forschung sollte ebenso wie Bildung möglichst wenigen Beschränkungen unterliegen – sei es die naturwissenschaftliche Forschung oder Forschung im Rahmen der Zeitgeschichte.
 
-5.6.2 Forschung und Wissenschaft
+### Forschung und Wissenschaft
 
 Forschung und Wissenschaft werden jährlich mit mehreren Milliarden Euro durch die öffentliche Hand gefördert und unterstützt.
 Deren Ergebnisse müssen somit im Anschluss auch der Öffentlichkeit in vollem Umfang zur Verfügung gestellt werden.
 Dies fördert die Verbreitung von Wissen und ermöglicht dessen konsequente Weiterentwicklung.
 Um wissenschaftlichen Verlagen ihre Arbeit weiter zu ermöglichen, könnte eine mögliche Sperrfrist hier höchstens ein halbes Jahr betragen.
 
-5.6.3 Gemeinfreiheit aller amtlichen Werke
+### Gemeinfreiheit aller amtlichen Werke
 
 Um einen transparenten Staat und transparente Behörden sowie die Nachvollziehbarkeit von behördlichen Abläufen zu fördern und zu verbessern, müssen alle amtlichen und von Ämtern in Auftrag gegebene Werke in Zukunft für die Bevölkerung ohne Einschränkungen nutzbar sein und sollen vom Urheberrecht generell ausgenommen werden.
 
 Nach unserem Willen soll dies auch für unveröffentlichte und behördeninterne Werke gelten, wenn wegen einer aktuellen politischen Situation ein besonderes öffentliches Interesse an diesen besteht.
 Auf diese Weise kann verhindert werden, dass das Urheberrecht bei behördeninternen Fehlern vorgeschoben werden kann, um missbilligte Dokumente zurückhalten zu können.
 
-6 Bildung und Forschung
+# Bildung und Forschung
 
-6.1 Präambel
+## Präambel
 
 Unsere Vision eines Bildungssystems baut auf einem positiven Menschenbild auf.
 Jeder Mensch hat das Recht auf freien Zugang zu Information und Bildung.
