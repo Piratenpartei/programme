@@ -3003,7 +3003,7 @@ Dies ist eine Querschnittsaufgabe aller Ministerien, die durch ihre Aufgabenstel
 
 # Wirtschaft und Finanzen
 
-16.1 Präambel
+## Präambel
 
 Die Wirtschafts-, Finanz- und Sozialordnung soll allen Menschen und der Gemeinschaft dienen.
 Traditionelle Kennzahlen, wie etwa das Bruttoinlandsprodukt (BIP) oder die Wachstumsrate, die nur bedingt mit dem Wohlstand der Menschen und der Nachhaltigkeit des Wirtschaftens verknüpft sind, sollen daher nicht mehr alleinige Orientierungsgrößen für die Wirtschaftspolitik sein.
@@ -3019,7 +3019,7 @@ Gerecht bedeutet, dass die Rahmenbedingungen in Wirtschaft und Gesellschaft so g
 Nachhaltig ist ein auf Dauer angelegter, verantwortungsvoller Umgang mit Ressourcen und der Umwelt.
 Die Haushalts- und Subventionspolitik, sowie das Finanzsystem, müssen dem Menschen und der Realwirtschaft langfristig dienen.
 
-16.2 Wirtschaftspolitik
+## Wirtschaftspolitik
 
 Die Wirtschaftspolitik der PIRATEN basiert auf einem humanistischen Menschenbild und ist bestimmt von Freiheit, Transparenz und gerechter Teilhabe.
 Auf diesem Fundament stehen unsere Konzepte für eine freiheitliche und soziale Wirtschaftsordnung, deren Ziel die selbstbestimmte Entfaltung und das Wohlergehen aller Menschen ist.
@@ -3039,7 +3039,7 @@ Ebenso sind wir gegen ähnliche Freihandelsabkommen wie CETA oder TISA.
 
 Auch die Wirtschafts-Partnerschafts-Abkommen EPAs (Economic Partnership Agreements) zwischen der EU und afrikanischen Staaten sehen wir sehr kritisch, da sie Schutz- und Entwicklungsbedürfnisse afrikanischer Staaten hinter europäische Wirtschaftsinteressen stellen.
 
-16.3 Ökologie
+## Ökologie
 
 Wir PIRATEN setzen uns für einen nachhaltigen Umgang mit natürlichen Ressourcen ein.
 Dazu gehört auch, dass die wirtschaftliche Nutzung von natürlichen Ressourcen so bepreist ist, dass eine Ausbeutung auf Kosten der Allgemeinheit nicht möglich ist.
@@ -3056,7 +3056,7 @@ Ein Wiederverkauf ist durch geeignete Maßnahmen zu verhindern.
 Der Kostenaufwand für eine Abholung und Weiterverteilung darf umgelegt werden.
 Der Aufwand ist nachzuweisen.
 
-16.4 Verbraucherschutz
+## Verbraucherschutz
 
 Damit eine freie Marktwirtschaft auch sozial ist, müssen die Rechte der Konsumentinnen und Konsumenten gegenüber der Macht der Anbieter gestärkt werden.
 Dies kann jedoch nicht durch weitere Bevormundung des Einzelnen und wenig sinnvolle Warnungen geschehen.
@@ -3064,9 +3064,9 @@ Wir PIRATEN wollen stattdessen Produzenten und Dienstleister dazu verpflichten, 
 Die Möglichkeiten, die neue Medien hier bieten, sollten nicht nur für Werbung, sondern auch für solche Informationen genutzt werden.
 Nur informierte Konsumierende können frei entscheiden, wofür sie ihr Geld ausgeben und damit direkten Einfluss auf die Anbieter ausüben.
 
-16.5Arbeitsmarkt
+## Arbeitsmarkt
 
-16.5.1 Arbeit und Mensch
+### Arbeit und Mensch
 
 Arbeit ist für uns nicht nur eine handelbare Ware, sondern immer auch die persönliche Leistung eines Menschen.
 Es ist daher ein Gebot der Menschenwürde, dass jeder Mensch frei entscheiden kann, welchen Beruf er ausüben will, und welche Arbeit er annehmen will, aber auch, dass diese Leistung entsprechend gewürdigt wird.
@@ -3076,7 +3076,7 @@ Wir sehen dies als großen Fortschritt, den wir begrüßen und weiter vorantreib
 Daher betrachten wir das Streben nach absoluter Vollbeschäftigung als weder zeitgemäß noch sozial wünschenswert.
 Stattdessen wollen wir uns dafür einsetzen, dass alle Menschen gerecht am Gesamtwohlstand beteiligt werden und werden dazu die Einführung eines bedingungslosen Grundeinkommens prüfen.
 
-16.5.2 Mindestlohn als Brückentechnologie
+### Mindestlohn als Brückentechnologie
 
 Es gehört zu den Aufgaben des Staates sicherzustellen, dass auch im freien Markt die Menschenwürde respektiert wird.
 Wer voll berufstätig ist, darf nicht unter der Armutsgrenze leben und auf staatliche Zusatzleistungen angewiesen sein.
@@ -3084,7 +3084,7 @@ Zudem verzerren Dumpinglöhne die Wettbewerbsbedingungen innerhalb und zwischen 
 Um allen Menschen eine würdige Existenz und die Teilhabe am gesellschaftlichen Leben zu ermöglichen, werden wir uns daher für einen bundesweiten gesetzlichen Mindestlohn einsetzen.
 Mittelfristig wollen wir jedoch mit dem "Recht auf sichere Existenz und gesellschaftliche Teilhabe" ein umfassenderes System zur allgemeinen, bedingungslosen Existenzsicherung etablieren.
 
-16.5.3 Betriebliche Mitbestimmung
+### Betriebliche Mitbestimmung
 
 Wir PIRTEN treten für die stärkere Demokratisierung der Wirtschaft ein.
 Dieser Prozess findet aber nicht nur auf der Ebene von Staat und Markt statt, sondern auch innerhalb einzelner Unternehmen.
@@ -3092,12 +3092,12 @@ Das Arbeitsumfeld ist ein wesentlicher Teil des Lebensumfeldes, auf das Menschen
 Wir werden daher die existierenden Mitbestimmungsrechte für Angestellte verteidigen und wo nötig weiter ausbauen.
 Die Beteiligung der Mitarbeiterbasis an der Unternehmensführung begünstigt sozialere und nachhaltigere Entscheidungsfindung sowie unternehmerische Innovationen.
 
-16.6 Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden (ausgenommen Rechtsanwalts-, Notar- und Ärztekammern)
+## Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden (ausgenommen Rechtsanwalts-, Notar- und Ärztekammern)
 
 Wir PIRATEN treten für die Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden wie der Industrie- und Handelskammer (IHK) sowie der Landwirtschafts- oder Handwerkskammer ein.
 Rechtsanwalts-, Notar- und Ärztekammern sind von diesem Ziel nicht erfasst.
 
-16.7 Globalisierung
+## Globalisierung
 
 Die zunehmende weltweite Vernetzung sehen wir grundsätzlich als positive und bereichernde Entwicklung.
 Das Internet mit seinen fast unbegrenzten Möglichkeiten wird dabei ein immer bedeutenderer Wirtschaftsfaktor, der weit über nationale Politik hinausgeht.
@@ -3106,29 +3106,29 @@ Der weltweite Ausbau eines freien Internets ist daher nicht nur ein ideelles, so
 Wir werden uns dafür einsetzen, dass die Globalisierung dem Gemeinwohl aller Menschen dient.
 Konkret heißt das, dass wir uns dafür einsetzen werden, die Rechte der Menschen in weniger stark industrialisierten Ländern am Weltmarkt zu stärken, und dass wir in zunehmend vernetzten Märkten für den Angleich und die Verbesserung der Rahmenbedingungen für alle Arbeitnehmerinnen und Konsumenten eintreten werden.
 
-16.8 Steuerpolitische Maßnahmen
+## Steuerpolitische Maßnahmen
 
   - Wiedereinführung einer Vermögenssteuer : PIRATEN setzen sich für die Wiedereinführung der Vermögenssteuer ein.
     bei einem Freibetrag von 1 Mio. Euro pro Person wird ein Steuersatz von einem Prozent auf das den Freibetrag übersteigende Vermögen festgelegt.
   - Kapitalertragssteuersatz gleich Einkommensteuersatz : Kapitalerträge sind wie reguläres Einkommen zu versteuern
   - Spitzensteuersatz erhöhen: Der Spitzensteuersatz der Einkommensteuer soll ab einem Einkommen von 1 Mio. Euro auf 65 % erhöht werden
 
-16.9 Steuerzahler haften nicht für Banken
+## Steuerzahler haften nicht für Banken
 
 Liquiditätsprobleme von Banken dürfen nicht zu Lasten der Steuerzahlerinnen und Steuerzahler gehen.
 Eigentümer und Gläubiger müssen in Krisen oberhalb der Einlagensicherung voll an Verlusten beteiligt werden.
 
-17 Innen- und Rechtspolitik
+# Innen- und Rechtspolitik
 
-17.1 Politische Transparenz und Antikorruption
+## Politische Transparenz und Antikorruption
 
-17.1.1 Einflussnahme auf politische Entscheidungen offenlegen
+### Einflussnahme auf politische Entscheidungen offenlegen
 
 Wir PIRATEN fordern die Offenlegung der Einflussnahme von Interessenverbänden und Lobbyisten auf politische Entscheidungen, um den demokratischen Prozess zu schützen und die Grundlagen von Entscheidungen transparent zu machen.
 
 Um die Unabhängigkeit von Bundestagsabgeordneten und Regierungsmitgliedern gegenüber illegitimer Einflussnahme zu stärken, streben wir die Umsetzung der folgenden Maßnahmen in den Bereichen Transparenz politischer Prozesse, Parteienfinanzierung, Nebentätigkeiten von Abgeordneten und Strafbarkeit von Abgeordnetenbestechung an:
 
-17.1.2 Einrichtung eines Lobbyregisters für den Deutschen Bundestag
+### Einrichtung eines Lobbyregisters für den Deutschen Bundestag
 
 Wir erkennen die Konsultation von Interessenvertretern – zum Beispiel Nichtregierungsorganisationen, Gewerkschaften, Umweltschutz-, Bürgerrechts- und Unternehmensverbänden – als integralen Bestandteil des politischen Willensbildungsprozesses der Gesellschaft an – solange dieser Austausch hinreichend offen und transparent ist.
 Die überproportionale Einflussnahme einzelner Gruppen durch die Verlagerung der politischen Willensbildung in informelle Beziehungsnetzwerke außerhalb des formalen Gesetzgebungsprozesses lehnen wir ab.
@@ -3150,7 +3150,7 @@ Es muss maschinenlesbar gestaltet sein, um im Sinne von OpenData die Verknüpfun
 
 Es soll geprüft werden, ob die Führung und Kontrolle des Registers mittelfristig an eine unabhängige öffentliche Institution, zum Beispiel den Bundesrechnungshof oder den Bundesbeauftragten für Datenschutz und Informationsfreiheit übertragen sowie die weitere Ausgestaltung durch ein eigenes Bundesgesetz geregelt werden kann.
 
-17.1.3 Erweiterung und Verschärfung des Straftatbestandes der Abgeordnetenbestechung
+### Erweiterung und Verschärfung des Straftatbestandes der Abgeordnetenbestechung
 
 Wir PIRATEN fordern klare und umfassende Regelungen zum wirksamen Vorgehen gegen Abgeordnetenbestechung, um die Rechtslage an den globalen Mindeststandard der von Deutschland bereits 2003 unterzeichneten, aber mangels Umsetzung in deutsches Recht immer noch nicht ratifizierten UN-Konvention gegen Korruption (UNCAC) anzupassen und Deutschlands internationale Schlusslichtrolle bei der Korruptionsstrafbarkeit von Abgeordneten zu beenden.
 
@@ -3163,7 +3163,7 @@ Die Annahme von Spenden durch einzelne Abgeordnete muss durch eine Änderung des
 Eine Bagatellregelung ("Schnittchenklausel") für die Bewirtung bei parlamentarischen Abenden und anderen Veranstaltungen sowie Ausnahmeregelungen für Zuwendungen im Rahmen von normalem parlamentarischen Verhalten ("parlamentarische Gepflogenheiten") sollen sicherstellen, dass die Abgeordneten nicht in der freien Ausübung ihres Mandats eingeschränkt werden.
 Sowohl die Schnittchenklausel als auch die parlamentarischen Gepflogenheiten sollen in einer Anlage zur Geschäftsordnung des Bundestages verankert und durch den Bundestagspräsidenten in einer Ausführungsbestimmung festlegt werden.
 
-17.1.4 Verschärfung der Transparenz- und Nebeneinkunftsregeln von Abgeordneten
+### Verschärfung der Transparenz- und Nebeneinkunftsregeln von Abgeordneten
 
 Wir PIRATEN erkennen die Rolle von Nebentätigkeiten für den beruflichen Wiedereinstieg nach der Zeit des Abgeordnetenmandats an – insbesondere für Freiberufler und persönlich haftende Kaufleute.
 Allerdings wird Wählern derzeit die Abwägung, ob und inwieweit sich Abgeordnete auf Grund ihrer Nebeneinkünfte in einem Interessenkonflikt befinden, durch intransparente Regelungen und Schlupflöcher erschwert bis unmöglich gemacht.
@@ -3186,7 +3186,7 @@ Verstöße gegen Verhaltensregeln und Anzeigepflichten müssen u. a. durch höhe
 
 Nebeneinkünfte, Aufwandsentschädigungen und geldwerte Vorteile sowie Auftraggeber müssen unmittelbar nach Erhalt maschinenlesbar über den Bundestagspräsidenten veröffentlicht werden, um die Daten mit dem Lobbyregister und dem Abstimmungsverhalten in Plenum und Ausschüssen verknüpfen zu können.
 
-17.1.5 Eindämmung des politischen Sponsorings
+### Eindämmung des politischen Sponsorings
 
 Wir PIRATEN lehnen die intransparente Finanzierung von politischen Veranstaltungen durch Sponsorengelder ab.
 Verbände und Unternehmen versuchen über Sponsorenengagements auf Parteitagen sowie Sommerfesten von Regierungsbehörden die vergleichsweise strengeren Auflagen für Parteispenden zu umgehen und sich über die Anmietung von Standflächen Zugang zu Entscheidungs- und Mandatsträgern zu verschaffen.
@@ -3198,7 +3198,7 @@ Um die Alimentierung der politischen Einflussbemühungen von Unternehmen über S
 
 Veranstaltungen der Bundesregierung, der Landesvertretungen der Bundesländer sowie des Deutschen Staatsoberhauptes sollen anstatt über Sponsorengelder aus Haushaltsmitteln finanziert werden, damit der Anreiz für die Haushaltsausschüsse der Parlamente steigt, die Sinnhaftigkeit von opulenten Sommerfesten genauer als bisher zu prüfen.
 
-17.1.6 Einführung von Karenzzeiten für Spitzenpolitiker
+### Einführung von Karenzzeiten für Spitzenpolitiker
 
 Wir PIRATEN lehnen es ab, dass ausgeschiedene Spitzenpolitiker im Bereich ihrer ehemaligen Zuständigkeiten kurzfristig Tätigkeiten der politischen Interessenvertretung für Unternehmen und Verbände übernehmen.
 
@@ -3209,7 +3209,7 @@ Darüber hinaus soll eine dreijährige Anzeigepflicht eingeführt werden, die si
 Zu diesem Zweck soll die Stelle eines unabhängigen Bundesbeauftragten für Ethik und Antikorruption geschaffen werden, der der Dienstaufsicht des BMI und der Rechtsaufsicht der Bundesregierung untersteht, jedoch keiner Fachaufsicht unterliegt.
 Dieser muss Verstöße gegen Anzeigevorschriften und Karenzzeiten mit öffentlichen Rügen und Bußgeldern ahnden und von einem ebenfalls einzurichtenden, aus Abgeordneten des Deutschen Bundestages, Zivilgesellschaft und Wirtschaft paritätisch besetzten, Bundesethikrat beraten werden, der die angezeigten, geplanten Tätigkeiten beurteilt und gegenüber dem Bundesbeauftragten öffentliche Empfehlungen ausspricht.
 
-17.1.7 Anpassung des Abgeordnetengesetzes an die Anforderungen der UN-Konvention gegen Korruption
+### Anpassung des Abgeordnetengesetzes an die Anforderungen der UN-Konvention gegen Korruption
 
 Wir PIRATEN treten dafür ein, das Abgeordnetengesetz (Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages) an die Anforderungen der UN-Konvention gegen Korruption, anzupassen.
 Dazu gehört:
@@ -3221,9 +3221,9 @@ Dazu gehört:
 Spenden sollten nur von Parteien bzw. Wählergemeinschaften angenommen werden dürfen.
 Für parteilose und fraktionslose Abgeordnete könnte gegebenenfalls eine Sonderregelung geschaffen werden.
 
-17.2 Innere Sicherheit
+## Innere Sicherheit
 
-17.2.1 Die moralische Autorität des Rechtssystems
+### Die moralische Autorität des Rechtssystems
 
 Die Menschen werden sich um so mehr an die Gesetze halten, je mehr das Rechtssystem eine moralische Autorität entwickelt und ein gemeinschaftsstiftendes Element des Staates darstellt.
 In dem Maße, in dem sich gesetzestreue Menschen als "die Dummen" vorkommen müssen, wird diese Autorität des Rechtssystems leiden und die Kriminalität anwachsen.
@@ -3247,9 +3247,9 @@ Statt wirksame Maßnahmen gegen tatsächliche Risiken zu ergreifen, wird der Fok
 Wir PIRATEN treten für eine evidenzbasierte Sicherheitspolitik ein, für Maßnahmen, die ihre Wirksamkeit in der Praxis bewiesen haben.
 Wir wollen die Menschenrechte nicht einschränken, sondern erweitern, weil eine freiheitliche Gesellschaft viele Probleme über Mechanismen wie Zivilcourage auffangen kann.
 
-17.2.2 Ermittlungsschwerpunkte setzen
+### Ermittlungsschwerpunkte setzen
 
-17.2.2.1 Ermittlungsschwerpunkt Jugendkriminalität
+#### Ermittlungsschwerpunkt Jugendkriminalität
 
 In Zeiten knapper öffentlicher Haushalte können Polizei und Justiz nicht gleichermaßen alle Straftaten mit hoher Priorität verfolgen, sondern müssen Schwerpunkte setzen.
 Wir PIRATEN fordern, dass ein solcher Schwerpunkt die Jugendkriminalität wird.
@@ -3265,7 +3265,7 @@ Die Gesellschaft soll Straftäter in erster Linie als Menschen betrachten, die H
 Dies muss in besonderem Maße für Jugendliche gelten.
 Junge Erwachsene (18-21) müssen grundsätzlich die gleichen Rechte und Hilfen, die im SGB VIII definiert sind, in Anspruch nehmen können und dürfen wie Jugendliche unter 18 Jahren.
 
-17.2.2.2 Ermittlungsschwerpunkt Gewaltkriminalität
+#### Ermittlungsschwerpunkt Gewaltkriminalität
 
 Den dritten Ermittlungsschwerpunkt soll Gewaltkriminalität bilden.
 Körperliche und/oder sexualisierte Gewalt traumatisiert Menschen deutlich mehr als Delikte wie Diebstahl oder Betrug.
@@ -3278,13 +3278,13 @@ Alle Polizeibeamte sind dazu zu ermuntern, nicht aus falsch verstandener Loyalit
 
 Um die nötigen Ressourcen für diese Ermittlungsschwerpunkte zu schaffen, sollen - solange es noch keine parlamentarische Mehrheit für eine insgesamt andere Sucht- und Drogenpolitik gibt - künftig Drogendelikte nachrangig ermittelt werden.
 
-17.2.2.3 Ermittlungsschwerpunkt Steuer-, Korruptions- und Wirtschaftskriminalität
+#### Ermittlungsschwerpunkt Steuer-, Korruptions- und Wirtschaftskriminalität
 
 Wir PIRATEN möchten aus Gründen der sozialen Balance Steuer-, Korruptions- und Wirtschaftskriminalität zu einem weiteren Ermittlungsschwerpunkt machen.
 Dafür sind Ermittlungsbeamte und Juristen mit dem erforderlichen wirtschaftswissenschaftlichem Know-How einzustellen.
 Da in diesem Bereich nicht nur große finanzielle Schäden für die Gesellschaft vermieden werden können, sondern bei solchen Verfahren oft auch hohe Geldstrafen anfallen, sind dadurch keine Nachteile für die öffentlichen Haushalte zu befürchten.
 
-17.2.2.3.1 Korruption im Wirtschaftsleben offenlegen und wirksam bekämpfen
+##### Korruption im Wirtschaftsleben offenlegen und wirksam bekämpfen
 
 Wir PIRATEN setzen uns auf Bundes-, Länder- und Kommunalebene für gesetzliche Grundlagen zur systematischen Korruptionsprävention und -verfolgung ein.
 Bestechung und Vorteilsnahme mindern das volkswirtschaftliche Wohlstandsniveau und führen jedes Jahr zu hohen materiellen und immateriellen Schäden – für die letztendlich die Steuerzahler und Verbraucher aufkommen.
@@ -3297,7 +3297,7 @@ Daher fordern wir insbesondere die Umsetzung der folgenden Maßnahmen:
 Schwerpunktstaatsanwaltschaften für Korruptions- und Wirtschaftskriminalität müssen in allen Bundesländern eingerichtet und mit den entsprechenden personellen und finanziellen Ressourcen ausgestattet werden.
 Die von den Innenministern erstellten Berichte zur Korruptionsprävention sollen aus Gründen der Vergleich- und Nachvollziehbarkeit nach einem einheitlichen Format gestaltet werden.
 
-17.2.2.3.2 Voraussetzungen für die Verfolgung und Bestrafung von Korruptionsdelikten stärken
+##### Voraussetzungen für die Verfolgung und Bestrafung von Korruptionsdelikten stärken
 
 Wir PIRATEN streben die Einführung eines wirksamen Unternehmensstrafrechts nach Schweizer Vorbild an, damit Verfahren gegen juristische Personen eröffnet und Unternehmen unmittelbar für Korruptionsdelikte zur Verantwortung gezogen werden können.
 
@@ -3308,7 +3308,7 @@ Die Innenministerkonferenz soll darüber hinaus ein maschinenlesbares Korruption
 Dieses Register soll rechtskräftige Korruptionsfälle im Inland sowie von deutschen Unternehmen im Ausland begangene Korruptionsdelikte erfassen.
 Unternehmen oder Personen mit schweren Verfehlungen sollen für eine bestimmte Zeit von der Vergabe öffentlicher Aufträge ausgeschlossen werden.
 
-17.2.2.3.3 Maßnahmen zur Korruptionsprävention und moralische Wertvorstellungen in den unternehmerischen Grundsätzen verankern
+##### Maßnahmen zur Korruptionsprävention und moralische Wertvorstellungen in den unternehmerischen Grundsätzen verankern
 
 Wir PIRATEN fordern gesetzliche Vorschriften zur Verankerung von Maßnahmen zur Korruptionsbekämpfung bzw. -prävention in den unternehmensspezifischen Führungsgrundsätzen (Corporate Governance).
 Der Gesetzgeber soll Unternehmen der Privatwirtschaft und der öffentlichen Hand durch gesetzliche Mindeststandards dazu verpflichten, Systeme zur Überwachung der Regeltreue (Compliance) einzuführen und diese in der Unternehmensberichterstattung darzustellen.
@@ -3318,7 +3318,7 @@ Dazu gehören zum Beispiel die Ausarbeitung von Anti-Korruptions-Leitlinien, die
 Schmiergeldzahlungen an Amtsträger im Ausland müssen konsequenter als bisher als Korruption bestraft werden.
 Damit integere Unternehmen im globalen Wettbewerb keine Nachteile erleiden und darauf verzichten, Auslandsbestechung über die Verbuchung als Provisionen zu verschleiern, muss Deutschland in internationalen Organisationen auf die konsequente Verfolgung von Schmiergeldzahlungen sowie die Verankerung von moralischen Wertvorstellungen in Wirtschaftsabkommen drängen.
 
-17.2.2.3.4 Öffentliche Aufträge als Vorbilder für Integritätskriterien und Informationsfreiheit einsetzen
+##### Öffentliche Aufträge als Vorbilder für Integritätskriterien und Informationsfreiheit einsetzen
 
 Wir PIRATEN setzen uns für Informationsfreiheit und die Anwendung von Integritätskriterien bei der Vergabe öffentlicher Aufträge ein.
 Wir fordern insbesondere bei Großbauprojekten die verstärkte Anwendung des Präventionsinstruments eines Integritätspakts, um Auftraggeber und sich bewerbende bzw. ausführende Unternehmen zur Integrität zu verpflichten sowie ein klares Signal nach außen und innen zu senden.
@@ -3332,9 +3332,9 @@ Ausnahmetatbestände, wie zum Beispiel Geschäfts- und Betriebsgeheimnisse, müs
 Hürden, welche die Antragstellung auf Auskunft erschweren, wie zum Beispiel hohe Gebühren und lange Bearbeitungszeiten, müssen abgebaut werden.
 Die Regelungen der Informationsfreiheitsgesetze müssen konsequent auf Unternehmen mit Beteiligung der öffentlichen Hand ausgedehnt werden – auch wenn die öffentlichen Anteile an einem Unternehmen weniger als fünfzig Prozent betragen.
 
-17.2.3 Prävention vor Strafe
+### Prävention vor Strafe
 
-17.2.3.1 Primat der Prävention
+#### Primat der Prävention
 
 Grundsätzlich gibt es zwei Ansätze, um Kriminalität zu bekämpfen:
 Prävention (Vermeidung von Kriminalität) und Repression (Verfolgung von Kriminalität).
@@ -3363,7 +3363,7 @@ Wir wollen auch dem Missverständnis entgegen treten, dass flächendeckende Kame
 Kameras mögen vereinzelt bei der Aufklärung von Straftaten helfen, sie leisten aber keinen wahrnehmbaren Beitrag zur Vermeidung, allenfalls zur Verlagerung von Straftaten.
 Ihr Einsatz ist in den meisten Fällen nicht verhältnismäßig und daher abzulehnen.
 
-17.2.3.2 Kriminalität ist vielschichtig - Prävention muss es auch sein
+#### Kriminalität ist vielschichtig - Prävention muss es auch sein
 
 Kriminalität weist sehr unterschiedliche Erscheinungsformen auf und durchzieht so gut wie alle gesellschaftlichen Schichten.
 Es gibt zwar Korrelationen zwischen gesellschaftlichen Schichten und einzelnen Delikten - so wird man Erschleichung von Sozialleistungen eher bei Geringverdienern und Steuerhinterziehung vor allem bei Besserverdienenden finden - die Zuordnung von Kriminalität insgesamt zu einzelnen gesellschaftlichen Schichten ist jedoch immer eine bestenfalls verkürzte Beschreibung des Problems.
@@ -3372,7 +3372,7 @@ So vielschichtig, wie Kriminalität in ihren Erscheinungsformen ist, so vielschi
 Mit ein paar wenigen Maßnahmen lässt sich allenfalls Prävention für einige Delikte betreiben.
 Von daher lassen sich in diesem Programm auch nur einige Maßnahmen beispielhaft erläutern.
 
-17.2.3.3 Prävention durch Aufklärung
+#### Prävention durch Aufklärung
 
 Im einfachsten Fall erfolgt Prävention durch Aufklärung des Staates, was denn alles eine Straftat ist.
 Insbesondere Unterlassungsdelikte - gerade auch im Bereich des Arbeitsschutzes - werden häufig in Unkenntnis ihrer Strafbarkeit begangen.
@@ -3380,7 +3380,7 @@ Wir PIRATEN fordern, dass sich hier der Staat nicht auf ein bequemes "Unkenntnis
 
 Im Bereich von Tötungsdelikten könnte eine Aufklärung über die erfreulich hohen Aufklärungsraten dieser Delikte dazu beitragen, dass die dort ausgesprochenen Strafandrohungen mehr abschreckende Wirkung entfalten.
 
-17.2.3.4 Prävention durch eine andere Sucht- und Drogenpolitik
+#### Prävention durch eine andere Sucht- und Drogenpolitik
 
 Den vielleicht wirkungsvollsten Beitrag zur Prävention kann eine andere Sucht- und Drogenpolitik leisten.
 Es gibt keinen sachlich vernünftigen Grund, Konsumenten, Erzeuger und Händler von derzeit illegalen Drogen anders zu behandeln als die Konsumenten, Erzeuger und Händler von gesellschaftlich etablierten Drogen.
@@ -3397,7 +3397,7 @@ Deshalb fordern wir, Substitution deutlich niederschwelliger, zu jeder Uhrzeit u
 Die Vergabevorschriften sind von allen praxisfremden Vorschriften zu befreien, den behandelnden Medizinern sind deutlich größere Spielräume einzuräumen:
 Die Ärzte sollen ohne Sorge vor Strafverfolgung das tun können, was sie im Einzelfall nach bestem Wissen und Gewissen für richtig halten.
 
-17.2.3.5 Prävention durch Chancen für alle
+#### Prävention durch Chancen für alle
 
 Wir PIRATEN streben eine Gesellschaft an, die vielfältige Chancen für alle anbietet.
 In Deutschland verlassen nach wie vor viel zu viele junge Menschen als Verlierer das Bildungssystem, ganz ohne Abschluss, oder ohne Abschluss, der ihnen gute berufliche Chancen eröffnet.
@@ -3407,12 +3407,12 @@ Für die Details verweisen wir auf unsere bildungspolitische Programmatik.
 Bildung und Chancen für alle sind für uns ein Selbstzweck.
 Wir versprechen uns davon aber auch als erfreulichen Nebeneffekt eine Senkung der Kriminalität.
 
-17.2.3.6 Repression muss der Prävention dienen
+#### Repression muss der Prävention dienen
 
 Wir PIRATEN fordern, dass sich auch der repressive Teil der Kriminalitätsbekämpfung dem Primat der Prävention unterordnet.
 Sühne und Bestrafung halten wir für wenig geeignete Kategorien der Strafverfolgung und des Strafvollzugs, das Hauptziel muss stets die Vermeidung von künftigen Straftaten sein.
 
-17.2.3.7 Alternativen zu Haft- und Geldstrafen schaffen
+#### Alternativen zu Haft- und Geldstrafen schaffen
 
 Repression erfolgt derzeit primär über Haft- und Geldstrafen, beide Ansätze sind aus Sicht der Prävention kritisch zu betrachten.
 Geldstrafen mögen bei Delikten der Steuer- und Wirtschaftskriminalität der richtige Ansatz sein, sie versagen aber dort, wo Menschen mit kriminellen Handlungen ihr niedriges Einkommen aufzubessern versuchen.
@@ -3426,9 +3426,9 @@ Die hier geknüpften Kontakte, das dabei ausgetauschte Wissen erleichtern quasi 
 Wir PIRATEN fordern, hier Alternativen zu schaffen, damit Gerichte Strafen verhängen können, die weniger der Allgemeinheit schaden und mehr der Resozialisierung dienen.
 Wir sehen zum Beispiel keinen vernünftigen Grund, warum das Instrumentarium aus dem Jugendstrafrecht (z.B. tatbezogene Sühneleistungen, Arbeitsleistungen, Freizeitarrest) nicht auch im Erwachsenenstrafrecht zur Verfügung stehen soll.
 
-17.2.4 Strafrechtsreform
+### Strafrechtsreform
 
-17.2.4.1 Strafrechtsreform reformieren
+#### Strafrechtsreform reformieren
 
 In den vergangenen Jahren wurde viel Zeit und Energie darauf aufgewandt, sogenannte Schutzlücken im Strafgesetzbuch zu identifizieren und zu schließen, oft auch unter dem Einfluss tagesaktueller Ereignisse, was dazu geführt hat, dass das Strafgesetzbuch in hoher Frequenz geändert wurde.
 Dies ist schon für Polizei und Justiz kaum zumutbar, schon gar nicht für den wenig rechtskundigen Bürgerinnen und Bürger.
@@ -3441,7 +3441,7 @@ Ein reines Moralstrafrecht lehnen wir PIRATEN ebenso ab wie die Bestrafung von H
 Um eine kontraproduktive Stigmatisierung durch Strafe generell zu verhindern, wollen wir alle Straftatbestände dahingehend überprüfen, ob sie sinnvoll und erforderlich sind.
 Heutige Straftatbestände, die nicht strafwürdiges Verhalten unter Strafe stellen, sollen zu Ordnungswidrigkeiten oder Antragsdelikten herabgestuft, im Strafrahmen gesenkt oder gänzlich straffrei gestellt werden.
 
-17.2.4.2 Strafrecht muss dem realen Rechtsgüterschutz dienen
+#### Strafrecht muss dem realen Rechtsgüterschutz dienen
 
 Strafwürdig sind nur solche Handlungen, die individuelle Rechtsgüter anderer Menschen, wie zum Beispiel Leben, Gesundheit oder Eigentum, verletzen oder erheblich gefährden.
 
@@ -3450,7 +3450,7 @@ Falls diese Voraussetzungen nicht erfüllt sind, sollte eine Entkriminalisierung
 
 Auch solche Delikte, bei denen es keine Opfer gibt, wie zum Beispiel Besitz und Kauf von Drogen durch volljährige Konsumenten, sollten straffrei sein, denn es ist nicht Aufgabe des Strafrechts, mündige Bürgerinnen und Bürger vor sich selbst zu schützen.
 
-17.2.4.3 Keine Bestrafung bei nur geringem Unrechtsgehalt
+#### Keine Bestrafung bei nur geringem Unrechtsgehalt
 
 Aber auch hier wollen wir überprüfen, ob nicht bestimmte Taten straffrei bleiben sollen, wenn diese nur einen geringen Unrechtsgehalt aufweisen, zum Beispiel weil nur ein sehr kleiner Schaden entstanden ist oder sie nicht sozialschädlich sind.
 
@@ -3461,19 +3461,19 @@ Auch Whistleblower (Personen, die auf Missstände aufmerksam machen) müssen hä
 Insbesondere solche, die private oder staatliche Geheimnisse schützen sollen (z. B. §§ 94, 95, 96, 109g, 203, 353b und 355 StGB), hier aber ausnahmsweise nicht schützenswert sind.
 Die Mitteilung solcher Geheimnisse im Rahmen des Whistleblowings sollte zumindest begrenzt auf den notwendigen Umfang legalisiert werden.
 
-17.2.4.4 Abschaffung von bloßem Moralstrafrecht
+#### Abschaffung von bloßem Moralstrafrecht
 
 Auch stellt sich die Frage, ob ein moderner Staat das Recht hat, bestimmte Moralvorstellungen durchzusetzen, indem er entsprechende Verhaltensweisen unter Strafe stellt, obwohl sonst kein Rechtsgut Anderer verletzt wurde.
 Beispiele hierfür sind die §§ 173 und 184 StGB, die den Beischlaf zwischen einwilligungsfähigen volljährigen Verwandten und die Verbreitung pornografischer Schriften, und sei es nur durch den Versand an einen willigen Empfänger, unter Strafe stellen.
 Diskriminierend ist auch § 183 StGB, der nur exhibitionistische Handlungen von Männern, nicht aber von Frauen und "transsexuellen Eichhörnchen" unter Strafe stellt.
 
-17.2.4.5 Verteidigung der freiheitlich-demokratischen Grundordnung und des Rechtsstaats
+#### Verteidigung der freiheitlich-demokratischen Grundordnung und des Rechtsstaats
 
 Nicht abgeschafft werden sollen dagegen solche Verbote, die notwendig sind, um unsere freiheitlich-demokratische Grundordnung und den Rechtsstaat zu verteidigen.
 Deutschland muss wehrfähig gegen Bestrebungen bleiben, die sich gegen das Grundgesetz und die darin verbürgte verfassungsrechtliche Ordnung wenden, aber auch hier sollte geprüft werden, ob einzelne Bestimmungen des Strafgesetzbuches tatsächlich hierzu erforderlich sind, wie zum Beispiel das Verbot auf Deutschland zu schimpfen oder die Farben, die Flagge oder die Nationalhymne Deutschlands zu verunglimpfen.
 Hier sollten insbesondere die Meinungs- und Kunstfreiheit stärker berücksichtigt werden.
 
-17.2.4.6 Verhängung von Strafen muss besonders gerechtfertigt sein
+#### Verhängung von Strafen muss besonders gerechtfertigt sein
 
 Das Strafrecht ist das schärfste Mittel des Staates gegen die Freiheit seiner Bürgerinnen und Bürger und sollte daher nur mit Augenmaß angewendet werden.
 Strafe sollte daher - wie die Juristen sagen - ultima ratio, also letztes Mittel sein, wenn es um die Einwirkung des Staates auf seine Bürgerinnen und Bürger geht.
@@ -3481,13 +3481,13 @@ Haftstrafen greifen besonders empfindlich in das Grundrecht des Menschen auf Fre
 Als liberale Partei sollten wir an eine solche Rechtfertigung besonders strenge Maßstäbe anlegen.
 Hierfür wollen wir uns einsetzen.
 
-17.2.4.7 Kein Verkaufsverbot für Alkohol
+#### Kein Verkaufsverbot für Alkohol
 
 Ein nächtliches Verkaufsverbot für Alkohol lehnen wir ab.
 Wir halten das Verkaufsverbot für wirkungslos, da Alkohol auch auf Vorrat erworben werden kann oder das Verbot auf andere Art umgangen wird.
 Wir wollen die Aufklärung über die Gefahren des Alkoholkonsums bei allen Altersgruppen fördern.
 
-17.2.4.8 Whistleblower in der öffentlichen Verwaltung und im privaten Sektor gesetzlich stärker schützen
+#### Whistleblower in der öffentlichen Verwaltung und im privaten Sektor gesetzlich stärker schützen
 
 Wir PIRATEN setzen uns für eine allgemeine und umfassende gesetzliche Regelung zum Schutz von Personen ein, die Fälle von Korruption, Insiderhandel oder Ethikverstößen öffentlich machen (sogenannte "Whistleblower").
 
@@ -3495,20 +3495,20 @@ Im öffentlichen Sektor muss der im Beamtenrecht verankerte Schutz von Hinweisge
 
 Der Gesetzgeber soll darüber hinaus Unternehmen und öffentliche Stellen verpflichten, Hinweisgebersysteme einzurichten, um einen vertraulichen Kommunikationskanal zur Meldung von Straftaten und Ethikverstößen zu öffnen.
 
-17.3 Abmahnwesen reformieren
+### Abmahnwesen reformieren
 
 Wir fordern eine Reform des gesamten Abmahnwesens mit dem gesetzlichen Verbot der Massenabmahnung, durchgehende Deckelung der Kosten für abgemahnte Privatpersonen und Einführung eines Erstattungsanspruch des zu Unrecht Abgemahnten bzgl. der Rechtsanwaltskosten.
 Des weiteren hat die Beweislast beim Abmahnenden zu liegen.
 
-17.4 Sicherheit in Freiheit
+## Sicherheit in Freiheit
 
-17.4.1 Sicherheitsbewusstsein stärken
+### Sicherheitsbewusstsein stärken
 
 Die gefühlte Sicherheit ist eine wichtige Voraussetzung für unser persönliches Wohlbefinden.
 Forschungsergebnisse zeigen aber, dass das hohe Maß an Sicherheit in Deutschland verbreitet unbekannt ist und dass das Kriminalitätsrisiko teilweise weit überschätzt wird.
 Wir wollen ein Programm zur Stärkung des Sicherheitsbewusstseins und zur sachlichen Information über Kriminalität in Deutschland auflegen, um verzerrten Einschätzungen und Darstellungen der Sicherheitslage entgegen zu wirken.
 
-17.4.2 Systematische Evaluierung von Überwachungsbefugnissen und -programmen
+### Systematische Evaluierung von Überwachungsbefugnissen und -programmen
 
 Vor Kriminalität zu schützen ist eine wichtige staatliche Aufgabe.
 Sie kann nach unserer Überzeugung nur durch eine intelligente, rationale und evidenzbasierte Sicherheitspolitik auf der Grundlage wissenschaftlicher Erkenntnisse erfüllt werden.
@@ -3516,13 +3516,13 @@ Um kluge Sicherheitsmaßnahmen fördern und schädliche Maßnahmen beenden zu k�
 Auf dieser Grundlage können wir sodann Grundrechtseingriffe aufheben oder verhindern, wo dies ohne Einbußen an Sicherheit – also ohne Einfluss auf die Kriminalitätsrate – möglich ist oder wo sich der Eingriff als unverhältnismäßig erweist.
 Wir wollen auch auf Maßnahmen verzichten, deren Effizienz so gering ist, dass die dadurch gebundenen Mittel an anderer Stelle mehr zu unserer Sicherheit beitragen können.
 
-17.4.3 Privatsphäre rechtstreuer Bürger achten
+### Privatsphäre rechtstreuer Bürger achten
 
 Zur Bewahrung unseres historischen Erbes an Freiheitsrechten und zur Sicherung der Effektivität der Gefahrenabwehr und Strafverfolgung treten wir dafür ein, dass eine staatliche Informationssammlung, Kontrolle und Überwachung künftig nur noch gezielt bei Personen erfolgt, die der Begehung oder Vorbereitung einer Straftat konkret verdächtig sind.
 Zum Schutz unserer offenen Gesellschaft und im Interesse einer effizienten Sicherheitspolitik wollen wir auf anlasslose, massenhafte, automatisierte Datenerhebungen, Datenabgleichungen und Datenspeicherungen verzichten.
 In einem freiheitlichen Rechtsstaat ist eine derart breite Erfassung beliebiger unschuldiger Personen nicht hinnehmbar und schädlich.
 
-17.4.4 Freiheitspaket verabschieden
+### Freiheitspaket verabschieden
 
 Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit einem "Freiheitspaket" wieder aufheben, darunter
 
@@ -3543,7 +3543,7 @@ Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit ei
   - den Einsatz von Überwachungsdrohnen sowie
   - den Einsatz von Rasterfahndungs-Software in Online-Netzwerken.
 
-17.4.5 Grundrechtskonformität der Gesetzgebung stärken
+### Grundrechtskonformität der Gesetzgebung stärken
 
 In den letzten Jahren musste das Bundesverfassungsgericht immer häufiger Gesetze aufheben, die unsere Grund- und Freiheitsrechte verletzten.
 Zur Verhinderung verfassungswidriger Gesetze wollen wir einem Drittel des Deutschen Bundestages oder zwei Fraktionen das Recht geben, ein Rechtsgutachten des Bundesverfassungsgerichts zur Verfassungskonformität eines Gesetzesvorhabens einzuholen.
@@ -3552,7 +3552,7 @@ Nach dem Vorbild anderer Verbandsklagerechte wollen wir Bürgerrechtsorganisatio
 Weiterhin setzen wir uns dafür ein, dass mittels eines anzustrebenden Staatsvertrages zwischen dem Bund und den Ländern der 23. Mai als "Tag des Grundgesetzes" zum bundeseinheitlichen Feiertag erklärt wird.
 Damit die Politiker sich der Verantwortung, die sie tragen, wirklich bewusst werden.
 
-17.4.6 Sicherheitsforschung demokratisieren
+### Sicherheitsforschung demokratisieren
 
 Die Sicherheitsforschung aus Steuergeldern wollen wir demokratisieren und an den Bedürfnissen und Rechten der Bürgerinnen und Bürger ausrichten.
 In beratenden Gremien sollen künftig neben Verwaltungs- und Industrievertretern in gleicher Zahl auch Volksvertreter sämtlicher Fraktionen, Kriminologen, Opferverbände und Nichtregierungsorganisationen vertreten sein.
@@ -3561,24 +3561,24 @@ Eine Entscheidung über die Ausschreibung eines Projekts soll erst getroffen wer
 Die Entwicklung von Technologien zur verstärkten Überwachung, Erfassung und Kontrolle von Bürgerinnen und Bürgern lehnen wir ab.
 Stattdessen muss die Sicherheitsforschung auf sämtliche Optionen zur Kriminal- und Unglücksverhütung erstreckt werden und eine unabhängige Untersuchung von Wirksamkeit, Kosten, schädlichen Nebenwirkungen und Alternativen zu den einzelnen Vorschlägen zum Gegenstand haben.
 
-17.5 Waffen
+## Waffen
 
-17.5.1 Änderungen am Kriegswaffenkontrollgesetz
+### Änderungen am Kriegswaffenkontrollgesetz
 
 Wir PIRATEN setzen uns gemäß des UN-Instruments zum Markieren und Nachverfolgen von Schusswaffen (sog. Small Arms) für eine fälschungssichere Kennzeichnung der in Deutschland und in Lizenz im Ausland zu militärischen Zwecken produzierten oder importierten Schusswaffen ein, so wie dies für zivile Schusswaffen bereits im Waffengesetz geregelt ist.
 Durch eine fälschungssichere Kennzeichnung können über Drittländer erfolgte illegale Waffenexporte in Krisengebiete transparent nachvollzogen und die verantwortlichen Hersteller/Exporteure belangt werden.
 Gegen Drittländer, welche erwiesenermaßen Waffen in Krisengebiete weiterverkaufen, kann dann ein Exportverbot gezielt verhängt werden.
 Wir streben zur Umsetzung dieses Ziels eine schnelle Änderung des Kriegswaffenkontrollgesetzes an.
 
-17.5.2 Waffenmissbrauch statistisch besser erfassen
+### Waffenmissbrauch statistisch besser erfassen
 
 Wir PIRATEN fordern detaillierte Zahlen zu Waffen in der polizeilichen Kriminalstatistik bezüglich Missbrauchsart, Typ und Herkunft.
 Diese Zahlen sollen explizit den Status der Waffen umfassen, das heißt ob diese legal, illegal oder frei waren.
 Aussagekräftige Statistiken sind notwendig, um über die Wirksamkeit und die Folgen der Waffengesetzgebung fundierte Aussagen treffen zu können.
 
-17.6 Polizei und Justiz
+## Polizei und Justiz
 
-17.6.1 Polizei
+### Polizei
 
 In den letzten Jahren wurden bei der Polizei und der Justiz aus Kostengründen Stellen abgebaut und teilweise versucht, diese durch technische Maßnahmen wie z.B. Kameraüberwachung zu ersetzen.
 Dieser Ansatz war von vorne herein zum Scheitern verurteilt.
@@ -3597,7 +3597,7 @@ Die Polizei darf nicht als Instrument der Schikanierung politisch Andersdenkende
 Ihr Einsatz hat sich stets am rechtsstaatlich Gebotenem sowie am Grundsatz der Verhältnismäßigkeit (also der Eignung, der Erforderlichkeit und der Proportionalität) zu orientieren.
 Unsere Rechtsordnung kennt weder die Rache als legitimes Ziel noch die Gruppenbestrafung als erlaubtes Mittel.
 
-17.6.1.1 Kennzeichnungspflicht für Polizisten
+#### Kennzeichnungspflicht für Polizisten
 
 Wir PIRATEN setzen uns für eine Kennzeichnungspflicht für Polizeibeamte ein.
 Beamtinnen und Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen.
@@ -3609,19 +3609,19 @@ Der Vorgesetzte ist für die wirksame Durchsetzung der Kennzeichnungspflicht und
 Polizistinnen und Polizisten sind zu verpflichten, Verstöße durch andere Polizisten zu verhindern oder - falls dies nicht möglich ist - zu melden sowie den/die beteiligten Beamten zu identifizieren.
 Verletzungen dieser Pflichten (Tragen des Kennzeichens, korrektes Führen der Zuordnungsliste, Verhindern/Melden von Verstößen) sind zu sanktionieren.
 
-17.6.2 Justiz
+### Justiz
 
-17.6.2.1 Angemessene Ausstattung der Gerichte gewährleisten
+#### Angemessene Ausstattung der Gerichte gewährleisten
 
 Wir werden uns dafür einsetzen, dass die Gerichte materiell und personell so ausgestattet werden, dass alle anhängigen Verfahren innerhalb der gesetzten Fristen des Bundesverfassungsgerichts und des Europäischen Gerichtshofes für Menschenrechte abgeschlossen werden können.
 
-17.6.2.2 Stärkung der Unabhängigkeit der Staatsanwaltschaften
+#### Stärkung der Unabhängigkeit der Staatsanwaltschaften
 
 Die Staatsanwaltschaften müssen ihre Aufgaben unabhängig von politischer Einflussnahme erfüllen können.
 Deshalb ist die bislang im Gerichtsverfassungsgesetz vorgesehene Möglichkeit von Weisungen im Einzelfall seitens der Justizminister von Bund und Ländern abzuschaffen.
 Es soll aber weiter zulässig sein, fallgruppenbezogene Weisungen seitens der Ministerien an die Staatsanwaltschaften zu erteilen.
 
-17.6.2.3 Umfassende Beweisverwertungsverbote
+#### Umfassende Beweisverwertungsverbote
 
 Wir PIRATEN setzen uns für die Schaffung umfassender Verwertungsverbote für illegal erlangte Beweismittel in Straf-, Ordnungswidrigkeiten- und Verwaltungsverfahren ein.
 Insbesondere wenn in die Grundrechte verdächtiger Bürgerinnen und Bürger oder Dritter eingegriffen wird, ist es für einen Rechtsstaat und seine Strafverfolgungsbehörden essenziell, nicht selbst das Gesetz zu brechen und dabei die Rechte seiner Bürgerinnen und Bürger zu missachten.
@@ -3632,52 +3632,52 @@ Wir sind der Meinung, nur ein vollständiger Ausschluss durch illegale Ermittlun
 Dies schließt auch alle Beweise ein, deren Erhebung erst durch die Erkenntnisse der illegalen Maßnahme angeregt wurde.
 Es ist zu erwarten, dass die resultierende Disziplinierung zu einer erhöhten Sorgfalt der Einsatzkräfte bei der Wahl und Anwendung ihrer Instrumente und bei der Ausführung ihrer Arbeit führt, ohne dass es zu einer nennenswerten Beeinträchtigung der Ermittlungsarbeit kommt.
 
-17.6.2.4 Kein fliegender Gerichtsstand bei Verstößen im Internet
+#### Kein fliegender Gerichtsstand bei Verstößen im Internet
 
 Wir werden uns dafür einsetzen, dass für Klagen wegen Rechtsverstößen, die im Internet begangen wurden, der fliegende Gerichtsstand keine Anwendung findet, solange nach den übrigen Vorschriften ein deutsches Gericht zuständig ist.
 Die derzeitige Rechtslage, die bei Veröffentlichungen im Internet eine Klage überall dort zulässt, wo der entsprechende Inhalt abgerufen werden kann, widerspricht dem Sinn und Zweck der Regelung, da ein solcher Gerichtsstand die Auswahl des Gerichts nach Erfolgschancen erlaubt und so die Beklagten benachteiligt.
 Das lehnen wir ab und wollen eine verbraucherfreundliche Regelung schaffen.
 
-17.6.2.5 Begründungserfordernis bei ablehnenden Entscheidungen erweitern
+#### Begründungserfordernis bei ablehnenden Entscheidungen erweitern
 
 In allen Gerichtsverfahren sind Klagen und Anträge nicht allein mit standardisierten Formeln abzulehnen, sondern die Begründung muss nachvollziehbar erkennen lassen, warum das konkrete Vorbringen nicht zulässig und begründet gewesen sein soll.
 
-17.6.2.6 Stärkung der Position des Ermittlungsrichters
+#### Stärkung der Position des Ermittlungsrichters
 
 Die Position des Ermittlungsrichters ist zu stärken.
 Insbesondere sind den Richtern vorbehaltene Beschlüsse, die einem Antrag der Staatsanwaltschaft oder Polizei stattgeben, sorgfältig und eigenständig zu begründen.
 Hierbei ist auch ausdrücklich auf die Eingriffe in die Rechte des Beschuldigten und Dritter einzugehen.
 
-17.6.2.7 Gewährleistung einer 2. Instanz
+#### Gewährleistung einer 2. Instanz
 
 Jede erstinstanzliche Entscheidung muss in einem Rechtsmittelverfahren unabhängig von der Höhe des Streitwertes überprüft werden können.
 Dadurch soll sichergestellt werden, dass einzelne Richter bei Verfahren, in denen sie die erste urteilende Instanz sind, keine willkürlichen Entscheidungen treffen können.
 So soll gewährleistet werden, dass Gerichtsverfahren Gerechtigkeit herstellen.
 
-17.6.2.8 Kostenerstattung bei Verfahrenseinstellung
+#### Kostenerstattung bei Verfahrenseinstellung
 
 Wir setzen uns dafür ein, dass die Beschuldigten eines eingestellten Ermittlungsverfahrens die Kosten des Strafverteidigers und seine Auslagen ersetzt bekommen, so wie es bei einem Freispruch bereits geregelt ist.
 Damit wird es Beschuldigten ermöglicht, sich frühzeitig Rechtsbeistand zu holen, ohne sich der Gefahr auszusetzen, bei ungerechtfertigten Verfahren gegen sie, die Kosten tragen zu müssen.
 
-17.6.2.9 Mehr Transparenz durch die Veröffentlichung aller Gerichtsentscheidungen
+#### Mehr Transparenz durch die Veröffentlichung aller Gerichtsentscheidungen
 
 Wir PIRATEN fordern mehr Transparenz in der Justiz.
 Um das zu fördern, sollen alle gerichtlichen Sachentscheidungen für jedermann kostenlos und anonymisiert online einsehbar sein und bei besonderer Bedeutung für die Rechtsfortbildung auch im Rahmen eines Rechtsinformationssystems in gleicher Weise veröffentlicht werden.
 Bei berechtigten, überwiegenden und schützenswerten Belangen kann der Veröffentlichung durch Antrag eines Beteiligten widersprochen werden.
 
-17.6.2.10 Protokollierungspflicht für Aussagen vor Gericht
+#### Protokollierungspflicht für Aussagen vor Gericht
 
 In strafrechtlichen Hauptverhandlungen sind Einlassungen der Angeklagten und Beweisaufnahmen umfassend, dauerhaft und nachvollziehbar so zu dokumentieren, dass diese durch Akteneinsicht bewertet werden können.
 Das Gleiche gilt auch für Beweisaufnahmen in allen anderen gerichtlichen Verfahren.
 
-17.6.2.11 Ton- und Videoaufzeichnungen von Vernehmungen und Gerichtsverhandlungen
+#### Ton- und Videoaufzeichnungen von Vernehmungen und Gerichtsverhandlungen
 
 Die Arbeit der Gerichte soll in Zukunft durch eine den gesamten Verlauf der Verhandlung erfassende Aufzeichnung in Ton oder Bild und Ton erleichtert und die Möglichkeiten der Nachprüfbarkeit erstinstanzlicher Urteile erweitert werden.
 Die so gefertigten Aufzeichnungen sind auf einem Datenträger zu speichern und zur jeweiligen Akte zu nehmen.
 Das Gleiche soll für polizeiliche und staatsanwaltschaftliche Vernehmungen im Ermittlungsverfahren gelten.
 Einsichtsrechte in diese Aufzeichnungen dürfen nur dem Gericht und den anderen Verfahrensbeteiligten und nur zu verfahrensinternen Zwecken zur Verfügung stehen.
 
-17.6.2.12 Angemessene Entschädigung zu Unrecht Inhaftierter
+#### Angemessene Entschädigung zu Unrecht Inhaftierter
 
 Die Entschädigung für Opfer ungerechtfertigter Strafverfolgung muss auf einen angemessenen Satz erhöht werden.
 Des Weiteren ist für erlittene Nachteile eine weitgehende Folgenbeseitigung anzustreben, insbesondere ein Ausgleich für verlorene Zeiten in der Sozialversicherung und entgangenes fiktives Einkommen.
@@ -3685,12 +3685,12 @@ Die derzeitige geringe Entschädigung von 25 Euro pro Hafttag ist unangemessen.
 Wir fordern eine gerechtere Entschädigung für vollständig oder zumindest im Wesentlichen für unschuldig befundene Personen.
 Es ist zudem unverständlich, dass von diesem Betrag ohne Rechtsgrundlage noch Verpflegungskosten abgezogen werden.
 
-17.7 Keine Bundeswehr im Inneren
+## Keine Bundeswehr im Inneren
 
 Wir PIRATEN lehnen den Einsatz der Bundeswehr im Innern ab.
 Ausgenommen sind rein humanitäre, unbewaffnete Einsätze zur Rettung von Menschen, Tieren und bedeutenden Sachwerten im Katastrophenfall.
 
-18 Trennung von Staat und Religion
+# Trennung von Staat und Religion
 
 Das Grundgesetz garantiert die Freiheit der Religion.
 Diese Freiheit beinhaltet auch die Freiheit von Religion.
@@ -3699,7 +3699,7 @@ Eine Trennung von Staat und Religion und die Neutralität des Staates gegenüber
 Diese Trennung ist noch nicht vollzogen.
 Wir PIRATEN fordern daher eine umfassende und konsequente Durchsetzung der Trennung von Staat und Religion.
 
-18.1 Weltanschauliche und religiöse Neutralität des Staates
+## Weltanschauliche und religiöse Neutralität des Staates
 
 Der Status einer "Körperschaft des öffentlichen Rechts" für Kirchen, Religions- und Weltanschauungsgemeinschaften ist abzuschaffen.
 Von Artikel 137 der Weimarer Reichsverfassung sind die Absätze 5-6 ersatzlos aus dem Grundgesetz zu streichen.
@@ -3719,7 +3719,7 @@ In Kontrollinstanzen (wie Rundfunkräten, Ethikräten, Bundesprüfstellen, Schul
 Der öffentlich-rechtliche Rundfunk darf nicht zur Missionierung benutzt werden.
 Es darf keine festen Zeitkontingente für Religionsgemeinschaften geben.
 
-18.2 Forschung, Lehre und Bildung
+## Forschung, Lehre und Bildung
 
 Forschung und Lehre müssen rational, ergebnisoffen und undogmatisch betrieben werden.
 Insofern sollen in staatlichen Einrichtungen religiöse Lehren nur unter geschichtswissenschaftlichen und gesellschaftswissenschaftlichen Gesichtspunkten gelehrt und erforscht werden.
@@ -3736,7 +3736,7 @@ Zu den Kernaufgaben der Schulen gehören die Vermittlung von Wissen und Ethik, d
 Die Vermittlung von religiösen und politischen Dogmen führt dagegen häufig zur Intoleranz gegenüber Andersdenkenden.
 Deshalb setzen wir uns dafür ein, den konfessionellen Religionsunterricht bundesweit, an allen staatlichen und staatlich geförderten Schulen, durch einen gemeinsamen weltanschaulich neutralen Ethik- und Weltanschauungsunterricht zu ersetzen.
 
-18.3 Finanzierung und Subventionen
+## Finanzierung und Subventionen
 
 Der Verfassungsauftrag zur Ablösung der Staatsleistungen an die Kirchen (Art. 140 GG i.V.m. Art. 138 Weimarer Reichsverfassung) ist umzusetzen.
 Die auf historischen Rechtstiteln beruhenden Staatsleistungen an die Kirchen sind zu beenden.
