@@ -1669,11 +1669,11 @@ Daher setzen wir uns für das Bedingungslose Grundeinkommen ein.
 Denn die fortschreitende Digitalisierung macht die althergebrachte Forderung nach Vollbeschäftigung zunehmend obsolet und stellt damit die gesamte Gesellschaft vor neuen Herausforderungen.
 Die bisherige Politik, die diesen mit einseitigen, nur der Wirtschaft, dem Kapital und der Gewinnoptimierung dienenden Gesetzen, wie der Agenda 2010 begegnet, ist weder tragfähig noch zukunftsfähig.
 
-11.1 Zukunft der Erwerbsarbeit
+## Zukunft der Erwerbsarbeit
 
-11.1.1 Die Arbeitswelt im Zeichen der Digitalisierung
+### Die Arbeitswelt im Zeichen der Digitalisierung
 
-11.1.1.1 Flexible Wahl des Arbeitsorts
+#### Flexible Wahl des Arbeitsorts
 
 Die moderne Arbeitswelt fordert vom Arbeitnehmer ein hohes Maß an Flexibilität.
 Im Gegenzug fordern wir PIRATEN auch vom Arbeitgeber Flexibilität.
@@ -1856,7 +1856,7 @@ Das ILA soll unter anderem Vereinbarungen enthalten über
   - die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
   - die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
 
-11.3 Stärkung der Rechte Prostituierter
+\==Stärkung der Rechte Prostituierter
 
 Die Entscheidung zur Ausübung der Prostitution fällt
 
@@ -1873,12 +1873,11 @@ Deshalb werden wir alle Sonderregelungen zur Reglementierung von Prostitution da
 Die Stärkung der Rechte selbstbestimmt tätiger Sexarbeiterinnen und Sexarbeiter ist das beste Mittel gegen jedwede Fremdbestimmung.
 Sie dient der rechtlichen Gleichbehandlung sowie der freien und ungehinderten Berufsausübung.
 
-11.4.
-Wege zum Bedingungslosen Grundeinkommen
+## Wege zum Bedingungslosen Grundeinkommen
 
 Wir PIRATEN setzen uns für die Einführung eines bedingungslosen Grundeinkommens ein, wie es in unserem Grundsatzprogramm beschrieben ist.
 
-11.4.1 Bedingungsloses Grundeinkommen in Deutschland
+### Bedingungsloses Grundeinkommen in Deutschland
 
 Wir wissen, dass ein bedingungsloses Grundeinkommen die Paradigmen des Sozialstaats wesentlich verändern wird.
 Statt mit klassischer Parteipolitik muss dessen Einführung daher mit einer breiten Beteiligung der Bürgerinnen und Bürger einhergehen.
@@ -1890,11 +1889,11 @@ Dazu wollen wir eine Enquete-Kommission im Deutschen Bundestag gründen, deren Z
 Für jedes Konzept sollen die voraussichtlichen Konsequenzen sowie Vor- und Nachteile aufgezeigt und der Öffentlichkeit transparent gemacht werden.
 Aufgrund des rapiden technologischen Wandels muss innerhalb der nächsten Legislatur die Grundlage für eine Volksabstimmung über die Einführung des Bedingungslosen Grundeinkommens geschaffen werden.
 
-11.4.2 Bedingungsloses Grundeinkommen global
+### Bedingungsloses Grundeinkommen global
 
 Wir PIRATEN unterstützen weltweit Initiativen zur Einführung des bedingungslosen Grundeinkommens und setzen uns für einen intensiven Erfahrungsaustausch über bisherige Pilotprojekte und zu ergreifende Zwischenschritte ein.
 
-11.4.3 Einführungsphase des BGE
+### Einführungsphase des BGE
 
 Mittelfristig muss das Grundeinkommen den "vier Kriterien" ohne Bedingungen, existenzsichernd, individuell berechnet, ohne Bedürftigkeitsprüfung genügen.
 In der Phase der Einführung sind Modelle denkbar, die diesen Kriterien nur teilweise genügen.
@@ -1917,7 +1916,7 @@ Die Krankenkassen sollen auf ein steuerfinanziertes Gesundheitswesen umgestellt 
 Dabei muss eine ausreichende Finanzierung des Gesundheitswesens sichergestellt werden.
 Es darf keine "Behandlung nach Kassenlage" erfolgen.
 
-11.5 Weiterentwicklung des bestehenden Systems in Vorbereitung zum BGE
+## Weiterentwicklung des bestehenden Systems in Vorbereitung zum BGE
 
 Die Einführung eines Grundeinkommens wird das Steuer- und Sozialsystem erheblich verändern und somit in mehreren Schritten erfolgen müssen.
 Gerade durch die fortschreitende Digitalisierung ist eine Weiterentwicklung des bestehenden Steuer- und Sozialsystems selbst dann notwendig, wenn die Einführung des BGE keine Mehrheit in der Gesellschaft findet.
@@ -2046,19 +2045,19 @@ Die gewonnen finanziellen Mittel könnten zur Etablierung des Bedingungslosen Gr
 Unser Streben ist es, Deutschland kompatibel mit der aktuellen und der nächsten Technologiewelle zu machen, die Struktur unserer Steuer- und Sozialsysteme so zu gestalten, dass mehr Automatisierung zu mehr realem, fühl- und messbarem Wohlstand für alle im Land führt und dadurch der soziale Frieden langfristig erhalten bleibt.
 Dies stellt einen Wettbewerbsvorteil von historischen Dimensionen dar.
 
-11.6 Commons (Gemeingüter): Vorfahrt für Kooperation, Selbstorganisation und Gemeinsinn
+## Commons (Gemeingüter): Vorfahrt für Kooperation, Selbstorganisation und Gemeinsinn
 
 Wir PIRATEN setzen uns dafür ein, Freiräume für Selbstorganisation zu schaffen, Verantwortung zu teilen und Institutionen nachhaltig und erfolgreich zu organisieren.
 
 Dazu sollen die Möglichkeiten und Grenzen kooperativer Organisationsmodelle (sog. "Commons") zur nachhaltigen Nutzung gemeinsamer Ressourcen in einem fortlaufenden Prozess überprüft und Institutionen bei Bedarf reformiert oder neu geschaffen werden.
 
-11.6.1 Commons als Bildungsaufgabe verstehen
+### Commons als Bildungsaufgabe verstehen
 
 Die Inhalte und Konzepte von nach Commons-Prinzipien gestalteten Organisationsmodellen und Institutionen sind zum Lernziel in Bildungseinrichtungen und -projekten zu machen.
 Dazu können wir auf viele hervorragende Beispiele, auch aus Deutschland, zurückgreifen.
 Vor allem aber sollen bereits die Schülerinnen und Schüler die Praxis gemeinsamer Verantwortungsübernahme und Entscheidungsfindung üben.
 
-11.6.2 Mit Commons Teilhabe ermöglichen
+### Mit Commons Teilhabe ermöglichen
 
 Vorhandene Gemeingüter müssen erhalten, fortentwickelt und gemehrt werden.
 Verlust von Gemeingut ist zu vermeiden.
@@ -2073,17 +2072,19 @@ Freiraum ermöglicht Kreativität, aber auch Ruhe.
 Und das brauchen wir.
 Das ist menschlich.
 
-11.6.3 Commons Vorrang gewähren
+### Commons Vorrang gewähren
 
 Vor einer Privatisierung oder Verstaatlichung gesellschaftlicher Aufgabenbereiche ist im Einzelfall zu prüfen, ob Selbstorganisation und Selbstverwaltung möglich wäre.
 Bei gleicher oder besserer Eignungsprognose ist diesen Vorrang zu gewähren.
 
-11.6.4 Commons-Projekte anleiten und unterstützen
+## Commons-Projekte anleiten und unterstützen
+
+\=
 
 Alle Ebenen wirtschaftspolitischer Entscheidungs- und Verwaltungsstrukturen sind mit entsprechendem Fachwissen auszustatten.
 Diese Stellen werden so in die Lage versetzt, Selbstverwaltungsprojekte bei der Institutionenfindung und -umsetzung zu beraten, zu unterstützen und zu fördern oder etwaige Konflikte zu moderieren.
 
-11.6.5 Quelloffene Software in der Verwaltung einsetzen
+### Quelloffene Software in der Verwaltung einsetzen
 
 Für die öffentliche Verwaltung ist der Einsatz quelloffener Software grundsätzlich vorzuziehen.
 Nur wenn in speziellen Fällen schwerwiegende Gründe gegen einen Einsatz quelloffener Software sprechen, sollen proprietäre Lösungen erwogen werden.
@@ -2093,7 +2094,7 @@ Ausschreibungen sind entsprechend zu gestalten.
 Die einzelnen Behörden sollen bei der Umstellung auf offene Software unterstützt werden.
 Ein Vorbild hierfür kann die Landeshauptstadt München mit dem leider wieder aufgegebenem Projekt LiMux sein.
 
-11.6.6 Daten offenlegen
+### Daten offenlegen
 
 Daten bilden die Grundlage politischer Diskussion.
 Ihre Gewinnung wird oft durch Steuergelder finanziert, wie z. B. bei Verkehrs- und Umweltdaten und den öffentlichen Haushalten.
@@ -2113,9 +2114,9 @@ Anleitende und umsetzende Institutionen sollen sich hierzu in nationalen oder in
 
 Staatliche Institutionen haben in ihren Jahresberichten zu Aktivität und Fortschritten auf diesem Gebiet öffentlich Rechenschaft zu legen.
 
-12 Familie und Gesellschaft
+# Familie und Gesellschaft
 
-12.1 Präambel
+## Präambel
 
 Wir PIRATEN stehen für eine zeitgemäße und gerechte Familienpolitik, die auf dem Prinzip der freiheitlichen Selbstbestimmung über Angelegenheiten des persönlichen Lebens beruht.
 Wir wollen, dass Politik der existierenden Vielfalt gerecht wird.
@@ -2166,7 +2167,7 @@ Entsprechende Angebote sollen wohnort- oder wahlweise arbeitsplatznah realisiert
 Zu berücksichtigen sind bei allen Betreuungs- und Bildungsangeboten die sich ergebenden Bedarfsveränderungen der Eltern.
 Kinderbetreuung soll auch außerhalb der bislang üblichen Öffnungszeiten gewährleistet sein.
 
-12.2 Geschlechtsunabhängige Gleichbehandlung bei Hilfsangeboten für Gewaltopfer durchsetzen
+## Geschlechtsunabhängige Gleichbehandlung bei Hilfsangeboten für Gewaltopfer durchsetzen
 
 Wir PIRATEN setzen uns für den Auf- und Ausbau von geschlechtsunabhängigen Hilfsangeboten für Gewaltopfer durch das Bundesfamilienministerium ein.
 Dies gilt insbesondere für Opfer häuslicher Gewalt.
@@ -2178,7 +2179,7 @@ Um dies zu gewährleisten, setzen wir uns in einem ersten Schritt dafür ein, da
 Langfristig ist unser Ziel, dass die Hilfetelefone unsere Gesellschaft abbilden.
 Somit nicht nur Männer und Frauen, sondern auch trans\* und intersexuelle Menschen, sprich das LGBTI-Spektrum, gleichfalls abgedeckt wird.
 
-12.3 Kinder- und Jugendrechte stärken
+## Kinder- und Jugendrechte stärken
 
 Die Rechte von Kindern und Jugendlichen haben für uns den selben Stellenwert wie die von Erwachsenen.
 Unser Ziel ist die größtmögliche Freiheit und Partizipation von Kindern und Jugendlichen.
@@ -2203,8 +2204,9 @@ Die Beratungsstellen sollten mindestens folgende Aufgaben übernehmen:
   - erster juristischer Einschätzung
   - Vermittlung von Fachanwälten bzw. Notare
 
-12.4 Akzeptanz der gesellschaftlichen Vielfalt
-12.4.1 Interkulturelle Öffnung der Verwaltung
+## Akzeptanz der gesellschaftlichen Vielfalt
+
+### Interkulturelle Öffnung der Verwaltung
 
 Um den Anforderungen einer vielfältigen Gesellschaft gerecht zu werden, setzen wir uns für die interkulturelle Öffnung der Verwaltung ein.
 Dies beinhaltet mehrsprachige Angebote in Formularen und auf Webseiten der Behörden sowie die Aus- und Weiterbildung von Bediensteten in interkultureller Kompetenz.
@@ -2222,7 +2224,7 @@ Wir PIRATEN fordern anonymisierte Bewerbungsverfahren in der Verwaltung, um mög
 Arbeitsmarktpolitik sollte sich daran orientieren, Menschen in ihren Fähigkeiten zu bestärken, Vielfältigkeit anzuerkennen und Diskriminierung abzubauen.
 So können die Ziele, sowohl den Arbeitsmarkt offen und fair für alle Teilnehmer zu gestalten als auch als Volkswirtschaft erfolgreich zu sein, erreicht werden.
 
-12.5 Diskriminierung auf allen Ebenen begegnen
+## Diskriminierung auf allen Ebenen begegnen
 
 Noch immer werden viele Menschen aufgrund ihrer Hautfarbe oder anderer äußerer Merkmale im alltäglichen Leben (z. B. bei der Vergabe von Wohnraum, Ausbildungs- und Arbeitsplätzen) benachteiligt.
 Gegen Diskriminierungen dieser Art sind gezielte Maßnahmen zu ergreifen.
@@ -2239,7 +2241,7 @@ Die Extremismusklausel stellt einen staatlichen Generalverdacht gegen zivilgesel
 
 Studien, die im Zusammenhang mit der Diversität der Gesellschaft erstellt werden, sollen grundsätzlich nachvollziehbar und transparent und unter Hinzunahme von externer Expertise aus Forschung und Wissenschaft erarbeitet und zeitnah veröffentlicht werden.
 
-12.6 Chancengleichheit im Bildungssystem
+## Chancengleichheit im Bildungssystem
 
 Wir PIRATEN setzen uns für mehr Chancengleichheit ein:
 Die sozio-kulturelle Herkunft darf nicht mehr über den Bildungserfolg entscheiden.
@@ -2262,7 +2264,7 @@ Wir schlagen die Vergabe von Stipendien für Lehramtsstudentinnen und -studenten
 Lehrkräfte müssen in ihrer Aus- und Weiterbildung sensibilisiert werden, wie sich Selektionsmechanismen auswirken.
 Ihnen sollte beispielsweise vermittelt werden, wie sich ihre eigene Herkunft, Bildung und gesellschaftliche Positionierung unbeabsichtigt auf ihren Unterricht und ihre Leistungsbewertungen auswirkt.
 
-13 Gesundheitspolitik
+# Gesundheitspolitik
 
 Wir PIRATEN orientieren sich in ihren gesundheitspolitischen Positionen am Wohl der Patientinnen und Patienten, ohne die Seite der Leistungserbringer und Dienstleister im Gesundheitswesen zu vernachlässigen.
 Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehenden Mitteln notwendig ist.
