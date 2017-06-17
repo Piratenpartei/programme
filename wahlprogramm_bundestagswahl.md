@@ -1684,7 +1684,7 @@ Gelegentliche Heimarbeit darf der Arbeitnehmer kurzfristig und formlos anzeigen.
 Gleichzeitig darf Heimarbeit nicht zur Überwachung, zu einer Ausweitung der Arbeitszeit oder dem Unterlaufen der Arbeitsschutzvorschriften führen.
 Zur Vermeidung von leistungsbedingten Erkrankungen wie Burnout ist auch ein informeller Druck zur fortwährenden dauernden Erreichbarkeit außerhalb der Arbeitszeit nicht zulässig.
 
-11.1.1.2 Einklang von Erwerbs- und Privatleben
+#### Einklang von Erwerbs- und Privatleben
 
 Wir PIRATEN setzen uns für flexible, elternfreundliche Arbeitsbedingungen und Betreuungsmöglichkeiten in Unternehmen und Betrieben ein.
 Kindererziehung und Erwerbstätigkeit müssen für beide Elternteile gleichermaßen miteinander vereinbar sein.
@@ -1692,7 +1692,7 @@ Wir setzen uns dafür ein, dass bei der Besetzung von Stellen in bundeseigenen �
 Der Anspruch auf eine Teilzeitbeschäftigung ist besonders zu berücksichtigen.
 Weitere organisatorische Ansätze zur Vereinbarkeit von Familie und Beruf sind zu fördern.
 
-11.1.1.3 Atypische Beschäftigungsverhältnisse
+#### Atypische Beschäftigungsverhältnisse
 
 So genannte atypische Beschäftigungsverhältnisse wie Zeit-, Leih- und Werksverträge stellen für die Wirtschaft ein sinnvolles und notwendiges Instrument dar, um Auftragsspitzen zu bewältigen.
 In den vergangenen Jahren hat sich jedoch gezeigt, dass dieses Instrument von immer mehr Unternehmen dazu missbraucht wird, den Kündigungsschutz und Tarif- bzw. Mindestlöhne zu umgehen.
@@ -1700,14 +1700,14 @@ So Beschäftigte sollen keine billige Verfügungsmasse sein, mit der reguläre B
 Zusätzlich werden wir eine Höchstquote von Leiharbeitern je Unternehmen bezogen auf die jeweilige Stammbelegschaft in Höhe von zehn Prozent einführen.
 Ferner fordern die PIRATEN, dass der Staat dafür Sorge trägt, Missbrauch von Leih-, Zeit- und Werksverträgen zu kontrollieren und entsprechend zu ahnden.
 
-11.1.1.3.1 Gleiche Behandlung für gleiche Leistung
+##### Gleiche Behandlung für gleiche Leistung
 
 Wir PIRATEN setzen uns dafür ein, dass betriebliche Zusatzleistungen, wie z. B. subventioniertes Mittagessen oder auch andere freiwillige Leistungen im Sinne der grundgesetzlich geschützten unternehmerischen Freiheit, beibehalten werden, aber gleichermaßen für alle Beschäftigten verfügbar sind.
 Daher fordern wir, dass atypisch Beschäftigte regulären Beschäftigungsverhältnissen in Bezug auf Sachleistungen wie Kantinenbenutzung oder Berufskleidung gleichgestellt werden.
 Wir regen daher eine stärkere Zusammenarbeit der Beteiligten an und fordern sie auf, dieser Diskriminierung beispielsweise mit Betriebsvereinbarungen entgegenzuwirken.
 Wir fordern, dass atypisch Beschäftigte in allen Belangen der Stammbelegschaft wenigstens gleichgestellt werden müssen.
 
-11.1.1.3.2 Leiharbeit
+##### Leiharbeit
 
 Die arbeitsrechtlichen Bedingungen von Zeitarbeitern dürfen daher die branchenüblichen oder tarifvertraglichen Regelungen nicht unterschreiten, da es sich um "besondere Arbeitsverhältnisse" handelt.
 In Zeiten von Nichtbeschäftigung, die der Leiharbeitnehmer nicht zu vertreten hat, muss der Leiharbeitnehmer trotzdem bezahlt werden.
@@ -1718,19 +1718,19 @@ Die Probezeit soll im Falle der Übernahme des Leiharbeitnehmers durch den Entle
 Wir fordern, die gesetzlichen Kündigungsfristen der Leiharbeiter den Regelungen der festangestellten Arbeitnehmer des Unternehmens gleichzustellen.
 Diese Fristen sollen auch in den gängigen branchenüblichen Tarifverträgen zeitnah umgesetzt werden.
 
-11.1.1.3.3 Arbeitnehmerüberlassung im SGB
+##### Arbeitnehmerüberlassung im SGB
 
 Um keine Arbeitnehmer "zweiter Klasse" entstehen zu lassen, fordern wir PIRATEN, dass in Eingliederungsvereinbarungen (§ 15 SGB II) keine Aufforderung mehr festgeschrieben wird, dass Bewerbungen bei Zeitarbeitsunternehmen/Personaldienstleistern vorzunehmen sind.
 Die Verweigerung einer solchen Bewerbung darf nicht als mangelnde Eigenbemühung oder Mitwirkung gelten bzw. zu einer Sanktion nach § 31 SGBII führen.
 
-11.1.2 Erwerbssuchende unterstützen
+### Erwerbssuchende unterstützen
 
-11.1.2.1 Förderung qualifizierter/älterer arbeitssuchender Menschen
+#### Förderung qualifizierter/älterer arbeitssuchender Menschen
 
 Wir PIRATEN fordern, dass Arbeitslose mit abgeschlossener Berufsausbildung und entsprechender Berufserfahrung durch geeignete Weiterbildungen qualifiziert werden, sofern sie dies wünschen.
 Dies soll insbesondere auch für ältere Arbeitnehmer gelten
 
-11.1.2.2 Qualitätsstandards für die Vermittlung in Arbeit (Jobcenter)
+#### Qualitätsstandards für die Vermittlung in Arbeit (Jobcenter)
 
 Wir PIRATEN verfolgen das Anliegen, dass die Mitarbeitenden der Jobcenter im Regelfall unbefristete Arbeitsverträge erhalten, um permanent gleichmäßige Ausbildungs- und Bearbeitungsstandards zu gewährleisten.
 Damit werden die Grundlagen geschaffen, dass die Leistungsberechtigten umfassender aufgeklärt, beraten und vermittelt werden können.
@@ -1738,7 +1738,7 @@ Wir fordern eine regelmäßige, qualitativ hochwertige Fort- und Weiterbildung d
 Wir setzen uns dafür ein, dass die Mitarbeiterinnen und Mitarbeiter im Vermittlungsbereich nur diejenigen Berufsgruppen beraten, deren Berufsbilder sie kennen und mit deren fachlichen Inhalten und Anforderungen sie vertraut sind.
 Die Zuordnung und Betreuung der Arbeitslosen im Vermittlungsbereich sollte nicht mehr nach dem Anfangsbuchstaben des Namens des Antragstellers, Stadtteilen, BG-Nummern oder anderen bürokratischen Kriterien erfolgen.
 
-11.1.2.3 Akteneinsicht/Transparenz in Jobcentern
+#### Akteneinsicht/Transparenz in Jobcentern
 
 Wir PIRATEN fordern die Erhaltung des uneingeschränkten Rechts auf Akteneinsicht § 25 SGBX im SGBII.
 Es muss die Möglichkeit gegeben sein, durch einen formlosen Antrag die gesamte persönliche, auch digitale Dokumentation (Aufzeichnungen, Profiling etc.) unmittelbar nach jedem Termin einzusehen und auf Verlangen ausgehändigt zu bekommen.
@@ -1746,19 +1746,19 @@ Es sollen verbindliche, nachvollziehbare Informations- und Beratungsrichtlinien 
 Leistungsberechtigte sind schriftlich vollumfänglich und konkret im Vorfeld über ihre Rechte und Pflichten aufzuklären.
 Alle internen Arbeitsanweisungen sind offen zu legen.
 
-11.1.2.4 Stärkung der Arbeitslosen-Selbsthilfegruppen
+#### Stärkung der Arbeitslosen-Selbsthilfegruppen
 
 Um die Rechte der Leistungsberechtigten innerhalb des komplexen Sozial- und Verwaltungsrechtes zu stärken, fordern wir PIRATEN eine qualitative und quantitative Aufrüstung der lokalen Arbeitslosen-Selbsthilfegruppen.
 Die Organisationsstruktur und Finanzierung soll sich analog am Bundesverband der Verbraucherzentralen und ihren jeweiligen Untergliederungen orientieren.
 Die Vergabe der Finanzmittel muss unabhängig vom zuständigen Jobcenter durch entsprechende Förderrichtlinien erfolgen, um auch kleinen Vereinen eine Chance der finanziellen Unterstützung zu geben.
 
-11.1.2.5 Prozesskostenhilfe
+#### Prozesskostenhilfe
 
 Wir PIRATEN setzen uns dafür ein, dass jeder Mensch unabhängig vom Einkommen die Möglichkeit haben muss, seine Rechte vor einem Gericht geltend zu machen.
 Daher lehnen wir Einschränkungen im Bereich der Prozesskostenhilfe und des Beratungshilferechts ab, wenn hierdurch die Anspruchsvoraussetzungen für die Gewährung von Unterstützung angehoben werden.
 Persönlichkeitsrechte der Betroffenen müssen gewahrt bleiben und die Hilfe Empfangenden müssen sich darauf verlassen können, dass einmal gewährte finanzielle Hilfe nicht im laufenden Verfahren wieder entzogen wird.
 
-11.1.2.6 Transparenz bei Arbeitslosenstatistik
+#### Transparenz bei Arbeitslosenstatistik
 
 Wir PIRATEN sprechen uns für eine ehrliche Arbeitslosenstatistik aus.
 Wir setzen uns dafür ein, dass die Bundesanstalt für Arbeit unverfälschte Zahlen veröffentlicht, die der Realität entsprechen.
@@ -1770,22 +1770,22 @@ Es müssen aufgeführt werden:
   - Erwerbslose, die in irgendwelchen Mini-Jobs beschäftigt werden
   - Sonstige Erwerbslose
 
-11.1.3 Rechte der Arbeitnehmer stärken
+### Rechte der Arbeitnehmer stärken
 
-11.1.3.1 Mitbestimmung
+#### Mitbestimmung
 
 Wir PIRATEN bekennen uns zur Mitbestimmung in allen Bereichen des öffentlichen Lebens.
 Dazu gehört auch das Arbeitsleben.
 Demokratie umfasst nach unserem Verständnis auch die Beteiligung an Entscheidungsprozessen im Arbeitsumfeld.
 
-11.1.3.2 Betriebsräte
+#### Betriebsräte
 
 Wir bekennen uns zu starken Betriebsräten und wollen das Betriebsverfassungsgesetz verteidigen.
 Mitbestimmung ist ein wesentliches Element der Teilhabe am Wirtschaftsleben.
 Die Gründung von Betriebsräten muss erleichtert werden.
 Daher befürworten wir alle notwendigen gesetzlichen Schutzmaßnahmen im Betriebsverfassungsgesetz und im Kündigungsschutzgesetz.
 
-11.1.3.3 Maßnahmen gegen Mobbing
+#### Maßnahmen gegen Mobbing
 
 Wir PIRATEN setzen uns für einen umfassenden gesetzlichen Schutz vor Mobbing am Arbeitsplatz und in Schulen ein.
 Um Mobbing wirksam zu begegnen, muss Mobbing als Straftatbestand von Amts wegen verfolgt und durch spürbaren Schadensersatz zu Lasten der Schädigenden kompensiert werden.
@@ -1794,28 +1794,28 @@ Wir setzen uns für die Schaffung eines Rahmengesetzes auf Bundesebene für Mobb
 Ihnen sollen im Rahmen eines zu schaffenden Antimobbinggesetzes Vetorecht gegen Rechtsakte gegeben werden, die mit ihren Untersuchungen in Zusammenhang stehen.
 Sie sollen einen jährlichen Bericht veröffentlichen.
 
-11.1.4 Gerechte Entlohnung
+### Gerechte Entlohnung
 
-11.1.4.1 Flächendeckender gesetzlicher Mindestlohn muss Erwerbstätigen ein existenzsicherndes Einkommen bieten
+#### Flächendeckender gesetzlicher Mindestlohn muss Erwerbstätigen ein existenzsicherndes Einkommen bieten
 
 Solange ein bedingungsloses Grundeinkommen noch nicht umgesetzt ist, ist dies vor allem über gesetzliche Regulierungen und Tarifverträge möglich.
 Der Mindestlohn muss ausreichend sein, um in der gesetzlichen Rentenkasse als Beschäftigter in Vollzeit bei 40 Beitragsjahren und Renteneintrittsalter von 67 Jahren Anspruch auf eine Rente oberhalb der Armutsgefährdung zu erreichen.
 Für 2017 ergibt sich so ca. 15,00 Euro brutto.
 
-11.1.4.2 Öffentliche Ausschreibungen
+#### Öffentliche Ausschreibungen
 
 Wir PIRATEN fordern, dass der Staat in öffentlichen Ausschreibungen Auftragnehmern den Mindestlohn zwingend vorschreibt.
 
-11.1.4.3 Geschlechterunabhängige Chancen
+#### Geschlechterunabhängige Chancen
 
 Wir PIRATEN fordern geschlechterunabhängige gleiche Bezahlung, Chancen- und Entwicklungsmöglichkeiten.
 
-11.1.4.4 Ost-West-Gefälle
+#### Ost-West-Gefälle
 
 Wir PIRATEN setzen uns dafür ein, dass Lohnunterschiede zwischen Ost- und Westdeutschland abgebaut werden.
 Hier soll der öffentliche Dienst eine Vorbildfunktion einnehmen.
 
-11.1.4.5 Missbrauch von Berufspraktika verhindern
+#### Missbrauch von Berufspraktika verhindern
 
 Wir PIRATEN sehen Berufspraktika als eine sinnvolle und notwendige Ergänzung der Berufsausbildung an.
 Sie vermitteln Praxisbezug und erleichtern den Eintritt ins Berufsleben.
@@ -1824,7 +1824,7 @@ Wir setzen uns dafür ein, Missbrauch durch Arbeitgeber zu unterbinden.
 Ein nicht für Ausbildung oder Studium benötigtes Praktikum ist auf drei Monate zu begrenzen oder es ist nach Ablauf von drei Monaten ein angemessenes Praktikantengehalt zu zahlen und der Praktikant rechtlich dem festangestellten Mitarbeiter gleichzustellen.
 Auf Antrag können Betriebe finanzielle Unterstützung durch die Bundesagentur für Arbeit erhalten.
 
-11.1.4.6 Bekämpfung von "prekärem Unternehmertum "
+#### Bekämpfung von "prekärem Unternehmertum"
 
 Wir PIRATEN unterstützen und fördern ausdrücklich das freie Unternehmertum, setzen uns jedoch dafür ein, dass abhängig Beschäftigte nicht als Subunternehmer ohne Sozialabgabepflicht beschäftigt werden und so das unternehmerische Risiko ausgelagert wird, ohne entsprechend honoriert zu werden.
 Im Bildungsbereich müssen Lehrkräfte auf Honorarbasis eine angemessene Entlohnung erhalten.
@@ -1833,12 +1833,12 @@ Im Bereich der Betreuung von Kleinkindern ist Kindertagespflege als eine familie
 Das Vorgehen von Jobcentern insbesondere alleinerziehende Mütter in eine solche selbstständige Tätigkeit zu drängen, lehnen wir ab.
 Betroffene Personen sollen frei und ohne Druck zwischen Selbständigkeit und sozialversicherungspflichtiger Beschäftigung wählen können.
 
-11.1.4.7 Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II)
+#### Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II)
 
 Wir PIRATEN fordern, die sogenannten "Ein-Euro-Jobs" (Vermittlung in Arbeitsgelegenheiten mit Mehraufwandsentschädigung, AGH-MAE) mit sofortiger Wirkung auszusetzen, weil diese keinen Zugang zum ersten Arbeitsmarkt ermöglichen.
 Vielfach vernichten diese staatlich subventionierten Einsätze sogar reguläre Arbeitsplätze im Kleingewerbebereich, weil kein öffentlicher Auftrag preiswerter durchgeführt werden kann, als durch einen "1-Euro-Jobber".
 
-11.2 ILA – International Liberty Agreement
+## ILA – International Liberty Agreement
 
 Wir PIRATEN werden – in Zusammenarbeit mit dem weltweiten Netzwerk an Piratenparteien und allen anderen Parteien und Organisationen, die gleiche oder ähnliche Vorstellungen haben – die Verhandlung und den Abschluss eines internationalen Vertrages – des "International Liberty Agreement (ILA) " – initiieren, der Mindeststandards für bürgerliche Freiheiten, insbesondere aber nicht ausschließlich in digitalen Netzen, verbindlich festlegt.
 
@@ -1856,7 +1856,7 @@ Das ILA soll unter anderem Vereinbarungen enthalten über
   - die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
   - die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
 
-\==Stärkung der Rechte Prostituierter
+## Stärkung der Rechte Prostituierter
 
 Die Entscheidung zur Ausübung der Prostitution fällt
 
@@ -1898,18 +1898,18 @@ Wir PIRATEN unterstützen weltweit Initiativen zur Einführung des bedingungslos
 Mittelfristig muss das Grundeinkommen den "vier Kriterien" ohne Bedingungen, existenzsichernd, individuell berechnet, ohne Bedürftigkeitsprüfung genügen.
 In der Phase der Einführung sind Modelle denkbar, die diesen Kriterien nur teilweise genügen.
 
-11.4.4 Ein Grundeinkommen ist nachhaltig zu finanzieren
+### Ein Grundeinkommen ist nachhaltig zu finanzieren
 
 Wir PIRATEN starten mit vorsichtigen Annahmen und einem geringen Grundeinkommen.
 Sollte die Entwicklung dann günstiger verlaufen als die Annahmen, ist die Erhöhung des Grundeinkommens schnell beschlossen.
 Es darf jedoch nicht zur Schlechterstellung von einkommensschwachen Menschen kommen.
 
-11.4.5 Kombination aus Grundeinkommen und Einkommen/Rente
+### Kombination aus Grundeinkommen und Einkommen/Rente
 
 Ein Grundeinkommen wird zusätzlich z. B. zu Erwerbseinkommen und Renten- oder Pensionsbezug gezahlt.
 Diese Einkommen werden dann stärker besteuert werden, wobei das BGE die Steuerprogression unterstützt, da es als Grundsicherung oder als Steuerfreibetrag angesehen werden kann.
 
-11.4.6 Sozialversicherungen beim Grundeinkommen
+### Sozialversicherungen beim Grundeinkommen
 
 Wir wollen wenigstens die Pflege- und die Rentenversicherung als paritätisch finanzierte Sozialversicherung fortführen.
 Die Krankenkassen sollen auf ein steuerfinanziertes Gesundheitswesen umgestellt werden, damit alle Einkommen unabhängig von Einkommensart und Beitragsbemessungsgrenzen herangezogen werden.
@@ -1923,11 +1923,11 @@ Gerade durch die fortschreitende Digitalisierung ist eine Weiterentwicklung des 
 Die politische Diskussion zeigt jedoch, dass einzelne Aspekte breite gesellschaftliche Unterstützung finden auch jenseits der BGE-Befürworter.
 Wir wollen diese Weiterentwicklung unterstützen, sofern sie auch für das BGE zielführend ist.
 
-11.5.1 Weiterentwicklung des Sozialsystems
+### Weiterentwicklung des Sozialsystems
 
 Das Sozialsystem kann in Richtung BGE geführt werden, indem für einzelne Gruppen ein Grundeinkommen umgesetzt wird oder die Vereinbarkeit des bestehenden mit dem Grundeinkommen verbessert wird.
 
-11.5.1.1 Kindergrundsicherung
+#### Kindergrundsicherung
 
 Zur Abschaffung der Kinderarmut setzen wir PIRATEN uns für die Einführung einer Kindergrundsicherung ein.
 Die Kindergrundsicherung soll Familien finanziell entlasten, Kinderarmut verhindern und jedem Kind die Möglichkeit geben, sein eigenes Potenzial zu entfalten.
@@ -1938,32 +1938,32 @@ Die Chancengleichheitsbeihilfe hat das Ziel, Betreuung, Mobilität, Bildung und 
 Die Beihilfe kann steuerpflichtig, bedarfsorientiert, altersabhängig oder abhängig vom Familieneinkommen gestaltet sein.
 Zudem kann sie teilweise auch Sachleistungen wie kostenfreien KiTa-Besuch enthalten.
 
-11.5.1.2 Bildungsgrundeinkommen
+#### Bildungsgrundeinkommen
 
 Wir PIRATEN setzen uns dafür ein, die BAföG-Leistungen durch ein Bildungsgrundeinkommen zu ersetzen.
 Dieses Bildungsgrundeinkommen sichert das Einkommen derer, die eine Ausbildung, ein Studium oder eine Fortbildung absolvieren, aber keinen Anspruch auf Grundsicherungsleistungen haben.
 
-11.5.1.3 Verbesserung der Einkommenssituation der eingewanderten Menschen und Flüchtlinge
+#### Verbesserung der Einkommenssituation der eingewanderten Menschen und Flüchtlinge
 
 Wir PIRATEN setzen uns für die Verbesserung der Situation der eingewanderten Menschen und Flüchtlinge ein.
 In einem reichen Land kann und muss die materielle Situation der am schlechtesten Gestellten, und dazu gehören viele Flüchtlinge und viele der eingewanderten Menschen, deutlich verbessert werden.
 
-11.5.1.4 Erhöhung des Regelsatzes der Mindestsicherungen
+#### Erhöhung des Regelsatzes der Mindestsicherungen
 
 Bei den Mindestsicherungen sind bis zur Einführung des Grundeinkommens der Regelsatz des Arbeitslosengeldes II zu erhöhen, um Armut nachhaltig zu verhindern.
 Wir PIRATEN fordern deshalb einen Regelsatz inklusive der Kosten der Unterkunft (KdU) über der Armutsgefährdungsgrenze.
 
-11.5.1.5 Abschaffung der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII)
+#### Abschaffung der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII)
 
 Wir PIRATEN setzen uns für die Verbesserung der Situation der Erwerbslosen ein, insbesondere für die Abschaffung und sofortige Nichtanwendung (Moratorium) der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII).
 
-11.5.1.6 Grundsicherung im Alter und bei Erwerbsminderung
+#### Grundsicherung im Alter und bei Erwerbsminderung
 
 Wir PIRATEN setzen uns für die Abschaffung der Altersarmut und für die Prävention zukünftiger Altersarmut durch die Weiterentwicklung der Grundsicherung im Alter und bei Erwerbsminderung in Richtung auf ein Grundeinkommen für alte und erwerbsgeminderte Menschen ein.
 Die Bestrebungen, immer mehr Menschen in private Rentenversicherungen wie Riester- oder Rürup-Verträge zu drängen, lehnen wir ab.
 Sie dienen nur in den seltensten Fällen tatsächlich den Antragstellern.
 
-11.5.1.6.1 Grundsätzliche Vorgehensweise zur Bürgerversicherung
+##### Grundsätzliche Vorgehensweise zur Bürgerversicherung
 
 Alle bestehenden Rentensysteme, berufsständischen Versorgungssysteme und Pensionen im öffentlichen Dienst werden zu einer Rentenkasse zusammengeführt.
 Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet.
@@ -1978,7 +1978,7 @@ Der Staat schafft den gesetzlichen Rahmen.
 Die Rentenkasse ist für die Rente zweckgebunden\!
 Für Pensionsansprüche soll der Gesetzesgeber eine entsprechende Übergangslösung ausarbeiten.
 
-11.5.1.6.2 Betriebliche Altersvorsorge
+##### Betriebliche Altersvorsorge
 
 Der Gesetzgeber hat im Jahre 2004 das GKV-Modernisierungsgesetz (GMG) beschlossen, wodurch auf die Kapitalauszahlung einer betrieblichen Altersvorsorge in Form einer kapitalgebundenen Direktversicherung der volle Sozialversicherungsbeitrag der gesetzlichen Kranken- und Pflegeversicherung durch den Versicherten zu entrichten ist (§ 248 Satz 1 SGB V i.d.F. von Artikel 1 Nr. 148 GMG) .
 Diese Beitragspflicht wurde damit auf Einmalleistungen aus einer Kapitallebensversicherung ausgeweitet und zwar auch rückwirkend auf sogenannte Altverträge.
@@ -1991,7 +1991,7 @@ Insgesamt sollte eine Neuregelung der betrieblichen Altersvorsorge mit klaren un
 Die derzeitige Regelung, dass Verträge steuerlich gefördert werden, im Alter jedoch die Sozialversicherungspflicht voll greift, macht die betriebliche Altersvorsorge oft zu einem Verlustgeschäft, fördert stattdessen die private Versicherungswirtschaft und begünstigt vor allem die Arbeitgeber.
 Außerdem verringern sich durch die betriebliche Altersvorsorge die Einzahlungen in die gesetzliche Rentenversicherung, was das Solidarsystem durch ein geringeres sozialversicherungspflichtiges Bruttogehalt zusätzlich schwächt.
 
-11.5.1.6.3 Transparenz bei der privaten Altersvorsorge
+##### Transparenz bei der privaten Altersvorsorge
 
 Wir PIRATEN setzen uns für klar nachvollziehbare Kostenstrukturen bei allen Formen der privaten Rentenversicherung ein (nicht nur Riester- und Rüruprente):
 Die effektiv anfallenden Kosten und Gebühren einer privaten Rentenversicherung sind als Summe aller Einzelposten in der Gesamtlaufzeit, welche von den Versicherten an nichtstaatliche Versicherungsunternehmen zu zahlen sind, direkt neben der zu erwartenden Ablaufleistung (Auszahlungssumme) im Versicherungsangebot sowie in der Versicherungspolice auszuweisen.
@@ -1999,7 +1999,7 @@ Der Versicherungsberater hat auf die Gebühren im Gespräch explizit hinzuweisen
 Der spekulative Charakter der ausgewiesenen potenziellen Ablaufleistung ist klar darzustellen.
 Im Beratungsgespräch sowie in den Angebots- und Vertragsunterlagen muss deutlich darauf hingewiesen werden, dass möglicherweise die garantierten Werte nicht signifikant überschritten werden.
 
-11.5.3 Weiterentwicklung des Steuersystems
+### Weiterentwicklung des Steuersystems
 
 Das Steuersystem soll durch eine Reihe Steuerreformen in Richtung BGE geführt werden.
 Dies geschieht, indem jede Reform einen unabhängigen Finanzierungsbaustein zu einem bedingungslosen Sockeleinkommen beiträgt.
@@ -2007,24 +2007,24 @@ Im Unterschied zum BGE muss das Sockeleinkommen nicht existenzsichernd sein.
 Letztendlich soll es sich zu einem BGE entwickeln und schafft die neue, schlanke, für das BGE notwendige Verwaltungsstruktur.
 Das Sockeleinkommen ist kein zu versteuerndes Einkommen und wird nicht auf bestehende Sozialleistungen angerechnet.
 
-11.5.3.1 Vereinheitlichung der Umsatzsteuersätze
+#### Vereinheitlichung der Umsatzsteuersätze
 
 Wir PIRATEN fordern die Anhebung des ermäßigten Umsatzsteuersatzes mit dem Ziel, einen einheitlichen Regelsteuersatz zu schaffen und die sogenannte Mehrwertsteuer zu vereinfachen.
 Durch die Ausschüttung der Steuermehreinnahmen als Sockeleinkommen ist die Anhebung des Mehrwertsteuersatzes sozial, da das Sockeleinkommen die Kostenerhöhung durch den höheren Umsatzsteuersatz für Familien und einkommensschwache Menschen nicht nur ausgleicht, sondern sogar zu einem kleinen Teil übersteigt.
 
-11.5.3.2 Einführung einer Finanztransaktionssteuer
+#### Einführung einer Finanztransaktionssteuer
 
 Wir PIRATEN setzen uns dafür ein, dass eine Finanztransaktionssteuer eingeführt wird.
 Die Ausschüttung der Steuermehreinnahmen erfolgt in Form eines Sockeleinkommens.
 
-11.5.3.3 Vereinfachung der Einkommensteuer
+#### Vereinfachung der Einkommensteuer
 
 Wir PIRATEN fordern eine Reform der Einkommensteuer durch ein allgemein verständliches Steuersystem, das ohne Ausnahmen auskommt und für alle Einkommensarten gilt.
 Diese Reform umfasst:
 Sockeleinkommen statt "Aufstocken", personenbezogener Grundfreibetrag für alle statt unzeitgemäßem Ehegattensplitting, Kranken- und Pflegeversicherungsbeiträge von der Steuer abziehen statt absetzen, einheitliches Verfahren statt Sonderregelungen - Abschaffung diverser Ausnahmeregelungen.
 Erst durch die Kombination der vier Reformbestandteile gelingt die Gestaltung eines ausgeglicheneren Steuersystems bei gleichzeitiger Einführung eines Sockeleinkommens.
 
-11.5.4 Maschinen müssen unser Sozialsystem sichern und ausbauen
+### Maschinen müssen unser Sozialsystem sichern und ausbauen
 
 Die nächste Technologiewelle, die unsere gesellschaftlichen Grundfesten erschüttern wird, rollt leise, aber gewaltig an.
 Es gibt einen Unterschied zu den vergangenen technischen (R)evolutionen – die Geschwindigkeit.
@@ -2077,9 +2077,7 @@ Das ist menschlich.
 Vor einer Privatisierung oder Verstaatlichung gesellschaftlicher Aufgabenbereiche ist im Einzelfall zu prüfen, ob Selbstorganisation und Selbstverwaltung möglich wäre.
 Bei gleicher oder besserer Eignungsprognose ist diesen Vorrang zu gewähren.
 
-## Commons-Projekte anleiten und unterstützen
-
-\=
+### Commons-Projekte anleiten und unterstützen
 
 Alle Ebenen wirtschaftspolitischer Entscheidungs- und Verwaltungsstrukturen sind mit entsprechendem Fachwissen auszustatten.
 Diese Stellen werden so in die Lage versetzt, Selbstverwaltungsprojekte bei der Institutionenfindung und -umsetzung zu beraten, zu unterstützen und zu fördern oder etwaige Konflikte zu moderieren.
@@ -2107,7 +2105,7 @@ Von Antragsverfahren, einschränkenden Lizenzmodellen und Gebühren ist dabei ge
 Die Weiterverbreitung und auch die kommerzielle Nutzung sollen ausdrücklich gestattet werden.
 Neben für die Lektüre aufbereiteten Formaten sollen die Daten auch in freien maschinenlesbaren Formaten angeboten werden, die sich für die maschinelle Weiterverarbeitung und Aufbereitung eignen.
 
-11.6.7 Internationale wissenschaftliche Vernetzung verbessern
+### Internationale wissenschaftliche Vernetzung verbessern
 
 Der Umsetzung, der in den vorangehenden Absätzen genannten Programmpunkte, sind jeweils die wissenschaftlichen Erkenntnisse der Commons-Forschung zugrunde zu legen.
 Anleitende und umsetzende Institutionen sollen sich hierzu in nationalen oder internationalen Verbänden oder Forschungseinrichtungen engagieren und entsprechende organisatorische Zuständigkeiten im Rahmen ihrer Verwaltung schaffen.
@@ -2123,14 +2121,14 @@ Wir wollen, dass Politik der existierenden Vielfalt gerecht wird.
 Wir setzen uns dafür ein, die einseitige Bevorzugung traditioneller Rollen-, Familien- und Arbeitsmodelle zu überwinden.
 Echte Wahlfreiheit besteht erst, wenn längere berufliche Auszeiten oder Teilzeitarbeit unabhängig vom Geschlecht gesellschaftliche Normalität sind.
 
-12.1.1 Freie Selbstbestimmung des Zusammenlebens
+### Freie Selbstbestimmung des Zusammenlebens
 
 Wir PIRATEN bekennen uns zu allen denkbaren Formen des Zusammenlebens.
 Politik muss der Vielfalt der Lebensentwürfe gerecht werden und eine wirklich freie Entscheidung für die individuell gewünschte Form des Zusammenlebens ermöglichen.
 Eine ausschließlich historisch begründete Bevorzugung ausgewählter Familienmodelle lehnen wir ab.
 Wir setzen uns für die vollständige rechtliche Gleichstellung sämtlicher Lebensgemeinschaften ein.
 
-12.1.2 Andere Lebenspartnerschaften
+### Andere Lebenspartnerschaften
 
 Wir PIRATEN setzen uns dafür ein, dass der Begriff "Ehe" durch die "eingetragene Lebenspartnerschaft" ersetzt wird.
 Die auf der Ehe basierenden Rechten und Pflichten sind, sofern noch nicht geschehen, auf die "eingetragene Lebenspartnerschaft" zu übernehmen.
@@ -2138,7 +2136,7 @@ Die auf der Ehe basierenden Rechten und Pflichten sind, sofern noch nicht gesche
 Des Weiteren wollen wir für alle Formen der homosexuellen, heterosexuellen und polyamourösen (Liebesbeziehung zu mehr als einem Menschen) Partnerschaften, die eingetragene Lebenspartnerschaft öffnen.
 Damit soll sie über ihren monogamen Anspruch hinaus auch das Zusammenleben von mehr als zwei Personen einer Generation rechtlich regeln.
 
-12.1.3 Kinderwünsche auch in nicht klassischen Familienbildern realisieren
+### Kinderwünsche auch in nicht klassischen Familienbildern realisieren
 
 Wir PIRATEN setzen uns für die gleichwertige Anerkennung von Lebensmodellen ein, in denen Menschen füreinander Verantwortung übernehmen.
 Lebensgemeinschaften, in denen Kinder aufwachsen oder Menschen gepflegt werden, verdienen einen besonderen Schutz und Unterstützung durch den Staat und die Gesellschaft.
@@ -2146,7 +2144,7 @@ Wir setzen uns für den Abbau bestehender, geschlechtlicher Rollenzuschreibungen
 Der Wunsch, eine Lebens- bzw. Versorgungsgemeinschaft zu gründen, darf nicht am klassischen Familienbild hängen bleiben.
 Die geschlechtliche Identität oder die sexuelle Orientierung darf hierbei keine Rolle spielen.
 
-12.1.4 Familienförderung dort, wo Kinder und anderweitig Bedürftige sind\!
+### Familienförderung dort, wo Kinder und anderweitig Bedürftige sind\!
 
 Personen, die einen Teil ihrer Lebenszeit der Betreuung von Kindern und Bedürftigen widmen, darf kein Nachteil entstehen.
 Wir PIRATEN setzen uns für eine ernsthafte politische Auseinandersetzung mit den Konzepten des Bedingungslosen Grundeinkommens ein.
@@ -2160,7 +2158,7 @@ Jedes Kind hat einen Anspruch auf finanzielle Unterstützung durch den Staat.
 
 Das existierende Ehegattensplitting passt nicht in unser Familienbild und ist sukzessive abzuschaffen.
 
-12.1.5 Kostenfreie und flexible Betreuungs- und Bildungsangebote
+### Kostenfreie und flexible Betreuungs- und Bildungsangebote
 
 Betreuungs- und Bildungsangebote des Staates sind den Kindern kostenfrei zur Verfügung zu stellen.
 Entsprechende Angebote sollen wohnort- oder wahlweise arbeitsplatznah realisiert werden - auch über kommunale Grenzen hinweg.
@@ -2184,14 +2182,14 @@ Somit nicht nur Männer und Frauen, sondern auch trans\* und intersexuelle Mensc
 Die Rechte von Kindern und Jugendlichen haben für uns den selben Stellenwert wie die von Erwachsenen.
 Unser Ziel ist die größtmögliche Freiheit und Partizipation von Kindern und Jugendlichen.
 
-12.3.1 Kinder- und Jugendrechte ins Grundgesetz (GG)
+### Kinder- und Jugendrechte ins Grundgesetz (GG)
 
 Aktuell stehen die Menschenrechte des Kindes (UN-Menschenrechtskonvention über die Rechte des Kindes; kurz: UN-Kinderrechtskonvention) in Deutschland auf einer Ebene mit allen anderen Gesetzen.
 Das hat zur Folge, dass im Konfliktfall nicht die UN-Kinderrechtskonvention sondern das Gesetz Anwendung findet (Bsp.: Asylrecht, Gemeinderecht).
 Um die Rechte von Kindern und Jugendlichen aufzuwerten, fordern wir die Kinderrechte im Grundgesetz zu verankern.
 Kinderrechte sind Menschenrechte und müssen als solche geachtet werden.
 
-12.3.2 Klagerecht von Kindern und Jugendlichen sowie rechtliche Beratung von jungen Erwachsenen
+### Klagerecht von Kindern und Jugendlichen sowie rechtliche Beratung von jungen Erwachsenen
 
 Die Möglichkeit von Kindern und Jugendlichen ohne Zustimmung eines Vormundes juristische Mittel einzusetzen soll erheblich vereinfacht werden.
 Insbesondere soll es ohne Probleme möglich sein, dass Kinder und Jugendliche sich auch ohne Zustimmung des Vormunds juristisch beraten und vertreten lassen.
@@ -2211,15 +2209,14 @@ Die Beratungsstellen sollten mindestens folgende Aufgaben übernehmen:
 Um den Anforderungen einer vielfältigen Gesellschaft gerecht zu werden, setzen wir uns für die interkulturelle Öffnung der Verwaltung ein.
 Dies beinhaltet mehrsprachige Angebote in Formularen und auf Webseiten der Behörden sowie die Aus- und Weiterbildung von Bediensteten in interkultureller Kompetenz.
 
-12.4.2 Diversität in der Verwaltung:
-Behörden gehen durch anonymisierte Bewerbungsverfahren mit gutem Beispiel voran.
+### Diversität in der Verwaltung: Behörden gehen durch anonymisierte Bewerbungsverfahren mit gutem Beispiel voran
 
 Damit Behörden auf die Interessen der Bevölkerung angemessen eingehen können, müssen sie die Diversität der Gesellschaft auch in ihren eigenen Reihen abbilden.
 Um dies zu erreichen, braucht es angemessene Bewerbungs- und Auswahlverfahren.
 Besondere Angebote für an Bewerbungen interessierte Menschen sollen Interesse und Selbstbewusstsein stärken und für mehr Bewerbungen aller gesellschaftlichen Gruppen sorgen.
 Wir PIRATEN fordern anonymisierte Bewerbungsverfahren in der Verwaltung, um möglicher Diskriminierung aufgrund von Geschlecht, Herkunft, Nationalität, Aussehen, Alter oder weiterer nicht-einstellungsrelevanter Merkmale vorzubeugen.
 
-12.4.2 Für eine tolerante und erfolgreiche Arbeitsmarktpolitik
+### Für eine tolerante und erfolgreiche Arbeitsmarktpolitik
 
 Arbeitsmarktpolitik sollte sich daran orientieren, Menschen in ihren Fähigkeiten zu bestärken, Vielfältigkeit anzuerkennen und Diskriminierung abzubauen.
 So können die Ziele, sowohl den Arbeitsmarkt offen und fair für alle Teilnehmer zu gestalten als auch als Volkswirtschaft erfolgreich zu sein, erreicht werden.
@@ -2230,14 +2227,14 @@ Noch immer werden viele Menschen aufgrund ihrer Hautfarbe oder anderer äußerer
 Gegen Diskriminierungen dieser Art sind gezielte Maßnahmen zu ergreifen.
 Statt einseitig bei Verhalten und Befähigungen der Benachteiligten anzusetzen, müssen diskriminierende Strukturen aufgedeckt, reflektiert und wirksam bekämpft werden.
 
-12.5.1 Projektförderung
+### Projektförderung
 
 Die Förderung von Toleranz und der Kampf gegen Diskriminierung ist eine gesamtgesellschaftliche Aufgabe.
 Zur Unterstützung der beteiligten Gruppen sind ausreichende finanzielle Mittel bereit zu stellen.
 Den Versuch, Rassismus, Diskriminierung, Intoleranz und Rechtsextremismus mit verschiedenen Formen politischen Protests gleichzusetzen, lehnen wir ab.
 Die Extremismusklausel stellt einen staatlichen Generalverdacht gegen zivilgesellschaftliches Engagement dar und gehört umgehend abgeschafft.
 
-12.5.2 Nachvollziehbare und verantwortliche Erstellung von Studien
+### Nachvollziehbare und verantwortliche Erstellung von Studien
 
 Studien, die im Zusammenhang mit der Diversität der Gesellschaft erstellt werden, sollen grundsätzlich nachvollziehbar und transparent und unter Hinzunahme von externer Expertise aus Forschung und Wissenschaft erarbeitet und zeitnah veröffentlicht werden.
 
@@ -2246,7 +2243,7 @@ Studien, die im Zusammenhang mit der Diversität der Gesellschaft erstellt werde
 Wir PIRATEN setzen uns für mehr Chancengleichheit ein:
 Die sozio-kulturelle Herkunft darf nicht mehr über den Bildungserfolg entscheiden.
 
-12.6.1 Chancengleichheit durch gemeinsames Lernen
+### Chancengleichheit durch gemeinsames Lernen
 
 Um Chancengleichheit zu erreichen, setzen wir uns für ein gemeinsames Lernen von Kindern mit verschiedenem sozialen Hintergrund ein.
 Den unterschiedlichen sozialen und kulturellen Hintergründen der Lernenden soll mit Achtung begegnet werden.
@@ -2256,7 +2253,7 @@ Dies darf jedoch nicht mit Selektion der Lernenden in verschiedenen Klassen anha
 Der muttersprachliche Unterricht sollte bestehende Sprachfähigkeiten zertifizieren und somit als Qualifikation wertschätzen.
 Die Didaktik von "Deutsch als Zweitsprache" soll stärker in die Lehrerausbildung und die Fortbildungen eingehen.
 
-12.6.2 Lehrkräfte fördern und sensibilisieren
+### Lehrkräfte fördern und sensibilisieren
 
 Es gehört zu gelungener Inklusion, wenn auch Migrantinnen und Migranten als Lehrkräfte tätig sind.
 Dies hilft Kindern ohne Migrationshintergrund, Migranten zu respektieren, und Kindern mit Migrationshintergrund, sich die Lehrkräfte als Vorbild zu nehmen.
@@ -2270,7 +2267,7 @@ Wir PIRATEN orientieren sich in ihren gesundheitspolitischen Positionen am Wohl 
 Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehenden Mitteln notwendig ist.
 Für uns zeichnet sich eine gute Gesundheitsversorgung durch ihren niederschwelligen Zugang aus, der allen Menschen in Deutschland eine zugewandte Behandlung nach aktuellem Stand der Erkenntnis ermöglicht.
 
-13.1 Transparenz im Gesundheitssystem
+## Transparenz im Gesundheitssystem
 
 Für Patientinnen und Patienten ist es kaum möglich die Qualität der ärztlichen Behandlung sowohl im Krankenhaus als auch insbesondere im niedergelassenen Bereich zu überprüfen.
 Wir PIRATEN fordern daher die verständliche Aufbereitung, Veröffentlichung und priorisierte Weiterentwicklung von Qualitätsmerkmalen.
@@ -2279,13 +2276,13 @@ Weiterhin fordern wir die Nachvollziehbarkeit von Entscheidungsprozessen von der
 Das gilt sowohl für die Entscheidungsträger in der Selbstverwaltung des Gesundheitswesens als auch für die politischen Gremien, die daran mitwirken.
 Dies schließt Beschlüsse über die Verwendung gemeinschaftlich aufgebrachter Mittel, z. B. Pflichtversicherungsbeiträge, ein.
 
-13.2 Patientenvertretung stärken
+## Patientenvertretung stärken
 
 In den Organen der Selbstverwaltung des Gesundheitswesens ist die Patientenvertretung ohne Stimmrecht beteiligt.
 Wir PIRATEN wirken darauf hin, dass die Seite der Patientenvertretung mit Stimmrecht ausgestattet und gleichberechtigter Teil der Selbstverwaltungsorgane des Gesundheitswesens wird.
 Die Patientenvertretung ist finanziell und organisatorisch mit dem Ziel größerer Transparenz unabhängig auszustatten.
 
-13.3 Überversorgung abbauen
+## Überversorgung abbauen
 
 Der Zugang zu medizinischen Angeboten ist für Patientinnen und Patienten heute stark abhängig von ihrem Wohnort.
 So sind in Großstädten je Einwohner deutlich mehr Ärzte angesiedelt als in ländlichen Regionen.
@@ -2297,7 +2294,7 @@ Mit dem Ziel einer ausgeglichenen Verteilung ist daher einem Überangebot von Ge
 Wir PIRATEN werden uns dafür einsetzen, dass jede Abweichung vom Durchschnitt der Versorgungsdichte besonders und öffentlich zu begründen ist.
 Dort, wo regionale Gebietskörperschaften oder Kommunen bewusst eine überdurchschnittliche Versorgung beibehalten, sind sie für deren Finanzierung aus dem eigenen Haushalt verantwortlich, um die Versichertengemeinschaft zu entlasten.
 
-13.4 Unterversorgung vermeiden
+## Unterversorgung vermeiden
 
 Die Menschen in Deutschland haben ein Anrecht auf eine angemessene Gesundheitsversorgung.
 Dazu gehört auch, dass gemeindenah bzw. wohnortnah ausreichend Ärzte aller Fachrichtungen vertreten sind.
@@ -2308,7 +2305,7 @@ Wir sehen die Trägervielfalt (öffentliche, frei-gemeinnützige und private Tr�
 Gleichzeitig betrachten wir die Gewährleistung der Gesundheitsvorsorge und Behandlung von Krankheiten als Fürsorgepflicht des Staates.
 Deshalb befürworten wir Initiativen, die einen Erhalt von Kliniken in öffentlicher Trägerschaft zum Ziel haben.
 
-13.5 Fehlversorgung beenden
+## Fehlversorgung beenden
 
 Bestimmte Leistungen, die aus Sicht der Gesundheitsdienstleister einerseits aufwändig und andererseits nicht angemessen honoriert sind, werden nicht oder nur in geringem Umfang erbracht.
 Neben aufsuchender Behandlung benachteiligt dies vor allem Patientinnen und Patienten mit Behinderungen, chronischen Erkrankungen oder eingeschränkter Mobilität.
@@ -2320,7 +2317,7 @@ Zur Bekämpfung von Fehlversorgung setzen wir PIRATEN zudem auf die Förderung d
 Nur belastbare Studien zur Beurteilung der Wirkung von Therapien und Medikamenten können Grundlage der Entscheidungen über die Erstattung der Kosten durch die Krankenkassen sein.
 Therapien und Medikamente, deren Wirksamkeitsnachweis nicht erbracht wurde, dürfen nur dann zu Lasten der gesetzlichen Krankenkassen erbracht werden, wenn für die zu behandelnde Krankheit keine heilenden Therapien zur Verfügung stehen oder eine wissenschaftliche Bewertung mit höchster Evidenz sich aus ethischen Gründen verbietet.
 
-13.6 Stärkung der Versorgungsforschung
+## Stärkung der Versorgungsforschung
 
 Grundlage eines modernen Gesundheitssystems ist die fortlaufende Prüfung der angebotenen Gesundheitsleistungen.
 Wir wissen heute noch viel zu wenig über die Wirksamkeit von beispielsweise bestimmten Präventionsmaßnahmen.
@@ -2329,7 +2326,7 @@ Die Finanzierung soll durch die Einführung einer Positivliste erfolgen, wie sie
 Sie garantiert, dass Patientinnen und Patienten nur Arzneimittel mit einem hohen Grad an Nutzen und Bewährungsgrad und einem vernünftigen Kosten-Nutzen-Verhältnis verschrieben bekommen.
 Außerdem soll mit den Einsparungen die nicht-kommerzielle Forschung im Bereich der Arzneimittel gefördert werden, um insbesondere Therapien für seltene Krankheiten zu erforschen.
 
-13.7 Gesundheitliche Bildung
+## Gesundheitliche Bildung
 
 Es besteht wissenschaftliche Einigkeit, dass Bildung und Umweltfaktoren große Auswirkungen auf die Gesundheit der Menschen haben.
 Wir setzen uns für die Erprobung eines Faches "Gesundheitsbildung" in Schulen ein, das vermittelt, welche Faktoren sich positiv und negativ auf Gesundheit auswirken und wie man sie erhalten kann.
@@ -2339,14 +2336,14 @@ In den Fokus der Aufklärung sollen vor allem jene Krankheits- und Störungsbild
 Wir PIRATEN sehen hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten.
 Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit gesundheitlichen Einschränkungen ein gleichberechtigter Teil der Gesellschaft sind.
 
-13.8 Finanzierung
+## Finanzierung
 
 Die Finanzierung des Gesundheitssystems betrachten wir als gesamtgesellschaftliche Aufgabe.
 Daher sehen wir in der Einbeziehung sämtlicher Bürgerinnen und Bürger in die Sozialversicherung unter Berücksichtigung möglichst aller Einkommensarten ein sinnvolles Modell zur Finanzierung dieses Systems.
 Wir erkennen allerdings die Einschränkungen der Wahlfreiheit in dieser Art der Finanzierung für Bürgerinnen und Bürger sowie die Anbieter privater Krankenversicherungen an und verstehen ihre Bedenken.
 Daher setzen wir uns für einen Volksentscheid ein, um einen gesellschaftlichen Konsens in dieser wichtigen Frage des gemeinschaftlichen Zusammenlebens zu erreichen.
 
-13.9 Vergütungssysteme überprüfen
+## Vergütungssysteme überprüfen
 
 Jede Form der Vergütung setzt Anreize, die zum Teil erwünscht sind, zum Teil jedoch auch zu unerwünschten und für das Gesamtsystem schädlichen Ergebnissen führt.
 Dies verstärkt sich in der Regel im Verlauf der Anwendung des Vergütungssystems.
@@ -2354,7 +2351,7 @@ Aus diesem Grund sind Vergütungssysteme regelhaft einer unabhängigen Analyse u
 Dies gilt für die Fallpauschalen in Krankenhäusern ebenso wie für pauschale- oder Einzelleistungsvergütungen im ambulanten Bereich.
 Hier sollen mit Modellprojekten neue Vergütungsformen regional entwickelt und getestet werden.
 
-13.10 Notfallmedizin
+## Notfallmedizin
 
 Die Überlebenschancen von Patientinnen und Patienten hängen in Notfallsituationen unmittelbar von der Reaktion beteiligter Bürgerinnen und Bürger ab.
 Um die Bevölkerung besser in die Lage zu versetzen, in solchen Situationen richtig zu handeln, fordern wir Programme zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen.
@@ -2362,7 +2359,7 @@ Ein angemessenes Verhalten in Notfallsituationen soll auch durch die Einrichtung
 Unterstützend möchten wir die Verbreitung von Defibrillatoren im öffentlichen Raum fördern.
 Um nach Eintreffen des Rettungsdienstes jeder Patientin und jedem Patienten unabhängig von seinem Aufenthaltsort eine bestmögliche Erstversorgung zu gewährleisten, setzen wir uns für bundeseinheitliche Mindeststandards in der Ausstattung von Rettungswagen ein.
 
-13.11 Elektronische Gesundheitskarte
+## Elektronische Gesundheitskarte
 
 Wir erkennen den Vorteil an, den eine rasche Zugriffsmöglichkeit von Ärzten auf diagnose- und behandlungsrelevante Patientendaten hat.
 Elektronische Kommunikation im Gesundheitswesen ist der Schlüssel zum Abbau der Versorgungsgrenzen und der kontinuierlichen Versorgung chronisch erkrankter Patientinnen und Patienten.
@@ -2371,22 +2368,21 @@ Wir fordern ergänzend die verbindliche Einführung dezentraler Speichermöglich
 Durch diesen Speicher können, ergänzt durch die Möglichkeit rechtssicherer elektronischer Unterschriften, alle Anforderungen an eine moderne IT-Infrastruktur bei gleichzeitiger Wahrung des Datenschutzes erfüllt werden.
 So erhalten Patientinnen und Patienten die volle Entscheidungshoheit über ihre Daten und können die Vorteile dieser Technologie nutzen.
 
-13.12 Pflegequalität und Pflegesicherheit
+## Pflegequalität und Pflegesicherheit
 
 Die Würde des Menschen ist unantastbar.
 Für Pflegebedürftige, private Pflegepersonen und berufliche Pflegekräfte scheint der Artikel 1 des Grundgesetzes aber nicht zu gelten.
 Wer heute pflegebedürftig ist oder Menschen pflegt, findet sich in einem kranken System wieder, bei dem - wieder einmal - die Wirtschaftsinteressen einen höheren Stellenwert genießen, als die Interessen der Patienten und Pflegekräfte.
 Diese Situation wollen wir durch folgende Punkte ändern:
 
-13.12.1.
-Mehr Qualität in der Pflege durch adäquate Ausbildung
+### Mehr Qualität in der Pflege durch adäquate Ausbildung
 
   - Altenpflege- und Krankenpflegeausbildungen müssen deutlich besser gefördert werden.
   - Finanzielle und arbeitsrechtliche Unterstützung von examinierten Pflegekräften für Weiterbildungsmaßnahmen.
   - Ausbildung und Einstellung von Hygienefachkräften, um das Risiko der Krankenhausinfektionen in den Griff zu bekommen.
   - Pflegewissenschaft und wissenschaftliche Pflegeabschlüsse müssen deutlich mehr gefördert werden, wie es im Europäischen Umland längst üblich ist.
 
-13.12.2. Vermeidung von Abrechnungsbetrug
+### Vermeidung von Abrechnungsbetrug
 
   - Einführung und Erweiterung von Kontrollkompetenzen für Behörden und Pflegekassen gegenüber Pflegeheimen, Pflegediensten und Pflegepersonen.
   - Neu in Betrieb genommene Seniorenheime dürfen nur noch von gemeinnützigen Unternehmen betrieben werden und jegliche Gewinne müssen reinvestiert werden.
@@ -3756,13 +3752,13 @@ Steuer- und gebührenrechtliche Sondervorteile (wie Freistellung von Grundsteuer
 Die Religionsgemeinschaften müssen Missionierung und Seelsorge ausschließlich aus Eigenmitteln bestreiten.
 Insbesondere ist die staatliche Finanzierung von Militär-, JVA- und Polizeiseelsorge einzustellen und durch einen weltanschaulich neutralen psychologischen Betreuungsdienst zu ersetzen.
 
-18.4 Beschäftigte in kirchlichen Einrichtungen
+## Beschäftigte in kirchlichen Einrichtungen
 
 Die private Lebensführung des Einzelnen darf kein Diskriminierungsgrund und kein Entlassungsgrund sein.
 Damit würden Kündigungsschutz, Mitbestimmung, Streikrecht, Koalitionsfreiheit und Arbeitnehmerrechte entsprechend dem Betriebsverfassungs- und Personalvertretungsrecht gelten.
 Deshalb sprechen wir uns dafür aus, § 118 (2) des Betriebsverfassungsgesetzes (Sonderregelung für Religionsgemeinschaften) zu streichen und § 9 des Allgemeinen Gleichberechtigungsgesetzes entsprechend den EU-Regelungen umzugestalten.
 Wir sprechen uns dafür aus, dass für überwiegend aus öffentlichen Mitteln finanzierte Betriebe - etwa im Bereich des Sozial- und Gesundheitswesens - die Beachtung der Grundrechte und der Regeln des Allgemeinen Gleichberechtigungsgesetzes Voraussetzung für die öffentliche Förderung sein muss.
 
-18.5 Datenschutz
+## Datenschutz
 
 Die Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgemeinschaft darf von staatlichen Stellen nicht erfragt und nicht registriert werden.
