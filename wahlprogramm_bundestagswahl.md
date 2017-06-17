@@ -2393,36 +2393,31 @@ Wissenschaftlich fundierter Personalschlüssel
   - Umsetzung des gesetzlichen Personalschlüssels in der Alten- und Krankenpflege, um eine menschenwürdige Pflege in vollstationären Einrichtungen und Krankenhäusern zu gewährleisten.
   - Der jeweils aktuelle Krankenstand muss bei der Berechnung des Personalschlüssels unbedingt Berücksichtigung finden.
 
-13.12.4.
-Verringerung von Verwaltungsaufwand und Bürokratie
+### Verringerung von Verwaltungsaufwand und Bürokratie
 
   - Neuorganisation der Pflegeleistungen durch die Zusammenlegung einzelner Leistungen
   - Erhöhung von Pflegepauschalen.
   - Erleichterung der Antragstellung und Antragsbearbeitung durch Vereinfachung der Antragstellung und Antragsbearbeitung durch Vereinfachung und Vereinheitlichung des Formularwesens bei den Pflegekassen.
   - Reduzierung des Dokumentationsaufwandes für Pflegekräfte, damit mehr Zeit für die Pflege bleibt.
 
-13.12.5.
-Soziale Absicherung von privaten Pflegepersonen
+### Soziale Absicherung von privaten Pflegepersonen
 
   - Zahlung eines Grundeinkommens für die gesamte Pflegezeit
   - Rückkehrgarantie zum alten Arbeitgeber nach der Pflegezeit
   - Zahlung angemessener Rentenversicherungsbeiträge für alle Pflegepersonen
   - Anrechnung von Pflegezeiten in Rentenpunkten
 
-13.12.6.
-Arbeitsbedingungen für Pflegekräfte verbessern
+### Arbeitsbedingungen für Pflegekräfte verbessern
 
   - Sanktionen für Geschäftsleitungen im Falle von Verletzungen der gesetzlich verbindlichen, maximalen Wochenarbeitszeiten und der Ruhezeiten
   - Die Bezahlung von Pflegehilfskräften muss deutlich über dem gesetzlichen Mindestlohn liegen
 
-13.12.7.
-Pflege ohne freiheitsentziehende Maßnahmen
+### Pflege ohne freiheitsentziehende Maßnahmen
 
   - Einrichtungen der Alten- und Dauerpflege sollen fixierungsfreie Einrichtungen werden.
   - Statt gegen den Willen der Betroffenen eingesetzte, körpernahe, mechanische Fixierungen, wie Bettgitter und Gurtsysteme, sollen Hilfsmittel eingesetzt werden, die die Bewegungsfreiheit erhalten.
 
-13.12.8.
-Den Beruf der Hebamme zukunftssicher erhalten
+### Den Beruf der Hebamme zukunftssicher erhalten
 
 Wir setzen uns für den Erhalt der wohnortnahen, flächendeckenden und niederschwelligen geburtshilflichen Versorgung und Verbesserung der Versorgung von Müttern und Neugeborenen ein.
 Uns ist der Erhalt der Wahlfreiheit des Geburtsortes für Frauen und der Erhalt der Versorgung mit Hebammenhilfe wichtig.
@@ -2432,16 +2427,16 @@ Wir werden uns dafür einsetzen, dass die wohnortnahe, flächendeckende Versorgu
 Wir fordern die Verpflichtung der Kliniken, der angestellten Hebamme Art und Umfang der abgeschlossenen Haftpflichtversicherung mitzuteilen, die Einrichtung eines steuerfinanzierten Fonds für Haftpflichthärtefälle für außerklinische und klinische Geburtshilfe, die Verkürzung der Verjährungsfrist auf 10 Jahre und die Festlegung einer Haftungsobergrenze, so dass z.B. Inflationsrisiken über die Zeit der Verjährungsfrist ausgeglichen sind.
 Außerdem unterstützen wir das Bestreben, die Ausbildung von Hebammen in Deutschland zu akademisieren, um den Berufsabschluss international vergleichbar zu machen und die Hebammenwissenschaft als Forschungsfeld voranzutreiben.
 
-13.13 Drogen- und Suchtpolitik
+## Drogen- und Suchtpolitik
 
-13.13.1 Neustart: Drogen- und Suchtpolitik
+### Neustart: Drogen- und Suchtpolitik
 
 Wir PIRATEN streben die Zusammenarbeit mit allen gesellschaftlichen Gruppen an, die sich vorurteilsfrei mit dem Konsum von psychotropen Substanzen und dessen Folgen auseinandersetzen.
 Gemeinsam werden wir eine Politik betreiben, die riskantem Drogengebrauch durch Prävention entgegenwirkt, sowie Risiko-Konsumenten und Schwerstabhängigen durch Therapieangebote hilft.
 Der Gesetzgeber darf nur dort eingreifen, wo die Schutzrechte anderer berührt sind.
 Er soll einen effizienten Jugend- und Verbraucherschutz sicherstellen und das organisierte Verbrechen eindämmen.
 
-13.13.2 Mündigkeit braucht Bildung – Prävention ist die Grundlage
+### Mündigkeit braucht Bildung – Prävention ist die Grundlage
 
 Das Ziel unserer Drogen- und Suchtpolitik ist eine selbstverantwortliche und sozialverträgliche Genusskultur.
 Wir wollen Menschen aller Altersgruppen zu einem achtsamen Umgang mit psychotropen Substanzen und einem selbstbestimmten Konsum befähigen.
@@ -2450,7 +2445,7 @@ Um Wirkungen und mögliche Gefahren besser einschätzen zu können, bedarf es ei
 Sie muss auch die Fähigkeit vermitteln, mit den unterschiedlichen, gebräuchlichen Drogen umzugehen.
 Wir glauben, dass die Stärkung von sozialer Kompetenz und Selbstbewusstsein eine wichtige Grundlage für wirksame Prävention ist.
 
-13.13.3 Nachhaltige Prävention fängt in der Schule an
+### Nachhaltige Prävention fängt in der Schule an
 
 Die Maßnahmen zur Suchtprävention an Schulen und der Ausbildungsstand der Lehrkräfte sind unzureichend.
 Pilotprojekte haben gezeigt, wie nachhaltig eine gute Prävention bereits ab dem Grundschulalter wirkt.
@@ -2460,7 +2455,7 @@ Externe Fachreferenten sollen besonders in der Sekundarstufe das Wissen bei Lehr
 Vorurteile werden so durch Wissen überwunden.
 Die gewonnenen Erkenntnisse tragen die Schüler wie selbstverständlich in ihr soziales Umfeld.
 
-13.13.4 Prävention als gesamtgesellschaftliche Aufgabe
+### Prävention als gesamtgesellschaftliche Aufgabe
 
 Die umfassende Aufklärung über Drogen, ihren Gebrauch und mögliche Folgen darf sich nicht auf die Schule beschränken, sondern muss sich an die ganze Gesellschaft richten.
 Ärzte, Krankenhäuser, Bürgerämter, Sozialdienststellen, Jugendzentren und ähnliche Einrichtungen sollen geeignete Informationsmaterialien bereithalten und Ansprechmöglichkeiten bieten.
@@ -2471,12 +2466,12 @@ Der Einsatz von Streetworkern und Sozialarbeitern ist auszubauen, vor allem in b
 Es ist dringend notwendig, die Mittel für niederschwellige Hilfsangebote in der Suchthilfe deutlich aufzustocken.
 Die präventive Arbeit wird dabei stoffliche und nicht stoffgebundene Süchte gleichberechtigt einschließen.
 
-13.13.5 Keine Werbung für Drogen
+### Keine Werbung für Drogen
 
 Die einseitig positive Darstellung von suchterzeugenden Substanzen zu vermeiden, ist ein wesentlicher Aspekt von Prävention.
 Wir fordern daher ein ausnahmsloses Werbe- und Sponsoringverbot für Produkte, die psychotrope Substanzen in einer Konzentration enthalten, die geeignet ist, Abhängigkeiten zu erzeugen.
 
-13.13.6 Verbraucherschutz – auch für Drogenkonsumenten
+### Verbraucherschutz – auch für Drogenkonsumenten
 
 Das Wissen um Wirkstoff und Beimengungen ist Grundlage risikoarmen Drogengebrauchs.
 Umfassende, bedarfsgerechte Möglichkeiten zum Drugchecking sollen vor Ort ermöglicht werden.
@@ -2491,7 +2486,7 @@ Sie dürfen nicht ausschließlich auf Abstinenz ausgerichtet sein.
 
 Wir fordern ein bundesweites Angebot von Drogenkonsumräumen als weiteres wichtiges Element der Schadensverhütung und -minderung.
 
-13.13.7 Diamorphinprogramme ermöglichen – nicht verhindern
+### Diamorphinprogramme ermöglichen – nicht verhindern
 
 Für Diamorphinbehandlungen werden dringend mehr Vergabestellen benötigt.
 Die Umsetzung von Diamorphin-Programmen muss erleichtert werden, damit mehr Betroffene Zugang erhalten, auch solche mit weniger schädlichen Konsummustern.
@@ -2500,32 +2495,32 @@ Bei der Durchführung gilt es, neben Injektion auch Inhalation und orale Einnahm
 Gegebenenfalls ist in weitergehende Therapieangebote überzuleiten.
 Neben den Ärzten sind auch medizinisches Personal, Therapeuten und Mitarbeiter der sozialen Dienste zur fachbezogenen Weiterbildung zu verpflichten.
 
-13.13.8 Zugang zu medizinischem Cannabis erleichtern
+### Zugang zu medizinischem Cannabis erleichtern
 
 Cannabinoidhaltige Medikamente sollen anderen verkehrsfähigen Medikamenten gleichgestellt werden.
 Es liegt dabei im Ermessen des behandelnden Arztes, ob dabei der Echtstoff zum Einsatz kommen soll.
 Die Kosten sind von den Krankenkassen zu tragen.
 
-13.13.9 Entkriminalisierung der Konsumenten
+### Entkriminalisierung der Konsumenten
 
 Der private Umgang mit psychotropen Substanzen muss komplett entkriminalisiert werden.
 Anbau und Herstellung für den Eigenbedarf dürfen nicht bestraft werden.
 
 Wir PIRATEN fordern als Sofortmaßnahme einen bundeseinheitlich geregelten Richtwert von 30 Gramm für den duldbaren Besitz von Cannabis zum Eigenkonsum für Volljährige, um zumindest die Kriminalisierung der Cannabis-Konsumenten zu beenden und die Behörden zu entlasten.
 
-13.13.10 Neufassung des Betäubungsmittelgesetzes
+### Neufassung des Betäubungsmittelgesetzes
 
 Wir fordern eine Neufassung des Betäubungsmittelgesetzes, in der die erfassten, psychotropen Substanzen neu bewertet werden:
 Nur wenn eine Fremdgefährdung realistisch nicht ausgeschlossen werden kann, dürfen die Freiheitsrechte des Einzelnen eingeschränkt werden.
 
-13.13.11 Informationelle Selbstbestimmung stärken
+### Informationelle Selbstbestimmung stärken
 
 Die informationelle Selbstbestimmung ist auch im Bereich der Drogen- und Suchtpolitik zu gewährleisten:
 
   - Auf Drogenkonsum bezogene Daten aus ergebnislos gebliebenen polizeilichen Ermittlungen müssen umgehend wieder gelöscht werden. Register über Drogenkonsum dürfen nicht geführt werden.
   - Allgemeine und verdachtsunabhängige Drogentests am Arbeitsplatz lehnen wir PIRATEN ab. Sie sind auf gefährliche Berufe und Tätigkeiten zu begrenzen.
 
-13.13.12 Keine Willkür beim Führerscheinentzug
+### Keine Willkür beim Führerscheinentzug
 
 Die Gefährdung des Straßenverkehrs unter Einfluss von Rauschmitteln kann nicht geduldet werden.
 Aber die automatische und pauschale Sanktionierung des Konsums von Drogen und Medikamenten durch die Führerscheinbehörde nehmen wir nicht hin:
@@ -2534,14 +2529,14 @@ Aber die automatische und pauschale Sanktionierung des Konsums von Drogen und Me
   - Es muss ein unmittelbarer Zusammenhang zwischen dem Konsum und dem Führen des Kraftfahrzeuges vorliegen.
   - Allein die Vermutung oder die Feststellung, dass eine Person Drogen oder Medikamente konsumiert oder konsumiert hat, lässt keine Rückschlüsse auf die aktuelle Fahrtüchtigkeit zu und rechtfertigt keinen vorbeugenden Entzug der Fahrerlaubnis.
 
-13.13.14 Keine Einschränkungen für e-Zigaretten
+### Keine Einschränkungen für e-Zigaretten
 
 Der derzeit freie Handel und Gebrauch liquidverdampfender E-Zigaretten soll nicht über den Jugendschutz hinaus eingeschränkt werden.
 Stattdessen fordern wir die weitergehende Schaffung von Qualitätsstandards für Produktion und Handel von E-Zigaretten und Liquids.
 
 E-Zigaretten ins Nichtraucherschutzgesetz aufzunehmen, oder eine Besteuerung nach dem Tabaksteuergesetz lehnen wir hingegen ab.
 
-13.13.15 Umwandlung der Tabaksteuer
+### Umwandlung der Tabaksteuer
 
 Tabak und Nikotin müssen in die allgemeine Drogenaufklärung und Suchtprävention integriert werden, um den Tabak aus der Wahrnehmung als "Alltagsdroge" herauszuführen und sein Gefahrenpotenzial deutlich zu machen.
 Damit wird die Grundlage für eine verantwortungsvolle Selbstbestimmung im Umgang mit Tabak gelegt.
@@ -2552,7 +2547,7 @@ Daher streben wir PIRATEN ein allgemeines Werbeverbot für Tabak an.
 Wir fordern die Umwandlung der Tabaksteuer in eine zweckgebundene Abgabe.
 Diese ist für Aufklärung, Suchtprävention und suchtbezogene Forschung, Entzugs- und Entwöhnungsbehandlungen und als Beitrag zu den Folgekosten im Gesundheitsbereich zu verwenden.
 
-13.13.16 Alkoholwerbung unterbinden und Deklarationspflicht verbessern
+### Alkoholwerbung unterbinden und Deklarationspflicht verbessern
 
 Das vom Alkohol ausgehende Suchtpotenzial wird im gesellschaftlichen Alltag nur unzureichend wahrgenommen.
 Dem sollte durch verstärkte Einbeziehung des Alkohols in die allgemeine Drogenaufklärung und Suchtprävention entgegengewirkt werden.
@@ -2568,7 +2563,7 @@ Bei alkoholischen und alkoholhaltigen Getränken muss deutlich sichtbar auf das 
 
 In der Gastronomie sollen mehrere alkoholfreie Getränke angeboten werden, die günstiger sind als das billigste alkoholische Getränk.
 
-13.13.17 Lizenzierte Fachabgabestellen – jetzt einführen
+### Lizenzierte Fachabgabestellen – jetzt einführen
 
 Wir fordern Modellversuche für lizenzierte Fachabgabestellen.
 In diesen erfolgt der Verkauf von Tabak, Liquids für e-Zigaretten, Spirituosen und anderen psychotropen Substanzen.
@@ -2579,9 +2574,9 @@ Wie alle Genussmittel, müssen die angebotenen Substanzen dem Verbraucherschutz 
 Die Produkte dürfen nicht künstlich verteuert werden, damit ein Bezug über den Schwarzmarkt keine Alternative darstellt.
 Perspektivisch soll es möglich sein, derzeit illegale psychotrope Substanzen auch legal anzubauen oder herzustellen.
 
-13.14 Psyche
+## Psyche
 
-13.14.1 Verrückt ist auch normal
+### Verrückt ist auch normal
 
 Das Ziel der politischen Arbeit der PIRATEN ist eine größtmögliche Inklusion aller Menschen.
 Um dieses Ziel zu erreichen, beziehen wir die psychiatrische und psychotherapeutische Versorgung in unser Programm mit ein.
@@ -2592,7 +2587,7 @@ Wir PIRATEN fordern darüber hinaus den zielgerichteten und zeitnahen Ausbau der
 
 gemeindenahen psychiatrischen Versorgung, eine inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen sowie eine deutliche Verbesserung der rechtlichen Situation von Menschen mit psychischen Störungen.
 
-13.14.1.1 Gesundheitliche Aufklärung
+#### Gesundheitliche Aufklärung
 
 Wir PIRATEN setzen uns für eine umfassende gesundheitliche Aufklärung als nächsten Schritt einer sozialen Inklusion von Menschen mit psychischen Störungen ein.
 In den Fokus der Aufklärung sollen vor allem jene Störungsbilder gerückt werden, die häufig von Vorurteilen und Ausgrenzungen betroffen sind und dadurch die Lebensqualität und medizinische Therapie der Betroffenen erheblich beeinträchtigen.
@@ -2603,21 +2598,21 @@ Wir PIRATEN sehen die Bundeszentrale für gesundheitliche Aufklärung (BZgA) als
 Wir sehen aber auch hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten.
 Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit psychischen Störungen ein gleichberechtigter Teil der Gesellschaft sind.
 
-13.14.1.2 Mehr psychiatrische Abteilungen an allgemeinen Krankenhäusern
+\====Mehr psychiatrische Abteilungen an allgemeinen Krankenhäusern
 
 Wir PIRATEN setzen uns dafür ein, den Ausbau von psychiatrischen Abteilungen in allgemeinen Krankenhäusern mit dem Ziel weiter fortzusetzen, dass alle Kreise und kreisfreien Städte im Sinne der gemeindenahen Psychiatrie mit psychiatrischen Abteilungen mit angeschlossenen Tageskliniken und psychiatrischen Institutsambulanzen versorgt werden.
 In Planungsregionen sollen durch Bettenabbau in allgemeinen Krankenhäusern frei werdende Bettenkapazitäten für die Errichtung von psychiatrischen Abteilungen mit entsprechend qualifiziertem Personal verwendet werden.
 Dabei muss perspektivisch gewährleistet sein, dass diese zunächst kleinen Einheiten durch Bettenaufstockung und psychiatriegerechte bauliche Verbesserungen in überschaubarer Frist eine regionale, gemeindeorientierte Pflichtversorgung übernehmen können.
 Mittelfristiges Ziel ist das System der Fachkrankenhäuser durch ein flächendeckendes System von psychiatrischen Fachabteilungen an Allgemeinkrankenhäusern zu ersetzen (Beispiel Saarland).
 
-13.14.1.3 Mehr Psychiatrische Institutsambulanzen
+#### Mehr Psychiatrische Institutsambulanzen
 
 Wir PIRATEN unterstützen das Konzept der multiprofessionellen Psychiatrischen Institutsambulanzen als Teil der gemeindenahen psychiatrischen Versorgung und setzen sich für den weiteren flächendeckenden Ausbau in Deutschland ein.
 Psychiatrische Institutsambulanzen werden an den Psychiatrischen Abteilungen in den Allgemeinkrankenhäusern errichtet.
 Wir sprechen uns dabei für die Ansiedlung von Psychiatrischen Abteilungen mit Psychiatrischen Institutsambulanzen in zentraler leicht erreichbarer Lage der Kreise und kreisfreien Städte ein, bei flächenweiten Kreisen sollen zusätzliche Außenstellen der Psychiatrischen Institutsambulanzen errichtet werden.
 Allgemeinkrankenhäuser, die für den Aufbau der Psychiatrischen Abteilung zunächst mit psychiatrischen Stationen beginnen, sollen bereits mit diesen Stationen auch Psychiatrische Institutsambulanzen in Betrieb nehmen.
 
-13.14.1.4 Bausteine der komplementären Versorgung
+#### Bausteine der komplementären Versorgung
 
 Wir PIRATEN fordern, dass in allen Gebietskörperschaften die Strukturen der sozialen, komplementären Versorgung für Menschen mit psychischen Störungen bedarfsdeckend aufgebaut bzw. (bei Trägerschaft von gemeinnützigen Vereinen) durch entsprechende Fördermittel erhalten werden.
 Diese komplementäre Versorgung ist das Kernstück der sozialen Inklusion; dazu gehört vor allem die Unterstützung in den Bereichen Wohnen, Arbeit und Freizeit.
@@ -2629,14 +2624,14 @@ Diese komplementäre Versorgung ist das Kernstück der sozialen Inklusion; dazu 
   - Freizeit: Die Freizeit sinnvoll mit anderen zu gestalten, ist für Menschen mit psychischen Störungen ebenfalls nicht so einfach wie für andere. Diverse Clubs, in denen sich alle (auch nicht Betroffene) treffen können, Patientencafés inmitten der Städte etc. sind daher unverzichtbare Bausteine einer komplementären sozialpsychiatrischen Versorgung.
   - Tagesstätten: Im Gegensatz zu Tageskliniken findet in Tagesstätten keine medizinische Versorgung statt, sondern Therapeuten aller Ausbildungstypen (z. B. Ergo-, Kunst- und Musiktherapeuten etc.) gestalten zusammen mit Beschäftigten der Gesundheits- und Krankenpflege, Sozialarbeit und engagierten Bürgerinnen und Bürgern den Alltag der Betroffenen. Tagesstätten haben sich zudem als besonders nützlich erwiesen, wenn Demenzkranke ältere Menschen von ihren berufstätigen Kindern versorgt werden und müssen daher flächendeckend angeboten werden.
 
-13.14.1.5 Bundesweite Notrufnummer
+#### Bundesweite Notrufnummer
 
 Wir PIRATEN setzen uns dafür ein, dass in allen Notrufleitstellen psychiatrisch geschultes Personal eingesetzt wird.
 Dieses soll eine kurzfristige Krisenintervention in psychischen Krisen ermöglichen, ähnlich wie dies bereits in Israel gehandhabt wird.
 Für psychische Notfälle soll es eine leicht zu merkende kostenfreie Rufnummer geben, die Anrufer mit der Leitstelle verbindet.
 Des Weiteren soll psychiatrische Notfallhilfe per E-Mail und SMS ganztags erreichbar sein.
 
-13.14.1.6 Internetangebot des Bundesministerium für Gesundheit
+#### Internetangebot des Bundesministerium für Gesundheit
 
 Wir PIRATEN fordern im Zuge der Aufklärung über psychische Störungen die Bereitstellung eines Internetangebotes vom Bundesministerium für Gesundheit (BMG) mit folgendem Inhalt:
 
@@ -2651,18 +2646,18 @@ Wir PIRATEN fordern im Zuge der Aufklärung über psychische Störungen die Bere
 An dieses Internetangebot soll eine Telefonhotline angeschlossen sein, die zu den Inhalten ebenfalls Auskunft geben kann.
 Die inhaltliche Ausgestaltung soll koordinierend vom BMG mit fachlicher Kompetenz erfolgen.
 
-13.14.1.7 Kenntnisse über psychiatrische Symptome und Krisenintervention
+#### Kenntnisse über psychiatrische Symptome und Krisenintervention
 
 Wir PIRATEN fordern, dass Ärzte in allen Fachbereichen, in denen sie mit Betroffenen mit psychiatrischen Diagnosen konfrontiert sind, vor allem aber in der Notfallmedizin, ausführliche und fortlaufende psychiatrische Weiterbildungen erhalten.
 Besonders wichtig ist auch eine fundierte Ausbildung und Training von Fähigkeiten in Krisenintervention und Deeskalation von Ärzten, Polizei und Rettungsdienstpersonal.
 Diesen Inhalten muss bereits frühzeitig, also noch während des Studiums oder der Ausbildung, mehr Bedeutung beigemessen werden.
 
-13.14.1.8 Pflegepersonal in der Psychiatrie
+#### Pflegepersonal in der Psychiatrie
 
 Wir PIRATEN fordern eine deutliche Erhöhung des Personalschlüssels auf psychiatrischen Stationen.
 Des weiteren soll das Pflegepersonal auf psychiatrischen Stationen durch umfangreichere und praxisbezogene Weiterbildungsmaßnahmen besser im Umgang mit Patientinnen und Patienten mit psychischen Störungen geschult werden.
 
-13.14.2 Inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen
+### Inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen
 
 13.14.2.1 Sonderregelung Arbeitszeiten
 
