@@ -1603,16 +1603,16 @@ Das Internet und die zunehmende Virtualisierung erweitern den Möglichkeitsraum 
 Wir treiben die Entwicklung neuer Modelle der Partizipation, neuer Freiheiten des Wissens, und neuer Ideen der Vernetzung voran.
 Dabei setzen wir uns auch in der Kulturpolitik für Demokratisierung, Mitgestaltung und Transparenz ein.
 
-10.1 Urheberrecht
+## Urheberrecht
 
-10.1.1 Einleitung
+### Einleitung
 
 Das Urheberrecht stellt ein Interessenausgleichsrecht zwischen Urhebern, Nutzern, der Allgemeinheit und Rechteinhabern dar.
 Dieser Ausgleich findet derzeit jedoch vor allem zugunsten der Rechteinhaber statt.
 
 Unsere Reform wird diese Schieflage beheben und vor allem Sorge tragen, dass sich das Urheberrecht dem digitalen Wandel nicht mehr verschließt, Missverständnisse und Missstände ausräumt und das Gleichgewicht zwischen Urhebern, Rechteverwertern und der Allgemeinheit zugunsten der Kulturschaffenden und Verbraucher wiederherstellt.
 
-10.1.2 Allgemeines
+### Allgemeines
 
 Für die von uns angestrebte Reform müssen die im Urheberrecht verankerten Rechte der Allgemeinheit, die sogenannten Urheberrechtsschranken, deutlich ausgeweitet werden.
 Ferner muss die Geltungsdauer des Urheberrechts abgesenkt werden.
@@ -1622,7 +1622,7 @@ Nach der Vorstellung der Piraten wird die Dauer des Urheberrechts höchstens bis
 Für bestimmte Werkarten fordern wir aus Praktikabilitätsgründen Fristen ab der Veröffentlichung.
 So wird für Filme das Urheberrecht maximal 50 Jahre nach Veröffentlichung gelten – für Software maximal 20 Jahre nach Veröffentlichung.
 
-10.1.3 Stärkung von Nutzern
+### Stärkung von Nutzern
 
 Im Interesse der Allgemeinheit an einem möglichst freien Zugang zu Bildung und Kultur wird unsere Urheberrechtsreform folgende Kernmerkmale beinhalten:
 Das Recht auf Privatkopie und die Erstellung von Remixes und Mashups wird erleichtert, Kopierschutzmaßnahmen werden komplett untersagt und die Nutzung von Tauschbörsen vollständig legalisiert.
@@ -1633,7 +1633,7 @@ Eine Privatkopie herzustellen ist oft nicht möglich, das Remixen/Mashen steckt 
 Unser Bestreben ist es, die Rechte der fairen Erwerber von Werken wieder zu stärken.
 Kein Nutzer sollte sich nach dem legalen Erwerb eines Werkes Gedanken über das Urheberrecht machen müssen.
 
-10.1.4 Stärkung von Urhebern
+### Stärkung von Urhebern
 
 Neben den zuvor genannten Zugeständnissen an die Nutzer müssen die Rechte der Urheber gegenüber den Rechteinhabern und Rechteverwertern deutlich gestärkt werden.
 Wir PIRATEN werden Urhebern unter anderem Zweitverwertungsrechte einräumen, Rechte bei Nichtausübung schneller zurückfallen lassen und verhindern, dass unbekannte Nutzungsarten pauschal eingeräumt werden können.
@@ -1643,7 +1643,7 @@ Zudem werden wir ausschließen, dass sich Verleger zusätzlich Anteile an den Ve
 Für die eigentlichen Urheber von Werken steckt unser aktuelles Urheberrecht voller kleiner Bevormundungen, vertraglicher Umgehungsmöglichkeiten und so weiter zugunsten der Rechteerwerber.
 Bei einer Reform werden wir hier somit ebenfalls ansetzen und den Urhebern selbst wieder mehr Rechte und Kontrolle über ihre eigenen Werke ermöglichen.
 
-10.1.5 Förderung alternativer Vertriebsmodelle
+### Förderung alternativer Vertriebsmodelle
 
 Wir PIRATEN setzen uns nachdrücklich dafür ein, alternative Bezahl- und Finanzierungsmodelle für Urheber und Künstler zu fördern und in der öffentlichen Wahrnehmung zu verbreiten.
 Unser Fokus liegt dabei sowohl auf den Möglichkeiten der Selbstvermarktung als auch auf der Finanzierung durch Micropaymentsysteme oder Crowdfundingmodelle.
@@ -1651,7 +1651,7 @@ Unser Fokus liegt dabei sowohl auf den Möglichkeiten der Selbstvermarktung als 
 Durch eine möglichst große Verbreitung und Akzeptanz dieser neuen Möglichkeiten möchten wir ein selbstbestimmtes und faires Bezahlmodell durch die Nutzer ermöglichen und etablieren.
 Diese selbstbestimmte Teilhabe am Kulturmarkt kann nach unserer Meinung ihrerseits wieder neue Wege der finanziellen Vergütung für Werke generell ermöglichen und viele aktuell existente Probleme des Urheberrechts minimieren.
 
-10.2 Anerkennung und Förderung von "eSport" auf nationaler Ebene
+## Anerkennung und Förderung von "eSport" auf nationaler Ebene
 
 Wir PIRATEN setzen uns ein für die Anerkennung von "eSport" als Sportart auf nationaler Ebene.
 Dies bedeutet für uns auch die Aufnahme von elektronischem Sport in § 52 Abgabenordnung (Gemeinnützige Zwecke), womit eSport-Vereine anderen Sportvereinen gleichgestellt sind.
@@ -1662,7 +1662,7 @@ Diese dient nicht nur, um eine zentrale Anlaufstelle für Fragen der Gesellschaf
 
 Wir unterstützen die Förderung der wissenschaftlichen Arbeit über Computerspiele und eSport als Sport, um den Sport auf angemessene Weise weiterentwickeln zu können, sowie die Förderung der Ausbildung von ehrenamtlichen Trainern im eSport.
 
-11 Arbeit und Soziales
+# Arbeit und Soziales
 
 Für uns PIRATEN steht der Mensch mit seiner Würde und seinen Grundrechten im Mittelpunkt der Sozialpolitik.
 Daher setzen wir uns für das Bedingungslose Grundeinkommen ein.
