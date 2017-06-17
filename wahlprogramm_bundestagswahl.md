@@ -1159,7 +1159,7 @@ Dezentrale Strukturansätze sind dabei unter der Bedingung eines rasch wachsende
 Genau das findet gegenwärtig jedoch nicht statt.
 Wir PIRATEN fordern einen fairen öffentlichen Energiedialog\!
 
-8.1 100% Erneuerbare Energien
+## 100% Erneuerbare Energien
 
 Wir PIRATEN wollen eine sichere und nachhaltige Energieversorgung.
 Sicher in Bezug auf die Verfügbarkeit, sicher in Bezug auf die Gesundheit sowie nachhaltig für das Klima und die Natur.
@@ -1171,7 +1171,7 @@ Die Frage ist, ob wir diesen Umstieg geordnet oder ungeordnet realisieren.
 Wir wollen einen geordneten Strukturwandel und keinen Strukturbruch, damit unsere Lebensgrundlagen erhalten bleiben.
 Dazu brauchen wir nicht nur die Zustimmung der Menschen für die Energiewende, sondern die Bürgerinnen und Bürger sollen sich aktiv an ihrer Umsetzung beteiligen, etwa indem sie in eine Solaranlage oder ein Elektroauto investieren oder sich in Energiegenossenschaften zusammenschließen.
 
-8.2 Klimawandel
+## Klimawandel
 
 Die durch menschliche Aktivitäten bedingten Klimaveränderungen erfordern konsequente Maßnahmen auf allen Handlungsebenen, um auch nachfolgenden Generationen würdige Lebensbedingungen zu ermöglichen.
 An diesem Ziel müssen sich alle Maßnahmen messen lassen.
@@ -1180,7 +1180,7 @@ Hierfür sind wir bereit, neue Wege zu gehen und setzen uns für eine konsequent
 Weiterhin sollen wirksame Lenkungsmaßnahmen wie Energiesteuern eingesetzt werden, um konsequent Emissionen zu verringern.
 Den bisher sehr wirkungslosen Zertifikatehandel sehen wir kritisch.
 
-8.3 Klimaschutz
+## Klimaschutz
 
 Der Verkehr und die Wärmeerzeugung mit fossilen Brennstoffen haben den weitaus größten Anteil an den CO2-Emissionen in Deutschland.
 Daher muss der Wechsel zur Elektromobilität und der verstärkte Einsatz von Technologien zur Wärmeerzeugung mit Erneuerbaren Energien - zum Beispiel durch Wärmepumpen und Solarthermie - vorrangig genutzt werden.
@@ -1192,7 +1192,7 @@ Die Energiewende ist eine Chance für Umwelt, Gesundheit und Lebensqualität.
 Ebenso für Forschung und Wirtschaft die langfristig nur wettbewerbsfähig bleiben, wenn wir weiterhin und verstärkt aus den endlichen, schmutzigen Ressourcen aus- und in die nicht endlichen, sauberen Ressourcen einsteigen.
 Denn nur dadurch ist eine nachhaltige Gesellschaft, also eine Gesellschaft die auch in Kreisläufen denkt und handelt, möglich.
 
-8.4 Photovoltaik ist das Arbeitspferd der Energiewende
+## Photovoltaik ist das Arbeitspferd der Energiewende
 
 Die Photovoltaik (PV) ist bereits heute eine sehr effiziente Technologie der Stromerzeugung.
 Sie bietet dennoch weiteres erhebliches Entwicklungspotential.
@@ -1201,33 +1201,33 @@ Durch den steigenden Wirkungsgrad moderner organischer Solarzellen können diese
 Außerdem erfüllt die Stromerzeugung über PV-Anlagen die Anforderung an Dezentralität in hohem Maße.
 Kleinteilige PV-Erzeugungsanlagen können von einzelnen Bürgerinnen und Bürgern oder Bürgerenergiegenossenschaften sehr einfach errichtet werden.
 
-8.5 Keine weiteren Offshore Windparks
+## Keine weiteren Offshore Windparks
 
 Offshore Windparks sind die teuerste Art der Erzeugung von erneuerbarem Strom.
 Zudem sind sie Großanlagen und räumlich konzentriert.
 Damit widersprechen sie dem Konzept einer dezentralen Energiewende.
 Außerdem können nur große Konzerne die dafür notwendigen Investitionen aufbringen.
 
-8.6 Schonender Ausbau der onshore Windenergie
+## Schonender Ausbau der onshore Windenergie
 
 Die Windenergie schafft Arbeitsplätze und stärkt – insbesondere über Bürgerwindparks – die regionale Wertschöpfung.
 Daher befürworten wir ihren Ausbau.
 Jedoch muss der weitere Ausbau dezentral unter Berücksichtigung der berechtigten Interessen der betroffenen Bürgerinnen und Bürger und umweltschonend erfolgen.
 Eine Konzentration von Windrädern in einzelnen Regionen lehnen wir ab.
 
-8.7 Energetische Nutzung von Biogas und Biomasse
+## Energetische Nutzung von Biogas und Biomasse
 
 Für den Verkehr, die Strom- und Wärmeerzeugung sollen zukünftig nur noch biologische Reststoffe verwendet werden.
 Essen gehört nicht in den Tank und darf auch nicht aus der Steckdose kommen\!
 Frei werdende landwirtschaftliche Flächen sollen für nachhaltige Landwirtschaft, für die Erhöhung der Biodiversität und die Erholung der Bürger genutzt werden.
 
-8.8 Dezentrale Versorgungs- und Netzstruktur
+## Dezentrale Versorgungs- und Netzstruktur
 
 Wir PIRATEN setzen uns für eine konsequente dezentrale Versorgung mit Energie ein.
 Wir fordern hierfür eine auf unabhängigen, wissenschaftlichen Erkenntnissen beruhende, transparente Umsetzung mit einer umfassenden Bürgerbeteiligung.
 Daher fordern wir ein sofortiges Moratorium mit einem Stopp aller bisherigen Planungs- und Genehmigungsverfahren.
 
-8.9 Energiewende solidarisch finanzieren
+## Energiewende solidarisch finanzieren
 
 Jenseits aller rein ökonomischen Betrachtungen vertreten wir PIRATEN die Meinung, dass nicht Gewinne und Kosten zum universellen Maßstab politischen Handelns heranzuziehen sind, sondern die Frage, durch welche Maßnahmen das Allgemeinwohl gestärkt werden kann.
 Bei der Energiepolitik geht es primär um die Sicherung der öffentlichen Daseinsvorsorge ohne unsere Lebensgrundlagen zu zerstören.
@@ -1238,11 +1238,11 @@ Diese Technologien sind jedoch inzwischen auf dem Markt sogar konkurrenzfähig.
 Es kommt also darauf an, einen echten Wettbewerb zwischen den althergebrachten Methoden der Energieerzeugung und den neuen zu organisieren.
 Dazu gehören folgende Maßnahmen:
 
-8.9.1 Abschaffung der Einspeisevergütungen für neue Anlagen der Erneuerbaren Energieerzeugung
+### Abschaffung der Einspeisevergütungen für neue Anlagen der Erneuerbaren Energieerzeugung
 
 Dadurch würde sich der auf unserer Stromrechnung ausgewiesene EEG-Umlagebetrag wieder verringern.
 
-8.9.2 Abschaffung von Subventionen und Beihilfen für die Energieerzeugung aus fossilen Quellen
+### Abschaffung von Subventionen und Beihilfen für die Energieerzeugung aus fossilen Quellen
 
 Öffentliche Subventionen für die fossile und nukleare Energiegewinnung untergraben den von uns angestrebten Wechsel hin zu einer zukunftsfähigen, klimafreundlichen und möglichst autarken Energieversorgung in Europa.
 Wir PIRATEN fordern die Abschaffung jeglicher Subventionen und Beihilfen für die Förderung fossiler und atomarer Energien.
@@ -1250,18 +1250,18 @@ Neben den direkten Subventionen sind das Abwälzen von Kosten für die Erschlie�
 Eine nachhaltige Entwicklung ist nur möglich, wenn die Verursacher von gesellschaftlichen Kosten und Risiken auch den wahren Preis ihres Handelns zahlen.
 Deshalb müssen auch Brennstoffe entsprechend ihrer gesellschaftlichen Kosten besteuert werden.
 
-8.9.3 Neuregelung der Haftung für die Folgekosten fossiler Energieerzeugung
+### Neuregelung der Haftung für die Folgekosten fossiler Energieerzeugung
 
 Bislang spielen diese Kosten für die Betreiber konventioneller Kraftwerke keine Rolle, obwohl diese Kraftwerke unsere Umwelt in hohem Maße belasten.
 
-8.9.4 Transparente Strompreise
+### Transparente Strompreise
 
 Derzeit wird durch den Aufschlag der EEG-Umlage und deren Ausweisung auf der Stromrechnung ein falsches Bild erzeugt.
 Die Subventionen in Kohle und Atomenergie sowie die immensen Folgekosten werden auf der Stromrechnung weder berücksichtigt noch ausgewiesen, als versteckte Kosten allerdings von uns allen getragen.
 Damit wird dem öffentlichen Eindruck Vorschub geleistet, dass allein die Energiewende Kosten verursacht.
 Das ist nicht nur falsch, es ist auch äußerst ungerecht.
 
-8.9.5 Eine CO2-Steuer für fossile Erzeuger
+### Eine CO2-Steuer für fossile Erzeuger
 
 Endliche Ressourcen werden zwangsläufig immer teurer.
 Wir wollen daher jetzt investieren, um künftig davon zu profitieren und so den steigenden Energiekosten schon bald ein für alle Mal ein Ende zu setzen.
@@ -1274,7 +1274,7 @@ Sie ist sinnvoll, um die Emission von CO2 zu senken und zugleich einen finanziel
 Eine CO2-Steuer gibt es bereits in mehr als 20 Staaten.
 Bereits Anfang der 90er-Jahre wurden CO2-Steuern in Finnland, Schweden, Dänemark und Norwegen eingeführt und die Erfahrung zeigt, dass eine CO2-Steuer der Wirtschaft nicht schadet, sondern im Gegenteil Innovationen fördert und die Industrie wettbewerbsfähiger und zukunftssicher macht.
 
-8.10 Netzentgelte
+## Netzentgelte
 
 Der internationale bzw. überregionale Stromhandel erfordert einen sehr teuren Ausbau der Übertragungsnetze.
 Dieser übermäßige Ausbau ist bei einer dezentralen Erzeugungs- und Verbrauchsstruktur nicht notwendig.
@@ -1284,12 +1284,12 @@ Die heutige Struktur der Netzentgelte berücksichtigt nicht die Gesetze der Phys
 Wir PIRATEN fordern deshalb eine entfernungsabhängige Erhebung der Netzentgelte bei den Übertragungsnetzen.
 Damit wird auch die regionale und dezentrale Erzeugung von Strom gefördert.
 
-8.11 Verbrauch von selbst erzeugtem und selbst verbrauchtem Strom abgabenfrei
+## Verbrauch von selbst erzeugtem und selbst verbrauchtem Strom abgabenfrei
 
 Der Eigenverbrauch von selbst erzeugtem Strom muss steuer- und abgabenfrei sein.
 Wer in seinem Garten Gemüse anbaut und es selbst verzehrt, zahlt dafür auch keine Abgabe oder eine Steuer\!
 
-8.12 Schaffung eines Energiespeicherfördergesetz
+## Schaffung eines Energiespeicherfördergesetz
 
 Wir PIRATEN setzen uns für ein Energiespeicherfördergesetz ein, um ähnlich dem EEG, Investitionsanreize z.B. zum Aufbau von Stromspeichern zu schaffen, welche die dezentrale Energieversorgung unterstützen.
 Dabei ist darauf zu achten, dass die Förderung einen bedarfsgerechten Ausbau berücksichtigt.
@@ -1298,7 +1298,7 @@ Diese Speicher sind eines der wichtigsten Elemente einer zukunftsfähigen Energi
 Bereits heute gibt es eine Vielzahl unterschiedlichster Speichertechnologien für Wärme und Strom.
 Deren weitere Entwicklung und Markteinführung muss intensiv unterstützt werden.
 
-8.13 Transparenz und Bürgerbeteiligung
+## Transparenz und Bürgerbeteiligung
 
 Das heutige System der Energieversorgung ist ein Musterbeispiel für Intransparenz und mangelnde Bürgerbeteiligung.
 Deshalb fordern wir eine wirkungsvolle Umsetzung der Aarhus Konvention.
@@ -1307,13 +1307,13 @@ Damit können einzelne Personen und Verbände umfassenden Einblick in relevante 
 Außerdem können erstmalig auch Verbände gegen umweltschädliche Projekte klagen.
 Wir fordern entsprechend den piratigen Grundsätzen von Transparenz und Bürgerbeteiligung, dass diese Konvention in allen relevanten Projekten endlich wirksam umgesetzt wird.
 
-8.14 Transparenz in Preisgestaltung und Erzeugungstrukturen
+## Transparenz in Preisgestaltung und Erzeugungstrukturen
 
 Für einen funktionierenden Markt für Endverbraucher ist eine transparente Preisgestaltung und Offenlegung des Energiequellenmixes Voraussetzung:
 Nur wenn die Verbraucher in beides jederzeit Einblick erhalten, können sie informierte Kaufentscheidungen treffen.
 Wir PIRATEN fordern eine Verpflichtung der Energieversorger, den Verbrauchern die entsprechenden Daten öffentlich zugänglich bereitzustellen.
 
-8.15 Datenschutz im Energiesektor
+## Datenschutz im Energiesektor
 
 Bei der Umsetzung des Energiewende sollen nach dem Willen der derzeitigen Regierung modernste digitale Technologien eine Schlüsselrolle spielen.
 Das Gesetz zur Digitalisierung der Energiewende regelt dabei den flächendeckenden Einsatz von intelligenten Messsystemen, den sogenannten Smart Metern.
@@ -1325,14 +1325,14 @@ Jede Bürgerin und jeder Bürger hat das Recht auf informationelle Selbstbestimm
 
 Wir PIRATEN fordern das Recht für jeden Bürger, die Übermittlung seiner personenbezogenen Daten jederzeit ohne Begründung zu unterbinden.
 
-8.16 Kein Fracking
+## Kein Fracking
 
 Hydraulic Fracturing, kurz "Fracking", zur Gewinnung fossiler Energieträger ist eine Hochrisikotechnologie, die Wasser und Böden bedroht und zu unabsehbaren Ewigkeitsschäden führen kann.
 Es steht der Umsetzung der Energiewende und dem Klimaschutz im Wege, denn die Klimabilanz des auf diese Weise geförderten Gases ist schlechter als die von Braunkohle.
 Daher fordern wir PIRATEN ein sofortiges ausnahmsloses EU-weites Verbot sämtlicher Formen von Fracking bei der Erforschung, Aufsuchung und Gewinnung fossiler Energieträger, auch wenn nicht giftige Stoffe eingesetzt werden.
 Das gilt auch für Versuche der Gasgewinnung durch das Anbohren bisher unberührter Kohleflöze.
 
-8.17 Atomenergie
+## Atomenergie
 
 Wir PIRATEN fordern den sofortigen Ausstieg aus der Stromproduktion durch Kernspaltung.
 Das bedeutet auch die sofortige Stilllegung der Urananreicherungsanlage in Gronau, Westfalen und der Brennelementefabrik in Lingen.
@@ -1342,7 +1342,7 @@ Betriebsgenehmigungen müssen zurückgezogen, Stilllegungsverfügungen erlassen 
 Transporte nuklearen Materials aus und für die Stromerzeugung sind einzustellen.
 Das Nuklearmaterial wird in den derzeitigen Zwischenlagern verbleiben, bis die im Atomgesetz vorgeschriebene ordnungsgemäße Endlagerung möglich ist.
 
-8.18 Atommüll
+## Atommüll
 
 Wir PIRATEN wollen, dass nuklearer Abfall grundsätzlich nur so gelagert wird, dass bei Bedarf eine Rückholung erfolgen kann.
 Dies betrifft auch leicht- und mittelradioaktiven Müll.
@@ -1359,7 +1359,7 @@ Mit keiner Energieform verbinden sich aufgrund der unkalkulierbaren Risiken so g
 Der Rückbau der alten Atommeiler muss daher unter fortlaufender Aufsicht der Öffentlichkeit erfolgen.
 D. h. die Strahlenbelastung und der Verbleib des Abraums müssen genau dokumentiert und öffentlich bekannt gemacht werden.
 
-9 Bauen und Verkehr
+# Bauen und Verkehr
 
 9.1 Unsere Ziele für die Zukunft von Stadtentwicklung und Mobilität - Unsere Vision
 Internet und der Klimawandel haben unsere Städte augenscheinlich bislang kaum verändert.
@@ -1413,9 +1413,9 @@ Informationen über den Planungsstand und Beteiligungsmöglichkeiten müssen jed
 Die Beteiligung muss mit für die Bürger spürbaren Ergebnissen erfolgen.
 Dabei sind Veranstaltungen vor Ort genauso vorzusehen, wie die Moderation durch Unabhängige.
 
-9.5 Bauen und Wohnen überall in Deutschland
+## Bauen und Wohnen überall in Deutschland
 
-9.5.1 Bezahlbarer Wohnraum
+### Bezahlbarer Wohnraum
 
 Wir sorgen dafür, dass allen Menschen in Deutschland jederzeit und an jedem Ort bezahlbarer Wohnraum zur Verfügung steht.
 Die Förderung des sozialen Wohnungsbaus kommt vielen Menschen und der lokalen Wirtschaft zugute und muss wieder eingeführt bzw. deutlich verstärkt werden.
@@ -1427,7 +1427,7 @@ Maßnahmen wie die Mitpreisbremse, der vielerorts u. a. ein qualifizierter Miets
 Daher müssen diesen Instrumenten ausreichend Personal, ausreichend Daten und alle notwendigen Ressourcen zur Verfügung stehen.
 Dies ist bisher in den wenigsten Fällen der Fall.
 
-9.5.2 Intelligente Städte und Regionen
+### Intelligente Städte und Regionen
 
 Wir PIRATEN setzen uns für die Förderung intelligenter Städte und Regionen durch die Bundesebene ein.
 Dieses Ziel unter dem Leitbild der europäischen "Smart Cities" auf Basis der Open Data Prinzipien umfasst von intelligenten Netzen bis zum Aufbau einer vernetzten und kooperativen Kultur vielfältige Bereiche.
@@ -1444,18 +1444,18 @@ Diese Entwicklung muss aber ebenso im Rahmen des Schutzes von Persönlichkeitsre
 Beispiele abseits der Infrastruktur sind neue regionale Wirtschaftskreisläufe z.B. durch die Maker- und Sharing-Bewegung, die Veränderung der Stellung der Bürger in demokratischen Entscheidungsprozessen, die Neuentwicklung von Altlasten wie Industriebrachen oder kooperative Entwicklung von Aufenthaltsflächen in Kommunen.
 Und auch hier gilt: Copy/Remix/Share ist unsere Leitphilosophie für die Weiterentwicklung der Gesellschaft.
 
-9.5.3 Bundesweite einheitliche Genehmigung für Micro-Trenching
+### Bundesweite einheitliche Genehmigung für Micro-Trenching
 
 Wir PIRATEN fordern eine flächendeckende bundesweite Genehmigung und Richtlinie für den Einsatz von Micro-Trenching (Frästechnik) zur Verlegung von Glasfaserleitungen.
 Hiermit ist das Ziel einer schnellen, flächendeckenden Anbindung möglichst vieler Menschen mit schnellem Internet ohne einzelne, kommunale oft langfristige Genehmigungsverfahren zu erreichen.
 
-9.6 Eine ganz neue Verkehrspolitik
+## Eine ganz neue Verkehrspolitik
 
 Wir wollen eine grundsätzlich neue Verkehrspolitik in Deutschland.
 Ziel ist hierbei eine Verkehrspolitik, die den Bedürfnissen aller Menschen im Land, der Gesellschaft und der Wirtschaft gerecht wird.
 Als Basis dafür nutzen wir den technologischen Wandel, um eine finanziell, sozial und ökologisch nachhaltige Verkehrspolitik umzusetzen.
 
-9.6.1 Die Verkehrsinfrastruktur muss dauerhaft funktionieren
+### Die Verkehrsinfrastruktur muss dauerhaft funktionieren
 
 Die Verkehrsinfrastruktur brauchen wir für alles, was in Deutschland in Bewegung ist.
 Sie muss dazu dauerhaft funktionieren und erhalten werden.
@@ -1480,7 +1480,7 @@ Bundesweite Verkehrsplanungen und -konzepte müssen sich von vornherein nach die
 Alle Menschen müssen die Möglichkeit haben, an der Gesellschaft teilzunehmen und dafür mobil zu sein.
 Für den Personenverkehr und vor allem die Pendlerinnen und Pendler sehen wir in der Konsequenz einen starken und gut ausgebauten öffentlichen Nahverkehr – Bus und Bahn – als Mittelpunkt aller zukünftigen Verkehrskonzepte.
 
-9.6.2 Güterverkehr auf die Schiene
+### Güterverkehr auf die Schiene
 
 Viele unserer Nachbarländer, wie die Schweiz und die Niederlande, setzen beim Güterverkehr konsequent auf die Binnenschifffahrt und die Schiene.
 Deutschland wird dagegen immer mehr zum straßengebundenen Nadelöhr.
@@ -1488,13 +1488,13 @@ Wir setzen uns daher dafür ein, dem schienengebundenen Güterverkehr eine stär
 Ein entsprechender Ausbau und die Sanierung müssen umgehend beginnen, damit der Gütertransport in und durch Deutschland auch langfristig gesichert und verträglich ist.
 Ein Ziel dabei ist, den Güterschienenverkehr wieder zurück in die Fläche zu bringen.
 
-9.6.3 Keine Subventionen für Regionalflughäfen
+### Keine Subventionen für Regionalflughäfen
 
 Wir wollen, dass alle Regionalflughäfen ohne Subventionen durch die öffentliche Hand betrieben werden.
 Direkte und indirekte Subventionen müssen daher ehrlich ermittelt und offen dargelegt werden.
 Das nationale Luftverkehrskonzept muss auch gesellschaftlichen und ökologischen Zielen gerecht werden.
 
-9.6.4 Vernetzter Verkehr als Wahlfreiheit für alle
+### Vernetzter Verkehr als Wahlfreiheit für alle
 
 Von A nach B, egal womit: Die Möglichkeiten und Anbieter für verschieden kombinierbare Verkehrskonzepte werden massiv zunehmen.
 Wir setzen auf eine offene Vernetzung aller Verkehrsmittel vom Fahrrad über Busse und Bahnen bis zum Car-Sharing und sehen den öffentlichen Verkehr (Bus und Bahn) als natürlichen Angelpunkt eines sogenannten "multimodalen" Verkehrssystems.
@@ -1502,13 +1502,13 @@ Die Vernetzung der Verkehrsmittel braucht offene Standards und jederzeit barrier
 Sie bietet jedem Nutzer die freie Wahl des Verkehrsmittels und sorgt für eine effiziente Ausnutzung der Verkehrsräume.
 Vernetzte Verkehrsmöglichkeiten sollen daher auch in der Fläche und im ländlichen Raum etabliert werden.
 
-9.7 Bus und Bahn fahrscheinfrei
+## Bus und Bahn fahrscheinfrei
 
 Eine fahrscheinfreie Nutzung des öffentlichen Personennahverkehrs (ÖPNV) stellt nicht nur für die Gesellschaft, sondern auch für die Wirtschaft und den jeweiligen kommunalen und Landeshaushalt langfristig einen Gewinn dar.
 Wir wollen die fahrscheinfreie Nutzung von Bussen und Bahnen daher zunächst in langfristigen Modellversuchen und anschließend überall in Deutschland einführen, um die Attraktivität und die Zugänglichkeit von Bussen und Bahnen zu erhöhen, den Tarifdschungel sowie die unwirtschaftliche Verfolgung von Schwarzfahrern zu beenden und das Henne-Ei-Problem von Angebot und Nachfrage zu lösen.
 Zahlreiche Studien – u.a. der ehemaligen Piratenfraktionen in den Landtagen Nordrhein-Westfalen und Schleswig-Holstein – belegen die Umsetzbarkeit und Praxistauglichkeit eines fahrscheinfreien Nahverkehrs.
 
-9.8 Busse und Bahnen erhalten und verbessern
+## Busse und Bahnen erhalten und verbessern
 
 Bus und Bahn sollen gerne und oft genutzt werden.
 Daher fordern wir ein belastbares, engmaschiges Liniennetz und verkürzte Taktzeiten mit passenden Umsteigezeiten.
@@ -1518,7 +1518,7 @@ Bis zur Einführung des angestrebten fahrscheinfreien Nahverkehrs muss ein einfa
 Das Land soll auch die Ausgabe von Schnuppertickets in den Kommunen fördern, um Neubürgerinnen und Neubürgern damit den Einstieg in die Liniennetze von Bus und Bahn zu erleichtern.
 Wir unterstützen die Entwicklung regionaler Schnellbus-Konzepte, um vor allem den Menschen in ländlichen Gebieten einen landesweit gültigen Standard öffentlicher Verkehrsmittel bieten zu können.
 
-9.9 Open Data für die Verkehrswende
+## Open Data für die Verkehrswende
 
 Offene Schnittstellen und Standards sind zukünftig die Grundlage eines offenen und barrierefreien Zugangs zu Mobilität für alle.
 Durch eine konsequente Open Data-Strategie in allen Bereichen der Mobilität, sollen Monopole und Oligopole sowie der Missbrauch von Daten verhindert werden.
@@ -1526,7 +1526,7 @@ Alle Anbieter von Verkehrsmitteln sollen vorliegende Datensätze öffnen, aufber
 Damit wird die unabhängige Entwicklung von übergreifenden Anwendungen aller Art gefördert.
 Eine Öffnung bestehender Systeme soll die Einführung landesweiter, anbieterübergreifender und barrierefreier Fahrgastinformationssysteme erleichtern, in denen dann live nicht nur Staus und Betriebsstörungen aller Verkehrsmittel, sondern z.B. auch aktuelle Informationen zur Barrierefreiheit die optimale Verbindung für Fahrgäste und Verkehrsteilnehmer liefern.
 
-9.10 Ausschreibungen und Vergabekriterien für öffentliche Verkehrsprojekte
+## Ausschreibungen und Vergabekriterien für öffentliche Verkehrsprojekte
 
 Wir streben die zielgerichtete und transparente Ausschreibung und Vergabe von Verkehrsprojekten an.
 Die EU fordert, dass bis 2022 alle Busse und Bahnen vollständig barrierefrei sein müssen.
@@ -1543,7 +1543,7 @@ Der Vergabeprozess für die Verkehrsprojekte muss mindestens die folgenden Krite
   - Einhaltung der Tarife für die Beschäftigten ist Pflicht.
   - Der vollständige Entscheidungsprozess ist offen zu legen.
 
-9.11 Autonomes Fahren
+## Autonomes Fahren
 
 Wir wollen den technischen Wandel für eine grundsätzlich neue Verkehrspolitik nutzen, finanziell, sozial und ökologisch nachhaltig.
 Elektromobilität und autonomes Fahren verändern die Spielregeln für den Verkehrssektor elementar.
@@ -1560,12 +1560,12 @@ Dies vorzubereiten, ist Aufgabe der Politik.
 Damit kein desaströser Wettbewerb um persönliche Daten eintritt, der zu Verfolgungsprofilen führt, setzen wir uns für Datensparsamkeit und volle Transparenz der erhobenen Daten für die Nutzenden ein.
 Nicht verfolgbare, anonymisierte Daten sollen dagegen frei und mit offenen Schnittstellen zur Verfügung stehen, um Erkenntnisse über volle Straßen und volle Bahnen, Hindernisse, Sicherheitsrisiken und andere Verkehrslagen intelligent nutzen zu können.
 
-9.12 Drohnen werden zum Transportmittel
+## Drohnen werden zum Transportmittel
 
 Wir fördern die Entwicklung und Erforschung von Drohnen für den Transport von Gütern und zur dokumentarischen Aufklärung.
 Wir setzen uns dafür ein, dass es für private als auch kommerziell genutzte Drohnen definierte Flugzonen und Lufträume gibt.
 
-9.13 Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
+## Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
 
 Wir PIRATEN setzen uns für die Kartierung von Straßen-, Bahn-, Flug- und Industrielärmemissionen ein – unter Nutzung aller verfügbaren Daten, unabhängig von Mindestbelastungs-Grenzwerten.
 Die on- und offline Darstellung der Emissionsbelastung muss bundesweit einheitlich erfolgen.
@@ -1577,12 +1577,12 @@ Lärmemissionsberechnungen sollen auf Antrag der Betroffenen durch Messungen val
 Wir unterstützen die Einführung eines Lärmlabels.
 Mit Hilfe eines solchen Zertifizierungsinstrumentes, das interdisziplinär-wissenschaftlich erarbeitet werden muss, sollen Lärmquellen aller Art einfach und bürgerfreundlich gekennzeichnet werden können.
 
-9.14 Weitere Elbvertiefung verhindern
+## Weitere Elbvertiefung verhindern
 
 Wir PIRATEN fordern eine wirtschaftlich optimierte Kooperation der drei norddeutschen Seehäfen Hamburg, Bremerhaven und Wilhelmshaven.
 Es ist gesellschaftlich nicht zu verantworten, dass wegen eines "Kirchturmdenken" der Hamburger Hafenwirtschaft der einzigartige Naturraum "Elbe" weiter zerstört werden soll, während ein für über eine Milliarde Euro gebauter Tiefseehafen in Wilhelmshaven nur zu rund 20 Prozent ausgelastet ist.
 
-10 Kunst und Kultur
+# Kunst und Kultur
 
 Im Mittelpunkt der Kulturpolitik der PIRATEN steht die Freiheit.
 Nur durch den Mut zum Versuch geht Kultur neue Wege, kann sich ausprobieren und über Grenzen hinweg wirken.
