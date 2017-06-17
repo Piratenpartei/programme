@@ -950,13 +950,13 @@ Die Entwicklung solcher Modelle soll durch Deutschland und die Europäische Unio
 
 # Umwelt, Landwirtschaft, Tier- und Verbraucherschutz
 
-7.1 Nachhaltigkeit
+## Nachhaltigkeit
 
 Wir PIRATEN setzen uns für eine ökologisch, ökonomisch und sozial nachhaltige Entwicklung ein.
 Darunter verstehen wir einen verantwortungsvollen und generationengerechten Umgang mit den zum allgemeinen Wohlergehen notwendigen Ressourcen immaterieller oder materieller Art.
 Wir fordern die Erweiterung des Grundgesetzes um einen Artikel 20b, in dem das Nachhaltigkeitsprinzip als Staatsziel mit der Formulierung "Der Staat beachtet bei seinem Handeln das Prinzip der Nachhaltigkeit" verankert wird.
 
-7.2 Einführung eines Umweltgesetzbuches und Abschaffung des Bergrechts
+## Einführung eines Umweltgesetzbuches und Abschaffung des Bergrechts
 
 Fast 50 Jahre nach dem Erlass der ersten Umweltgesetze ist es an der Zeit, diese übersichtlich und transparent zusammenzufassen.
 Wir PIRATEN setzen uns für die Etablierung eines Bundesumweltgesetzbuches ein, in dem die relevanten Gesetze und Verordnungen analog zu den Sozialgesetzbüchern zusammengestellt werden.
@@ -965,9 +965,9 @@ Wir fordern die Abschaffung des Bergrechts.
 Das heute geltende Bergrecht steht in einer Tradition intransparenter, undemokratischer, obrigkeitsstaatlicher und autoritärer Gesetzgebungen, die bei Vorhaben wie Fracking, Braunkohletagebau und CCS (Carbon Capture & Storage) Grundrechte aushebeln und die ausstehende Neufassung der Umweltgesetzgebung verhindern.
 Die nötigen das Bergrecht ersetzenden Neuregelungen sollen in das zu schaffende Bundesumweltgesetzbuch aufgenommen werden.
 
-7.3 Wasserwirtschaft
+## Wasserwirtschaft
 
-7.3.1 Trinkwasser
+### Trinkwasser
 
 Wasser ist ein kommunales Gut und muss jeder Bürgerin und jedem Bürger zur Verfügung stehen.
 Wir PIRATEN stehen für die Rekommunalisierung der Wasserversorgung ein, da sie als Infrastruktur der Grundversorgung dient.
@@ -977,19 +977,19 @@ Die Eigenwasserversorgung privater Haushalte soll grundsätzlich erlaubt sein.
 Sofern eine private Hauswasserversorgung möglich ist, lehnen wir einen Anschlusszwang an das kommunale Trinkwassernetz ab.
 Die Qualitätsprüfung ist eigenverantwortlich zu leisten.
 
-7.3.2 Abwasser
+### Abwasser
 
 Abwasser ist ein Wertstoff, und wir streben einen ressourcenschonenden Umgang mit den wertvollen Inhaltsstoffen an.
 Wir treten für die Abschaffung des Anschlusszwanges für häusliche Abwässer an das Abwassernetz ein, wenn die Einhaltung der Ablaufparameter nach der EU-Rahmenrichtlinie eigenverantwortlich sichergestellt wird.
 Industrielle und die von Krankenhäusern stammenden Abwässer sind geeignet vorzubehandeln.
 Vermischung mit häuslichen Abwässern ist zu vermeiden.
 
-7.3.3 Gewässerschutz
+### Gewässerschutz
 
 Die Wasserressourcen sind von Beeinträchtigungen freizuhalten.
 In allen Bereichen müssen Eingriffe in den Boden auf ihre Verträglichkeit mit dem Gewässerschutz hin überprüft und gegebenenfalls angepasst werden.
 
-7.4 Landwirtschaft
+## Landwirtschaft
 
 Das Recht auf sauberes Wasser, saubere Luft, lebendige Böden und einen gemeinschaftlich organisierten Zugriff auf Naturressourcen ist Teil der universellen Menschen- und Bürgerrechte, in Deutschland auch abgedeckt durch Artikel 2 des Grundgesetzes.
 Dieses Recht ist der Maßstab, an dem gesellschaftliches Handeln zu bemessen ist.
@@ -997,7 +997,7 @@ Dieses Recht ist der Maßstab, an dem gesellschaftliches Handeln zu bemessen ist
 Der Weg zur richtigen Entscheidung ist ein Prozess, zu dem die offen geführte, sachorientierte Diskussion und Beteiligung aller Interessengruppen zählt.
 Erfolgreiche Landwirtschafts- und Umweltpolitik muss sich ständig am Möglichen und Erwünschten messen und Impulse für die Zukunft geben.
 
-7.4.1 Nachhaltigkeit ist unser Maßstab
+### Nachhaltigkeit ist unser Maßstab
 
 Wir PIRATEN stellen im Umgang mit der Natur die Verbesserung und den langfristigen Erhalt der natürlichen Ressourcen Boden, Wasser, Luft und Artenvielfalt der Tier- und Pflanzenwelt in den Mittelpunkt.
 In der Land- und Forstwirtschaft, dem Gartenbau und in der Fischereiwirtschaft ist daher ein Wandel notwendig.
@@ -1006,7 +1006,7 @@ Wo nachhaltige Bewirtschaftung in Ansätzen schon verwirklicht ist, muss sie unt
 Darüber hinaus stellen wir die Frage, welche sozialen und wirtschaftlichen Strukturen in diesem Sektor zu fördern oder ganz neu aufzubauen sind, damit Nachhaltigkeit sich durchsetzt.
 Eingebunden in die EU und Weltwirtschaft sind Nachhaltigkeitskriterien europa- und weltweit zu beachten und dürfen nicht an der Landesgrenze ausgeblendet werden (z.B. durch Torfimporte, Futtermittelimporte).
 
-7.4.2 Lebendige Böden - Wertschätzung erhöhen
+### Lebendige Böden - Wertschätzung erhöhen
 
 Fruchtbare Böden sind die Grundlage für Land- und Forstwirtschaft, für unsere Nahrungsmittel.
 Über komplexe Umsetzungsprozesse ermöglichen sie das Pflanzenwachstum in ihrem Gefüge aus Mineralien, organischen Stoffen und Bodenorganismen, aus Poren und wassergefüllten Kapillaren.
@@ -1016,14 +1016,14 @@ Sie haben die tragende Rolle für unsere Siedlungen, Industrie und Infrastruktur
 Wir PIRATEN setzen uns ein für die Wertschätzung von Böden mit ihren wichtigen Funktionen und deren Erhalt.
 Beeinträchtigungen (u.a. durch Schadstoffzufuhr, Überdüngung, Verdichtung, Humusverlust, Erosion, Torfabbau, Versiegelung, Spekulation auf Boden) sind keine Bagatellen, die einem kurzfristigen Wirtschaftserfolg untergeordnet werden können, sondern müssen aktiv ausgeräumt werden.
 
-7.4.3 Saatgut - der Keim der Selbstbestimmung
+### Saatgut - der Keim der Selbstbestimmung
 
 Wir PIRATEN setzen uns dafür ein, dass Saatgut allen, die es nutzen wollen, als Gemeingut zugänglich wird.
 Wir treten ein für den Erhalt und Weiterentwicklung der Sortenvielfalt samenfester Kulturpflanzen.
 Die Zulassung von Saatgut ist nach dessen Nutzen als Feld- oder Gartenfrucht und für die Ernährung zu bemessen.
 Sie wird bundesweit entzogen, wenn nachweislich Risiken für den Erhalt der Artenvielfalt, für das Bodenleben oder das Grundwasser bestehen.
 
-7.4.4 Vielfalt und kurze Wege
+### Vielfalt und kurze Wege
 
 Wir PIRATEN setzen uns ein für eine Landwirtschaft der Vielfalt.
 Regionale Besonderheiten sollen in der Unterschiedlichkeit von Erzeugnissen, Anbaumethoden, Tierhaltungsformen, Betriebsstrukturen und Bewirtschaftungsformen ihren Ausdruck finden und sich entwickeln können.
@@ -1031,19 +1031,19 @@ Einheitliche Standards werden dort festgeschrieben werden, wo sie für die Gesun
 Wir unterstützen eine Landwirtschaftspolitik, die kurze Wege zur Versorgung der Bevölkerung sucht, und zwar vom Erzeuger über den Verarbeiter, Vermarkter bis hin zum Verbraucher, damit auch die Kette der Wertschöpfung innerhalb einer möglichst eng umgrenzten Region bleibt.
 Sie nutzt und fördert die Kenntnisse der Landwirte, Verarbeiter, Händler und Konsumenten vor Ort und achtet deren Recht auf Selbstbestimmung.
 
-7.4.5 Agrarsubventionen
+### Agrarsubventionen
 
 Wir PIRATEN setzen uns dafür ein, dass in der Landwirtschaft verlässliche Bedingungen geschaffen werden, die langfristig einen Ausstieg aus den Agrarsubventionen ermöglichen.
 
-7.5 Tierschutz
+## Tierschutz
 
-7.5.1 Verbandsklagerecht
+### Verbandsklagerecht
 
 Wir PIRATEN befürworten die Einführung eines bundesweiten Verbandsklagerechtes für anerkannte Tierschutzorganisationen.
 Tiere können als Lebewesen nicht selbst für ihre Rechte eintreten, daher sind sie auf eine Vertretung in Form von Verbänden angewiesen.
 Obwohl Tier- und Umweltschutz nach Art. 20a GG denselben Verfassungsrang haben, ist bisher in mehreren Bundesländern keine entsprechende Gesetzgebung existent.
 
-7.5.2 Tierschutz in der Nutztierhaltung
+### Tierschutz in der Nutztierhaltung
 
 Wir PIRATEN setzen uns für tiergerechte Haltungsformen in der Nutztierhaltung ein.
 Gute Haltungsformen orientieren sich an den Bedürfnissen der Tiere.
@@ -1051,7 +1051,7 @@ Die jetzigen Standards sind jedoch in vielen Punkten noch nicht optimal.
 Die kontinuierliche Weiterentwicklung der Standards in der Tierhaltung nach wissenschaftlichen Erkenntnissen ist unser Ziel.
 Dabei sollen Kleinbetriebe einmalige finanzielle Unterstützungen für Investitionen zur Umsetzung neuer Standards erhalten können.
 
-7.5.3 Tierversuche
+### Tierversuche
 
 Tierversuche sollen, insbesondere wenn tierversuchsfreie alternative Verfahren vorhanden sind, für pharmazeutische Stofftests und andere qualvolle Experimente nicht mehr verpflichtend sein.
 Um einen Rückgang von Tierversuchen zugunsten von Forschungen an alternativen Methoden bewirken zu können, ist es notwendig, Subventionen für Tierversuche zu streichen und sie auf tierversuchsfreie Forschungsmethoden zu verlagern.
@@ -1066,13 +1066,13 @@ Dies gilt auch für Versuche bezüglich einzelner Bestandteile der Produkte.
 
 Zur Prüfung der Einhaltung gesetzlicher Regelungen sind unabhängige unangekündigte Kontrollen der Versuchslabore durchzuführen.
 
-7.5.4 Erweiterung des Tierschutzgesetzes
+### Erweiterung des Tierschutzgesetzes
 
 Auch Angst ist eine Form von Leid, wird aber im Tierschutzgesetz nicht berücksichtigt.
 So werden Tierquälereien, bei denen kein deutlich erkennbarer, direkter körperlicher Schaden vorliegt, gewöhnlich nicht geahndet.
 Wir wollen das deutsche Tierschutzgesetz nach dem Beispiel des österreichischen Tierschutzgesetz erweitern, sodass künftig niemand straffrei ein Tier ohne vernünftigen Grund in schwere Angst versetzen darf.
 
-7.6 Verbraucherschutz
+## Verbraucherschutz
 
 Im Verhältnis zwischen Hersteller, Vertreiber und Verbraucher ist letzterer in der Regel unterlegen.
 Dieses Ungleichgewicht sinnvoll auszugleichen ist Anliegen der PIRATEN und Aufgabe des Verbraucherschutzes, wie wir ihn uns vorstellen.
@@ -1092,11 +1092,11 @@ Wir wollen die Aufklärung über die damit verbundenen Risiken stärken.
 
 Wir setzen uns dafür ein, das Verbandsklagerecht für staatlich anerkannte Stellen auf den Bereich des Verbraucherschutzes zu erweitern, um eine Rechtsfrage verbindlich für alle betroffenen Verbraucher zu klären.
 
-7.6.1 Ausdehnung der Eierkennzeichnung auch auf verarbeitete Eiprodukte
+### Ausdehnung der Eierkennzeichnung auch auf verarbeitete Eiprodukte
 
 Wir PIRATEN setzen uns im Rahmen einer Verbesserung des Verbraucher- und des Tierschutzes für eine Ausdehnung der Eierkennzeichnung auf verarbeitete Eiprodukte ein.
 
-7.6.2 Gegen die geplante Obsoleszenz
+### Gegen die geplante Obsoleszenz
 
 Wir PIRATEN setzen uns dafür ein, dass die Bundesrepublik Deutschland der Verbraucherzentrale zusätzliche Mittel bereit stellt, damit diese sich besser gegen die geplante Obsoleszenz spezialisieren kann.
 Hersteller werden dazu angehalten, ihre Produkte mit einem voraussichtlichem "Haltbarkeitszeitraum" zu versehen.
@@ -1106,14 +1106,14 @@ Die Verbraucherzentrale wird diese Kennzeichnungen der Hersteller überprüfen u
 Wir setzen uns weiter dafür ein, dass die öffentliche Hand, nur Produkte mit einer, von der Verbraucherzentrale, überprüften Haltbarkeit erwirbt.
 Diese Zeiten sollten in Ausschreibungen eingearbeitet werden.
 
-7.6.3 Herstellung der Gerätehoheit
+### Herstellung der Gerätehoheit
 
 Wir PIRATEN setzten uns dafür ein, dass Geräte keine softwareseitige Einschränkung der zu installierenden Software erhalten.
 Jeder Käuferin und jedem Käufer eines Geräts muss es gestattet sein, die eigene Software oder die von Drittanbietern, ohne Einschränkungen, auf ein erworbenes Gerät aufzuspielen.
 In Ausschreibungen, bei Neuanschaffungen von elektronischen Geräten der öffentlichen Hand, soll dieses Kriterium explizit, in der Ausschreibung, gefordert werden.
 Eine softwareseitige Altersschranke, und damit einer großen Verschwendung von Geld und ökologische Verantwortungslosigkeit darf es nicht mehr geben.
 
-8 Energiepolitik
+# Energiepolitik
 
 Eine langfristig gesicherte Energieversorgung ist nur ohne fossile Energieträger möglich.
 Fossile Energieträger sind zum einen grundsätzlich endlich und zum anderen wertvolle Rohstoffe, die zukünftig dringend gebraucht werden.
