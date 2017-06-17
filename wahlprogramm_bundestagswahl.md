@@ -687,7 +687,7 @@ Bildung ist unser wichtigstes Gut für den Erhalt, die Weitergabe und die Vermeh
 Das Bildungssystem darf nicht auf den Arbeitsmarkt und die ökonomische Verwertbarkeit von Bildung ausgerichtet sein.
 Unsere Gesellschaft braucht Menschen, die kompetent und kritisch ihr Leben und ihre Aufgaben meistern und sich ihrer sozialen Verantwortung bewusst sind.
 
-### Finanzierung der Bildung
+## Finanzierung der Bildung
 
 Die Ausgaben im Bildungssektor liegen, gemessen am Bruttoinlandsprodukt, in der Bundesrepublik Deutschland seit Jahren unter dem OECD-Durchschnitt.
 Zu Recht wird diese Sparsamkeit an der falschen Stelle von der OECD gerügt.
@@ -700,11 +700,11 @@ Wir bestehen auf einer Besserstellung des gesamten Bildungssystems.
 Der freie Zugang zu steuerfinanzierten Bildungseinrichtungen muss unabhängig von Religionszugehörigkeit, Geschlecht und Einkommen der Eltern gewährleistet sein.
 Wir lehnen Bildungsgebühren jeglicher Art für steuerfinanzierte Bildungseinrichtungen kategorisch ab, da sie den Zugang zu Bildung einschränken.
 
-### Bildung hat keine Grenzen
+## Bildung hat keine Grenzen
 
 Um die Durchlässigkeit bei einem Wohnortwechsel, Ausbildungs- und Studienmöglichkeiten und berufliche Chancen zu erhöhen, sollen Bildungsziele und Bildungsabschlüsse bundesweit einheitlich gestaltet und grundsätzlich gleichwertig sein.
 
-### Frühkindliche Bildung
+## Frühkindliche Bildung
 
 Bildung beginnt mit der Geburt und hört nie auf, ein wichtiger Bestandteil des Lebens zu sein.
 Frühkindliche Bildung ist dabei von zentraler Bedeutung.
@@ -712,7 +712,7 @@ Alle Kinder müssen ungeachtet bestehender Unterschiede so gefördert werden, da
 Dazu braucht es gebührenfreie, flexible, bei Bedarf ganztägig und gut erreichbare Angebote in Krippen, Kindergärten und bei Tageseltern.
 Wir PIRATEN setzen uns für gleiche Förderungsmöglichkeiten öffentlicher und freier Träger ein.
 
-### Zeit für Bildung
+## Zeit für Bildung
 
 Persönlichkeitsentwicklung im frühkindlichen Bereich, in der Schule, aber auch in weiterführenden Bildungseinrichtungen braucht Zeit.
 Eine Einschulung im Primarbereich soll nicht vor Ende des 6 Lebensjahres erfolgen.
@@ -724,7 +724,7 @@ Erforderlich ist die Weiterentwicklung eines G9.
 
 Die Förderhöchstgrenze für das BAföG muss wegfallen, um das lebenslange Lernen zu fördern.
 
-### Digitalen Lernraum gestalten
+## Digitalen Lernraum gestalten
 
 Die Lebens- und Arbeitswelt ist stark von Informationstechnologie geprägt.
 Um diese zu verstehen, nicht nur nutzen zu können, sondern sie auch aktiv mitgestalten zu können, sind Kenntnisse der Informatik erforderlich.
@@ -737,7 +737,7 @@ Der Staat soll den kostenlosen Zugang zu allen öffentlichen Bildungseinrichtung
 
 Staatlich finanzierte Bildungsmaterialien sind gemeinfrei zu erstellen oder offen unter CC-BY-SA zu lizenzieren.
 
-### Teilhabe an Bildung
+## Teilhabe an Bildung
 
 Wir PIRATEN setzen uns dafür ein, dass Kinder, Jugendliche und alle Beteiligten einer Bildungseinrichtung die Möglichkeit bekommen, sich an Entscheidungsprozessen aktiv zu beteiligen.
 Kinder und Jugendliche sollen vor allem in ihrer eigenen Lebenswelt, wie z. B. in Kita, Schule, Jugendzentrum oder Politik, mitbestimmen können.
@@ -749,7 +749,7 @@ Jedes Kind soll barrierefrei eine Schule seiner Wahl besuchen können.
 Das Recht förderbedürftiger Kinder und deren Erziehungsberechtigter auf freie Wahl der Schulart soll bundeseinheitlich in allen Bundesländern gesetzlich festgeschrieben werden.
 Kostenfreie Lehr-, Lern- und sonstige Hilfsmittel, qualifiziertes Personal für Unterricht und Assistenzleistungen sowie technische Ausstattung auf aktuellem Stand müssen gewährleistet sein.
 
-### Berufsschule und Duale Ausbildung
+## Berufsschule und Duale Ausbildung
 
 Die berufliche Ausbildung nach dem Dualen System ist seit Jahrzehnten ein Garant für Fachkräfte und weltweit ein Vorbild.
 Bestrebungen, dieses System von der breiten und qualifizierten Grund- und Fachausbildung hin zu firmenspezifischen Anlern-Ausbildungen umzubauen, lehnen wir PIRATEN ab.
@@ -761,14 +761,14 @@ Berufsspezifische Kenntnisse und Fähigkeiten dürfen nicht als Voraussetzung zu
 Sie müssen vielmehr im Rahmen der Ausbildung vermittelt oder aufgefrischt werden.
 Versuche der Wirtschaft, Forderungen nach einer Ausbildungsplatzabgabe mit dem Argument fehlender geeigneter Bewerber abzuwehren, sehen wir kritisch.
 
-### Erwachsenenbildung
+## Erwachsenenbildung
 
 Im Zuge des Lebenslangen Lernens muss das Bildungssystem offen sein für den Erwerb neuer Kompetenzen und Fähigkeiten für alle Altersgruppen.
 Dabei sollte sich das Weiterbildungsangebot nicht primär an der besseren Verwertbarkeit auf dem Arbeitsmarkt ausrichten, sondern vor allem an den individuellen Bedürfnissen.
 Wir PIRATEN sehen daher die Pflicht, lebenslanges Lernen zu fördern: durch die Bereitstellung kostenfrei zugänglicher Lehrangebote, Lehrmaterials und der Möglichkeit, individuelles Coaching in Anspruch zu nehmen.
 Prüfungen und Kurse müssen sich flexibel an individuelle Lebensumstände anpassen, um mehr Menschen die Nutzung von Weiterbildungsangeboten zu ermöglichen.
 
-### Hochschule
+## Hochschule
 
 Unter der Vorgabe der internationalen Vergleichbarkeit der Abschlüsse wurde die Studienlandschaft in den letzten Jahren im Rahmen des Bologna-Prozesses tiefgreifend umgebaut.
 Die Verkürzung der Studiengänge geht einher mit oberflächlichem und verschultem Lernen und einer nicht hinnehmbaren Zahl von Studienabbrechern.
@@ -782,12 +782,12 @@ Aus diesem Grund lehnen wir PIRATEN kurzfristige Projektförderung ab und setzt 
 Wir PIRATEN fordern eine Anpassung des Urheberrechts:
 Lehrende und Lernende müssen den Spielraum und die Rechtssicherheit erhalten, mit urheberrechtlich geschütztem Material frei arbeiten zu können.
 
-#### Unbegrenzte Arbeitsmöglichkeiten für Akademiker – Änderung des Wissenschaftszeitvertragsgesetzes (WissZeitVG)
+### Unbegrenzte Arbeitsmöglichkeiten für Akademiker – Änderung des Wissenschaftszeitvertragsgesetzes (WissZeitVG)
 
 Wir PIRATEN sprechen uns dafür aus, § 2 Absatz 1 des Wissenschaftszeitvertragsgesetzes (WissZeitVG) zu streichen.
 Das WissZeitVG ist so zu überarbeiten, dass befristete Verträge mit nach oben offener Laufzeit für Wissenschaftlerinnen und Wissenschaftler auf Haushalts- und Drittmittelstellen vergeben werden können, ohne eine Maximalbeschäftigungsgrenze zu benennen.
 
-#### Freier Zugang zu Bildung und Wissenschaft
+### Freier Zugang zu Bildung und Wissenschaft
 
 Wir PIRATEN setzen uns für einen freien Zugang zu Wissen ein.
 Dies betrifft insbesondere den Zugang zu Bildungsressourcen (OER) und wissenschaftlichen Publikationen im Internet (open access).
@@ -795,14 +795,14 @@ Wir sehen in uneingeschränkten OER und open access eine Voraussetzung, allen Me
 Gerade die besten Bildungsressourcen und neuesten wissenschaftlichen Erkenntnisse müssen allen Menschen kostenfrei im Internet zugänglich sein.
 Darauf hat jeder Mensch ein Recht.
 
-##### OER (Open Educational Resources)
+#### OER (Open Educational Resources)
 
 Der technische Fortschritt schafft neue Möglichkeiten, Wissen und Lernkonzepte international auszutauschen und gemeinsam weiter zu entwickeln.
 Um diese Chance zu nutzen, unterstützen wir freie und offene Lehr- und Lernmaterialien (OER).
 Wir PIRATEN setzen uns für die Entwicklung und den Einsatz solcher Materialien ein.
 Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision in die Bildungsrealität zu übertragen.
 
-##### OER - Freie Bildungsmaterialien im Hochschulbereich
+#### OER - Freie Bildungsmaterialien im Hochschulbereich
 
 \=
 
@@ -817,9 +817,9 @@ Wir fordern das Teilen von hochqualitativem Lern- und Lehrmaterial für eine nac
 
 Wir PIRATEN setzen uns für die Schaffung einer offenen digitalen Plattform zur Information, Verwaltung und Lehre für Universitäten und Schulen beispielsweise unter Federführung des Bundesministeriums für Bildung und Forschung ein.
 
-##### Freier Zugang zu allen aus Steuermitteln finanzierten Forschungsergebnissen (Open Access)
+#### Freier Zugang zu allen aus Steuermitteln finanzierten Forschungsergebnissen (Open Access)
 
-###### Förderung von Veröffentlichungen unter freier Lizenz
+##### Förderung von Veröffentlichungen unter freier Lizenz
 
 Zur Förderung von Veröffentlichungen wissenschaftlicher Ergebnisse nach dem Open-Access-Modell soll als Infrastrukturmaßnahme einer allgemeinen, nicht themenbeschränkten Open-Access-Zeitschrift nach dem Vorbild von PLOS One eine Anschubfinanzierung aus Bundesmitteln gewährt werden.
 Weiterhin soll ein Open Access-Fonds aus Bundesmitteln gebildet werden, der die von Forschern zu entrichtenden Publikationskosten in Open Access-Zeitschriften bis zu einem bestimmten Betrag übernimmt.
@@ -835,7 +835,7 @@ Die Literaturversorgung muss von den knappen Etats der wissenschaftlichen Einric
 Um ein Gleichgewicht zwischen Bibliotheken, Forschenden und Großverlagen herzustellen, bedarf es einer entschlossenen, institutionellen Förderung offener Publikationsformen, zum Beispiel durch Publikationsfonds.
 Sowohl Erstveröffentlichungen in elektronischen Medien als auch die Bereitstellung bereits publizierter Verlagswerke in frei zugänglichen Datenbanken sollen gleichberechtigt gefördert werden.
 
-###### Universitätsnahe Umsetzung
+##### Universitätsnahe Umsetzung
 
 Um die Anwenderfreundlichkeit und die Akzeptanz sowie die Verwendungsmöglichkeiten der digitalen Bibliotheken zu garantieren, ist es unerlässlich, einheitliche Softwareschnittstellen zu schaffen.
 Das gewährleistet eine Vernetzung der Bibliotheken zwischen den einzelnen Universitäten und Fachhochschulen, um die Verfügbarkeit und Auffindbarkeit von Wissen vor Ort zu erhöhen.
@@ -844,11 +844,11 @@ Jedoch sehen wir PIRATEN noch viel Verbesserungsbedarf in Bezug auf die Standard
 Daher setzen wir uns dafür ein, dass die Weiterentwicklung von Software für digitale Bibliotheken als Forschungsprojekt ausgeschrieben und möglichst universitätsnah umgesetzt wird.
 Das Ergebnis des Forschungsprojekts muss unter einer freien Lizenz stehen.
 
-###### Offene Dateiformate
+##### Offene Dateiformate
 
 Um die in den digitalen Bibliotheken gespeicherten Informationen nachhaltig verfügbar zu machen und die Unabhängigkeit von Interessengruppen sicherzustellen, sprechen wir PIRATEN uns für eine Nutzung offener Datenformate aus.
 
-###### Abbau von Zugangsbeschränkungen
+##### Abbau von Zugangsbeschränkungen
 
 Wir PIRATEN werden die Zugangsbeschränkungen für digitale Bibliotheken abbauen.
 Zurzeit finden sich in den digitalen Bibliotheken hauptsächlich Doktorarbeiten und vergleichbare Ergebnisse.
@@ -858,17 +858,17 @@ Viele junge Wissenschaftler kommen zu spät mit den digitalen Bibliotheken in Ko
 Da die Veröffentlichung in diesen Bibliotheken praktisch kostenfrei ist, braucht hier nicht gespart zu werden.
 Wir setzen uns für die Öffnung dieser Bibliotheken ein.
 
-#### Open Access in der Entwicklungspolitik
+### Open Access in der Entwicklungspolitik
 
 Wir PIRATEN haben erkannt, dass der freie Zugang und Austausch von Wissen ein elementarer Bestandteil der deutschen Entwicklungsarbeit sein muss.
 Deshalb fordern wir, dass alle entwicklungspolitischen Akteure, sobald sie finanzielle Mittel vom BMZ (Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung) beziehen, dazu verpflichtet sind, die Ergebnisse ihrer entwicklungspolitischen Projekte, deren Rohdaten sowie Gutachten, die sich auf die Effizienz und Effektivität der Projekte beziehen, gemäß den Maßstäben zur "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" (2003) zu veröffentlichen.
 Die Veröffentlichung geschieht über eine vom BMZ zu erstellende kostenfreie Internetplattform, auf der sich sämtliche Veröffentlichungen, sowohl nach Ländern, als auch nach Stichworten, durchsuchen lassen.
 
-### Patente und Markenrecht
+## Patente und Markenrecht
 
-#### Konkrete Reformvorschläge für das Patentwesen
+### Konkrete Reformvorschläge für das Patentwesen
 
-##### Grundlegendes
+#### Grundlegendes
 
 Patente sind Teil des gewerblichen Rechtsschutzes.
 Ihr Sinn besteht darin, dass Erfinder durch ein zeitlich begrenztes Monopol dazu ermutigt werden, ihre Erfindungen in einer Patentschrift zu veröffentlichen.
@@ -877,7 +877,7 @@ Gerade aktuell werden Patente eher als "Waffen" genutzt um Konkurrenz aus dem Ma
 Einige Unternehmen – sogenannte "Patenttrolle " – haben sich gar darauf spezialisiert Unternehmen mit innovativen Produkten mithilfe von Patenten und überteuerten Rechtsstreiten regelrecht zu erpressen.
 Wir PIRATEN setzen uns für eine Reform des aktuellen Patentrechts zugunsten von mehr Innovation und Freiheit ein.
 
-##### Patentierbare Erfindungen
+#### Patentierbare Erfindungen
 
 Neben klassischen technischen Erfindungen, gibt es Bestrebungen durch neue Gesetze oder Auslegung vorhandener Gesetze neue Arten von patentierbaren Erfindungen zu erschließen.
 Darunter befinden sich drei problematische Patentgegenstände, deren Auswirkungen in einem starken Missverhältnis zum Ziel der Offenlegung der Erfindung stehen.
@@ -896,14 +896,14 @@ Zuletzt sind in den letzten Jahren politische Forderungen nach Patenten auf "com
 Diese in einigen Ländern praktizierte Patentierung von einzelnen Aspekten von Computerprogrammen führt unweigerlich zum Sterben kleiner und mittlerer Softwareunternehmen, da Software besonders darauf angewiesen ist, bestimmte für den Nutzer leicht einprägsame und quasi-standardisierte Elemente zu nutzen.
 Software ist durch das Urheberrecht bereits ausreichend geschützt, ein Schutz durch Patente ist aus diesem Grund überhaupt nicht notwendig.
 
-#### Kurzfristige Maßnahmen zur Verbesserung des Patentrechts
+### Kurzfristige Maßnahmen zur Verbesserung des Patentrechts
 
-##### Patentlaufzeiten
+#### Patentlaufzeiten
 
 Während die Produktlebenszyklen sich in der Vergangenheit immer weiter verkürzt haben, sind die Patentlaufzeiten unverändert geblieben.
 Wir fordern im Laufe der Patentreform belastbare Erhebungen der Produktlebenszyklen der unterschiedlichen Branchen und die Verkürzung der Patentlaufzeiten im entsprechenden Maße.
 
-##### Gerichtskosten bei Patentstreitigkeiten vom Streitwert entkoppeln
+#### Gerichtskosten bei Patentstreitigkeiten vom Streitwert entkoppeln
 
 Die Streitwerte bei Patentverletzungsverfahren können schnell enorme Summen annehmen.
 Dies treibt die Gerichtskosten in die Höhe, was nicht zuletzt dem Geschäftsmodell vieler Patenttrolle entgegen kommt.
@@ -914,7 +914,7 @@ Patente stellen als gesetzlich garantierte Monopole große Anforderungen an die 
 Wenn der Gesetzgeber ein Patent garantiert, dann sind Gerichte im besonderen Maße dazu verpflichtet, diese zu überprüfen.
 Aus diesem Grund fordern wir PIRATEN, dass die Gerichtskosten bei Patentstreitigkeiten ausschließlich auf die tatsächlich entstandenen Kosten beschränkt sein müssen um die gerichtliche Überprüfung von Patenten ohne großes finanzielles Risiko zu ermöglichen.
 
-##### Nutzungsbindung von Patenten
+#### Nutzungsbindung von Patenten
 
 Wir PIRATEN fordern, dass ein erteiltes Patent nur dann gegen ein auf dem Markt befindliches Produkt durchsetzbar sein soll, wenn der Patentinhaber oder ein Lizenznehmer ein Bemühen um eine der Erfindung angemessene wirtschaftliche Nutzung glaubhaft machen kann.
 Dies soll zum einen der Praxis der Patenttrolle begegnen, die ausschließlich Patente horten, ohne ein Interesse an der Fertigung entsprechender Produkte zu haben.
@@ -923,7 +923,7 @@ Zum anderen erleichtert es das Problem von Preisen für Patentlizenzen.
 Als Monopolist hat der Patentinhaber derzeit große Freiheiten bei der Preisgestaltung für Patentlizenzen, besonders wenn er das Patent nicht selbst wirtschaftlich verwertet.
 Durch die Nutzungsbindung ergibt sich ein spieltheoretischer Zustand, der einem nicht-monopolistischen Markt zumindest ähnelt.
 
-##### Bekämpfung von wettbewerbswidrigem Patentmissbrauch
+#### Bekämpfung von wettbewerbswidrigem Patentmissbrauch
 
 Neben ihrem legitimen Nutzen werden Patente auch auf grob wettbewerbswidrige Weise zum Zwecke der Marktbeherrschung durch wenige große Unternehmen eingesetzt.
 In der Praxis räumen sich diese die Nutzung ihrer jeweiligen Patente häufig durch sogenannte "Kreuzlizenzierung" gegenseitig ein, während besonders kleinen Unternehmen der Zugang zur Patentnutzung und damit zum Markt verwehrt wird.
@@ -931,7 +931,7 @@ In der Praxis räumen sich diese die Nutzung ihrer jeweiligen Patente häufig du
 In den Fällen, in denen große Teile des Marktes ein Patent nutzen, es aber einem kleinen Teil verwehrt wird, soll das Kartellamt die Möglichkeit haben, den Sachverhalt zu prüfen.
 Im Falle von marktbeherrschendem Missbrauch des Patents soll die Möglichkeit bestehen, das Patent vorzeitig auslaufen zu lassen.
 
-##### Mittelfristige Demokratisierung des Patentvergabeprozesses
+#### Mittelfristige Demokratisierung des Patentvergabeprozesses
 
 Die Bewertung, ob ein beantragtes Patent erteilt werden soll, fällt häufig sogar Fachleuten schwer.
 Dieses Problem kann dadurch abgemildert werden, dass nicht nur einzelne Fachleute sondern die gesamte "Gemeinde" über die Vergabe von Patenten entscheidet.
@@ -939,7 +939,7 @@ Dieses Problem kann dadurch abgemildert werden, dass nicht nur einzelne Fachleut
 Mittelfristig soll deshalb jeder, der die entsprechenden überprüfbaren fachlichen Voraussetzungen hat, am Patentvergabeprozess mitentscheiden können.
 Dies fördert nicht nur die Transparenz der Patentvergabe, sondern wirkt auch der Vergabe von Trivialpatenten entgegen, deren Veröffentlichung keinen nennenswerten Nutzen, aber Probleme für die Volkswirtschaft bringen kann.
 
-##### Langfristige Aufgabe des Patentsystems zugunsten des wettbewerbsgetriebenen Fortschritts
+#### Langfristige Aufgabe des Patentsystems zugunsten des wettbewerbsgetriebenen Fortschritts
 
 Die positiven Aspekte der Veröffentlichung von Erfindungen durch Patente sind durchaus erfreulich, aber es stellt sich die Frage ob sie die Innovationsbremsung durch die zeitlichen Monopole rechtfertigen.
 Eine Wettbewerbssituation wirkt sich dagegen deutlich positiver auf die Innovation aus, da alle Unternehmen sich kontinuierlich verbessern müssen, um ihre Marktposition zu erhalten bzw. auszubauen.
@@ -948,7 +948,7 @@ Ein "Ausruhen" auf Patenten ist dann nicht mehr möglich.
 Aus diesem Grund ist unser Ziel, das Patentwesen langfristig durch andere Mechanismen zur Offenlegung von Erfindungen zu ersetzen, die ohne gesetzliche Monopole auskommen.
 Die Entwicklung solcher Modelle soll durch Deutschland und die Europäische Union aktiv voran getrieben werden.
 
-7 Umwelt, Landwirtschaft, Tier- und Verbraucherschutz
+# Umwelt, Landwirtschaft, Tier- und Verbraucherschutz
 
 7.1 Nachhaltigkeit
 
