@@ -2659,32 +2659,32 @@ Des weiteren soll das Pflegepersonal auf psychiatrischen Stationen durch umfangr
 
 ### Inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen
 
-13.14.2.1 Sonderregelung Arbeitszeiten
+#### Sonderregelung Arbeitszeiten
 
 Wir PIRATEN fordern eine umfassende Novellierung und Ausarbeitung der Regelungen im bisherigen Behindertenrecht, die den Menschen mit chronischen somatischen und chronischen psychischen Störungen, die auf Grund ihrer Störungen in ihrer Leistungsfähigkeit eingeschränkt sind, die Wahlmöglichkeit zu eröffnen, ein ihren Einschränkungen gerecht werdendes Arbeitszeitmodell auszuwählen.
 Es muss hierzu unter strengster Beachtung des Datenschutzes und Nutzung der Aufsichtsbehörden gewährleistet werden, dass die Annahme eines Arbeitszeitmodells diskriminierungsfrei und erfolgreich ermöglicht wird.
 
-13.14.2.2 Sonderregelung Urlaubszeiten
+#### Sonderregelung Urlaubszeiten
 
 Wir PIRATEN fordern eine Reform der gesetzlichen Regelungen, um Menschen mit chronischen psychischen Störungen, entsprechend ihres störungsbedingten Erholungsbedarfs, mehr Urlaubstage zu gewähren.
 
 Zu den Sonderregelungen von Arbeits- und Urlaubszeiten sollen die Verbände der Arbeitgeber, der medizinischen Wissenschaften und der Betroffenen gemeinsam die Arbeitszeitmodelle und die Vorschläge für zusätzliche Urlaubstage im Rahmen einer Enquete-Kommission im Deutschen Bundestag erarbeiten und vorstellen, damit der Deutsche Bundestag darüber beschließen kann.
 Wir PIRATEN setzen uns dafür ein, dass die Vorschläge der Enquete-Kommission zur Abstimmung gestellt werden.
 
-13.14.2.3 Freistellungsoption von Mehrarbeit für Menschen mit psychischen Störungen
+#### Freistellungsoption von Mehrarbeit für Menschen mit psychischen Störungen
 
 Wir PIRATEN fordern eine Freistellungsoption bei Mehrarbeit für Menschen mit chronischen psychischen Störungen, ähnlich der Regelung in §124 SGB IX, (<http://www.gesetze-im-internet.de/sgb\_9/BJNR104700001.html> Fassung Art. 13 Abs. 26 G v. 12.4.2012 I 579), für Menschen mit Schwerbehinderung.
 
-13.14.3 Rechte der psychiatrischen Patienten
+### Rechte der psychiatrischen Patienten
 
-13.14.3.1 Persönliches Budget
+#### Persönliches Budget
 
 Seit dem 1. Januar 2008 haben Menschen mit Anspruch auf Teilhabeleistungen einen Rechtsanspruch auf das Persönliche Budget.
 Wir PIRATEN unterstützen dieses Konzept als Teilschritt zur Verwirklichung der Inklusion von Menschen mit gesundheitlichen Erkrankungen bzw. Störungen und wirken an seiner stetigen realitätsgerechten Verbesserung mit.
 Antragsstellungen sollen unabhängig vom Leistungsträger einfach und unbürokratisch ermöglicht werden.
 Des Weiteren fordern wir, dass Menschen mit Anspruch auf Teilhabeleistungen umfassend über diese Rechtsansprüche und das Beantragungsverfahren informiert werden.
 
-13.14.3.2 Qualität in der Diagnostik
+#### Qualität in der Diagnostik
 
 Wir PIRATEN fordern eine Reform der Richtlinien, die eine sorgfältigere psychiatrische Diagnostik sicherstellen.
 Psychiatrische Diagnosen müssen ausreichend begründet und gesichert sein, bevor sie gestellt werden dürfen.
@@ -2693,20 +2693,20 @@ Die wissenschaftlichen Fachverbände und Betroffenenverbände sollen gemeinsam e
 Zusätzlich soll ermöglicht werden, nicht oder nicht mehr zutreffende Diagnosen auf Antrag des Betroffenen löschen zu lassen.
 Dafür erforderliche Richtlinienänderungen sollen von den wissenschaftlichen Fachverbänden und Betroffenenverbänden gemeinsam erarbeitet werden.
 
-13.14.3.3 Freier Zugang zu Patientenakten
+#### Freier Zugang zu Patientenakten
 
 Jede Patientin und jeder Patient haben das Recht, ihre Patientenakte in vollem Umfang zu lesen.
 Wir PIRATEN fordern für alle Patientinnen und Patienten den freien, uneingeschränkten Zugang zu ihren Patientenakten.
 Die Einsichtnahme soll unbürokratisch, kostenfrei, zeitnah und in therapeutischer Umgebung (Begleit-Pflicht) ermöglicht werden.
 
-13.14.3.4 Weniger bürokratische Hürden für Patienten
+#### Weniger bürokratische Hürden für Patienten
 
 Wir PIRATEN setzen uns dafür ein, dass Patientinnen und Patienten, die sich in psychiatrischer Behandlung befinden oder sich in eine solche begeben wollen, ab dem Zeitpunkt der Feststellung der Behandlungsbedürftigkeit den Anspruch darauf erhalten, von einem Sozialarbeiter oder -pädagogen Unterstützung zu bekommen, wenn sich abzeichnet, dass Patientinnen und Patienten mittel- bis langfristig nicht in der Lage sein werden, eigenständig seinen Alltag zu bewältigen.
 Diese Unterstützung soll den Patientinnen und Patienten alltagspraktische Hilfestellung bieten, ohne dass dafür ein Betreuungsverfahren eingeleitet werden muss.
 
-14 Europa
+# Europa
 
-14.1 Für eine europäische Republik\!
+## Für eine europäische Republik\!
 
 Die Europäische Union ist heute als supranationale Institution ein Projekt der nationalen Mitgliedstaaten und nicht der Bürger.
 Wir PIRATEN sind daher der Ansicht, dass die Zukunft Europas nicht an den Interessen der einzelnen Mitgliedstaaten, sondern an den gemeinsamen Interessen aller Menschen in Europa ausgerichtet werden soll.
@@ -2722,7 +2722,7 @@ Die Freiheit des Internets werden wir auf europäischer und globaler Ebene mit a
 Wir setzen uns für eine erweiterte EU-Bürgerschaft ein.
 Die erweiterte EU-Bürgerschaft sichert ihren Inhabern am Hauptwohnsitz vollumfänglich die gleichen Rechte zu, wie dort beheimateten Menschen mit jeweiliger nationaler Staatsbürgerschaft.
 
-14.2 Demokratie Add-on für Europa
+## Demokratie Add-on für Europa
 
 Wir fordern die Einberufung einer verfassungsgebenden Versammlung (Verfassungskonvent) für die Europäische Union.
 Ziel des Verfassungskonvents ist es, das politische System der EU und ihre Beziehung zu den Mitgliedstaaten und Regionen neu zu strukturieren und auf eine demokratische Basis zu heben.
@@ -2748,7 +2748,7 @@ Zudem wäre eine zweite Parlamentskammer sinnvoll, besetzt mit Vertretern der na
 Die Rechte der Kommission und des Europäischen Rates müssten im Gegenzug beschnitten werden.
 Wir plädieren für die Stärkung der Parlamentsrechte statt für eine Stärkung einzelner Führungspositionen.
 
-14.3 Europäische Wirtschafts- und Währungsunion
+## Europäische Wirtschafts- und Währungsunion
 
 Die eklatanten Konstruktionsfehler der Europäischen Wirtschafts- und Währungsunion tragen im Zuge der Wirtschafts- und Finanzkrisen in einigen Mitgliedsstaaten maßgeblich zur Ausweitung der Ungleichgewichte unter den Eurostaaten bei.
 Die einseitige europäische Rettungspolitik aus Spardiktaten, Lohn-, Renten- und Sozialkürzungen stellt einen doppelten Schlag ins Gesicht der Bürger dar:
@@ -2761,7 +2761,7 @@ Wird nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer B
 Als letzter Schritt ist eine Verstaatlichung zu prüfen, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet.
 Eine Abfederung sozialer Einschnitte durch den Schutz von Kleinanlegern bzw. privater Renten- und Lebensversicherungen ist bis zu einem Höchstbetrag zu gewährleisten.
 
-14.4 Transparenz und demokratische Kontrolle des ESM
+## Transparenz und demokratische Kontrolle des ESM
 
 Der ESM-Vertrag verstößt gegen die im Grundgesetz verankerten fundamentalen Rechtsprinzipien und Grundsätze einer demokratischen Staatsordnung (wie den Parlamentsvorbehalt und das Rechtsstaatsprinzip) sowie gegen die Transparenz-Grundsätze der PIRATEN.
 
@@ -2775,7 +2775,7 @@ Wir fordern:
   - Das Europäische Parlament soll die Befugnis erhalten, die Immunität der Mitglieder des europäischen Gouverneursrates und des Direktoriums aufheben zu können.
   - Die Gehälter der Mitglieder des Gouverneursrates und des Direktoriums sind offenzulegen.
 
-14.5 Die Europäische Union kann ohne Solidarität nicht bestehen
+## Die Europäische Union kann ohne Solidarität nicht bestehen
 
 Um die wirtschaftlich angeschlagenen Eurostaaten auf die Beine zu bringen, fordern wir PIRATEN daher einen "Marshall-Plan für Europa " – ein Aufbau- und Investitionsprogramm, das sowohl die kurzfristige Konjunkturentwicklung fördert als auch das längerfristige Wachstumspotenzial stärkt.
 Ziel ist der Umbau und die Modernisierung der europäischen Volkswirtschaften hin zu einer energieeffizienten und ressourcenschonenden Wirtschaftsstruktur.
@@ -2788,7 +2788,7 @@ In der forcierten Einmischung der Europäischen Kommission in die Haushaltspolit
 Wir lehnen den europäischen Fiskalpakt daher als demokratisch nicht legitimierten Eingriff in die Haushaltshoheit der Mitgliedstaaten ab.
 Weitere Schritte zur Integration der Eurozone erfordern zwingend eine verstärkte demokratische Legitimation und Rechenschaftspflichten sowie die Ausweitung der parlamentarischen Kontrollrechte.
 
-14.6 Europäische Energiepolitik
+## Europäische Energiepolitik
 
 Ein funktionierender europäischer Energiebinnenmarkt muss auf Versorgungssicherheit, Ressourcenschonung, Verbrauchernutzen und Wettbewerbsfähigkeit ausgerichtet sein.
 Die unvollendete Struktur des bestehenden EU-Energiebinnenmarkts muss an die Herausforderungen, denen Europa in den Bereichen Energie und Klimaschutz gegenübersteht, angepasst werden.
@@ -2811,7 +2811,7 @@ Bei der Umsetzung des europäischen Energiebinnenmarkts werden modernste interne
 Allerdings birgt die damit verbundene detailgetreue Dokumentation des individuellen Energieverbrauchs erhebliche Missbrauchsgefahren.
 Hier müssen höchste Datenschutzstandards eingehalten werden.
 
-14.7 Digitale Agenda für Europa
+## Digitale Agenda für Europa
 
 Die Digitale Revolution verändert die gesellschaftlichen und wirtschaftlichen Strukturen in ganz Europa.
 Der freie und gleichberechtigte Zugang zum Internet ist Grundvoraussetzung für die Teilhabe am digitalen Leben.
@@ -2835,7 +2835,7 @@ Umfassende Transparenz und gerechte Mitbestimmung durch ihre Mitglieder muss auc
 
 Wir PIRATEN lehnen intransparent zustande gekommene und ohne Beteiligung der Zivilgesellschaft entwickelte internationale Freihandelsabkommen wie TTIP und CETA ab, die den zuvor genannten Prinzipien zu Immaterialgüterrechten und Datenschutz widersprechen.
 
-14.8 Europäische Innen- und Sicherheitspolitik
+## Europäische Innen- und Sicherheitspolitik
 
 Wir PIRATEN wollen die europäische Flüchtlings- und Asylpolitik einer grundlegenden Neuausrichtung unterziehen.
 Eine "Festung Europa" ist nicht hinnehmbar.
@@ -2851,7 +2851,7 @@ Jeglichen Tendenzen hin zu einer repressiven europaweiten Überwachungsstruktur 
 Für uns PIRATEN ist der forcierte Einsatz von Drohnen innerhalb der EU-Sicherheitsarchitektur Ausdruck einer fatalen Fehlentwicklung.
 Abgesehen von eng definierten absoluten Ausnahmefällen lehnen wir PIRATEN den Einsatz von Drohnen in der Europäischen Union grundsätzlich ab.
 
-14.9 Gemeinsame Sicherheits- und Verteidigungspolitik
+## Gemeinsame Sicherheits- und Verteidigungspolitik
 
 Wir PIRATEN stehen der Idee einer gemeinsamen europäischen Armee wohlwollend gegenüber.
 Wir betrachten die Gemeinsame Europäische Armee als selbständigen Teil eines transatlantischen Sicherheits- und Verteidigungsbündnisses.
@@ -2860,7 +2860,7 @@ Integriert in ein immer größer werdendes globales Sicherheitsbündnis, welches
 Wir PIRATEN setzen uns dafür ein, dass das so geschaffene und reformierte transatlantische Sicherheits- und Verteidigungsbündnis nach dem Subsidaritätsprinzip entworfen wird, bei der weiterhin die Nationalstaaten, die EU oder ein zu benennendes Organ des Bündnisses über die Einsätze entscheiden.
 Die Entscheidung über einen etwaigen Einsatz bedarf zwingend einer demokratischen Legitimation durch das EU-Parlament.
 
-14.10 Europäische Verkehrspolitik
+## Europäische Verkehrspolitik
 
 Wir betrachten Mobilität als Grundrecht, jedoch den Betrieb eines subventionierten Autos und die Vergesellschaftung der externen Effekte – insbesondere der Umweltfolgen – hingegen als Hemmnis für eine zukunftsfähige Verkehrspolitik.
 Wir unterstützen die Reduzierung des Autoverkehrs im Rahmen einer multimodalen Verkehrsplanung, die eine abgasfreie urbane Mobilität zum Ziel hat.
@@ -2880,7 +2880,7 @@ Die Verringerung von Lärmbelästigung und Umweltbelastungen ist ein zentrales Z
 Daneben fordern wir die Vereinheitlichung und den Ausbau von Passagierrechten insbesondere auch im Bereich des Datenschutzes.
 Wir befürworten weiterhin den Einsatz neuer Kommunikationstechnologien, um Verkehr wo möglich zu vermeiden.
 
-14.11 Zeitumstellung
+## Zeitumstellung
 
 Die Piraten wollen die Zeitumstellung in der Europäischen Union abschaffen.
 Die nach der Abschaffung gültige Zeit soll die Normalzeit sein.
@@ -2888,9 +2888,9 @@ Die nach der Abschaffung gültige Zeit soll die Normalzeit sein.
 Die Zeitumstellung hat keine Vorteile, sondern bringt lediglich Nachteile und mittleren bis hohen Umstellungsaufwand mit sich.
 Beibehalten wird sie aus EU- und Bundestagssicht nur noch wegen einer einheitlichen Umstellung innerhalb der EU, was sich allerdings auch durch eine Abschaffung erreichen ließe.
 
-15 Außen- und Sicherheitspolitik
+# Außen- und Sicherheitspolitik
 
-15.1 Außen- und sicherheitspolitisches Programm
+## Außen- und sicherheitspolitisches Programm
 
 Die Veränderung der internationalen Beziehungen durch die Digitalisierung der Welt macht es notwendig, außen- und sicherheitspolitische Konzepte für das 21. Jahrhundert zu erarbeiten, die diesen Rechnung tragen.
 Als PIRATEN können wir bei der Verletzung von Menschen- und Bürgerrechten nicht wegschauen.
@@ -2909,41 +2909,41 @@ Aus Sicht der PIRATEN bedarf es stattdessen einer Präventionspolitik.
 Es ist eine Analyse der Ursachen, aufgrund derer sich Menschen radikalisieren, nötig.
 Ein langfristiger außensicherheitspolitischer Ansatz ist hierzu erforderlich, welcher auch eine Gesamtbetrachtung politischer, rechtlicher, sozialer, wirtschaftlicher, ökologischer und militärischer Faktoren einschließt.
 
-15.2 Transparente Außenpolitik
+## Transparente Außenpolitik
 
 Die langfristigen außenpolitischen Ziele Deutschlands sind transparent und offen zugänglich zu dokumentieren.
 Die Dokumentation muss in einem vom Auswärtigen Amt zu publizierenden Weißbuch erfolgen und bei gegebenem Anlass aktualisiert werden.
 
-15.2.1 Transparente Europäische Außen- und Sicherheitspolitik
+### Transparente Europäische Außen- und Sicherheitspolitik
 
 Im Zuge der Entwicklung der vertraglichen Grundlagen der Europäischen Union wurden Institutionen einer gemeinsamen Außen- und Sicherheitspolitik entwickelt und erweitert.
 Die PIRATEN fordern Transparenz, auch in der Außenpolitik.
 Deshalb steht sie dafür ein, dass die EU-Organe die langfristigen außenpolitischen Ziele der EU definieren und öffentlich kommunizieren.
 
-15.3 PIRATEN gegen Cyberwar
+## PIRATEN gegen Cyberwar
 
 Offene und verdeckte Aktionen von staatlichen, privaten und öffentlichen Organisationen, die den Cyberspace als Konfliktdomäne nutzen und die Zivilbevölkerung gefährden, lehnen wir dezidiert ab.
 Schadsoftware, die in der Lage ist Menschenleben durch Angriffe auf gesellschaftliche Versorgungsnetzwerke (Stichwort: KRITIS) zu gefährden, betrachten wir als inakzeptables Sicherheitsrisiko und fordern ein Bekenntnis von Regierungen, im speziellen der deutschen Regierung, zu friedenserhaltenden Maßnahmen, gemäß den internationalen Konventionen zur Verbesserung des friedlichen menschlichen Zusammenlebens durch Technik auf der Welt.
 Wir PIRATEN Deutschland fordern alle Regierungen dieser Erde auf, die globalen Informations- und Kommunikationsnetze gemeinsam zu schützen und als ein hohes gemeinschaftliches Gut aller Menschen anzuerkennen.
 
-15.4 Global Menschenrechte stärken
+## Global Menschenrechte stärken
 
-15.4.1 Ablehnung von Körperstrafen
+### Ablehnung von Körperstrafen
 
 Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung von Körperstrafen ein.
 
-15.4.2 Ablehnung der Todesstrafe
+### Ablehnung der Todesstrafe
 
 Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung der Todesstrafe ein.
 
-15.4.3 Kategorische Ablehnung ethnischer Säuberungen
+### Kategorische Ablehnung ethnischer Säuberungen
 
 Wir PIRATEN lehnen gewaltsame Vertreibung, Umsiedlung, Deportation und Mord kategorisch ab.
 Sie unterstützt UN-Initiativen die das Ziel haben, diese zu verhindern.
 
-15.5 Die Vereinten Nationen (UN)
+## Die Vereinten Nationen (UN)
 
-15.5.1 Stärkung der Vereinten Nationen (UNO)
+### Stärkung der Vereinten Nationen (UNO)
 
 Die Vereinten Nationen als wichtigste Institution für die friedliche Verständigung zwischen den Staaten der Erde bedürfen innerer Reformen, um für die neuen Herausforderungen gerüstet zu sein.
 Eine angemessene Beteiligung aller Kontinente am Sicherheitsrat ist dauerhaft sicherzustellen.
@@ -2951,57 +2951,57 @@ Insbesondere sollen Schwellenländer, angesichts ihrer wachsenden regionalen Bed
 Die Vereinten Nationen können ihre Aufgaben nur erfüllen, wenn die Mitgliedstaaten ihren Beitragszahlungen nachkommen.
 Es bietet sich an, die Vereinten Nationen in Zukunft noch stärker an der Koordination von Katastrophenhilfeprojekten zu beteiligen.
 
-15.6 Nukleare Abrüstung und Rüstungskontrolle
+## Nukleare Abrüstung und Rüstungskontrolle
 
-15.6.1 Vision einer kernwaffenfreien Welt
+### Vision einer kernwaffenfreien Welt
 
 Wir PIRATEN teilen die Vision einer kernwaffenfreien Welt und möchte diese durch konkrete Schritte - wo immer sie sich ergeben - verwirklichen.
 Dazu unterstützen wir Initiativen, welche Kommunikation, Vertrauensbildung und Transparenz zwischen den Staaten unter Berücksichtigung der jeweiligen Sicherheitsinteressen fördern.
 Die Ziele der nuklearen Abrüstung und Nichtverbreitung sollen dabei parallel verfolgt werden.
 
-15.6.2 Schritte zur kernwaffenfreien Welt
+### Schritte zur kernwaffenfreien Welt
 
-15.6.2.1 Ablehnung der nuklearen Teilhabe
+#### Ablehnung der nuklearen Teilhabe
 
 Wir PIRATEN lehnen die nukleare Teilhabe ab und setzt sich für ihre Abschaffung innerhalb der NATO ein.
 
-15.6.2.2 Abzug der Kernwaffen aus Deutschland
+#### Abzug der Kernwaffen aus Deutschland
 
 Wir PIRATEN setzen uns für den unilateralen Abzug der Kernwaffen aus Deutschland ein.
 
-15.6.2.3 Abzug der US-amerikanischen Kernwaffen aus Europa
+#### Abzug der US-amerikanischen Kernwaffen aus Europa
 
 Wir PIRATEN setzen uns für den unilateralen Abzug der US-amerikanischen Kernwaffen aus allen europäischen Staaten ein.
 Dies wäre eine vertrauensbildende Maßnahme, mit der weitere nukleare Abrüstung erleichtert werden soll.
 
-15.6.2.4 Erweiterung der IAEO Kontrollen und Verbesserung der Finanzierung
+#### Erweiterung der IAEO Kontrollen und Verbesserung der Finanzierung
 
 Wir PIRATEN setzen uns für die Einführung nuklearer Sicherungsmaßnahmen für den zivilen Kernbrennstoffkreislauf auch in Kernwaffenstaaten ein.
 Zu diesem Zweck muss die Ausstattung der IAEO soweit verbessert werden, dass sie die wachsenden Verpflichtungen erfüllen kann.
 
-15.6.2.5 Transparenz der Bestände von Kernwaffen und Sprengköpfen
+#### Transparenz der Bestände von Kernwaffen und Sprengköpfen
 
 Wir PIRATEN setzen uns für die Publikation der Bestände von militärischem Nuklearmaterial und Sprengkopfzahlen ein.
 
-15.6.2.6 Verzicht des Ersteinsatzes von Nuklearwaffen
+#### Verzicht des Ersteinsatzes von Nuklearwaffen
 
 Wir PIRATEN setzen uns für einen bedingungslosen Verzicht auf den Ersteinsatz von Kernwaffen ein.
 
-15.6.2.7 Unterstützung des CTBT und FM(C) T Vertrages
+#### Unterstützung des CTBT und FM(C)T Vertrages
 
 Wir PIRATEN unterstützen alle Bemühungen, die das Inkrafttreten des CTBT (Comprehensive Test Ban Treaty/ Teststoppvertrag) fördern.
 Wir unterstützen auch alle Bemühungen, mit den Verhandlungen zum FM(C) T (Fissile Material Cutoff Treaty) zu beginnen.
 
-15.6.2.8 Förderung von Kernwaffenfreien Zonen
+#### Förderung von Kernwaffenfreien Zonen
 
 Auf dem Weg zu einer kernwaffenfreien Welt ("Global Zero") setzen uns wir PIRATEN für die Schaffung einer kernwaffenfreien Zone in Mitteleuropa und anderen Regionen weltweit als vertrauensbildende Maßnahme ein.
 
-15.7 Bildung im Globalen Süden stärken
+## Bildung im Globalen Süden stärken
 
 Wir fordern eine erhebliche Ausweitung der Ausgaben für die Bildung und Ausbildung von Menschen in schlecht entwickelten, armen Ländern oder Regionen in der Höhe von mindestens 10% des Haushaltes des Bundesministeriums der Verteidigung.
 Dies ist eine Querschnittsaufgabe aller Ministerien, die durch ihre Aufgabenstellung zu beteiligen sind und wird durch eine gemeinsame Stabsstelle umgesetzt.
 
-16 Wirtschaft und Finanzen
+# Wirtschaft und Finanzen
 
 16.1 Präambel
 
