@@ -1361,7 +1361,8 @@ D. h. die Strahlenbelastung und der Verbleib des Abraums müssen genau dokumenti
 
 # Bauen und Verkehr
 
-9.1 Unsere Ziele für die Zukunft von Stadtentwicklung und Mobilität - Unsere Vision
+### Unsere Ziele für die Zukunft von Stadtentwicklung und Mobilität - Unsere Vision
+
 Internet und der Klimawandel haben unsere Städte augenscheinlich bislang kaum verändert.
 Die Digitale Revolution im öffentlichen Raum beginnt jedoch gerade erst und der Klimawandel fordert neue umweltfreundliche Mobilität.
 Unsere Städte, Siedlungen und die Art, wie wir uns fortbewegen, werden sich zukünftig völlig verändern.
@@ -1380,7 +1381,7 @@ Neue Technologien und neue Mobilitätsanbieter rollen den Markt auf.
 Diese Veränderungen kommen sehr schnell und die Politik muss jetzt die Weichen für die moderne Verkehrswende stellen, um die Lebensqualität zu verbessern.
 Hierdurch kann die Stadt der Zukunft das Internet auf Lebensräume übertragen und endlich das Zeitalter der einseitig autogerechten Stadt überwinden.
 
-9.2 Sozial gerechte Bodennutzung
+### Sozial gerechte Bodennutzung
 
 Wir setzen uns für eine sozial gerechte Bodennutzung (SoBoN) ein.
 Ziel ist es, der aktuellen Wohnungsnot auf der einen Seite und der zunehmenden Verdrängung von erschwinglichem Wohnraum aus den attraktiven Innenstadt- oder Stadtteillagen entgegen zu wirken.
@@ -1391,7 +1392,7 @@ Um dieses Ziel zu erreichen, fordern wir daher eine bundesweite, angepasste, kom
 Flächenabtretungen für Erschließungsanlagen, Gemeinbedarf und Ausgleichsmaßnahmen; Kostenübernahmen der Herstellung, bzw. Herstellungskosten, der Erschließungen und der Ausgleichsmaßnahmen; Übernahme der Herstellungskosten der ursächlichen, sozialen Infrastruktur oder Ablöse dieser Pflicht durch anteiligen Finanzierungsbeitrag; Übernahme der Kosten für Planungen, Wettbewerbe und Gutachten; Bindungen für den geförderten Wohnungsbau:
 es sind grundsätzlich 30 Prozent des neu geschaffenen Wohnungsbaurechts ab einer festzulegenden Objektgröße für den geförderten Wohnungsbau zu verwenden; Verpflichtung zur Realisierung der Planungen innerhalb eines angemessenen Zeitraumes muss sichergestellt sein.
 
-9.3 Verkehrs- und Stadtentwicklung
+### Verkehrs- und Stadtentwicklung
 
 Ein erstmals klar definiertes, landesweites Mindestangebot von Bus und Bahn soll eine Pflichtaufgabe für jedes Bundesland und die Kommunen werden.
 Ein Netz aus Bussen, Bahnen, Car-Sharing und anderen frei zugänglichen Verkehrssystemen soll neben gut ausgebauten Pendlerrouten für Radfahrende die Verkehrsstruktur in den Städten bestimmen.
@@ -1399,7 +1400,7 @@ Andere Verkehrsflächen, vor allem für den PKW-Verkehr, müssen sich in den Leb
 
 Jahrzehntealte Ideen für Verkehrsprojekte von der Ortsumgehung bis zu nie gebauten Tunneln brauchen einen Realitätscheck, denn noch immer dominieren diese alten Pläne die langen Wunschlisten u.a. des Bundesverkehrswegeplans.
 
-9.4 Bürgerbeteiligung
+### Bürgerbeteiligung
 
 Die Bürgerbeteiligung darf nicht für die jahrzehntelange verfehlte Verkehrspolitik haften und nun einem Sanierungsdruck zum Opfer fallen.
 Die Antwort auf die Dringlichkeit großer Ersatzneubauten und Ersatzausbauten wie der BAB A1-Brücke bei Leverkusen darf nicht die Einschränkung der Bürgerbeteiligung sein.
