@@ -2387,8 +2387,7 @@ Diese Situation wollen wir durch folgende Punkte ändern:
   - Einführung und Erweiterung von Kontrollkompetenzen für Behörden und Pflegekassen gegenüber Pflegeheimen, Pflegediensten und Pflegepersonen.
   - Neu in Betrieb genommene Seniorenheime dürfen nur noch von gemeinnützigen Unternehmen betrieben werden und jegliche Gewinne müssen reinvestiert werden.
 
-13.12.3.
-Wissenschaftlich fundierter Personalschlüssel
+### Wissenschaftlich fundierter Personalschlüssel
 
   - Umsetzung des gesetzlichen Personalschlüssels in der Alten- und Krankenpflege, um eine menschenwürdige Pflege in vollstationären Einrichtungen und Krankenhäusern zu gewährleisten.
   - Der jeweils aktuelle Krankenstand muss bei der Berechnung des Personalschlüssels unbedingt Berücksichtigung finden.
