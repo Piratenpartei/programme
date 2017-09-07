@@ -3086,7 +3086,7 @@ Mittelfristig wollen wir jedoch mit dem "Recht auf sichere Existenz und gesellsc
 
 ### Betriebliche Mitbestimmung
 
-Wir PIRTEN treten für die stärkere Demokratisierung der Wirtschaft ein.
+Wir PIRATEN treten für die stärkere Demokratisierung der Wirtschaft ein.
 Dieser Prozess findet aber nicht nur auf der Ebene von Staat und Markt statt, sondern auch innerhalb einzelner Unternehmen.
 Das Arbeitsumfeld ist ein wesentlicher Teil des Lebensumfeldes, auf das Menschen einen angemessenen Gestaltungsanspruch haben, der letztendlich auch den Unternehmen zugute kommt.
 Wir werden daher die existierenden Mitbestimmungsrechte für Angestellte verteidigen und wo nötig weiter ausbauen.
