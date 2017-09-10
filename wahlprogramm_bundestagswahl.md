@@ -2583,9 +2583,7 @@ Um dieses Ziel zu erreichen, beziehen wir die psychiatrische und psychotherapeut
 Die Gesundheitspolitik hat die Ziele, medizinische und psychosoziale Hilfe zu gewährleisten, eine Behandlung zu garantieren, wo diese nötig ist, und die Gesundheit der Menschen zu erhalten.
 Deshalb setzen wir uns für eine psychiatrische und psychotherapeutische Versorgung der Menschen in der Deutschland ein, die die Bedürfnisse der Patientinnen und Patienten in den Mittelpunkt stellt.
 
-Wir PIRATEN fordern darüber hinaus den zielgerichteten und zeitnahen Ausbau der
-
-gemeindenahen psychiatrischen Versorgung, eine inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen sowie eine deutliche Verbesserung der rechtlichen Situation von Menschen mit psychischen Störungen.
+Wir PIRATEN fordern darüber hinaus den zielgerichteten und zeitnahen Ausbau der gemeindenahen psychiatrischen Versorgung, eine inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen sowie eine deutliche Verbesserung der rechtlichen Situation von Menschen mit psychischen Störungen.
 
 #### Gesundheitliche Aufklärung
 
