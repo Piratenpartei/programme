@@ -3107,7 +3107,7 @@ Konkret heißt das, dass wir uns dafür einsetzen werden, die Rechte der Mensche
 ## Steuerpolitische Maßnahmen
 
   - Wiedereinführung einer Vermögenssteuer : PIRATEN setzen sich für die Wiedereinführung der Vermögenssteuer ein.
-    bei einem Freibetrag von 1 Mio. Euro pro Person wird ein Steuersatz von einem Prozent auf das den Freibetrag übersteigende Vermögen festgelegt.
+    Bei einem Freibetrag von 1 Mio. Euro pro Person wird ein Steuersatz von einem Prozent auf das den Freibetrag übersteigende Vermögen festgelegt.
   - Kapitalertragssteuersatz gleich Einkommensteuersatz : Kapitalerträge sind wie reguläres Einkommen zu versteuern
   - Spitzensteuersatz erhöhen: Der Spitzensteuersatz der Einkommensteuer soll ab einem Einkommen von 1 Mio. Euro auf 65 % erhöht werden
 
