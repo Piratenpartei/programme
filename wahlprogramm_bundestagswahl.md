@@ -216,7 +216,7 @@ Wir setzen uns für ein bedingungsloses Recht aller in Deutschland geborener Men
 Wir PIRATEN fordern die Wiederherstellung des ursprünglichen Art. 16a Abs. 1 GG ( "Politisch Verfolgte genießen Asylrecht") und die Streichung von Art. 16a Abs. 2-5 GG, die dieses Grundrecht einschränken.
 
 Hierzu gehört auch, die formelle Beantragung von Asyl bei den Botschaften und Generalkonsulaten Deutschlands zu ermöglichen.
-Auch Botschaften anderer Staaten, die sich um die Vertretung der Deutschlands in einzelnen Staaten kümmern, sind hier mit einzubeziehen.
+Auch Botschaften anderer Staaten, die sich um die Vertretung Deutschlands in einzelnen Staaten kümmern, sind hier mit einzubeziehen.
 Bei Annahme des Asylantrages sorgt Deutschland für den Transfer auf sein Hoheitsgebiet.
 
 Darüber hinaus müssen Menschen, die vor Diskriminierung, der Verfolgung aufgrund ihrer sexuellen oder geschlechtlichen Identität, vor Klima- und Umweltkatastrophen, aufgrund ihrer Zugehörigkeit zu einer ethnischen oder religiösen Gruppe oder wegen Existenzbedrohung durch Armut und Hunger geflohen sind, hier ebenfalls als asylberechtigt anerkannt werden.
