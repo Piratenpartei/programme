@@ -2427,6 +2427,12 @@ Wir werden uns dafür einsetzen, dass die wohnortnahe, flächendeckende Versorgu
 Wir fordern die Verpflichtung der Kliniken, der angestellten Hebamme Art und Umfang der abgeschlossenen Haftpflichtversicherung mitzuteilen, die Einrichtung eines steuerfinanzierten Fonds für Haftpflichthärtefälle für außerklinische und klinische Geburtshilfe, die Verkürzung der Verjährungsfrist auf 10 Jahre und die Festlegung einer Haftungsobergrenze, so dass z.B. Inflationsrisiken über die Zeit der Verjährungsfrist ausgeglichen sind.
 Außerdem unterstützen wir das Bestreben, die Ausbildung von Hebammen in Deutschland zu akademisieren, um den Berufsabschluss international vergleichbar zu machen und die Hebammenwissenschaft als Forschungsfeld voranzutreiben.
 
+### Fachkräfte schützen
+
+Die Fachkraftquote in der Heimpersonalverordnung oder entsprechenden Regelungen auf Landesebene darf nicht abgesenkt werden.
+Der Begriff "Fachkraft" in der Pflege soll gesetzlich geschützt und dem Begriff "Facharbeiter" gleichgestellt werden.
+Analog zum "Facharbeiter" sollen sich nur jene Pflegekräfte "Fachkraft" nennen und als solche arbeiten dürfen, die eine entsprechend mehrjährige erfolgreiche Ausbildung auf Grundlage entsprechender Berufsgesetze oder Rechtsverordnungen beurkundet bekommen haben.
+
 ## Drogen- und Suchtpolitik
 
 ### Neustart: Drogen- und Suchtpolitik
