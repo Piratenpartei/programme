@@ -2358,7 +2358,6 @@ Die Überlebenschancen von Patientinnen und Patienten hängen in Notfallsituatio
 Um die Bevölkerung besser in die Lage zu versetzen, in solchen Situationen richtig zu handeln, fordern wir Programme zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen.
 Ein angemessenes Verhalten in Notfallsituationen soll auch durch die Einrichtung und Förderung von Schulsanitätsdiensten auf freiwilliger Basis in Schulen erleichtert werden.
 Unterstützend möchten wir die Verbreitung von Defibrillatoren im öffentlichen Raum fördern.
-Um nach Eintreffen des Rettungsdienstes jeder Patientin und jedem Patienten unabhängig von seinem Aufenthaltsort eine bestmögliche Erstversorgung zu gewährleisten, setzen wir uns für bundeseinheitliche Mindeststandards in der Ausstattung von Rettungswagen ein.
 
 ## Elektronische Gesundheitskarte
 
