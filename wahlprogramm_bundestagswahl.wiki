@@ -6,20 +6,6 @@
 <big> <big>'''Wahlprogramm zur Bundestagswahl 2017 der Piratenpartei Deutschland''' </big></big> <br> <br>
 
 
-<div class="noprint"> 
-<big> Programmgeschichte </big> <br>
-
-
-<big> Wahlprogramm in diversen Formaten: </big> <br>
-[https://www.piratenpartei.de/files/2017/08/Wahlprogramm-BTW2017.pdf Adobe-Reader-Format]</big> <br>
-
-Weitere Formate unter [https://www.piratenpartei.de/mission/wahl-und-grundsatzprogramme/wahlprogramm-btw2017/ eBook Kindle-Reader ODT DOCX]</big> <br>
-
-<big> Wahlprogramm barrierefrei als Audio-Version: [https://doku.lvbw-it.de/index.php/s/s9JtfzGQ2o77aBL mp3]</big> <br>
-
-<br>
-</div><!-- /noprint -->
-
 = '''Freiheit und Grundrechte''' =
  
 == Privatsphäre wahren, Datenschutz und informationelle Selbstbestimmung stärken ==
