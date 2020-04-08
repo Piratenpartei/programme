@@ -580,7 +580,7 @@ Wir PIRATEN setzen uns für einen freien Zugang zu Wissen ein. Dies betrifft ins
  
 Der technische Fortschritt schafft neue Möglichkeiten, Wissen und Lernkonzepte international auszutauschen und gemeinsam weiter zu entwickeln. Um diese Chance zu nutzen, unterstützen wir freie und offene Lehr- und Lernmaterialien (OER). Wir PIRATEN setzen uns für die Entwicklung und den Einsatz solcher Materialien ein. Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision in die Bildungsrealität zu übertragen.
 
-====OER - Freie Bildungsmaterialien im Hochschulbereich=====
+====OER - Freie Bildungsmaterialien im Hochschulbereich====
  
 Bildungspolitik macht in einer globalisierten Welt nicht an Staatsgrenzen halt.Wir PIRAEN setzen uns für den Einsatz von frei zugänglichen und frei nutzbaren Bildungsressourcen (OER = Open Educational Resources) ein und spricht sich für eine Orientierung an den UNESCO-Richtlinien für die Hochschulbildung aus.
 
