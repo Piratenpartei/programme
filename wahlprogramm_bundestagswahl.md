@@ -804,8 +804,6 @@ Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision i
 
 #### OER - Freie Bildungsmaterialien im Hochschulbereich
 
-\=
-
 Bildungspolitik macht in einer globalisierten Welt nicht an Staatsgrenzen halt.
 Wir PIRAEN setzen uns für den Einsatz von frei zugänglichen und frei nutzbaren Bildungsressourcen (OER = Open Educational Resources) ein und spricht sich für eine Orientierung an den UNESCO-Richtlinien für die Hochschulbildung aus.
 
