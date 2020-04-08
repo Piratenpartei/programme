@@ -2603,7 +2603,7 @@ Wir PIRATEN sehen die Bundeszentrale für gesundheitliche Aufklärung (BZgA) als
 Wir sehen aber auch hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten.
 Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit psychischen Störungen ein gleichberechtigter Teil der Gesellschaft sind.
 
-\====Mehr psychiatrische Abteilungen an allgemeinen Krankenhäusern
+#### Mehr psychiatrische Abteilungen an allgemeinen Krankenhäusern
 
 Wir PIRATEN setzen uns dafür ein, den Ausbau von psychiatrischen Abteilungen in allgemeinen Krankenhäusern mit dem Ziel weiter fortzusetzen, dass alle Kreise und kreisfreien Städte im Sinne der gemeindenahen Psychiatrie mit psychiatrischen Abteilungen mit angeschlossenen Tageskliniken und psychiatrischen Institutsambulanzen versorgt werden.
 In Planungsregionen sollen durch Bettenabbau in allgemeinen Krankenhäusern frei werdende Bettenkapazitäten für die Errichtung von psychiatrischen Abteilungen mit entsprechend qualifiziertem Personal verwendet werden.
