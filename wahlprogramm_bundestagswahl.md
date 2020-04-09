@@ -1,6 +1,6 @@
-# Freiheit und Grundrechte
+## Freiheit und Grundrechte
 
-## Privatsphäre wahren, Datenschutz und informationelle Selbstbestimmung stärken
+### Privatsphäre wahren, Datenschutz und informationelle Selbstbestimmung stärken
 
 Wir PIRATEN setzen uns für einen starken Datenschutz und das Prinzip der informationellen Selbstbestimmung ein.
 Dies umfasst nicht nur die sparsame Erhebung, zweckgebundene Verarbeitung und Nutzung sowie die eingeschränkte Weitergabe von personenbezogenen Daten, sondern ebenso die Stärkung der Rechte des Einzelnen, grundsätzlich selbst über die Preisgabe und Verwendung personenbezogener Daten zu bestimmen.
@@ -12,7 +12,7 @@ Ohne Wissen der Betroffenen kann die wachsende Datenflut automatisiert zu Persö
 
 Damit auch in der Informationsgesellschaft die Privatsphäre gewahrt bleibt, streben wir die Umsetzung der folgenden Maßnahmen an:
 
-### Informationelle Selbstbestimmung stärken, Medienkompetenz fördern
+#### Informationelle Selbstbestimmung stärken, Medienkompetenz fördern
 
 Damit die effektive Anwendbarkeit des Grundrechtes auf informationelle Selbstbestimmung nach Art. 2 Abs. 1, Art. 1 Abs. 1 GG auch in Zukunft sichergestellt ist, fordern wir PIRATEN ein Datenschutzrecht, welches das im internationalen Vergleich hohe deutsche Schutzniveau nicht nur erhält, sondern ausbaut – auch nach der Überarbeitung des EU-Datenschutzrechtes.
 
@@ -27,7 +27,7 @@ Die Weitergabe von Daten an Dritte soll kommuniziert und begründet werden.
 Um im Sinne der informationellen Selbstbestimmung eine echte Wahlfreiheit bei der Nutzung des Internets zu garantieren, müssen alle Produkte und Dienstleistungen, die für die Verarbeitung personenbezogener Daten vorgesehen oder geeignet sind, datenschutzfreundlich voreingestellt sein (Privacy-by-Default).
 Datenschutz soll darüber hinaus von Anfang an in die Entwicklung neuer Kommunikations- und Informationstechniken eingebaut werden (Privacy-by-Design).
 
-### Datenschutzbehörden stärken
+#### Datenschutzbehörden stärken
 
 Wir PIRATEN setzen uns für eine Stärkung der Selbstständigkeit und der Kontroll- bzw. Sanktionsbefugnisse der Bundes- und Landesbeauftragten für Datenschutz sowie des Bundesamtes für Informationssicherheit ein, um gegenüber staatlichen und nicht-öffentlichen Stellen die Durchsetzbarkeit der Individuellen Datenschutzrechte zu verbessern, Missbrauch von personenbezogenen Daten zu verhindern und Schutzmaßnahmen vor Verlust oder Manipulationen sicherzustellen.
 
@@ -36,7 +36,7 @@ Die Kontrollbehörden müssen entsprechend ihren Aufgaben ausgestattet werden, d
 
 Für Unternehmen sowie öffentliche Stellen fordern wir darüber hinaus rechtlich anerkannte freiwillige Datenschutz- und Datensicherheitsprüfungen (Audits) sowie Zertifizierungen durch die unabhängigen Behörden.
 
-### Verantwortungsvollen Umgang mit Meldedaten sicherstellen, Datenhandel eindämmen
+#### Verantwortungsvollen Umgang mit Meldedaten sicherstellen, Datenhandel eindämmen
 
 Wir PIRATEN fordern ein Melderecht, das der besonderen Sorgfaltspflicht des Staates gegenüber den zwangsweise erhobenen Daten gerecht wird.
 Persönlichkeitsrechte müssen über den privatwirtschaftlichen Interessen von Unternehmen stehen.
@@ -51,7 +51,7 @@ Das Bundesdatenschutzgesetz (BDSG) muss entsprechend angepasst und um einem zwin
 
 Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten muss beendet und die im 15. Rundfunkänderungsstaatsvertrag (RÄStV) enthaltene Klausel zur Durchleuchtung der "individuellen Lebenssachverhalte" der Bürgerinnen und Bürger ersatzlos gestrichen werden.
 
-### Schluss mit Vorratsdatenspeicherung und Videoüberwachung
+#### Schluss mit Vorratsdatenspeicherung und Videoüberwachung
 
 Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten, auch bekannt als Mindest- und Höchstspeicherfrist sowie eine Ausdehnung der öffentlichen Videoüberwachung ab.
 
@@ -62,13 +62,13 @@ Grundsätzlich soll die Erhebung biometrischer Merkmale freiwillig erfolgen und 
 Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben.
 Ausweis- und Passdokumente müssen auch ohne biometrische Merkmale gültig sein – auch im Ausland.
 
-### Keine Einschränkungen beim Bargeldverkehr
+#### Keine Einschränkungen beim Bargeldverkehr
 
 Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen des Bargeldverkehrs ein.
 Wir sind der Meinung, dass alle Konsumentinnen und Konsumenten selbst entscheiden können müssen, ob und wo sie durch bargeldlose Zahlung Datenspuren hinterlassen und wo nicht.
 Die Bekämpfung von organisierter Kriminalität und Schwarzarbeit halten wir für ein ebenso schwaches Argument, wie es die Terrorismusbekämpfung für die Ausweitung flächendeckender Überwachungsmaßnahmen ist.
 
-### Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung
+#### Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung
 
 Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware aus.
 Sie verurteilt den kommerziellen Handel mit Überwachungssoftware, einschließlich Dienstleistungen für Überwachungssoftware.
@@ -80,15 +80,15 @@ Um aktiv gegen Überwachungssoftware vorzugehen, fordern wir eine gesetzliche Pf
 Des weiteren fordern wir die gesetzliche Pflicht zur Offenlegung des vollständigen Quellcodes von Überwachungssoftware.
 Die Offenlegung all dieser Informationen hat an die Öffentlichkeit zu geschehen, das bedeutet: nicht nur an ein parlamentarisches Kontrollgremium.
 
-### Keine PKW-Maut
+#### Keine PKW-Maut
 
 Eine PKW-Maut lehnen wir ebenfalls ab.
 Durch viele bislang vorgeschlagene Systeme zur Mauterfassung droht eine umfassende anlasslose Überwachung aller Autofahrerinnen und Autofahrer, sei es durch ein Kennzeichenscanning oder die ständige Positionsbestimmung von Fahrzeugen mithilfe von Satelliten.
 Auch die unverhältnismäßig hohen Verwaltungskosten und Nachteile für Grenzregionen im Land sprechen gegen eine PKW-Maut.
 
-## Überwachung
+### Überwachung
 
-### "Digitale Netzwerke" ins Grundgesetz
+#### "Digitale Netzwerke" ins Grundgesetz
 
 Wir PIRATEN setzen uns für die Erweiterung des Artikels 5 Abs. 1 GG um die zwei Worte "digitale Netzwerke" ein.
 Demnach hieße der neue Artikel 5 (1):
@@ -96,16 +96,16 @@ Demnach hieße der neue Artikel 5 (1):
 Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk, Film und digitale Netzwerke werden gewährleistet.
 Eine Zensur findet nicht statt."
 
-### Betroffene von Überwachungsmaßnahmen müssen informiert werden
+#### Betroffene von Überwachungsmaßnahmen müssen informiert werden
 
 Verdeckte Überwachungsmaßnahmen laden zum Missbrauch ein.
 Deswegen müssen Betroffene von staatlichen Abhör- und Überwachungsmaßnahmen grundsätzlich benachrichtigt werden.
 Die derzeitigen Regelungen zur Benachrichtigungspflicht sind aufgrund der zahlreichen Ausnahmen wirkungslos.
 Wir PIRATEN setzen uns daher dafür ein, dass die überwachende Behörde ohne Ausnahme alle ihr bekannten Betroffenen einer Überwachungsmaßnahme innerhalb einer festen, nicht verlängerbaren Frist benachrichtigen und über die erfassten Daten informieren muss.
 
-### Keine Bundes- oder Staatstrojaner
+#### Keine Bundes- oder Staatstrojaner
 
-#### Verdeckte Eingriffe in informationstechnische Systeme (z. B. Bundes- oder Staatstrojaner)
+##### Verdeckte Eingriffe in informationstechnische Systeme (z. B. Bundes- oder Staatstrojaner)
 
 Für uns PIRATEN sind verdeckte Eingriffe in informationstechnische Systeme durch den Staat nicht mit Grundrechten und Rechtsstaat vereinbar.
 Wir setzen uns daher für die Abschaffung der Befugnisse für staatliche Behörden zum Verwanzen solcher Systeme ein.
@@ -131,7 +131,7 @@ Wenn wir für die Abschaffung und Verhinderung solcher Eingriffe keine ausreiche
 
 Auch wenn alle diese Maßnahmen im Gesetz verankert werden, werden wir uns weiterhin konsequent für die Abschaffung und ein strafbewehrtes Verbot der verdeckten Eingriffe in informationstechnische Systeme einsetzen.
 
-### Schutz der Privatsphäre im Grundgesetz
+#### Schutz der Privatsphäre im Grundgesetz
 
 Wir PIRATEN setzen uns für die bedingungslose Bewahrung der Privatsphäre der Bürgerinnen und Bürger gegenüber staatlicher Überwachung in jedweder Form ein.
 Um dies zu erreichen streben wir die Abschaffung des großen Lauschangriffs sowie die Abschaffung der Eingriffe in das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis durch eine Grundgesetzänderung an.
@@ -139,17 +139,17 @@ Zur Abschaffung des großen Lauschangriffs sollen dazu konkret die Absätze 3 bi
 Zur Abschaffung der Eingriffe in das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis soll dazu konkret der Absatz 2 des Art. 10 Grundgesetz (GG) entfernt werden.
 Die Erfahrungen z. B. mit dem "Staatstrojaner" haben gezeigt, dass der Staat einen verantwortungsvollen Umgang mit Eingriffen in die Privatsphäre der Bürgerinnen und Bürger nicht gewährleisten kann und dass weiterhin kein Konzept für eine wirksame Kontrolle existiert.
 
-# Asyl und Migration
+## Asyl und Migration
 
-## Für eine solidarische Asylpolitik – Menschenrechte gelten für alle\!
+### Für eine solidarische Asylpolitik – Menschenrechte gelten für alle\!
 
-### Grundsätze
+#### Grundsätze
 
 Wir PIRATEN stehen für eine offene, freie und pluralistische Gesellschaft ein, in der verschiedene Kulturen, Weltanschauungen und Religionen friedlich gemeinsam leben können.
 Wir setzen uns deshalb für eine solidarische und menschenwürdige Asylpolitik ein, die am Wohl und Schutz der asylsuchenden Menschen interessiert ist und auf Instrumente zur Abschreckung, Isolation und Diskriminierung ausnahmslos verzichtet.
 Asylpolitik muss immer an humanitären und nicht an nationalstaatlichen oder wirtschaftlichen Interessen ausgerichtet sein.
 
-### Ursachenbekämpfung, Konfliktprävention
+#### Ursachenbekämpfung, Konfliktprävention
 
 Flucht- und Migrationsbewegungen und bewaffnete Konflikte haben Ursachen.
 Ziel unserer Politik ist es, frühzeitig Konfliktentwicklungen zu erkennen und diesen entgegenzuwirken.
@@ -163,7 +163,7 @@ Militärisches Eingreifen lehnen wir grundsätzlich ab.
 
 Ob in besonderen Einzelfällen wie organisiertem Völkermord ein Eingreifen unabwendbar ist, bedarf einer besonders sorgfältigen Abwägung und eines Beschlusses der Vereinten Nationen.
 
-### Migration, Wirtschaftsmigration
+#### Migration, Wirtschaftsmigration
 
 Wir erkennen an, dass Menschen aus den verschiedensten Gründen zu uns kommen und bei uns dauerhaft leben wollen.
 Den Umfang regelt ein Zuwanderungsgesetz, das auch angemessen berücksichtigt, dass die Ursachen für Migration unterschiedlich sind.
@@ -182,9 +182,9 @@ Mobilität umfasst dabei ein größeres Konzept als Migration alleine, denn sie 
 Wir setzen uns daher für eine mobilitätsfreundliche Visapolitik ein, die z. B. Lernen und Arbeiten von Menschen aus Drittstaaten erleichtert.
 Dieses Konzept muss auch auf europäischer Ebene etabliert und nationale Regelungen harmonisiert werden.
 
-### Für ein liberales Aufenthaltsrecht
+#### Für ein liberales Aufenthaltsrecht
 
-#### Erleichterung des Ehegattennachzugs
+##### Erleichterung des Ehegattennachzugs
 
 Die Familie steht laut Grundgesetz unter besonderem Schutz.
 Dennoch ist es für Ehegatten, die aus Nicht-EU-Ländern stammen, Pflicht, noch vor der Einreise nach Deutschland einen Sprachkurs Deutsch zu belegen und erfolgreich abzuschließen.
@@ -192,7 +192,7 @@ Wir PIRATEN sehen hierin vor allem eine Abschottungsmaßnahme gegenüber Ehegatt
 Wir fordern die Abschaffung der verpflichtenden Deutschkenntnisse noch vor der Einreise.
 Es ist vollkommen ausreichend, wenn nachziehende Ehegatten hier vor Ort Deutschkurse belegen.
 
-#### Legalisierung von Papierlosen
+##### Legalisierung von Papierlosen
 
 Wir brauchen eine intensivere Politik für Menschen, die sich ohne gültige Aufenthaltsgenehmigung in Deutschland aufhalten, um deren Recht- und Perspektivlosigkeit zu beenden.
 Dabei ist es wichtig, dass sowohl langfristige Konzepte entwickelt als auch kurzfristige Maßnahmen durchgeführt werden.
@@ -203,7 +203,7 @@ Bremen hat hierbei bereits Vorbildprojekte auf den Weg gebracht.
 Zudem fordern wir eine Initiative zur Legalisierung von Menschen, die sich ohne gültige Aufenthaltsgenehmigung in Deutschland befinden.
 Diese sollen eine unbefristete Aufenthalts- und Arbeitserlaubnis erhalten, um einen geregeltes Leben in Würde führen zu können.
 
-### Staatsangehörigkeit – mehrfach und durch Geburt
+#### Staatsangehörigkeit – mehrfach und durch Geburt
 
 Wir PIRATEN setzen uns für die Akzeptanz doppelter und mehrfacher Staatsangehörigkeiten ein, um die Hürde zur Annahme der deutschen Staatsangehörigkeit und des damit verbundenen Wahlrechts zu senken.
 Der Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht) entfällt.
@@ -211,7 +211,7 @@ Menschen, die seit langem in Deutschland leben, sollen unabhängig von wirtschaf
 Dies ist Teil des Integrationsprozesses, nicht dessen Ziel.
 Wir setzen uns für ein bedingungsloses Recht aller in Deutschland geborener Menschen, egal welcher Abstammung, auf die deutsche Staatsangehörigkeit ein.
 
-### Wiederherstellung des Rechts auf Asyl, Asylgründe erweitern und Hürden für Aufenthaltserlaubnis senken
+#### Wiederherstellung des Rechts auf Asyl, Asylgründe erweitern und Hürden für Aufenthaltserlaubnis senken
 
 Wir PIRATEN fordern die Wiederherstellung des ursprünglichen Art. 16a Abs. 1 GG ( "Politisch Verfolgte genießen Asylrecht") und die Streichung von Art. 16a Abs. 2-5 GG, die dieses Grundrecht einschränken.
 
@@ -226,7 +226,7 @@ Schutzsuchende haben ein Recht auf individuelle Prüfung ihrer Situation.
 Bei der Prüfung, ob eine Berechtigung zum Asyl vorliegt, ist im Zweifel zu Gunsten der Asylsuchenden zu entscheiden.
 Dabei ist auf diskriminierende und inhumane Beweisverfahren zu verzichten.
 
-### Grundrechte auf alle Menschen ausweiten
+#### Grundrechte auf alle Menschen ausweiten
 
 Das Grundrecht auf Asyl und die Inhalte der Genfer Konvention sind für uns nicht verhandelbar.
 Geflüchtete genießen den Schutz der Gemeinschaft und ihrer Institutionen.
@@ -240,7 +240,7 @@ Aktuell werden Asylsuchende in einem nicht hinnehmbaren Maße vom gesellschaftli
 Durch restriktive Vorschriften, wie z. B. die Residenzpflicht, wird ihre Bewegungsfreiheit massiv eingeschränkt und ein freizügiges, selbstbestimmtes Leben, ebenso wie die Beteiligung an politischen oder sozialen Veranstaltungen, nahezu unmöglich gemacht.
 Wir setzen uns dafür ein, dass Asylsuchenden die Möglichkeit gegeben wird, sich frei und unkontrolliert im gesamten Gebiet der Europäischen Union zu bewegen.
 
-### Offenere Grenzen statt der Festung Europa
+#### Offenere Grenzen statt der Festung Europa
 
 An den Außengrenzen der Europäischen Union wird seit Jahren eine zunehmende Abriegelung angestrebt und umgesetzt, die Flüchtenden den Zugang nach Europa immer stärker versperrt.
 Durch nationale Polizeibehörden, das Militär und private Sicherheitsunternehmen sowie die EU-Agentur für Grenzschutz werden Menschen gewaltsam am Betreten der EU gehindert und damit der Chance beraubt, durch einen Asylantrag Schutz in Europa zu finden.
@@ -253,11 +253,11 @@ Sie durchzuführen ist nicht die Aufgabe der Zivilgesellschaft.
 Wo dies geschieht, dürfen Rettende für ihre Zivilcourage weder behindert noch kriminalisiert werden.
 Wir kritisieren die momentane Praxis, immer neue Straftatbestände zu konstruieren, um Schutzsuchende zu inhaftieren.
 
-### Freie Wahl des Aufenthaltsortes für alle Menschen
+#### Freie Wahl des Aufenthaltsortes für alle Menschen
 
 Durch vermehrte technische Überwachung an den Grenzen, zunehmende Datensammlungen über einreisende Personen (z. B. "smart borders", EURODAC) und die Ausweitung polizeilicher Befugnisse wird deutlich, dass die Europäische Union nicht an der Aufnahme von schutzsuchenden Menschen interessiert ist, sondern auf Abschottung setzt.
 
-### Isolation beenden – menschenwürdige und dezentrale Unterkünfte schaffen\!
+#### Isolation beenden – menschenwürdige und dezentrale Unterkünfte schaffen\!
 
 Durch die Unterbringung in Lagern und Gemeinschaftsunterkünften, die zumeist einen maroden Zustand vorweisen und abgelegen von Stadtkernen liegen, sind Asylsuchende zu einem isolierten Leben gezwungen.
 Die prekäre Unterbringungssituation ist für die Betroffenen belastend und steht der Integration im Weg.
@@ -270,7 +270,7 @@ Wir halten diesen menschenunwürdigen Zustand für nicht länger hinnehmbar und 
 Wohnungen müssen hierfür dezentral organisiert werden, eine Abkehr von der bestehenden Lagerpraxis ist unabdingbar.
 Der Zugang zu Bildung, Kultur, Sprachkursen und neuen, modernen Kommunikationsmedien wie dem Internet muss barrierefrei und kostenfrei sichergestellt sein.
 
-### Faires Asylverfahren schaffen – Behördengänge vereinfachen, rechtsstaatliches Asylverfahren sicherstellen
+#### Faires Asylverfahren schaffen – Behördengänge vereinfachen, rechtsstaatliches Asylverfahren sicherstellen
 
 Allen Menschen, die in Deutschland einen Asylantrag stellen, muss genügend Zeit gegeben werden, die auf der Flucht und im Herkunftsland erlebten Geschehnisse zu verarbeiten.
 Dafür muss gewährleistet sein, dass Asylsuchenden eine psychologische Betreuung gestellt wird, die sie dabei unterstützt und begleitet.
@@ -290,7 +290,7 @@ Die Regierung hat sich in dieser Frage ihrer Verantwortung zu stellen und das Ve
 Forderungen nach schnelleren Abschiebungen halten wir hingegen für gefährlichen Populismus.
 Der Rechtsweg muss für die Beteiligten ebenso gewahrt bleiben wie die Gründlichkeit des rechtsstaatlichen Verfahrens.
 
-### Für ein Ende von Abschiebungen und Abschiebehaft
+#### Für ein Ende von Abschiebungen und Abschiebehaft
 
 Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insbesondere zwischen dem 15. November eines Jahres und dem 15. März des Folgejahres ein.
 Eine Rückführung zieht in vielen Herkunftsländern eine zusätzliche Gefahr für Leib und Leben nach sich.
@@ -302,7 +302,7 @@ Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung si
 Die Abschiebehaft ist sofort bundesweit auszusetzen.
 Inhaftierte Personen sind sofort zu entlassen.
 
-### Echte Existenzsicherung statt diskriminierender Sondergesetze
+#### Echte Existenzsicherung statt diskriminierender Sondergesetze
 
 Das Urteil des Bundesverfassungsgerichts zum "Asylbewerberleistungsgesetz" ist eindeutig und zeigt, dass es verfassungswidrig ist, Asylsuchende unter dem "Existenzminimum" zu halten.
 Dies zeigt, wie stark Asylsuchende bereits durch die Gesetzgebung in ihrem Alltag diskriminiert und eines selbstbestimmten Lebens beraubt werden.
@@ -310,32 +310,32 @@ Dies zeigt, wie stark Asylsuchende bereits durch die Gesetzgebung in ihrem Allta
 Wir setzen uns dafür ein, dass Asylsuchende Anspruch auf Sozialleistungen haben, ohne dabei diskriminierende Sondergesetzgebungen unterstellt zu werden.
 Das Recht auf sichere Existenz und Teilhabe muss für alle Menschen gelten – auch und besonders für Schutzsuchende.
 
-### Finanzierung zur Versorgung der aufgenommenen Geflüchteten
+#### Finanzierung zur Versorgung der aufgenommenen Geflüchteten
 
 Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöhten Aufkommens geflüchteter Menschen ab.
 Es ist nicht vermittelbar, dass deutsche Unternehmen am Waffenexport in Krisenregionen verdienen und damit Fluchtursachen schaffen, die Bürgerinnen und Bürger aber wie bei der Bankenrettung die Zeche zahlen müssen.
 Wir setzen uns daher für eine Zusatzbesteuerung aller in Deutschland hergestellten Waffen und anderer Kriegsmittel ein.
 
-## Migration
+### Migration
 
-### Für eine moderne, weltoffene Verwaltung
+#### Für eine moderne, weltoffene Verwaltung
 
 Um eine vernünftige Gesellschaftspolitik zu gewährleisten, müssen die zuständigen Akteure über finanzielle Ausgestaltung und ausreichende Unabhängigkeit verfügen.
 
-#### Unabhängigkeit und Kompetenz für die zuständigen Akteure
+##### Unabhängigkeit und Kompetenz für die zuständigen Akteure
 
 Wir fordern eine Stärkung des für Migrationsfragen zuständigen Staatsministeriums oder die Schaffung eines eigenen Bundesministeriums für Integrationsangelegenheiten, um die derzeit fragmentierten integrationspolitischen Aufgaben zu bündeln.
 Dabei werden die Verantwortungsbereiche unter den Ministerien des Innern, Arbeit und Soziales und Familie, Senioren, Frauen und Jugend zu einem Bereich zusammengeführt.
 Integrationspolitik muss stringent und kohärent in einer Hand liegen.
 
-#### Abschaffung des Mehr-Klassen-Systems auf dem Arbeitsmarkt
+##### Abschaffung des Mehr-Klassen-Systems auf dem Arbeitsmarkt
 
 Wir wollen eine Mehr-Klassen-Situation auf dem Arbeitsmarkt beenden.
 Diskriminierungsmaßnahmen jeder Art stellen unnötige und unangemessene Hürden für die Menschen dar, schaffen unnötige Bürokratie für Arbeitgeberinnen und Arbeitgeber und behindern die Entwicklung der Wirtschaft.
 Wir setzen uns dafür ein, die gesetzliche Schlechterstellung von Menschen aus Nicht-EU-Staaten auf dem Arbeitsmarkt abzuschaffen.
 Außerdem soll die europaweite Übertragbarkeit von Sozial- und Rentenleistungen gefördert werden.
 
-#### Anerkennung ausländischer Berufs- und Schulabschlüsse und Fähigkeiten
+##### Anerkennung ausländischer Berufs- und Schulabschlüsse und Fähigkeiten
 
 Durch die mangelnde Bereitschaft, ausländische Abschlüsse anzuerkennen, werden zum Teil hochqualifizierte Menschen an der Ausübung ihres erlernten Berufes oder an der Durchführung notwendiger Weiterbildungsmaßnahmen gehindert.
 Wir setzen uns für die Erleichterung der Anerkennung ausländischer Diplome und Zertifizierungen ein.
@@ -345,29 +345,29 @@ Für die Anerkennung von nicht formalisierten beruflichen Erfahrungen, Qualifika
 So könnte es zum Beispiel möglich sein, durch eine Prüfung vor den Industrie- und Handelskammern oder Handwerksinnungen eine der Berufsausbildung gleichwertige Zertifizierung zu erhalten.
 Wir setzen uns ein für diskriminierungsfreie Prüfinhalte, die interkulturelle Kompetenz und Mehrsprachigkeit wertschätzen.
 
-### Gegen Diskriminierung und für Toleranz
+#### Gegen Diskriminierung und für Toleranz
 
 Wir sprechen uns dagegen aus, verschiedene gesellschaftliche Gruppen gegeneinander auszuspielen und dabei die Kriminalisierung von ganzen Volksgruppen mutwillig in Kauf zu nehmen.
 Toleranz muss gleichzeitig Grundlage und Ziel des politischen Handelns sein.
 Die Bundesrepublik Deutschland muss sich ihrer Rolle als ausgleichender Faktor in der Mitte Europas stellen und ihrer historischen Verantwortung gerecht werden.
 
-#### Freier Zugang zu Deutschkursen
+##### Freier Zugang zu Deutschkursen
 
 Zur Zeit wird die Kursgebühr für die verpflichtenden Deutschkurse für Zuwanderinnen und Zuwanderer bis zum Sprachniveau B1 übernommen, wenn diese nicht in der Lage sind, die Kursgebühr aufzubringen (z. B. ALG II beziehen).
 Dieses Sprachniveau reicht gerade aus, um einfachen Berufstätigkeiten nachzugehen.
 Für ein Studium jedoch ist zum Beispiel das höhere Niveau C2 Voraussetzung.
 Wir fordern, dass die Sprachkurse generell kostenfrei sind, um Inklusionsbarrieren abzubauen oder dass zumindest die Kursgebühren für Bedürftige auch für weiterführende Kurse übernommen werden.
 
-# Sportpolitik
+## Sportpolitik
 
-## Piraten für Fanrechte
+### Piraten für Fanrechte
 
 Wir PIRATEN setzen uns für die Wahrung der Rechte von Fans und für einen sachlichen Dialog auf Augenhöhe zwischen allen Interessengruppen beim Fußball und anderen Sportarten ein.
 
 Der derzeitige Druck der Innenminister des Bundes und der Länder sowie der Polizeibehörden auf die Verbände, repressive Maßnahmen gegen große Teile der Fanszenen neu zu schaffen oder bestehende zu verschärfen, muss gestoppt werden.
 Die Verfolgung und Sanktionierung von Straftaten muss im gesetzlichen Rahmen von der Polizei durchgeführt werden, statt sie in das Vereinsrecht zu verlagern, wo Mittel und Verfahren rechtsstaatlichen Ansprüchen nicht genügen.
 
-### Gegen Kollektivstrafen
+#### Gegen Kollektivstrafen
 
 Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen und Pläne, dieses Vorgehen gesetzlich zu legitimieren, lehnen wir entschieden ab.
 
@@ -375,7 +375,7 @@ Ebenso sehen wir keine Rechtsgrundlage für die Versuche einiger Vereine, hohe S
 
 Ein friedliches und respektvolles Miteinander ist nur ohne solche Drohkulissen möglich, die für die überwiegend jugendlichen Betroffenen langfristig stark negative Folgen haben.
 
-### Gewalttäter Sport
+#### Gewalttäter Sport
 
 Die Datei " Gewalttäter Sport" ist eine von der Zentralen Informationsstelle Sporteinsätze geführte Datei, in der Informationen zu Personen gesammelt werden, deren Personalien im Rahmen von Sportveranstaltungen – meistens beim Fußball – erfasst wurden.
 
@@ -389,12 +389,12 @@ Bei Unschuld oder Einstellung des Verfahrens wegen Geringfügigkeit muss der Ein
 
 Um den Betroffenen das Beschreiten des Rechtsweges zu ermöglichen, müssen diese direkt nach der Eintragung schriftlich unter Angabe aller gespeicherten Daten informiert werden.
 
-### Keine Einschränkungen der Freiheit der Person
+#### Keine Einschränkungen der Freiheit der Person
 
 Wir PIRATEN sprechen uns gegen die Praxis vieler Polizeibehörden aus, Fans ohne richterliche Anordnung mit sogenannten Bereichsbetretungsverboten oder Ausreiseverboten zu belegen, sowie gegen Bestrebungen, dies bundesweit zu ermöglichen.
 Diese Einschränkung der Grundrechte der Betroffenen ist für uns nicht hinnehmbar.
 
-### Stadionverbote
+#### Stadionverbote
 
 Derzeit werden insbesondere vom Deutschen Fußball-Bund (DFB) bundesweite Stadionverbote häufig auf Verdacht ausgesprochen, ohne dass die Betroffenen sich zur Sache äußern könnten.
 Dies hat nicht selten große soziale Folgen, gerade für jene Betroffenen, die im Stadion einen ihrer Lebensmittelpunkte haben.
@@ -408,12 +408,12 @@ Liegen die Ursachen des Fehlverhaltens des Fans außerhalb des Stadions, verlage
 Hooligans und organisierte Gewalttäter werden durch Stadionverbote nicht von der Begehung von Straftaten außerhalb der Stadien abgehalten.
 Hier muss zur Gewaltprävention die Arbeit der Fanprojekte und Fanbeauftragten unterstützt werden, um zu verhindern, dass Jugendliche in die Hooliganszenen abdriften.
 
-### Einlasskontrollen
+#### Einlasskontrollen
 
 Bei den Einlasskontrollen zu den Stadien ist unbedingt darauf zu achten, dass die Würde der Stadionbesucher gewahrt bleibt.
 Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme, die in keinem Verhältnis zu den zu verhindernden Ordnungswidrigkeiten stehen und lehnen diese entschieden ab.
 
-### Pyrotechnik
+#### Pyrotechnik
 
 Wir PIRATEN setzen sich dafür ein, den kontrollierten Einsatz von Pyrotechnik durch Fans, dort wo es die lokalen Gegebenheiten zulassen, zu ermöglichen.
 
@@ -427,18 +427,18 @@ Dort wo der Einsatz von Pyrotechnik durch Fans möglich ist, z. B. in Norwegen o
 
 Wir fordern daher, dass der DFB den 2011 begonnenen Dialog zur Legalisierung von Pyrotechnik wieder aufnimmt und die Politik parallel die rechtlichen Voraussetzungen dafür schafft, dies zu ermöglichen.
 
-# Demokratie wagen
+## Demokratie wagen
 
-## Wahlrecht
+### Wahlrecht
 
-### Einführung von offenen Listen, Kumulieren und Panaschieren
+#### Einführung von offenen Listen, Kumulieren und Panaschieren
 
 Die Bürgerinnen und Bürger sollen bei Bundestagswahlen mehr Einfluss darauf erhalten, welche Personen und Parteien sie im Parlament vertreten.
 
 Wir PIRATEN sind für "offene Listen", damit die Wählenden mit ihren Zweitstimmen für konkrete Listenbewerber stimmen können.
 Die Reihenfolge der Kandidaten, die die jeweilige Partei zuvor bestimmt hat, soll nicht mehr unveränderlich sein.
 
-### Absenkung des Wahlalters
+#### Absenkung des Wahlalters
 
 Das Durchschnittsalter der Wahlberechtigten steigt.
 Dies führt dazu, dass Diejenigen, die am längsten die Auswirkungen der politischen Entscheidungen zu tragen haben, in ihren politischen Teilnahmemöglichkeiten eingeschränkt sind.
@@ -446,26 +446,26 @@ Wir PIRATEN wollen die politische Beteiligung von Kindern und Jugendlichen förd
 Das aktive Wahlrecht soll auf 14 Jahre gesenkt werden.
 Politisch interessierte Kinder und Jugendliche sind sich der Verantwortung bewusst, die mit einer Wahl verbunden ist.
 
-### Für die Teilhabe aller Menschen
+#### Für die Teilhabe aller Menschen
 
 Wir PIRATEN setzen uns für die Teilhabe aller Menschen am gesellschaftlichen und politischen Leben ein.
 Dabei darf die Herkunft keine Vorbedingung für die Möglichkeit der Beteiligung spielen.
 Es ist wichtig, dass jeder Mensch auf die Politik, von der er direkt betroffen ist, Einfluss nehmen kann.
 
-#### Wahlrecht und Bürgerbeteiligung für alle Menschen
+##### Wahlrecht und Bürgerbeteiligung für alle Menschen
 
 Das Wahlrecht ist ein wichtiges Teilhaberecht.
 Wir PIRATEN setzen uns für das gleiche kommunale Wahlrecht für Nicht-EU-Bürger wie für EU-Bürger ein, unabhängig von ihrer Staatsangehörigkeit.
 Auch die Beteiligung an weiteren politischen Prozessen, zum Beispiel Volksbegehren, -initiativen und -entscheiden, sowie das Einbringen und Unterzeichnen von Petitionen, soll unabhängig von der Staatsangehörigkeit möglich sein.
 
-#### Stärkung der Interessenvertretung aller Menschen
+##### Stärkung der Interessenvertretung aller Menschen
 
 Solange Menschen vom Wahlrecht ausgeschlossen sind, setzen wir uns für die Stärkung von demokratisch gewählten, mit ausreichenden Ressourcen ausgestatteten Kommunalen Ausländervertretungen zur Artikulation der eigenen Interessen ein.
 Auch die Ausländerbeiräte und Integrationsbeiräte auf allen Ebenen sollen als Interessenvertretung finanziell und personell gestärkt werden.
 
-## Bürgerbeteiligung
+### Bürgerbeteiligung
 
-### Direkte Demokratie
+#### Direkte Demokratie
 
 Wir PIRATEN wollen die direkten und indirekten Mitbestimmungsmöglichkeiten eines jeden Einzelnen steigern.
 Die Bürgerinnen und Bürger sollen in Volksabstimmungen direkt über Gesetze entscheiden können und so Verantwortung übernehmen:
@@ -476,14 +476,14 @@ Die Bürgerinnen und Bürger sollen in Volksabstimmungen direkt über Gesetze en
   - Wir unterstützen die Ergänzung der Europäischen Bürgerinitiative durch unionsweite Bürgerbegehren und Bürgerentscheide im Bereich der EU-Gesetzgebung.
   - Alle Verfahrenshürden müssen für die Bürgerinnen und Bürger bei angemessenem Aufwand überwindbar sein.
 
-### OPENANTRAG für den Bundestag
+#### OPENANTRAG für den Bundestag
 
 Wir PIRATEN treten für mehr Bürgerbeteiligung und Transparenz an.
 OpenAntrag wird derzeit von vielen Mandatsträgern genutzt und unterstreicht diesen Anspruch.
 Die Beteiligung einer Fraktion der Piraten im Deutschen Bundestag an diesem Portal verdeutlicht den Bürgerinnen und Bürgern, dass ihre Ideen, Meinungen und Stimme nicht nur alle vier Jahre zur Wahl Bedeutung haben, sondern sie jederzeit ihre Anliegen einbringen können.
 In einer repräsentativen Demokratie hören ihnen die gewählten Abgeordneten zu und setzen sich für ihre Belange ein.
 
-### Eine offene Plattform zur Kommunikation mit den Vertretern im Parlament
+#### Eine offene Plattform zur Kommunikation mit den Vertretern im Parlament
 
 Wir werden die Anliegen der Menschen ins Parlament transportieren.
 So werden wir Politik und Gesellschaft verzahnen und zur Erhöhung der Wahlbeteiligung (zur Stärkung des Interesses an der parlamentarischen Demokratie) beitragen.
@@ -491,15 +491,15 @@ Dazu werden wir eine digitale Infrastruktur schaffen, mit der sich die Menschen 
 Auf dieser Plattform im Internet können Anträge an die Politik eingestellt, diskutiert und abgestimmt werden.
 Die Abgeordneten aller Parteien erhalten dann das Ergebnis und werden sich dazu äußern und ggf. Anträge ins Parlament einbringen.
 
-## Mitbestimmung
+### Mitbestimmung
 
-### Bürgerhaushalt
+#### Bürgerhaushalt
 
 Wir PIRATEN befürworten Bürgerbeteiligung in einer Vielzahl von geregelten und erprobten Formen:
 Bürgerinnen und Bürger sollen bundesweit ihre Meinung zur sinnvollen Verwendung von Investitionsgeldern sowie zu Einsparmaßnahmen im Bundeshaushalt äußern.
 Die Stellungnahmen sollen gewichtet werden und bei der Aufstellung des Haushalts durch den Bundestag Berücksichtigung finden.
 
-## Einführung bundesweiter Volksentscheide
+### Einführung bundesweiter Volksentscheide
 
 Es ist längst Zeit, das Versprechen des Artikels 20 des Grundgesetzes auch auf Bundesebene zu erfüllen, wonach die Bürgerinnen und Bürger die Staatsgewalt nicht nur in Wahlen, sondern auch in Abstimmungen ausüben.
 Die direkte Demokratie kann die Politik erheblich bereichern und die Politikverdrossenheit eindämmen.
@@ -509,55 +509,55 @@ Schließlich sollen Volksabstimmungen bei der Abgabe von Hoheitsrechten und bei 
 Diese drei Varianten, zu einer Volksabstimmung zu kommen, werden in der Schweiz seit vielen Jahren mit großem Erfolg angewandt.
 Die beschriebenen Unterschriftenzahlen, Fristen und Eintragungsmöglichkeiten orientieren sich an bewährten Hürden im In- und Ausland.
 
-### Einführung eines dreistufigen Verfahrens bei Initiativen aus dem Volk
+#### Einführung eines dreistufigen Verfahrens bei Initiativen aus dem Volk
 
-#### Volksinitiative
+##### Volksinitiative
 
   - 100.000 Stimmberechtigte unterschreiben in freier Sammlung für einen Gesetzentwurf oder eine Vorlage zu einem anderen Gegenstand der politischen Willensbildung (z. B. Handlungsaufforderung an die Bundesregierung).
   - Vertreterinnen und Vertreter der Volksinitiative haben das Recht auf Anhörung im Bundestag, im Bundesrat und in deren Ausschüssen.
   - Lehnt der Bundestag die Volksinitiative ab, kann ein Volksbegehren eingeleitet werden.
 
-#### Volksbegehren
+##### Volksbegehren
 
   - Halten die Bundesregierung oder ein Drittel der Mitglieder des Bundestages das Volksbegehren für grundgesetzwidrig, können sie das Bundesverfassungsgericht anrufen.
   - Ein Volksbegehren ist zustande gekommen, wenn es innerhalb von sechs Monaten mindestens eine Million, bei Grundgesetzänderungen mindestens zwei Millionen Stimmberechtigte unterzeichnet haben. Die Eintragung kann auf dem Amt und in freier Sammlung erfolgen.
 
-#### Volksabstimmung
+##### Volksabstimmung
 
   - Der Bundestag kann (gegebenenfalls mit Zustimmung des Bundesrates) eine eigene Vorlage beim Volksentscheid zur Abstimmung stellen.
   - Jeder Stimmberechtigte bekommt im Vorfeld eine Abstimmungsbroschüre mit den Stellungnahmen der Vertreter des Volksbegehrens sowie denen des Bundestages und Bundesrates.
   - Es entscheidet, wie bei Wahlen, die Mehrheit der abgegebenen Stimmen.
   - Gesetze, die der Zustimmung der Länder bedürfen, kommen zustande, wenn zusätzlich die Zahl der Bundesratsstimmen jener Länder, in denen eine zustimmende Mehrheit im Volksentscheid erreicht wurde, der im Bundesrat erforderlichen Mehrheit entspricht (bei Grundgesetzänderungen: Zweidrittel-Mehrheit).
 
-### Fakultatives Referendum
+#### Fakultatives Referendum
 
 Hat ein Volksbegehren ein parlamentarisch zustande gekommenes, aber noch nicht gegengezeichnetes und vom Bundespräsidenten ausgefertigtes Gesetz zum Gegenstand, so ist es zustande gekommen, wenn es 500.000 Stimmberechtigte innerhalb von drei Monaten unterschreiben.
 Ein solches Gesetz kann nur vorbehaltlich einer Annahme in dem so beantragten Volksentscheid in Kraft treten.
 
-### Obligatorisches Referendum
+#### Obligatorisches Referendum
 
 Die Übertragung von Hoheitsrechten (auf die EU oder andere zwischenstaatliche Einrichtungen) sowie Grundgesetzänderungen bedürfen der Zustimmung durch einen Volksentscheid.
 
-### Spendentransparenz
+#### Spendentransparenz
 
 Analog zum Parteiengesetz sollen Spenden oberhalb einer Bagatellgrenze, die zu Gunsten einer Initiative erfolgen, zeitnah offengelegt werden.
 
-### Information
+#### Information
 
 Eine ausgewogene Information der Öffentlichkeit über die Inhalte von Volksbegehren und Volksentscheiden ist zu gewährleisten.
 Vor dem Volksentscheid erhält jeder Stimmberechtigte eine Informationsbroschüre, in der die Initiative, der Bundestag und der Bundesrat ihre Auffassungen erläutern.
 Zur Förderung der öffentlichen Diskussion und zur Information der Öffentlichkeit im Vorfeld eines Volksentscheids erhält die Initiative eine staatliche Kostenerstattung.
 
-## Jugendparlament auf Bundesebene
+### Jugendparlament auf Bundesebene
 
 Wir PIRATEN setzen uns für die dauerhafte Verankerung eines Kinder- und Jugendparlaments auf Bundesebene ein.
 Die gewählten Jugendlichen und deren Beschlüsse müssen konkreten Einfluss auf laufende Beratungsprozesse im Bundestag haben können.
 Die Kinder- und Jugendparlamente sind Beratungsgremien mit Rede-, Antrags- und aufschiebendem Vetorecht, welche die Interessen der Kinder und Jugendlichen gegenüber den bei Bundestagswahlen gewählten Mandatsträgern vertreten.
 Die Kinder- und Jugendparlamente werden demokratisch durch alle im jeweiligen Wahlgebiet lebenden Kinder und Jugendliche, die das 21. Lebensjahr noch nicht vollendet haben, gewählt.
 
-# Internet, Netzpolitik und Artverwandtes
+## Internet, Netzpolitik und Artverwandtes
 
-## Netzneutralität stärken und gesetzlich verankern
+### Netzneutralität stärken und gesetzlich verankern
 
 Wir PIRATEN setzen uns für eine gesetzliche Festschreibung des neutralen Charakters der Datendurchleitung im Internet ein (Prinzip der Netzneutralität), um Informations-, Presse- und Meinungsfreiheit zu sichern und die Innovationsfähigkeit des Netzes zu erhalten.
 Die Netzneutralität muss bedingungslos ermöglicht werden\!
@@ -568,7 +568,7 @@ Der Zugang zum Netz ist jedoch von technischen und finanziellen Voraussetzungen 
 Wir sehen es im Rahmen der Daseinsfürsorge als eine essenzielle Aufgabe Deutschlands an, ein niederschwelliges Angebot an Internetzugangsmöglichkeiten zu verwirklichen und zu fördern.
 Zugang zum Internet ist im 21. Jahrhundert entscheidend für die Teilhabe des Einzelnen an der Gesellschaft und deren Mitgestaltung.
 
-## Mauer der digitalen Spaltung überwinden
+### Mauer der digitalen Spaltung überwinden
 
 Die immer schneller werdende technische Entwicklung hat in den letzten Jahren dazu geführt, dass alltägliche Geräte und Technologien immer komplexer geworden sind.
 Diese erhöhte Komplexität führt zu einer immer größer werdenden digitalen Spaltung der Gesellschaft hinsichtlich des Verständnisses von Technik.
@@ -577,16 +577,16 @@ Nur so können sie ihre Grundrechte im 21 Jahrhundert wahrnehmen und an der Gese
 Wir PIRATEN setzen uns für kostenfreie, durch Deutschland geförderte Schulungsmöglichkeiten für alle interessierten Menschen ein, die die Möglichkeit bieten, die digitale Spaltung zu überwinden.
 Wir werden in Zusammenarbeit mit öffentlichen und gemeinnützigen Trägern sowie gemeinnützigen Vereinen flächendeckende Schulungsmöglichkeiten schaffen.
 
-## Bereitstellung von Internetzugängen
+### Bereitstellung von Internetzugängen
 
 Wir PIRATEN sorgen dafür, dass in Verantwortung Deutschlands in allen öffentlichen Einrichtungen flächendeckend mittels WLAN ein freier Internetzugang angeboten wird.
 Mit diesen Zugängen werden nicht nur die Informationsmöglichkeiten im öffentlichen Bereich verbessert, sie leisten auch einen Beitrag zur Steigerung der Wettbewerbsfähigkeit Deutschlands als Bildungs-, Wissenschafts- und Wirtschaftsstandort.
 Über die Bereitstellung hinaus ist die Vernetzung der Zugangspunkte untereinander umzusetzen und nach Möglichkeit in örtliche Freifunknetze einzubinden, um die Interaktion, den Wissens-, Meinungs- und Erfahrungsaustausch zwischen den Menschen zu ermöglichen.
 Telekommunikationsprovider werden dahingehend reguliert, dass die Datenvolumenbegrenzung von mobilen Internetverträgen ungültig ist.
 
-## Infrastruktur
+### Infrastruktur
 
-### Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle
+#### Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle
 
 Wir PIRATEN setzen uns dafür ein, ein staatlich finanziertes Trustcenter einzurichten, das jedem Menschen unabhängig vom Einkommen die Möglichkeit gibt, Dokumente und E-Mails für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren.
 
@@ -594,7 +594,7 @@ Die dafür notwendigen Zertifikate sollen deshalb für Privatpersonen (nicht jur
 
 Die Erstellung der Zertifikate hat so zu erfolgen, dass der Staat technisch nicht in der Lage ist, mit diesen Zertifikaten verschlüsselte Inhalte zu entschlüsseln (d. h. er darf keine Kenntnis der geheimen Schlüssel besitzen).
 
-### Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
+#### Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
 
 Einen Zwang zur Verwendung von amtlich erfassten Namen lehnen wir ab.
 Diese Praxis ist bereits nach entsprechender Gesetzgebung in Südkorea gescheitert.
@@ -602,11 +602,11 @@ Wir PIRATEN setzen uns dafür ein, den Benutzerinnen und Benutzern von sozialen 
 Genauso muss der anonyme Zugang zum Netz unmissverständlich gesetzlich garantiert sein.
 Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht aus Gründen etwaiger Sicherheit beschnitten werden.
 
-### Abschaffung des "Hackerparagraphen" § 202c StGB
+#### Abschaffung des "Hackerparagraphen" § 202c StGB
 
 Wir PIRATEN setzen uns für die vollständige Abschaffung des sogenannten "Hackerparagraphen" § 202c StGB ein, da er für erhebliche Rechtsunsicherheit sorgt und Tür und Tor für willkürliche Verfolgung im IT-Sicherheitsbereich tätiger Personen öffnet.
 
-## Schutz der Freiheit und Privatsphäre im Internet
+### Schutz der Freiheit und Privatsphäre im Internet
 
 Der unzureichende Datenschutz im Internet führt immer wieder zu Datenverlust, Datendiebstahl und Datenmissbrauch.
 Gleichzeitig gefährden Überwachungs-, Filter-, Sperr- und Löschmaßnahmen, die Internet-Diensteanbieter im Interesse privater Rechteinhaber einsetzen, den freien Meinungs- und Informationsaustausch im Internet.
@@ -620,7 +620,7 @@ Zur Stärkung des Datenschutzes und der Datensicherheit im Internet soll das Fer
 Die Internetnutzung soll vor staatlichen Einblicken ebenso gut geschützt werden, wie Telefone vor Abhören geschützt sind.
 Wir fordern außerdem, dass die Erstellung von Nutzerprofilen nur mit Einwilligung des Nutzers zugelassen werden darf, dass die Speicherfristen jedes Internetanbieters veröffentlicht werden und dass Nutzer besser vor unangemessenen, seitenlangen Datenverarbeitungs-Einwilligungsklauseln geschützt werden.
 
-## Freier Zugang zu öffentlichen Inhalten
+### Freier Zugang zu öffentlichen Inhalten
 
 Jahr für Jahr investiert die Allgemeinheit viele Milliarden Euro in die Erzeugung und Aufbereitung von Texten, Daten und Medien.
 Beispiele dafür sind die Ergebnisse der staatlich geförderten Forschung, die Produktionen der öffentlich rechtlichen Rundfunkanstalten und die Erzeugnisse von Kulturbetrieben und Bildungseinrichtungen sowie der öffentlichen Verwaltung.
@@ -650,7 +650,7 @@ Langfristig wird ein öffentlich zugängliches Bürgerinformations-Portal gescha
 Behörden und andere Institutionen werden angewiesen, ihre öffentlichen Daten dort einzustellen bzw. die eigenen Datenbanken an das Portal anzubinden.
 Das System muss umfangreiche Kategorisierungs-, Such- und Exportfunktionen sowie geeignete Programmierschnittstellen für automatisierte Anfragen bieten.
 
-### Freie Bildung und Forschung
+#### Freie Bildung und Forschung
 
 Im Bildungskontext muss die Mediennutzung für alle Bildungseinrichtungen frei von Urheberrechtsabgaben erfolgen können.
 Bildung ist ein viel zu wichtiges Gut, um es unnötig vielen Einschränkungen zu unterwerfen.
@@ -662,23 +662,23 @@ So soll etwa die Absurdität entfallen, dass nur so viele digitalisierte Kopien 
 Auch für wissenschaftliche Forschungseinrichtungen werden wir eine möglichst freie Mediennutzung ermöglichen.
 Forschung sollte ebenso wie Bildung möglichst wenigen Beschränkungen unterliegen – sei es die naturwissenschaftliche Forschung oder Forschung im Rahmen der Zeitgeschichte.
 
-### Forschung und Wissenschaft
+#### Forschung und Wissenschaft
 
 Forschung und Wissenschaft werden jährlich mit mehreren Milliarden Euro durch die öffentliche Hand gefördert und unterstützt.
 Deren Ergebnisse müssen somit im Anschluss auch der Öffentlichkeit in vollem Umfang zur Verfügung gestellt werden.
 Dies fördert die Verbreitung von Wissen und ermöglicht dessen konsequente Weiterentwicklung.
 Um wissenschaftlichen Verlagen ihre Arbeit weiter zu ermöglichen, könnte eine mögliche Sperrfrist hier höchstens ein halbes Jahr betragen.
 
-### Gemeinfreiheit aller amtlichen Werke
+#### Gemeinfreiheit aller amtlichen Werke
 
 Um einen transparenten Staat und transparente Behörden sowie die Nachvollziehbarkeit von behördlichen Abläufen zu fördern und zu verbessern, müssen alle amtlichen und von Ämtern in Auftrag gegebene Werke in Zukunft für die Bevölkerung ohne Einschränkungen nutzbar sein und sollen vom Urheberrecht generell ausgenommen werden.
 
 Nach unserem Willen soll dies auch für unveröffentlichte und behördeninterne Werke gelten, wenn wegen einer aktuellen politischen Situation ein besonderes öffentliches Interesse an diesen besteht.
 Auf diese Weise kann verhindert werden, dass das Urheberrecht bei behördeninternen Fehlern vorgeschoben werden kann, um missbilligte Dokumente zurückhalten zu können.
 
-# Bildung und Forschung
+## Bildung und Forschung
 
-## Präambel
+### Präambel
 
 Unsere Vision eines Bildungssystems baut auf einem positiven Menschenbild auf.
 Jeder Mensch hat das Recht auf freien Zugang zu Information und Bildung.
@@ -687,7 +687,7 @@ Bildung ist unser wichtigstes Gut für den Erhalt, die Weitergabe und die Vermeh
 Das Bildungssystem darf nicht auf den Arbeitsmarkt und die ökonomische Verwertbarkeit von Bildung ausgerichtet sein.
 Unsere Gesellschaft braucht Menschen, die kompetent und kritisch ihr Leben und ihre Aufgaben meistern und sich ihrer sozialen Verantwortung bewusst sind.
 
-## Finanzierung der Bildung
+### Finanzierung der Bildung
 
 Die Ausgaben im Bildungssektor liegen, gemessen am Bruttoinlandsprodukt, in der Bundesrepublik Deutschland seit Jahren unter dem OECD-Durchschnitt.
 Zu Recht wird diese Sparsamkeit an der falschen Stelle von der OECD gerügt.
@@ -700,11 +700,11 @@ Wir bestehen auf einer Besserstellung des gesamten Bildungssystems.
 Der freie Zugang zu steuerfinanzierten Bildungseinrichtungen muss unabhängig von Religionszugehörigkeit, Geschlecht und Einkommen der Eltern gewährleistet sein.
 Wir lehnen Bildungsgebühren jeglicher Art für steuerfinanzierte Bildungseinrichtungen kategorisch ab, da sie den Zugang zu Bildung einschränken.
 
-## Bildung hat keine Grenzen
+### Bildung hat keine Grenzen
 
 Um die Durchlässigkeit bei einem Wohnortwechsel, Ausbildungs- und Studienmöglichkeiten und berufliche Chancen zu erhöhen, sollen Bildungsziele und Bildungsabschlüsse bundesweit einheitlich gestaltet und grundsätzlich gleichwertig sein.
 
-## Frühkindliche Bildung
+### Frühkindliche Bildung
 
 Bildung beginnt mit der Geburt und hört nie auf, ein wichtiger Bestandteil des Lebens zu sein.
 Frühkindliche Bildung ist dabei von zentraler Bedeutung.
@@ -712,7 +712,7 @@ Alle Kinder müssen ungeachtet bestehender Unterschiede so gefördert werden, da
 Dazu braucht es gebührenfreie, flexible, bei Bedarf ganztägig und gut erreichbare Angebote in Krippen, Kindergärten und bei Tageseltern.
 Wir PIRATEN setzen uns für gleiche Förderungsmöglichkeiten öffentlicher und freier Träger ein.
 
-## Zeit für Bildung
+### Zeit für Bildung
 
 Persönlichkeitsentwicklung im frühkindlichen Bereich, in der Schule, aber auch in weiterführenden Bildungseinrichtungen braucht Zeit.
 Eine Einschulung im Primarbereich soll nicht vor Ende des 6 Lebensjahres erfolgen.
@@ -724,7 +724,7 @@ Erforderlich ist die Weiterentwicklung eines G9.
 
 Die Förderhöchstgrenze für das BAföG muss wegfallen, um das lebenslange Lernen zu fördern.
 
-## Digitalen Lernraum gestalten
+### Digitalen Lernraum gestalten
 
 Die Lebens- und Arbeitswelt ist stark von Informationstechnologie geprägt.
 Um diese zu verstehen, nicht nur nutzen zu können, sondern sie auch aktiv mitgestalten zu können, sind Kenntnisse der Informatik erforderlich.
@@ -737,7 +737,7 @@ Der Staat soll den kostenlosen Zugang zu allen öffentlichen Bildungseinrichtung
 
 Staatlich finanzierte Bildungsmaterialien sind gemeinfrei zu erstellen oder offen unter CC-BY-SA zu lizenzieren.
 
-## Teilhabe an Bildung
+### Teilhabe an Bildung
 
 Wir PIRATEN setzen uns dafür ein, dass Kinder, Jugendliche und alle Beteiligten einer Bildungseinrichtung die Möglichkeit bekommen, sich an Entscheidungsprozessen aktiv zu beteiligen.
 Kinder und Jugendliche sollen vor allem in ihrer eigenen Lebenswelt, wie z. B. in Kita, Schule, Jugendzentrum oder Politik, mitbestimmen können.
@@ -749,7 +749,7 @@ Jedes Kind soll barrierefrei eine Schule seiner Wahl besuchen können.
 Das Recht förderbedürftiger Kinder und deren Erziehungsberechtigter auf freie Wahl der Schulart soll bundeseinheitlich in allen Bundesländern gesetzlich festgeschrieben werden.
 Kostenfreie Lehr-, Lern- und sonstige Hilfsmittel, qualifiziertes Personal für Unterricht und Assistenzleistungen sowie technische Ausstattung auf aktuellem Stand müssen gewährleistet sein.
 
-## Berufsschule und Duale Ausbildung
+### Berufsschule und Duale Ausbildung
 
 Die berufliche Ausbildung nach dem Dualen System ist seit Jahrzehnten ein Garant für Fachkräfte und weltweit ein Vorbild.
 Bestrebungen, dieses System von der breiten und qualifizierten Grund- und Fachausbildung hin zu firmenspezifischen Anlern-Ausbildungen umzubauen, lehnen wir PIRATEN ab.
@@ -761,14 +761,14 @@ Berufsspezifische Kenntnisse und Fähigkeiten dürfen nicht als Voraussetzung zu
 Sie müssen vielmehr im Rahmen der Ausbildung vermittelt oder aufgefrischt werden.
 Versuche der Wirtschaft, Forderungen nach einer Ausbildungsplatzabgabe mit dem Argument fehlender geeigneter Bewerber abzuwehren, sehen wir kritisch.
 
-## Erwachsenenbildung
+### Erwachsenenbildung
 
 Im Zuge des Lebenslangen Lernens muss das Bildungssystem offen sein für den Erwerb neuer Kompetenzen und Fähigkeiten für alle Altersgruppen.
 Dabei sollte sich das Weiterbildungsangebot nicht primär an der besseren Verwertbarkeit auf dem Arbeitsmarkt ausrichten, sondern vor allem an den individuellen Bedürfnissen.
 Wir PIRATEN sehen daher die Pflicht, lebenslanges Lernen zu fördern: durch die Bereitstellung kostenfrei zugänglicher Lehrangebote, Lehrmaterials und der Möglichkeit, individuelles Coaching in Anspruch zu nehmen.
 Prüfungen und Kurse müssen sich flexibel an individuelle Lebensumstände anpassen, um mehr Menschen die Nutzung von Weiterbildungsangeboten zu ermöglichen.
 
-## Hochschule
+### Hochschule
 
 Unter der Vorgabe der internationalen Vergleichbarkeit der Abschlüsse wurde die Studienlandschaft in den letzten Jahren im Rahmen des Bologna-Prozesses tiefgreifend umgebaut.
 Die Verkürzung der Studiengänge geht einher mit oberflächlichem und verschultem Lernen und einer nicht hinnehmbaren Zahl von Studienabbrechern.
@@ -782,12 +782,12 @@ Aus diesem Grund lehnen wir PIRATEN kurzfristige Projektförderung ab und setzt 
 Wir PIRATEN fordern eine Anpassung des Urheberrechts:
 Lehrende und Lernende müssen den Spielraum und die Rechtssicherheit erhalten, mit urheberrechtlich geschütztem Material frei arbeiten zu können.
 
-### Unbegrenzte Arbeitsmöglichkeiten für Akademiker – Änderung des Wissenschaftszeitvertragsgesetzes (WissZeitVG)
+#### Unbegrenzte Arbeitsmöglichkeiten für Akademiker – Änderung des Wissenschaftszeitvertragsgesetzes (WissZeitVG)
 
 Wir PIRATEN sprechen uns dafür aus, § 2 Absatz 1 des Wissenschaftszeitvertragsgesetzes (WissZeitVG) zu streichen.
 Das WissZeitVG ist so zu überarbeiten, dass befristete Verträge mit nach oben offener Laufzeit für Wissenschaftlerinnen und Wissenschaftler auf Haushalts- und Drittmittelstellen vergeben werden können, ohne eine Maximalbeschäftigungsgrenze zu benennen.
 
-### Freier Zugang zu Bildung und Wissenschaft
+#### Freier Zugang zu Bildung und Wissenschaft
 
 Wir PIRATEN setzen uns für einen freien Zugang zu Wissen ein.
 Dies betrifft insbesondere den Zugang zu Bildungsressourcen (OER) und wissenschaftlichen Publikationen im Internet (open access).
@@ -795,14 +795,14 @@ Wir sehen in uneingeschränkten OER und open access eine Voraussetzung, allen Me
 Gerade die besten Bildungsressourcen und neuesten wissenschaftlichen Erkenntnisse müssen allen Menschen kostenfrei im Internet zugänglich sein.
 Darauf hat jeder Mensch ein Recht.
 
-#### OER (Open Educational Resources)
+##### OER (Open Educational Resources)
 
 Der technische Fortschritt schafft neue Möglichkeiten, Wissen und Lernkonzepte international auszutauschen und gemeinsam weiter zu entwickeln.
 Um diese Chance zu nutzen, unterstützen wir freie und offene Lehr- und Lernmaterialien (OER).
 Wir PIRATEN setzen uns für die Entwicklung und den Einsatz solcher Materialien ein.
 Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision in die Bildungsrealität zu übertragen.
 
-#### OER - Freie Bildungsmaterialien im Hochschulbereich
+##### OER - Freie Bildungsmaterialien im Hochschulbereich
 
 Bildungspolitik macht in einer globalisierten Welt nicht an Staatsgrenzen halt.
 Wir PIRAEN setzen uns für den Einsatz von frei zugänglichen und frei nutzbaren Bildungsressourcen (OER = Open Educational Resources) ein und spricht sich für eine Orientierung an den UNESCO-Richtlinien für die Hochschulbildung aus.
@@ -815,9 +815,9 @@ Wir fordern das Teilen von hochqualitativem Lern- und Lehrmaterial für eine nac
 
 Wir PIRATEN setzen uns für die Schaffung einer offenen digitalen Plattform zur Information, Verwaltung und Lehre für Universitäten und Schulen beispielsweise unter Federführung des Bundesministeriums für Bildung und Forschung ein.
 
-#### Freier Zugang zu allen aus Steuermitteln finanzierten Forschungsergebnissen (Open Access)
+##### Freier Zugang zu allen aus Steuermitteln finanzierten Forschungsergebnissen (Open Access)
 
-##### Förderung von Veröffentlichungen unter freier Lizenz
+###### Förderung von Veröffentlichungen unter freier Lizenz
 
 Zur Förderung von Veröffentlichungen wissenschaftlicher Ergebnisse nach dem Open-Access-Modell soll als Infrastrukturmaßnahme einer allgemeinen, nicht themenbeschränkten Open-Access-Zeitschrift nach dem Vorbild von PLOS One eine Anschubfinanzierung aus Bundesmitteln gewährt werden.
 Weiterhin soll ein Open Access-Fonds aus Bundesmitteln gebildet werden, der die von Forschern zu entrichtenden Publikationskosten in Open Access-Zeitschriften bis zu einem bestimmten Betrag übernimmt.
@@ -833,7 +833,7 @@ Die Literaturversorgung muss von den knappen Etats der wissenschaftlichen Einric
 Um ein Gleichgewicht zwischen Bibliotheken, Forschenden und Großverlagen herzustellen, bedarf es einer entschlossenen, institutionellen Förderung offener Publikationsformen, zum Beispiel durch Publikationsfonds.
 Sowohl Erstveröffentlichungen in elektronischen Medien als auch die Bereitstellung bereits publizierter Verlagswerke in frei zugänglichen Datenbanken sollen gleichberechtigt gefördert werden.
 
-##### Universitätsnahe Umsetzung
+###### Universitätsnahe Umsetzung
 
 Um die Anwenderfreundlichkeit und die Akzeptanz sowie die Verwendungsmöglichkeiten der digitalen Bibliotheken zu garantieren, ist es unerlässlich, einheitliche Softwareschnittstellen zu schaffen.
 Das gewährleistet eine Vernetzung der Bibliotheken zwischen den einzelnen Universitäten und Fachhochschulen, um die Verfügbarkeit und Auffindbarkeit von Wissen vor Ort zu erhöhen.
@@ -842,11 +842,11 @@ Jedoch sehen wir PIRATEN noch viel Verbesserungsbedarf in Bezug auf die Standard
 Daher setzen wir uns dafür ein, dass die Weiterentwicklung von Software für digitale Bibliotheken als Forschungsprojekt ausgeschrieben und möglichst universitätsnah umgesetzt wird.
 Das Ergebnis des Forschungsprojekts muss unter einer freien Lizenz stehen.
 
-##### Offene Dateiformate
+###### Offene Dateiformate
 
 Um die in den digitalen Bibliotheken gespeicherten Informationen nachhaltig verfügbar zu machen und die Unabhängigkeit von Interessengruppen sicherzustellen, sprechen wir PIRATEN uns für eine Nutzung offener Datenformate aus.
 
-##### Abbau von Zugangsbeschränkungen
+###### Abbau von Zugangsbeschränkungen
 
 Wir PIRATEN werden die Zugangsbeschränkungen für digitale Bibliotheken abbauen.
 Zurzeit finden sich in den digitalen Bibliotheken hauptsächlich Doktorarbeiten und vergleichbare Ergebnisse.
@@ -856,17 +856,17 @@ Viele junge Wissenschaftler kommen zu spät mit den digitalen Bibliotheken in Ko
 Da die Veröffentlichung in diesen Bibliotheken praktisch kostenfrei ist, braucht hier nicht gespart zu werden.
 Wir setzen uns für die Öffnung dieser Bibliotheken ein.
 
-### Open Access in der Entwicklungspolitik
+#### Open Access in der Entwicklungspolitik
 
 Wir PIRATEN haben erkannt, dass der freie Zugang und Austausch von Wissen ein elementarer Bestandteil der deutschen Entwicklungsarbeit sein muss.
 Deshalb fordern wir, dass alle entwicklungspolitischen Akteure, sobald sie finanzielle Mittel vom BMZ (Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung) beziehen, dazu verpflichtet sind, die Ergebnisse ihrer entwicklungspolitischen Projekte, deren Rohdaten sowie Gutachten, die sich auf die Effizienz und Effektivität der Projekte beziehen, gemäß den Maßstäben zur "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" (2003) zu veröffentlichen.
 Die Veröffentlichung geschieht über eine vom BMZ zu erstellende kostenfreie Internetplattform, auf der sich sämtliche Veröffentlichungen, sowohl nach Ländern, als auch nach Stichworten, durchsuchen lassen.
 
-## Patente und Markenrecht
+### Patente und Markenrecht
 
-### Konkrete Reformvorschläge für das Patentwesen
+#### Konkrete Reformvorschläge für das Patentwesen
 
-#### Grundlegendes
+##### Grundlegendes
 
 Patente sind Teil des gewerblichen Rechtsschutzes.
 Ihr Sinn besteht darin, dass Erfinder durch ein zeitlich begrenztes Monopol dazu ermutigt werden, ihre Erfindungen in einer Patentschrift zu veröffentlichen.
@@ -875,7 +875,7 @@ Gerade aktuell werden Patente eher als "Waffen" genutzt um Konkurrenz aus dem Ma
 Einige Unternehmen – sogenannte "Patenttrolle " – haben sich gar darauf spezialisiert Unternehmen mit innovativen Produkten mithilfe von Patenten und überteuerten Rechtsstreiten regelrecht zu erpressen.
 Wir PIRATEN setzen uns für eine Reform des aktuellen Patentrechts zugunsten von mehr Innovation und Freiheit ein.
 
-#### Patentierbare Erfindungen
+##### Patentierbare Erfindungen
 
 Neben klassischen technischen Erfindungen, gibt es Bestrebungen durch neue Gesetze oder Auslegung vorhandener Gesetze neue Arten von patentierbaren Erfindungen zu erschließen.
 Darunter befinden sich drei problematische Patentgegenstände, deren Auswirkungen in einem starken Missverhältnis zum Ziel der Offenlegung der Erfindung stehen.
@@ -894,14 +894,14 @@ Zuletzt sind in den letzten Jahren politische Forderungen nach Patenten auf "com
 Diese in einigen Ländern praktizierte Patentierung von einzelnen Aspekten von Computerprogrammen führt unweigerlich zum Sterben kleiner und mittlerer Softwareunternehmen, da Software besonders darauf angewiesen ist, bestimmte für den Nutzer leicht einprägsame und quasi-standardisierte Elemente zu nutzen.
 Software ist durch das Urheberrecht bereits ausreichend geschützt, ein Schutz durch Patente ist aus diesem Grund überhaupt nicht notwendig.
 
-### Kurzfristige Maßnahmen zur Verbesserung des Patentrechts
+#### Kurzfristige Maßnahmen zur Verbesserung des Patentrechts
 
-#### Patentlaufzeiten
+##### Patentlaufzeiten
 
 Während die Produktlebenszyklen sich in der Vergangenheit immer weiter verkürzt haben, sind die Patentlaufzeiten unverändert geblieben.
 Wir fordern im Laufe der Patentreform belastbare Erhebungen der Produktlebenszyklen der unterschiedlichen Branchen und die Verkürzung der Patentlaufzeiten im entsprechenden Maße.
 
-#### Gerichtskosten bei Patentstreitigkeiten vom Streitwert entkoppeln
+##### Gerichtskosten bei Patentstreitigkeiten vom Streitwert entkoppeln
 
 Die Streitwerte bei Patentverletzungsverfahren können schnell enorme Summen annehmen.
 Dies treibt die Gerichtskosten in die Höhe, was nicht zuletzt dem Geschäftsmodell vieler Patenttrolle entgegen kommt.
@@ -912,7 +912,7 @@ Patente stellen als gesetzlich garantierte Monopole große Anforderungen an die 
 Wenn der Gesetzgeber ein Patent garantiert, dann sind Gerichte im besonderen Maße dazu verpflichtet, diese zu überprüfen.
 Aus diesem Grund fordern wir PIRATEN, dass die Gerichtskosten bei Patentstreitigkeiten ausschließlich auf die tatsächlich entstandenen Kosten beschränkt sein müssen um die gerichtliche Überprüfung von Patenten ohne großes finanzielles Risiko zu ermöglichen.
 
-#### Nutzungsbindung von Patenten
+##### Nutzungsbindung von Patenten
 
 Wir PIRATEN fordern, dass ein erteiltes Patent nur dann gegen ein auf dem Markt befindliches Produkt durchsetzbar sein soll, wenn der Patentinhaber oder ein Lizenznehmer ein Bemühen um eine der Erfindung angemessene wirtschaftliche Nutzung glaubhaft machen kann.
 Dies soll zum einen der Praxis der Patenttrolle begegnen, die ausschließlich Patente horten, ohne ein Interesse an der Fertigung entsprechender Produkte zu haben.
@@ -921,7 +921,7 @@ Zum anderen erleichtert es das Problem von Preisen für Patentlizenzen.
 Als Monopolist hat der Patentinhaber derzeit große Freiheiten bei der Preisgestaltung für Patentlizenzen, besonders wenn er das Patent nicht selbst wirtschaftlich verwertet.
 Durch die Nutzungsbindung ergibt sich ein spieltheoretischer Zustand, der einem nicht-monopolistischen Markt zumindest ähnelt.
 
-#### Bekämpfung von wettbewerbswidrigem Patentmissbrauch
+##### Bekämpfung von wettbewerbswidrigem Patentmissbrauch
 
 Neben ihrem legitimen Nutzen werden Patente auch auf grob wettbewerbswidrige Weise zum Zwecke der Marktbeherrschung durch wenige große Unternehmen eingesetzt.
 In der Praxis räumen sich diese die Nutzung ihrer jeweiligen Patente häufig durch sogenannte "Kreuzlizenzierung" gegenseitig ein, während besonders kleinen Unternehmen der Zugang zur Patentnutzung und damit zum Markt verwehrt wird.
@@ -929,7 +929,7 @@ In der Praxis räumen sich diese die Nutzung ihrer jeweiligen Patente häufig du
 In den Fällen, in denen große Teile des Marktes ein Patent nutzen, es aber einem kleinen Teil verwehrt wird, soll das Kartellamt die Möglichkeit haben, den Sachverhalt zu prüfen.
 Im Falle von marktbeherrschendem Missbrauch des Patents soll die Möglichkeit bestehen, das Patent vorzeitig auslaufen zu lassen.
 
-#### Mittelfristige Demokratisierung des Patentvergabeprozesses
+##### Mittelfristige Demokratisierung des Patentvergabeprozesses
 
 Die Bewertung, ob ein beantragtes Patent erteilt werden soll, fällt häufig sogar Fachleuten schwer.
 Dieses Problem kann dadurch abgemildert werden, dass nicht nur einzelne Fachleute sondern die gesamte "Gemeinde" über die Vergabe von Patenten entscheidet.
@@ -937,7 +937,7 @@ Dieses Problem kann dadurch abgemildert werden, dass nicht nur einzelne Fachleut
 Mittelfristig soll deshalb jeder, der die entsprechenden überprüfbaren fachlichen Voraussetzungen hat, am Patentvergabeprozess mitentscheiden können.
 Dies fördert nicht nur die Transparenz der Patentvergabe, sondern wirkt auch der Vergabe von Trivialpatenten entgegen, deren Veröffentlichung keinen nennenswerten Nutzen, aber Probleme für die Volkswirtschaft bringen kann.
 
-#### Langfristige Aufgabe des Patentsystems zugunsten des wettbewerbsgetriebenen Fortschritts
+##### Langfristige Aufgabe des Patentsystems zugunsten des wettbewerbsgetriebenen Fortschritts
 
 Die positiven Aspekte der Veröffentlichung von Erfindungen durch Patente sind durchaus erfreulich, aber es stellt sich die Frage ob sie die Innovationsbremsung durch die zeitlichen Monopole rechtfertigen.
 Eine Wettbewerbssituation wirkt sich dagegen deutlich positiver auf die Innovation aus, da alle Unternehmen sich kontinuierlich verbessern müssen, um ihre Marktposition zu erhalten bzw. auszubauen.
@@ -946,15 +946,15 @@ Ein "Ausruhen" auf Patenten ist dann nicht mehr möglich.
 Aus diesem Grund ist unser Ziel, das Patentwesen langfristig durch andere Mechanismen zur Offenlegung von Erfindungen zu ersetzen, die ohne gesetzliche Monopole auskommen.
 Die Entwicklung solcher Modelle soll durch Deutschland und die Europäische Union aktiv voran getrieben werden.
 
-# Umwelt, Landwirtschaft, Tier- und Verbraucherschutz
+## Umwelt, Landwirtschaft, Tier- und Verbraucherschutz
 
-## Nachhaltigkeit
+### Nachhaltigkeit
 
 Wir PIRATEN setzen uns für eine ökologisch, ökonomisch und sozial nachhaltige Entwicklung ein.
 Darunter verstehen wir einen verantwortungsvollen und generationengerechten Umgang mit den zum allgemeinen Wohlergehen notwendigen Ressourcen immaterieller oder materieller Art.
 Wir fordern die Erweiterung des Grundgesetzes um einen Artikel 20b, in dem das Nachhaltigkeitsprinzip als Staatsziel mit der Formulierung "Der Staat beachtet bei seinem Handeln das Prinzip der Nachhaltigkeit" verankert wird.
 
-## Einführung eines Umweltgesetzbuches und Abschaffung des Bergrechts
+### Einführung eines Umweltgesetzbuches und Abschaffung des Bergrechts
 
 Fast 50 Jahre nach dem Erlass der ersten Umweltgesetze ist es an der Zeit, diese übersichtlich und transparent zusammenzufassen.
 Wir PIRATEN setzen uns für die Etablierung eines Bundesumweltgesetzbuches ein, in dem die relevanten Gesetze und Verordnungen analog zu den Sozialgesetzbüchern zusammengestellt werden.
@@ -963,9 +963,9 @@ Wir fordern die Abschaffung des Bergrechts.
 Das heute geltende Bergrecht steht in einer Tradition intransparenter, undemokratischer, obrigkeitsstaatlicher und autoritärer Gesetzgebungen, die bei Vorhaben wie Fracking, Braunkohletagebau und CCS (Carbon Capture & Storage) Grundrechte aushebeln und die ausstehende Neufassung der Umweltgesetzgebung verhindern.
 Die nötigen das Bergrecht ersetzenden Neuregelungen sollen in das zu schaffende Bundesumweltgesetzbuch aufgenommen werden.
 
-## Wasserwirtschaft
+### Wasserwirtschaft
 
-### Trinkwasser
+#### Trinkwasser
 
 Wasser ist ein kommunales Gut und muss jeder Bürgerin und jedem Bürger zur Verfügung stehen.
 Wir PIRATEN stehen für die Rekommunalisierung der Wasserversorgung ein, da sie als Infrastruktur der Grundversorgung dient.
@@ -975,19 +975,19 @@ Die Eigenwasserversorgung privater Haushalte soll grundsätzlich erlaubt sein.
 Sofern eine private Hauswasserversorgung möglich ist, lehnen wir einen Anschlusszwang an das kommunale Trinkwassernetz ab.
 Die Qualitätsprüfung ist eigenverantwortlich zu leisten.
 
-### Abwasser
+#### Abwasser
 
 Abwasser ist ein Wertstoff, und wir streben einen ressourcenschonenden Umgang mit den wertvollen Inhaltsstoffen an.
 Wir treten für die Abschaffung des Anschlusszwanges für häusliche Abwässer an das Abwassernetz ein, wenn die Einhaltung der Ablaufparameter nach der EU-Rahmenrichtlinie eigenverantwortlich sichergestellt wird.
 Industrielle und die von Krankenhäusern stammenden Abwässer sind geeignet vorzubehandeln.
 Vermischung mit häuslichen Abwässern ist zu vermeiden.
 
-### Gewässerschutz
+#### Gewässerschutz
 
 Die Wasserressourcen sind von Beeinträchtigungen freizuhalten.
 In allen Bereichen müssen Eingriffe in den Boden auf ihre Verträglichkeit mit dem Gewässerschutz hin überprüft und gegebenenfalls angepasst werden.
 
-## Landwirtschaft
+### Landwirtschaft
 
 Das Recht auf sauberes Wasser, saubere Luft, lebendige Böden und einen gemeinschaftlich organisierten Zugriff auf Naturressourcen ist Teil der universellen Menschen- und Bürgerrechte, in Deutschland auch abgedeckt durch Artikel 2 des Grundgesetzes.
 Dieses Recht ist der Maßstab, an dem gesellschaftliches Handeln zu bemessen ist.
@@ -995,7 +995,7 @@ Dieses Recht ist der Maßstab, an dem gesellschaftliches Handeln zu bemessen ist
 Der Weg zur richtigen Entscheidung ist ein Prozess, zu dem die offen geführte, sachorientierte Diskussion und Beteiligung aller Interessengruppen zählt.
 Erfolgreiche Landwirtschafts- und Umweltpolitik muss sich ständig am Möglichen und Erwünschten messen und Impulse für die Zukunft geben.
 
-### Nachhaltigkeit ist unser Maßstab
+#### Nachhaltigkeit ist unser Maßstab
 
 Wir PIRATEN stellen im Umgang mit der Natur die Verbesserung und den langfristigen Erhalt der natürlichen Ressourcen Boden, Wasser, Luft und Artenvielfalt der Tier- und Pflanzenwelt in den Mittelpunkt.
 In der Land- und Forstwirtschaft, dem Gartenbau und in der Fischereiwirtschaft ist daher ein Wandel notwendig.
@@ -1004,7 +1004,7 @@ Wo nachhaltige Bewirtschaftung in Ansätzen schon verwirklicht ist, muss sie unt
 Darüber hinaus stellen wir die Frage, welche sozialen und wirtschaftlichen Strukturen in diesem Sektor zu fördern oder ganz neu aufzubauen sind, damit Nachhaltigkeit sich durchsetzt.
 Eingebunden in die EU und Weltwirtschaft sind Nachhaltigkeitskriterien europa- und weltweit zu beachten und dürfen nicht an der Landesgrenze ausgeblendet werden (z.B. durch Torfimporte, Futtermittelimporte).
 
-### Lebendige Böden - Wertschätzung erhöhen
+#### Lebendige Böden - Wertschätzung erhöhen
 
 Fruchtbare Böden sind die Grundlage für Land- und Forstwirtschaft, für unsere Nahrungsmittel.
 Über komplexe Umsetzungsprozesse ermöglichen sie das Pflanzenwachstum in ihrem Gefüge aus Mineralien, organischen Stoffen und Bodenorganismen, aus Poren und wassergefüllten Kapillaren.
@@ -1014,14 +1014,14 @@ Sie haben die tragende Rolle für unsere Siedlungen, Industrie und Infrastruktur
 Wir PIRATEN setzen uns ein für die Wertschätzung von Böden mit ihren wichtigen Funktionen und deren Erhalt.
 Beeinträchtigungen (u.a. durch Schadstoffzufuhr, Überdüngung, Verdichtung, Humusverlust, Erosion, Torfabbau, Versiegelung, Spekulation auf Boden) sind keine Bagatellen, die einem kurzfristigen Wirtschaftserfolg untergeordnet werden können, sondern müssen aktiv ausgeräumt werden.
 
-### Saatgut - der Keim der Selbstbestimmung
+#### Saatgut - der Keim der Selbstbestimmung
 
 Wir PIRATEN setzen uns dafür ein, dass Saatgut allen, die es nutzen wollen, als Gemeingut zugänglich wird.
 Wir treten ein für den Erhalt und Weiterentwicklung der Sortenvielfalt samenfester Kulturpflanzen.
 Die Zulassung von Saatgut ist nach dessen Nutzen als Feld- oder Gartenfrucht und für die Ernährung zu bemessen.
 Sie wird bundesweit entzogen, wenn nachweislich Risiken für den Erhalt der Artenvielfalt, für das Bodenleben oder das Grundwasser bestehen.
 
-### Vielfalt und kurze Wege
+#### Vielfalt und kurze Wege
 
 Wir PIRATEN setzen uns ein für eine Landwirtschaft der Vielfalt.
 Regionale Besonderheiten sollen in der Unterschiedlichkeit von Erzeugnissen, Anbaumethoden, Tierhaltungsformen, Betriebsstrukturen und Bewirtschaftungsformen ihren Ausdruck finden und sich entwickeln können.
@@ -1029,19 +1029,19 @@ Einheitliche Standards werden dort festgeschrieben werden, wo sie für die Gesun
 Wir unterstützen eine Landwirtschaftspolitik, die kurze Wege zur Versorgung der Bevölkerung sucht, und zwar vom Erzeuger über den Verarbeiter, Vermarkter bis hin zum Verbraucher, damit auch die Kette der Wertschöpfung innerhalb einer möglichst eng umgrenzten Region bleibt.
 Sie nutzt und fördert die Kenntnisse der Landwirte, Verarbeiter, Händler und Konsumenten vor Ort und achtet deren Recht auf Selbstbestimmung.
 
-### Agrarsubventionen
+#### Agrarsubventionen
 
 Wir PIRATEN setzen uns dafür ein, dass in der Landwirtschaft verlässliche Bedingungen geschaffen werden, die langfristig einen Ausstieg aus den Agrarsubventionen ermöglichen.
 
-## Tierschutz
+### Tierschutz
 
-### Verbandsklagerecht
+#### Verbandsklagerecht
 
 Wir PIRATEN befürworten die Einführung eines bundesweiten Verbandsklagerechtes für anerkannte Tierschutzorganisationen.
 Tiere können als Lebewesen nicht selbst für ihre Rechte eintreten, daher sind sie auf eine Vertretung in Form von Verbänden angewiesen.
 Obwohl Tier- und Umweltschutz nach Art. 20a GG denselben Verfassungsrang haben, ist bisher in mehreren Bundesländern keine entsprechende Gesetzgebung existent.
 
-### Tierschutz in der Nutztierhaltung
+#### Tierschutz in der Nutztierhaltung
 
 Wir PIRATEN setzen uns für tiergerechte Haltungsformen in der Nutztierhaltung ein.
 Gute Haltungsformen orientieren sich an den Bedürfnissen der Tiere.
@@ -1049,7 +1049,7 @@ Die jetzigen Standards sind jedoch in vielen Punkten noch nicht optimal.
 Die kontinuierliche Weiterentwicklung der Standards in der Tierhaltung nach wissenschaftlichen Erkenntnissen ist unser Ziel.
 Dabei sollen Kleinbetriebe einmalige finanzielle Unterstützungen für Investitionen zur Umsetzung neuer Standards erhalten können.
 
-### Tierversuche
+#### Tierversuche
 
 Tierversuche sollen, insbesondere wenn tierversuchsfreie alternative Verfahren vorhanden sind, für pharmazeutische Stofftests und andere qualvolle Experimente nicht mehr verpflichtend sein.
 Um einen Rückgang von Tierversuchen zugunsten von Forschungen an alternativen Methoden bewirken zu können, ist es notwendig, Subventionen für Tierversuche zu streichen und sie auf tierversuchsfreie Forschungsmethoden zu verlagern.
@@ -1064,13 +1064,13 @@ Dies gilt auch für Versuche bezüglich einzelner Bestandteile der Produkte.
 
 Zur Prüfung der Einhaltung gesetzlicher Regelungen sind unabhängige unangekündigte Kontrollen der Versuchslabore durchzuführen.
 
-### Erweiterung des Tierschutzgesetzes
+#### Erweiterung des Tierschutzgesetzes
 
 Auch Angst ist eine Form von Leid, wird aber im Tierschutzgesetz nicht berücksichtigt.
 So werden Tierquälereien, bei denen kein deutlich erkennbarer, direkter körperlicher Schaden vorliegt, gewöhnlich nicht geahndet.
 Wir wollen das deutsche Tierschutzgesetz nach dem Beispiel des österreichischen Tierschutzgesetz erweitern, sodass künftig niemand straffrei ein Tier ohne vernünftigen Grund in schwere Angst versetzen darf.
 
-## Verbraucherschutz
+### Verbraucherschutz
 
 Im Verhältnis zwischen Hersteller, Vertreiber und Verbraucher ist letzterer in der Regel unterlegen.
 Dieses Ungleichgewicht sinnvoll auszugleichen ist Anliegen der PIRATEN und Aufgabe des Verbraucherschutzes, wie wir ihn uns vorstellen.
@@ -1090,11 +1090,11 @@ Wir wollen die Aufklärung über die damit verbundenen Risiken stärken.
 
 Wir setzen uns dafür ein, das Verbandsklagerecht für staatlich anerkannte Stellen auf den Bereich des Verbraucherschutzes zu erweitern, um eine Rechtsfrage verbindlich für alle betroffenen Verbraucher zu klären.
 
-### Ausdehnung der Eierkennzeichnung auch auf verarbeitete Eiprodukte
+#### Ausdehnung der Eierkennzeichnung auch auf verarbeitete Eiprodukte
 
 Wir PIRATEN setzen uns im Rahmen einer Verbesserung des Verbraucher- und des Tierschutzes für eine Ausdehnung der Eierkennzeichnung auf verarbeitete Eiprodukte ein.
 
-### Gegen die geplante Obsoleszenz
+#### Gegen die geplante Obsoleszenz
 
 Wir PIRATEN setzen uns dafür ein, dass die Bundesrepublik Deutschland der Verbraucherzentrale zusätzliche Mittel bereit stellt, damit diese sich besser gegen die geplante Obsoleszenz spezialisieren kann.
 Hersteller werden dazu angehalten, ihre Produkte mit einem voraussichtlichem "Haltbarkeitszeitraum" zu versehen.
@@ -1104,14 +1104,14 @@ Die Verbraucherzentrale wird diese Kennzeichnungen der Hersteller überprüfen u
 Wir setzen uns weiter dafür ein, dass die öffentliche Hand, nur Produkte mit einer, von der Verbraucherzentrale, überprüften Haltbarkeit erwirbt.
 Diese Zeiten sollten in Ausschreibungen eingearbeitet werden.
 
-### Herstellung der Gerätehoheit
+#### Herstellung der Gerätehoheit
 
 Wir PIRATEN setzten uns dafür ein, dass Geräte keine softwareseitige Einschränkung der zu installierenden Software erhalten.
 Jeder Käuferin und jedem Käufer eines Geräts muss es gestattet sein, die eigene Software oder die von Drittanbietern, ohne Einschränkungen, auf ein erworbenes Gerät aufzuspielen.
 In Ausschreibungen, bei Neuanschaffungen von elektronischen Geräten der öffentlichen Hand, soll dieses Kriterium explizit, in der Ausschreibung, gefordert werden.
 Eine softwareseitige Altersschranke, und damit einer großen Verschwendung von Geld und ökologische Verantwortungslosigkeit darf es nicht mehr geben.
 
-# Energiepolitik
+## Energiepolitik
 
 Eine langfristig gesicherte Energieversorgung ist nur ohne fossile Energieträger möglich.
 Fossile Energieträger sind zum einen grundsätzlich endlich und zum anderen wertvolle Rohstoffe, die zukünftig dringend gebraucht werden.
@@ -1157,7 +1157,7 @@ Dezentrale Strukturansätze sind dabei unter der Bedingung eines rasch wachsende
 Genau das findet gegenwärtig jedoch nicht statt.
 Wir PIRATEN fordern einen fairen öffentlichen Energiedialog\!
 
-## 100% Erneuerbare Energien
+### 100% Erneuerbare Energien
 
 Wir PIRATEN wollen eine sichere und nachhaltige Energieversorgung.
 Sicher in Bezug auf die Verfügbarkeit, sicher in Bezug auf die Gesundheit sowie nachhaltig für das Klima und die Natur.
@@ -1169,7 +1169,7 @@ Die Frage ist, ob wir diesen Umstieg geordnet oder ungeordnet realisieren.
 Wir wollen einen geordneten Strukturwandel und keinen Strukturbruch, damit unsere Lebensgrundlagen erhalten bleiben.
 Dazu brauchen wir nicht nur die Zustimmung der Menschen für die Energiewende, sondern die Bürgerinnen und Bürger sollen sich aktiv an ihrer Umsetzung beteiligen, etwa indem sie in eine Solaranlage oder ein Elektroauto investieren oder sich in Energiegenossenschaften zusammenschließen.
 
-## Klimawandel
+### Klimawandel
 
 Die durch menschliche Aktivitäten bedingten Klimaveränderungen erfordern konsequente Maßnahmen auf allen Handlungsebenen, um auch nachfolgenden Generationen würdige Lebensbedingungen zu ermöglichen.
 An diesem Ziel müssen sich alle Maßnahmen messen lassen.
@@ -1178,7 +1178,7 @@ Hierfür sind wir bereit, neue Wege zu gehen und setzen uns für eine konsequent
 Weiterhin sollen wirksame Lenkungsmaßnahmen wie Energiesteuern eingesetzt werden, um konsequent Emissionen zu verringern.
 Den bisher sehr wirkungslosen Zertifikatehandel sehen wir kritisch.
 
-## Klimaschutz
+### Klimaschutz
 
 Der Verkehr und die Wärmeerzeugung mit fossilen Brennstoffen haben den weitaus größten Anteil an den CO2-Emissionen in Deutschland.
 Daher muss der Wechsel zur Elektromobilität und der verstärkte Einsatz von Technologien zur Wärmeerzeugung mit Erneuerbaren Energien - zum Beispiel durch Wärmepumpen und Solarthermie - vorrangig genutzt werden.
@@ -1190,7 +1190,7 @@ Die Energiewende ist eine Chance für Umwelt, Gesundheit und Lebensqualität.
 Ebenso für Forschung und Wirtschaft die langfristig nur wettbewerbsfähig bleiben, wenn wir weiterhin und verstärkt aus den endlichen, schmutzigen Ressourcen aus- und in die nicht endlichen, sauberen Ressourcen einsteigen.
 Denn nur dadurch ist eine nachhaltige Gesellschaft, also eine Gesellschaft die auch in Kreisläufen denkt und handelt, möglich.
 
-## Photovoltaik ist das Arbeitspferd der Energiewende
+### Photovoltaik ist das Arbeitspferd der Energiewende
 
 Die Photovoltaik (PV) ist bereits heute eine sehr effiziente Technologie der Stromerzeugung.
 Sie bietet dennoch weiteres erhebliches Entwicklungspotential.
@@ -1199,33 +1199,33 @@ Durch den steigenden Wirkungsgrad moderner organischer Solarzellen können diese
 Außerdem erfüllt die Stromerzeugung über PV-Anlagen die Anforderung an Dezentralität in hohem Maße.
 Kleinteilige PV-Erzeugungsanlagen können von einzelnen Bürgerinnen und Bürgern oder Bürgerenergiegenossenschaften sehr einfach errichtet werden.
 
-## Keine weiteren Offshore Windparks
+### Keine weiteren Offshore Windparks
 
 Offshore Windparks sind die teuerste Art der Erzeugung von erneuerbarem Strom.
 Zudem sind sie Großanlagen und räumlich konzentriert.
 Damit widersprechen sie dem Konzept einer dezentralen Energiewende.
 Außerdem können nur große Konzerne die dafür notwendigen Investitionen aufbringen.
 
-## Schonender Ausbau der onshore Windenergie
+### Schonender Ausbau der onshore Windenergie
 
 Die Windenergie schafft Arbeitsplätze und stärkt – insbesondere über Bürgerwindparks – die regionale Wertschöpfung.
 Daher befürworten wir ihren Ausbau.
 Jedoch muss der weitere Ausbau dezentral unter Berücksichtigung der berechtigten Interessen der betroffenen Bürgerinnen und Bürger und umweltschonend erfolgen.
 Eine Konzentration von Windrädern in einzelnen Regionen lehnen wir ab.
 
-## Energetische Nutzung von Biogas und Biomasse
+### Energetische Nutzung von Biogas und Biomasse
 
 Für den Verkehr, die Strom- und Wärmeerzeugung sollen zukünftig nur noch biologische Reststoffe verwendet werden.
 Essen gehört nicht in den Tank und darf auch nicht aus der Steckdose kommen\!
 Frei werdende landwirtschaftliche Flächen sollen für nachhaltige Landwirtschaft, für die Erhöhung der Biodiversität und die Erholung der Bürger genutzt werden.
 
-## Dezentrale Versorgungs- und Netzstruktur
+### Dezentrale Versorgungs- und Netzstruktur
 
 Wir PIRATEN setzen uns für eine konsequente dezentrale Versorgung mit Energie ein.
 Wir fordern hierfür eine auf unabhängigen, wissenschaftlichen Erkenntnissen beruhende, transparente Umsetzung mit einer umfassenden Bürgerbeteiligung.
 Daher fordern wir ein sofortiges Moratorium mit einem Stopp aller bisherigen Planungs- und Genehmigungsverfahren.
 
-## Energiewende solidarisch finanzieren
+### Energiewende solidarisch finanzieren
 
 Jenseits aller rein ökonomischen Betrachtungen vertreten wir PIRATEN die Meinung, dass nicht Gewinne und Kosten zum universellen Maßstab politischen Handelns heranzuziehen sind, sondern die Frage, durch welche Maßnahmen das Allgemeinwohl gestärkt werden kann.
 Bei der Energiepolitik geht es primär um die Sicherung der öffentlichen Daseinsvorsorge ohne unsere Lebensgrundlagen zu zerstören.
@@ -1236,11 +1236,11 @@ Diese Technologien sind jedoch inzwischen auf dem Markt sogar konkurrenzfähig.
 Es kommt also darauf an, einen echten Wettbewerb zwischen den althergebrachten Methoden der Energieerzeugung und den neuen zu organisieren.
 Dazu gehören folgende Maßnahmen:
 
-### Abschaffung der Einspeisevergütungen für neue Anlagen der Erneuerbaren Energieerzeugung
+#### Abschaffung der Einspeisevergütungen für neue Anlagen der Erneuerbaren Energieerzeugung
 
 Dadurch würde sich der auf unserer Stromrechnung ausgewiesene EEG-Umlagebetrag wieder verringern.
 
-### Abschaffung von Subventionen und Beihilfen für die Energieerzeugung aus fossilen Quellen
+#### Abschaffung von Subventionen und Beihilfen für die Energieerzeugung aus fossilen Quellen
 
 Öffentliche Subventionen für die fossile und nukleare Energiegewinnung untergraben den von uns angestrebten Wechsel hin zu einer zukunftsfähigen, klimafreundlichen und möglichst autarken Energieversorgung in Europa.
 Wir PIRATEN fordern die Abschaffung jeglicher Subventionen und Beihilfen für die Förderung fossiler und atomarer Energien.
@@ -1248,18 +1248,18 @@ Neben den direkten Subventionen sind das Abwälzen von Kosten für die Erschlie�
 Eine nachhaltige Entwicklung ist nur möglich, wenn die Verursacher von gesellschaftlichen Kosten und Risiken auch den wahren Preis ihres Handelns zahlen.
 Deshalb müssen auch Brennstoffe entsprechend ihrer gesellschaftlichen Kosten besteuert werden.
 
-### Neuregelung der Haftung für die Folgekosten fossiler Energieerzeugung
+#### Neuregelung der Haftung für die Folgekosten fossiler Energieerzeugung
 
 Bislang spielen diese Kosten für die Betreiber konventioneller Kraftwerke keine Rolle, obwohl diese Kraftwerke unsere Umwelt in hohem Maße belasten.
 
-### Transparente Strompreise
+#### Transparente Strompreise
 
 Derzeit wird durch den Aufschlag der EEG-Umlage und deren Ausweisung auf der Stromrechnung ein falsches Bild erzeugt.
 Die Subventionen in Kohle und Atomenergie sowie die immensen Folgekosten werden auf der Stromrechnung weder berücksichtigt noch ausgewiesen, als versteckte Kosten allerdings von uns allen getragen.
 Damit wird dem öffentlichen Eindruck Vorschub geleistet, dass allein die Energiewende Kosten verursacht.
 Das ist nicht nur falsch, es ist auch äußerst ungerecht.
 
-### Eine CO2-Steuer für fossile Erzeuger
+#### Eine CO2-Steuer für fossile Erzeuger
 
 Endliche Ressourcen werden zwangsläufig immer teurer.
 Wir wollen daher jetzt investieren, um künftig davon zu profitieren und so den steigenden Energiekosten schon bald ein für alle Mal ein Ende zu setzen.
@@ -1272,7 +1272,7 @@ Sie ist sinnvoll, um die Emission von CO2 zu senken und zugleich einen finanziel
 Eine CO2-Steuer gibt es bereits in mehr als 20 Staaten.
 Bereits Anfang der 90er-Jahre wurden CO2-Steuern in Finnland, Schweden, Dänemark und Norwegen eingeführt und die Erfahrung zeigt, dass eine CO2-Steuer der Wirtschaft nicht schadet, sondern im Gegenteil Innovationen fördert und die Industrie wettbewerbsfähiger und zukunftssicher macht.
 
-## Netzentgelte
+### Netzentgelte
 
 Der internationale bzw. überregionale Stromhandel erfordert einen sehr teuren Ausbau der Übertragungsnetze.
 Dieser übermäßige Ausbau ist bei einer dezentralen Erzeugungs- und Verbrauchsstruktur nicht notwendig.
@@ -1282,12 +1282,12 @@ Die heutige Struktur der Netzentgelte berücksichtigt nicht die Gesetze der Phys
 Wir PIRATEN fordern deshalb eine entfernungsabhängige Erhebung der Netzentgelte bei den Übertragungsnetzen.
 Damit wird auch die regionale und dezentrale Erzeugung von Strom gefördert.
 
-## Verbrauch von selbst erzeugtem und selbst verbrauchtem Strom abgabenfrei
+### Verbrauch von selbst erzeugtem und selbst verbrauchtem Strom abgabenfrei
 
 Der Eigenverbrauch von selbst erzeugtem Strom muss steuer- und abgabenfrei sein.
 Wer in seinem Garten Gemüse anbaut und es selbst verzehrt, zahlt dafür auch keine Abgabe oder eine Steuer\!
 
-## Schaffung eines Energiespeicherfördergesetz
+### Schaffung eines Energiespeicherfördergesetz
 
 Wir PIRATEN setzen uns für ein Energiespeicherfördergesetz ein, um ähnlich dem EEG, Investitionsanreize z.B. zum Aufbau von Stromspeichern zu schaffen, welche die dezentrale Energieversorgung unterstützen.
 Dabei ist darauf zu achten, dass die Förderung einen bedarfsgerechten Ausbau berücksichtigt.
@@ -1296,7 +1296,7 @@ Diese Speicher sind eines der wichtigsten Elemente einer zukunftsfähigen Energi
 Bereits heute gibt es eine Vielzahl unterschiedlichster Speichertechnologien für Wärme und Strom.
 Deren weitere Entwicklung und Markteinführung muss intensiv unterstützt werden.
 
-## Transparenz und Bürgerbeteiligung
+### Transparenz und Bürgerbeteiligung
 
 Das heutige System der Energieversorgung ist ein Musterbeispiel für Intransparenz und mangelnde Bürgerbeteiligung.
 Deshalb fordern wir eine wirkungsvolle Umsetzung der Aarhus Konvention.
@@ -1305,13 +1305,13 @@ Damit können einzelne Personen und Verbände umfassenden Einblick in relevante 
 Außerdem können erstmalig auch Verbände gegen umweltschädliche Projekte klagen.
 Wir fordern entsprechend den piratigen Grundsätzen von Transparenz und Bürgerbeteiligung, dass diese Konvention in allen relevanten Projekten endlich wirksam umgesetzt wird.
 
-## Transparenz in Preisgestaltung und Erzeugungstrukturen
+### Transparenz in Preisgestaltung und Erzeugungstrukturen
 
 Für einen funktionierenden Markt für Endverbraucher ist eine transparente Preisgestaltung und Offenlegung des Energiequellenmixes Voraussetzung:
 Nur wenn die Verbraucher in beides jederzeit Einblick erhalten, können sie informierte Kaufentscheidungen treffen.
 Wir PIRATEN fordern eine Verpflichtung der Energieversorger, den Verbrauchern die entsprechenden Daten öffentlich zugänglich bereitzustellen.
 
-## Datenschutz im Energiesektor
+### Datenschutz im Energiesektor
 
 Bei der Umsetzung des Energiewende sollen nach dem Willen der derzeitigen Regierung modernste digitale Technologien eine Schlüsselrolle spielen.
 Das Gesetz zur Digitalisierung der Energiewende regelt dabei den flächendeckenden Einsatz von intelligenten Messsystemen, den sogenannten Smart Metern.
@@ -1323,14 +1323,14 @@ Jede Bürgerin und jeder Bürger hat das Recht auf informationelle Selbstbestimm
 
 Wir PIRATEN fordern das Recht für jeden Bürger, die Übermittlung seiner personenbezogenen Daten jederzeit ohne Begründung zu unterbinden.
 
-## Kein Fracking
+### Kein Fracking
 
 Hydraulic Fracturing, kurz "Fracking", zur Gewinnung fossiler Energieträger ist eine Hochrisikotechnologie, die Wasser und Böden bedroht und zu unabsehbaren Ewigkeitsschäden führen kann.
 Es steht der Umsetzung der Energiewende und dem Klimaschutz im Wege, denn die Klimabilanz des auf diese Weise geförderten Gases ist schlechter als die von Braunkohle.
 Daher fordern wir PIRATEN ein sofortiges ausnahmsloses EU-weites Verbot sämtlicher Formen von Fracking bei der Erforschung, Aufsuchung und Gewinnung fossiler Energieträger, auch wenn nicht giftige Stoffe eingesetzt werden.
 Das gilt auch für Versuche der Gasgewinnung durch das Anbohren bisher unberührter Kohleflöze.
 
-## Atomenergie
+### Atomenergie
 
 Wir PIRATEN fordern den sofortigen Ausstieg aus der Stromproduktion durch Kernspaltung.
 Das bedeutet auch die sofortige Stilllegung der Urananreicherungsanlage in Gronau, Westfalen und der Brennelementefabrik in Lingen.
@@ -1340,7 +1340,7 @@ Betriebsgenehmigungen müssen zurückgezogen, Stilllegungsverfügungen erlassen 
 Transporte nuklearen Materials aus und für die Stromerzeugung sind einzustellen.
 Das Nuklearmaterial wird in den derzeitigen Zwischenlagern verbleiben, bis die im Atomgesetz vorgeschriebene ordnungsgemäße Endlagerung möglich ist.
 
-## Atommüll
+### Atommüll
 
 Wir PIRATEN wollen, dass nuklearer Abfall grundsätzlich nur so gelagert wird, dass bei Bedarf eine Rückholung erfolgen kann.
 Dies betrifft auch leicht- und mittelradioaktiven Müll.
@@ -1357,9 +1357,9 @@ Mit keiner Energieform verbinden sich aufgrund der unkalkulierbaren Risiken so g
 Der Rückbau der alten Atommeiler muss daher unter fortlaufender Aufsicht der Öffentlichkeit erfolgen.
 D. h. die Strahlenbelastung und der Verbleib des Abraums müssen genau dokumentiert und öffentlich bekannt gemacht werden.
 
-# Bauen und Verkehr
+## Bauen und Verkehr
 
-## Unsere Ziele für die Zukunft von Stadtentwicklung und Mobilität - Unsere Vision
+### Unsere Ziele für die Zukunft von Stadtentwicklung und Mobilität - Unsere Vision
 
 Internet und der Klimawandel haben unsere Städte augenscheinlich bislang kaum verändert.
 Die Digitale Revolution im öffentlichen Raum beginnt jedoch gerade erst und der Klimawandel fordert neue umweltfreundliche Mobilität.
@@ -1379,7 +1379,7 @@ Neue Technologien und neue Mobilitätsanbieter rollen den Markt auf.
 Diese Veränderungen kommen sehr schnell und die Politik muss jetzt die Weichen für die moderne Verkehrswende stellen, um die Lebensqualität zu verbessern.
 Hierdurch kann die Stadt der Zukunft das Internet auf Lebensräume übertragen und endlich das Zeitalter der einseitig autogerechten Stadt überwinden.
 
-## Sozial gerechte Bodennutzung
+### Sozial gerechte Bodennutzung
 
 Wir setzen uns für eine sozial gerechte Bodennutzung (SoBoN) ein.
 Ziel ist es, der aktuellen Wohnungsnot auf der einen Seite und der zunehmenden Verdrängung von erschwinglichem Wohnraum aus den attraktiven Innenstadt- oder Stadtteillagen entgegen zu wirken.
@@ -1390,7 +1390,7 @@ Um dieses Ziel zu erreichen, fordern wir daher eine bundesweite, angepasste, kom
 Flächenabtretungen für Erschließungsanlagen, Gemeinbedarf und Ausgleichsmaßnahmen; Kostenübernahmen der Herstellung, bzw. Herstellungskosten, der Erschließungen und der Ausgleichsmaßnahmen; Übernahme der Herstellungskosten der ursächlichen, sozialen Infrastruktur oder Ablöse dieser Pflicht durch anteiligen Finanzierungsbeitrag; Übernahme der Kosten für Planungen, Wettbewerbe und Gutachten; Bindungen für den geförderten Wohnungsbau:
 es sind grundsätzlich 30 Prozent des neu geschaffenen Wohnungsbaurechts ab einer festzulegenden Objektgröße für den geförderten Wohnungsbau zu verwenden; Verpflichtung zur Realisierung der Planungen innerhalb eines angemessenen Zeitraumes muss sichergestellt sein.
 
-## Verkehrs- und Stadtentwicklung
+### Verkehrs- und Stadtentwicklung
 
 Ein erstmals klar definiertes, landesweites Mindestangebot von Bus und Bahn soll eine Pflichtaufgabe für jedes Bundesland und die Kommunen werden.
 Ein Netz aus Bussen, Bahnen, Car-Sharing und anderen frei zugänglichen Verkehrssystemen soll neben gut ausgebauten Pendlerrouten für Radfahrende die Verkehrsstruktur in den Städten bestimmen.
@@ -1398,7 +1398,7 @@ Andere Verkehrsflächen, vor allem für den PKW-Verkehr, müssen sich in den Leb
 
 Jahrzehntealte Ideen für Verkehrsprojekte von der Ortsumgehung bis zu nie gebauten Tunneln brauchen einen Realitätscheck, denn noch immer dominieren diese alten Pläne die langen Wunschlisten u.a. des Bundesverkehrswegeplans.
 
-## Bürgerbeteiligung
+### Bürgerbeteiligung
 
 Die Bürgerbeteiligung darf nicht für die jahrzehntelange verfehlte Verkehrspolitik haften und nun einem Sanierungsdruck zum Opfer fallen.
 Die Antwort auf die Dringlichkeit großer Ersatzneubauten und Ersatzausbauten wie der BAB A1-Brücke bei Leverkusen darf nicht die Einschränkung der Bürgerbeteiligung sein.
@@ -1412,9 +1412,9 @@ Informationen über den Planungsstand und Beteiligungsmöglichkeiten müssen jed
 Die Beteiligung muss mit für die Bürger spürbaren Ergebnissen erfolgen.
 Dabei sind Veranstaltungen vor Ort genauso vorzusehen, wie die Moderation durch Unabhängige.
 
-## Bauen und Wohnen überall in Deutschland
+### Bauen und Wohnen überall in Deutschland
 
-### Bezahlbarer Wohnraum
+#### Bezahlbarer Wohnraum
 
 Wir sorgen dafür, dass allen Menschen in Deutschland jederzeit und an jedem Ort bezahlbarer Wohnraum zur Verfügung steht.
 Die Förderung des sozialen Wohnungsbaus kommt vielen Menschen und der lokalen Wirtschaft zugute und muss wieder eingeführt bzw. deutlich verstärkt werden.
@@ -1426,7 +1426,7 @@ Maßnahmen wie die Mitpreisbremse, der vielerorts u. a. ein qualifizierter Miets
 Daher müssen diesen Instrumenten ausreichend Personal, ausreichend Daten und alle notwendigen Ressourcen zur Verfügung stehen.
 Dies ist bisher in den wenigsten Fällen der Fall.
 
-### Intelligente Städte und Regionen
+#### Intelligente Städte und Regionen
 
 Wir PIRATEN setzen uns für die Förderung intelligenter Städte und Regionen durch die Bundesebene ein.
 Dieses Ziel unter dem Leitbild der europäischen "Smart Cities" auf Basis der Open Data Prinzipien umfasst von intelligenten Netzen bis zum Aufbau einer vernetzten und kooperativen Kultur vielfältige Bereiche.
@@ -1443,18 +1443,18 @@ Diese Entwicklung muss aber ebenso im Rahmen des Schutzes von Persönlichkeitsre
 Beispiele abseits der Infrastruktur sind neue regionale Wirtschaftskreisläufe z.B. durch die Maker- und Sharing-Bewegung, die Veränderung der Stellung der Bürger in demokratischen Entscheidungsprozessen, die Neuentwicklung von Altlasten wie Industriebrachen oder kooperative Entwicklung von Aufenthaltsflächen in Kommunen.
 Und auch hier gilt: Copy/Remix/Share ist unsere Leitphilosophie für die Weiterentwicklung der Gesellschaft.
 
-### Bundesweite einheitliche Genehmigung für Micro-Trenching
+#### Bundesweite einheitliche Genehmigung für Micro-Trenching
 
 Wir PIRATEN fordern eine flächendeckende bundesweite Genehmigung und Richtlinie für den Einsatz von Micro-Trenching (Frästechnik) zur Verlegung von Glasfaserleitungen.
 Hiermit ist das Ziel einer schnellen, flächendeckenden Anbindung möglichst vieler Menschen mit schnellem Internet ohne einzelne, kommunale oft langfristige Genehmigungsverfahren zu erreichen.
 
-## Eine ganz neue Verkehrspolitik
+### Eine ganz neue Verkehrspolitik
 
 Wir wollen eine grundsätzlich neue Verkehrspolitik in Deutschland.
 Ziel ist hierbei eine Verkehrspolitik, die den Bedürfnissen aller Menschen im Land, der Gesellschaft und der Wirtschaft gerecht wird.
 Als Basis dafür nutzen wir den technologischen Wandel, um eine finanziell, sozial und ökologisch nachhaltige Verkehrspolitik umzusetzen.
 
-### Die Verkehrsinfrastruktur muss dauerhaft funktionieren
+#### Die Verkehrsinfrastruktur muss dauerhaft funktionieren
 
 Die Verkehrsinfrastruktur brauchen wir für alles, was in Deutschland in Bewegung ist.
 Sie muss dazu dauerhaft funktionieren und erhalten werden.
@@ -1479,7 +1479,7 @@ Bundesweite Verkehrsplanungen und -konzepte müssen sich von vornherein nach die
 Alle Menschen müssen die Möglichkeit haben, an der Gesellschaft teilzunehmen und dafür mobil zu sein.
 Für den Personenverkehr und vor allem die Pendlerinnen und Pendler sehen wir in der Konsequenz einen starken und gut ausgebauten öffentlichen Nahverkehr – Bus und Bahn – als Mittelpunkt aller zukünftigen Verkehrskonzepte.
 
-### Güterverkehr auf die Schiene
+#### Güterverkehr auf die Schiene
 
 Viele unserer Nachbarländer, wie die Schweiz und die Niederlande, setzen beim Güterverkehr konsequent auf die Binnenschifffahrt und die Schiene.
 Deutschland wird dagegen immer mehr zum straßengebundenen Nadelöhr.
@@ -1487,13 +1487,13 @@ Wir setzen uns daher dafür ein, dem schienengebundenen Güterverkehr eine stär
 Ein entsprechender Ausbau und die Sanierung müssen umgehend beginnen, damit der Gütertransport in und durch Deutschland auch langfristig gesichert und verträglich ist.
 Ein Ziel dabei ist, den Güterschienenverkehr wieder zurück in die Fläche zu bringen.
 
-### Keine Subventionen für Regionalflughäfen
+#### Keine Subventionen für Regionalflughäfen
 
 Wir wollen, dass alle Regionalflughäfen ohne Subventionen durch die öffentliche Hand betrieben werden.
 Direkte und indirekte Subventionen müssen daher ehrlich ermittelt und offen dargelegt werden.
 Das nationale Luftverkehrskonzept muss auch gesellschaftlichen und ökologischen Zielen gerecht werden.
 
-### Vernetzter Verkehr als Wahlfreiheit für alle
+#### Vernetzter Verkehr als Wahlfreiheit für alle
 
 Von A nach B, egal womit: Die Möglichkeiten und Anbieter für verschieden kombinierbare Verkehrskonzepte werden massiv zunehmen.
 Wir setzen auf eine offene Vernetzung aller Verkehrsmittel vom Fahrrad über Busse und Bahnen bis zum Car-Sharing und sehen den öffentlichen Verkehr (Bus und Bahn) als natürlichen Angelpunkt eines sogenannten "multimodalen" Verkehrssystems.
@@ -1501,13 +1501,13 @@ Die Vernetzung der Verkehrsmittel braucht offene Standards und jederzeit barrier
 Sie bietet jedem Nutzer die freie Wahl des Verkehrsmittels und sorgt für eine effiziente Ausnutzung der Verkehrsräume.
 Vernetzte Verkehrsmöglichkeiten sollen daher auch in der Fläche und im ländlichen Raum etabliert werden.
 
-## Bus und Bahn fahrscheinfrei
+### Bus und Bahn fahrscheinfrei
 
 Eine fahrscheinfreie Nutzung des öffentlichen Personennahverkehrs (ÖPNV) stellt nicht nur für die Gesellschaft, sondern auch für die Wirtschaft und den jeweiligen kommunalen und Landeshaushalt langfristig einen Gewinn dar.
 Wir wollen die fahrscheinfreie Nutzung von Bussen und Bahnen daher zunächst in langfristigen Modellversuchen und anschließend überall in Deutschland einführen, um die Attraktivität und die Zugänglichkeit von Bussen und Bahnen zu erhöhen, den Tarifdschungel sowie die unwirtschaftliche Verfolgung von Schwarzfahrern zu beenden und das Henne-Ei-Problem von Angebot und Nachfrage zu lösen.
 Zahlreiche Studien – u.a. der ehemaligen Piratenfraktionen in den Landtagen Nordrhein-Westfalen und Schleswig-Holstein – belegen die Umsetzbarkeit und Praxistauglichkeit eines fahrscheinfreien Nahverkehrs.
 
-## Busse und Bahnen erhalten und verbessern
+### Busse und Bahnen erhalten und verbessern
 
 Bus und Bahn sollen gerne und oft genutzt werden.
 Daher fordern wir ein belastbares, engmaschiges Liniennetz und verkürzte Taktzeiten mit passenden Umsteigezeiten.
@@ -1517,7 +1517,7 @@ Bis zur Einführung des angestrebten fahrscheinfreien Nahverkehrs muss ein einfa
 Das Land soll auch die Ausgabe von Schnuppertickets in den Kommunen fördern, um Neubürgerinnen und Neubürgern damit den Einstieg in die Liniennetze von Bus und Bahn zu erleichtern.
 Wir unterstützen die Entwicklung regionaler Schnellbus-Konzepte, um vor allem den Menschen in ländlichen Gebieten einen landesweit gültigen Standard öffentlicher Verkehrsmittel bieten zu können.
 
-## Open Data für die Verkehrswende
+### Open Data für die Verkehrswende
 
 Offene Schnittstellen und Standards sind zukünftig die Grundlage eines offenen und barrierefreien Zugangs zu Mobilität für alle.
 Durch eine konsequente Open Data-Strategie in allen Bereichen der Mobilität, sollen Monopole und Oligopole sowie der Missbrauch von Daten verhindert werden.
@@ -1525,7 +1525,7 @@ Alle Anbieter von Verkehrsmitteln sollen vorliegende Datensätze öffnen, aufber
 Damit wird die unabhängige Entwicklung von übergreifenden Anwendungen aller Art gefördert.
 Eine Öffnung bestehender Systeme soll die Einführung landesweiter, anbieterübergreifender und barrierefreier Fahrgastinformationssysteme erleichtern, in denen dann live nicht nur Staus und Betriebsstörungen aller Verkehrsmittel, sondern z.B. auch aktuelle Informationen zur Barrierefreiheit die optimale Verbindung für Fahrgäste und Verkehrsteilnehmer liefern.
 
-## Ausschreibungen und Vergabekriterien für öffentliche Verkehrsprojekte
+### Ausschreibungen und Vergabekriterien für öffentliche Verkehrsprojekte
 
 Wir streben die zielgerichtete und transparente Ausschreibung und Vergabe von Verkehrsprojekten an.
 Die EU fordert, dass bis 2022 alle Busse und Bahnen vollständig barrierefrei sein müssen.
@@ -1542,7 +1542,7 @@ Der Vergabeprozess für die Verkehrsprojekte muss mindestens die folgenden Krite
   - Einhaltung der Tarife für die Beschäftigten ist Pflicht.
   - Der vollständige Entscheidungsprozess ist offen zu legen.
 
-## Autonomes Fahren
+### Autonomes Fahren
 
 Wir wollen den technischen Wandel für eine grundsätzlich neue Verkehrspolitik nutzen, finanziell, sozial und ökologisch nachhaltig.
 Elektromobilität und autonomes Fahren verändern die Spielregeln für den Verkehrssektor elementar.
@@ -1559,12 +1559,12 @@ Dies vorzubereiten, ist Aufgabe der Politik.
 Damit kein desaströser Wettbewerb um persönliche Daten eintritt, der zu Verfolgungsprofilen führt, setzen wir uns für Datensparsamkeit und volle Transparenz der erhobenen Daten für die Nutzenden ein.
 Nicht verfolgbare, anonymisierte Daten sollen dagegen frei und mit offenen Schnittstellen zur Verfügung stehen, um Erkenntnisse über volle Straßen und volle Bahnen, Hindernisse, Sicherheitsrisiken und andere Verkehrslagen intelligent nutzen zu können.
 
-## Drohnen werden zum Transportmittel
+### Drohnen werden zum Transportmittel
 
 Wir fördern die Entwicklung und Erforschung von Drohnen für den Transport von Gütern und zur dokumentarischen Aufklärung.
 Wir setzen uns dafür ein, dass es für private als auch kommerziell genutzte Drohnen definierte Flugzonen und Lufträume gibt.
 
-## Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
+### Industrie- und Verkehrslärm durch Kartierung auf OpenData-Basis erfassen
 
 Wir PIRATEN setzen uns für die Kartierung von Straßen-, Bahn-, Flug- und Industrielärmemissionen ein – unter Nutzung aller verfügbaren Daten, unabhängig von Mindestbelastungs-Grenzwerten.
 Die on- und offline Darstellung der Emissionsbelastung muss bundesweit einheitlich erfolgen.
@@ -1576,12 +1576,12 @@ Lärmemissionsberechnungen sollen auf Antrag der Betroffenen durch Messungen val
 Wir unterstützen die Einführung eines Lärmlabels.
 Mit Hilfe eines solchen Zertifizierungsinstrumentes, das interdisziplinär-wissenschaftlich erarbeitet werden muss, sollen Lärmquellen aller Art einfach und bürgerfreundlich gekennzeichnet werden können.
 
-## Weitere Elbvertiefung verhindern
+### Weitere Elbvertiefung verhindern
 
 Wir PIRATEN fordern eine wirtschaftlich optimierte Kooperation der drei norddeutschen Seehäfen Hamburg, Bremerhaven und Wilhelmshaven.
 Es ist gesellschaftlich nicht zu verantworten, dass wegen eines "Kirchturmdenken" der Hamburger Hafenwirtschaft der einzigartige Naturraum "Elbe" weiter zerstört werden soll, während ein für über eine Milliarde Euro gebauter Tiefseehafen in Wilhelmshaven nur zu rund 20 Prozent ausgelastet ist.
 
-# Kunst und Kultur
+## Kunst und Kultur
 
 Im Mittelpunkt der Kulturpolitik der PIRATEN steht die Freiheit.
 Nur durch den Mut zum Versuch geht Kultur neue Wege, kann sich ausprobieren und über Grenzen hinweg wirken.
@@ -1602,16 +1602,16 @@ Das Internet und die zunehmende Virtualisierung erweitern den Möglichkeitsraum 
 Wir treiben die Entwicklung neuer Modelle der Partizipation, neuer Freiheiten des Wissens, und neuer Ideen der Vernetzung voran.
 Dabei setzen wir uns auch in der Kulturpolitik für Demokratisierung, Mitgestaltung und Transparenz ein.
 
-## Urheberrecht
+### Urheberrecht
 
-### Einleitung
+#### Einleitung
 
 Das Urheberrecht stellt ein Interessenausgleichsrecht zwischen Urhebern, Nutzern, der Allgemeinheit und Rechteinhabern dar.
 Dieser Ausgleich findet derzeit jedoch vor allem zugunsten der Rechteinhaber statt.
 
 Unsere Reform wird diese Schieflage beheben und vor allem Sorge tragen, dass sich das Urheberrecht dem digitalen Wandel nicht mehr verschließt, Missverständnisse und Missstände ausräumt und das Gleichgewicht zwischen Urhebern, Rechteverwertern und der Allgemeinheit zugunsten der Kulturschaffenden und Verbraucher wiederherstellt.
 
-### Allgemeines
+#### Allgemeines
 
 Für die von uns angestrebte Reform müssen die im Urheberrecht verankerten Rechte der Allgemeinheit, die sogenannten Urheberrechtsschranken, deutlich ausgeweitet werden.
 Ferner muss die Geltungsdauer des Urheberrechts abgesenkt werden.
@@ -1621,7 +1621,7 @@ Nach der Vorstellung der Piraten wird die Dauer des Urheberrechts höchstens bis
 Für bestimmte Werkarten fordern wir aus Praktikabilitätsgründen Fristen ab der Veröffentlichung.
 So wird für Filme das Urheberrecht maximal 50 Jahre nach Veröffentlichung gelten – für Software maximal 20 Jahre nach Veröffentlichung.
 
-### Stärkung von Nutzern
+#### Stärkung von Nutzern
 
 Im Interesse der Allgemeinheit an einem möglichst freien Zugang zu Bildung und Kultur wird unsere Urheberrechtsreform folgende Kernmerkmale beinhalten:
 Das Recht auf Privatkopie und die Erstellung von Remixes und Mashups wird erleichtert, Kopierschutzmaßnahmen werden komplett untersagt und die Nutzung von Tauschbörsen vollständig legalisiert.
@@ -1632,7 +1632,7 @@ Eine Privatkopie herzustellen ist oft nicht möglich, das Remixen/Mashen steckt 
 Unser Bestreben ist es, die Rechte der fairen Erwerber von Werken wieder zu stärken.
 Kein Nutzer sollte sich nach dem legalen Erwerb eines Werkes Gedanken über das Urheberrecht machen müssen.
 
-### Stärkung von Urhebern
+#### Stärkung von Urhebern
 
 Neben den zuvor genannten Zugeständnissen an die Nutzer müssen die Rechte der Urheber gegenüber den Rechteinhabern und Rechteverwertern deutlich gestärkt werden.
 Wir PIRATEN werden Urhebern unter anderem Zweitverwertungsrechte einräumen, Rechte bei Nichtausübung schneller zurückfallen lassen und verhindern, dass unbekannte Nutzungsarten pauschal eingeräumt werden können.
@@ -1642,7 +1642,7 @@ Zudem werden wir ausschließen, dass sich Verleger zusätzlich Anteile an den Ve
 Für die eigentlichen Urheber von Werken steckt unser aktuelles Urheberrecht voller kleiner Bevormundungen, vertraglicher Umgehungsmöglichkeiten und so weiter zugunsten der Rechteerwerber.
 Bei einer Reform werden wir hier somit ebenfalls ansetzen und den Urhebern selbst wieder mehr Rechte und Kontrolle über ihre eigenen Werke ermöglichen.
 
-### Förderung alternativer Vertriebsmodelle
+#### Förderung alternativer Vertriebsmodelle
 
 Wir PIRATEN setzen uns nachdrücklich dafür ein, alternative Bezahl- und Finanzierungsmodelle für Urheber und Künstler zu fördern und in der öffentlichen Wahrnehmung zu verbreiten.
 Unser Fokus liegt dabei sowohl auf den Möglichkeiten der Selbstvermarktung als auch auf der Finanzierung durch Micropaymentsysteme oder Crowdfundingmodelle.
@@ -1650,7 +1650,7 @@ Unser Fokus liegt dabei sowohl auf den Möglichkeiten der Selbstvermarktung als 
 Durch eine möglichst große Verbreitung und Akzeptanz dieser neuen Möglichkeiten möchten wir ein selbstbestimmtes und faires Bezahlmodell durch die Nutzer ermöglichen und etablieren.
 Diese selbstbestimmte Teilhabe am Kulturmarkt kann nach unserer Meinung ihrerseits wieder neue Wege der finanziellen Vergütung für Werke generell ermöglichen und viele aktuell existente Probleme des Urheberrechts minimieren.
 
-## Anerkennung und Förderung von "eSport" auf nationaler Ebene
+### Anerkennung und Förderung von "eSport" auf nationaler Ebene
 
 Wir PIRATEN setzen uns ein für die Anerkennung von "eSport" als Sportart auf nationaler Ebene.
 Dies bedeutet für uns auch die Aufnahme von elektronischem Sport in § 52 Abgabenordnung (Gemeinnützige Zwecke), womit eSport-Vereine anderen Sportvereinen gleichgestellt sind.
@@ -1661,18 +1661,18 @@ Diese dient nicht nur, um eine zentrale Anlaufstelle für Fragen der Gesellschaf
 
 Wir unterstützen die Förderung der wissenschaftlichen Arbeit über Computerspiele und eSport als Sport, um den Sport auf angemessene Weise weiterentwickeln zu können, sowie die Förderung der Ausbildung von ehrenamtlichen Trainern im eSport.
 
-# Arbeit und Soziales
+## Arbeit und Soziales
 
 Für uns PIRATEN steht der Mensch mit seiner Würde und seinen Grundrechten im Mittelpunkt der Sozialpolitik.
 Daher setzen wir uns für das Bedingungslose Grundeinkommen ein.
 Denn die fortschreitende Digitalisierung macht die althergebrachte Forderung nach Vollbeschäftigung zunehmend obsolet und stellt damit die gesamte Gesellschaft vor neuen Herausforderungen.
 Die bisherige Politik, die diesen mit einseitigen, nur der Wirtschaft, dem Kapital und der Gewinnoptimierung dienenden Gesetzen, wie der Agenda 2010 begegnet, ist weder tragfähig noch zukunftsfähig.
 
-## Zukunft der Erwerbsarbeit
+### Zukunft der Erwerbsarbeit
 
-### Die Arbeitswelt im Zeichen der Digitalisierung
+#### Die Arbeitswelt im Zeichen der Digitalisierung
 
-#### Flexible Wahl des Arbeitsorts
+##### Flexible Wahl des Arbeitsorts
 
 Die moderne Arbeitswelt fordert vom Arbeitnehmer ein hohes Maß an Flexibilität.
 Im Gegenzug fordern wir PIRATEN auch vom Arbeitgeber Flexibilität.
@@ -1683,7 +1683,7 @@ Gelegentliche Heimarbeit darf der Arbeitnehmer kurzfristig und formlos anzeigen.
 Gleichzeitig darf Heimarbeit nicht zur Überwachung, zu einer Ausweitung der Arbeitszeit oder dem Unterlaufen der Arbeitsschutzvorschriften führen.
 Zur Vermeidung von leistungsbedingten Erkrankungen wie Burnout ist auch ein informeller Druck zur fortwährenden dauernden Erreichbarkeit außerhalb der Arbeitszeit nicht zulässig.
 
-#### Einklang von Erwerbs- und Privatleben
+##### Einklang von Erwerbs- und Privatleben
 
 Wir PIRATEN setzen uns für flexible, elternfreundliche Arbeitsbedingungen und Betreuungsmöglichkeiten in Unternehmen und Betrieben ein.
 Kindererziehung und Erwerbstätigkeit müssen für beide Elternteile gleichermaßen miteinander vereinbar sein.
@@ -1691,7 +1691,7 @@ Wir setzen uns dafür ein, dass bei der Besetzung von Stellen in bundeseigenen �
 Der Anspruch auf eine Teilzeitbeschäftigung ist besonders zu berücksichtigen.
 Weitere organisatorische Ansätze zur Vereinbarkeit von Familie und Beruf sind zu fördern.
 
-#### Atypische Beschäftigungsverhältnisse
+##### Atypische Beschäftigungsverhältnisse
 
 So genannte atypische Beschäftigungsverhältnisse wie Zeit-, Leih- und Werksverträge stellen für die Wirtschaft ein sinnvolles und notwendiges Instrument dar, um Auftragsspitzen zu bewältigen.
 In den vergangenen Jahren hat sich jedoch gezeigt, dass dieses Instrument von immer mehr Unternehmen dazu missbraucht wird, den Kündigungsschutz und Tarif- bzw. Mindestlöhne zu umgehen.
@@ -1699,14 +1699,14 @@ So Beschäftigte sollen keine billige Verfügungsmasse sein, mit der reguläre B
 Zusätzlich werden wir eine Höchstquote von Leiharbeitern je Unternehmen bezogen auf die jeweilige Stammbelegschaft in Höhe von zehn Prozent einführen.
 Ferner fordern die PIRATEN, dass der Staat dafür Sorge trägt, Missbrauch von Leih-, Zeit- und Werksverträgen zu kontrollieren und entsprechend zu ahnden.
 
-##### Gleiche Behandlung für gleiche Leistung
+###### Gleiche Behandlung für gleiche Leistung
 
 Wir PIRATEN setzen uns dafür ein, dass betriebliche Zusatzleistungen, wie z. B. subventioniertes Mittagessen oder auch andere freiwillige Leistungen im Sinne der grundgesetzlich geschützten unternehmerischen Freiheit, beibehalten werden, aber gleichermaßen für alle Beschäftigten verfügbar sind.
 Daher fordern wir, dass atypisch Beschäftigte regulären Beschäftigungsverhältnissen in Bezug auf Sachleistungen wie Kantinenbenutzung oder Berufskleidung gleichgestellt werden.
 Wir regen daher eine stärkere Zusammenarbeit der Beteiligten an und fordern sie auf, dieser Diskriminierung beispielsweise mit Betriebsvereinbarungen entgegenzuwirken.
 Wir fordern, dass atypisch Beschäftigte in allen Belangen der Stammbelegschaft wenigstens gleichgestellt werden müssen.
 
-##### Leiharbeit
+###### Leiharbeit
 
 Die arbeitsrechtlichen Bedingungen von Zeitarbeitern dürfen daher die branchenüblichen oder tarifvertraglichen Regelungen nicht unterschreiten, da es sich um "besondere Arbeitsverhältnisse" handelt.
 In Zeiten von Nichtbeschäftigung, die der Leiharbeitnehmer nicht zu vertreten hat, muss der Leiharbeitnehmer trotzdem bezahlt werden.
@@ -1717,19 +1717,19 @@ Die Probezeit soll im Falle der Übernahme des Leiharbeitnehmers durch den Entle
 Wir fordern, die gesetzlichen Kündigungsfristen der Leiharbeiter den Regelungen der festangestellten Arbeitnehmer des Unternehmens gleichzustellen.
 Diese Fristen sollen auch in den gängigen branchenüblichen Tarifverträgen zeitnah umgesetzt werden.
 
-##### Arbeitnehmerüberlassung im SGB
+###### Arbeitnehmerüberlassung im SGB
 
 Um keine Arbeitnehmer "zweiter Klasse" entstehen zu lassen, fordern wir PIRATEN, dass in Eingliederungsvereinbarungen (§ 15 SGB II) keine Aufforderung mehr festgeschrieben wird, dass Bewerbungen bei Zeitarbeitsunternehmen/Personaldienstleistern vorzunehmen sind.
 Die Verweigerung einer solchen Bewerbung darf nicht als mangelnde Eigenbemühung oder Mitwirkung gelten bzw. zu einer Sanktion nach § 31 SGBII führen.
 
-### Erwerbssuchende unterstützen
+#### Erwerbssuchende unterstützen
 
-#### Förderung qualifizierter/älterer arbeitssuchender Menschen
+##### Förderung qualifizierter/älterer arbeitssuchender Menschen
 
 Wir PIRATEN fordern, dass Arbeitslose mit abgeschlossener Berufsausbildung und entsprechender Berufserfahrung durch geeignete Weiterbildungen qualifiziert werden, sofern sie dies wünschen.
 Dies soll insbesondere auch für ältere Arbeitnehmer gelten
 
-#### Qualitätsstandards für die Vermittlung in Arbeit (Jobcenter)
+##### Qualitätsstandards für die Vermittlung in Arbeit (Jobcenter)
 
 Wir PIRATEN verfolgen das Anliegen, dass die Mitarbeitenden der Jobcenter im Regelfall unbefristete Arbeitsverträge erhalten, um permanent gleichmäßige Ausbildungs- und Bearbeitungsstandards zu gewährleisten.
 Damit werden die Grundlagen geschaffen, dass die Leistungsberechtigten umfassender aufgeklärt, beraten und vermittelt werden können.
@@ -1737,7 +1737,7 @@ Wir fordern eine regelmäßige, qualitativ hochwertige Fort- und Weiterbildung d
 Wir setzen uns dafür ein, dass die Mitarbeiterinnen und Mitarbeiter im Vermittlungsbereich nur diejenigen Berufsgruppen beraten, deren Berufsbilder sie kennen und mit deren fachlichen Inhalten und Anforderungen sie vertraut sind.
 Die Zuordnung und Betreuung der Arbeitslosen im Vermittlungsbereich sollte nicht mehr nach dem Anfangsbuchstaben des Namens des Antragstellers, Stadtteilen, BG-Nummern oder anderen bürokratischen Kriterien erfolgen.
 
-#### Akteneinsicht/Transparenz in Jobcentern
+##### Akteneinsicht/Transparenz in Jobcentern
 
 Wir PIRATEN fordern die Erhaltung des uneingeschränkten Rechts auf Akteneinsicht § 25 SGBX im SGBII.
 Es muss die Möglichkeit gegeben sein, durch einen formlosen Antrag die gesamte persönliche, auch digitale Dokumentation (Aufzeichnungen, Profiling etc.) unmittelbar nach jedem Termin einzusehen und auf Verlangen ausgehändigt zu bekommen.
@@ -1745,19 +1745,19 @@ Es sollen verbindliche, nachvollziehbare Informations- und Beratungsrichtlinien 
 Leistungsberechtigte sind schriftlich vollumfänglich und konkret im Vorfeld über ihre Rechte und Pflichten aufzuklären.
 Alle internen Arbeitsanweisungen sind offen zu legen.
 
-#### Stärkung der Arbeitslosen-Selbsthilfegruppen
+##### Stärkung der Arbeitslosen-Selbsthilfegruppen
 
 Um die Rechte der Leistungsberechtigten innerhalb des komplexen Sozial- und Verwaltungsrechtes zu stärken, fordern wir PIRATEN eine qualitative und quantitative Aufrüstung der lokalen Arbeitslosen-Selbsthilfegruppen.
 Die Organisationsstruktur und Finanzierung soll sich analog am Bundesverband der Verbraucherzentralen und ihren jeweiligen Untergliederungen orientieren.
 Die Vergabe der Finanzmittel muss unabhängig vom zuständigen Jobcenter durch entsprechende Förderrichtlinien erfolgen, um auch kleinen Vereinen eine Chance der finanziellen Unterstützung zu geben.
 
-#### Prozesskostenhilfe
+##### Prozesskostenhilfe
 
 Wir PIRATEN setzen uns dafür ein, dass jeder Mensch unabhängig vom Einkommen die Möglichkeit haben muss, seine Rechte vor einem Gericht geltend zu machen.
 Daher lehnen wir Einschränkungen im Bereich der Prozesskostenhilfe und des Beratungshilferechts ab, wenn hierdurch die Anspruchsvoraussetzungen für die Gewährung von Unterstützung angehoben werden.
 Persönlichkeitsrechte der Betroffenen müssen gewahrt bleiben und die Hilfe Empfangenden müssen sich darauf verlassen können, dass einmal gewährte finanzielle Hilfe nicht im laufenden Verfahren wieder entzogen wird.
 
-#### Transparenz bei Arbeitslosenstatistik
+##### Transparenz bei Arbeitslosenstatistik
 
 Wir PIRATEN sprechen uns für eine ehrliche Arbeitslosenstatistik aus.
 Wir setzen uns dafür ein, dass die Bundesanstalt für Arbeit unverfälschte Zahlen veröffentlicht, die der Realität entsprechen.
@@ -1769,22 +1769,22 @@ Es müssen aufgeführt werden:
   - Erwerbslose, die in irgendwelchen Mini-Jobs beschäftigt werden
   - Sonstige Erwerbslose
 
-### Rechte der Arbeitnehmer stärken
+#### Rechte der Arbeitnehmer stärken
 
-#### Mitbestimmung
+##### Mitbestimmung
 
 Wir PIRATEN bekennen uns zur Mitbestimmung in allen Bereichen des öffentlichen Lebens.
 Dazu gehört auch das Arbeitsleben.
 Demokratie umfasst nach unserem Verständnis auch die Beteiligung an Entscheidungsprozessen im Arbeitsumfeld.
 
-#### Betriebsräte
+##### Betriebsräte
 
 Wir bekennen uns zu starken Betriebsräten und wollen das Betriebsverfassungsgesetz verteidigen.
 Mitbestimmung ist ein wesentliches Element der Teilhabe am Wirtschaftsleben.
 Die Gründung von Betriebsräten muss erleichtert werden.
 Daher befürworten wir alle notwendigen gesetzlichen Schutzmaßnahmen im Betriebsverfassungsgesetz und im Kündigungsschutzgesetz.
 
-#### Maßnahmen gegen Mobbing
+##### Maßnahmen gegen Mobbing
 
 Wir PIRATEN setzen uns für einen umfassenden gesetzlichen Schutz vor Mobbing am Arbeitsplatz und in Schulen ein.
 Um Mobbing wirksam zu begegnen, muss Mobbing als Straftatbestand von Amts wegen verfolgt und durch spürbaren Schadensersatz zu Lasten der Schädigenden kompensiert werden.
@@ -1793,28 +1793,28 @@ Wir setzen uns für die Schaffung eines Rahmengesetzes auf Bundesebene für Mobb
 Ihnen sollen im Rahmen eines zu schaffenden Antimobbinggesetzes Vetorecht gegen Rechtsakte gegeben werden, die mit ihren Untersuchungen in Zusammenhang stehen.
 Sie sollen einen jährlichen Bericht veröffentlichen.
 
-### Gerechte Entlohnung
+#### Gerechte Entlohnung
 
-#### Flächendeckender gesetzlicher Mindestlohn muss Erwerbstätigen ein existenzsicherndes Einkommen bieten
+##### Flächendeckender gesetzlicher Mindestlohn muss Erwerbstätigen ein existenzsicherndes Einkommen bieten
 
 Solange ein bedingungsloses Grundeinkommen noch nicht umgesetzt ist, ist dies vor allem über gesetzliche Regulierungen und Tarifverträge möglich.
 Der Mindestlohn muss ausreichend sein, um in der gesetzlichen Rentenkasse als Beschäftigter in Vollzeit bei 40 Beitragsjahren und Renteneintrittsalter von 67 Jahren Anspruch auf eine Rente oberhalb der Armutsgefährdung zu erreichen.
 Für 2017 ergibt sich so ca. 15,00 Euro brutto.
 
-#### Öffentliche Ausschreibungen
+##### Öffentliche Ausschreibungen
 
 Wir PIRATEN fordern, dass der Staat in öffentlichen Ausschreibungen Auftragnehmern den Mindestlohn zwingend vorschreibt.
 
-#### Geschlechterunabhängige Chancen
+##### Geschlechterunabhängige Chancen
 
 Wir PIRATEN fordern geschlechterunabhängige gleiche Bezahlung, Chancen- und Entwicklungsmöglichkeiten.
 
-#### Ost-West-Gefälle
+##### Ost-West-Gefälle
 
 Wir PIRATEN setzen uns dafür ein, dass Lohnunterschiede zwischen Ost- und Westdeutschland abgebaut werden.
 Hier soll der öffentliche Dienst eine Vorbildfunktion einnehmen.
 
-#### Missbrauch von Berufspraktika verhindern
+##### Missbrauch von Berufspraktika verhindern
 
 Wir PIRATEN sehen Berufspraktika als eine sinnvolle und notwendige Ergänzung der Berufsausbildung an.
 Sie vermitteln Praxisbezug und erleichtern den Eintritt ins Berufsleben.
@@ -1823,7 +1823,7 @@ Wir setzen uns dafür ein, Missbrauch durch Arbeitgeber zu unterbinden.
 Ein nicht für Ausbildung oder Studium benötigtes Praktikum ist auf drei Monate zu begrenzen oder es ist nach Ablauf von drei Monaten ein angemessenes Praktikantengehalt zu zahlen und der Praktikant rechtlich dem festangestellten Mitarbeiter gleichzustellen.
 Auf Antrag können Betriebe finanzielle Unterstützung durch die Bundesagentur für Arbeit erhalten.
 
-#### Bekämpfung von "prekärem Unternehmertum"
+##### Bekämpfung von "prekärem Unternehmertum"
 
 Wir PIRATEN unterstützen und fördern ausdrücklich das freie Unternehmertum, setzen uns jedoch dafür ein, dass abhängig Beschäftigte nicht als Subunternehmer ohne Sozialabgabepflicht beschäftigt werden und so das unternehmerische Risiko ausgelagert wird, ohne entsprechend honoriert zu werden.
 Im Bildungsbereich müssen Lehrkräfte auf Honorarbasis eine angemessene Entlohnung erhalten.
@@ -1832,12 +1832,12 @@ Im Bereich der Betreuung von Kleinkindern ist Kindertagespflege als eine familie
 Das Vorgehen von Jobcentern insbesondere alleinerziehende Mütter in eine solche selbstständige Tätigkeit zu drängen, lehnen wir ab.
 Betroffene Personen sollen frei und ohne Druck zwischen Selbständigkeit und sozialversicherungspflichtiger Beschäftigung wählen können.
 
-#### Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II)
+##### Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II)
 
 Wir PIRATEN fordern, die sogenannten "Ein-Euro-Jobs" (Vermittlung in Arbeitsgelegenheiten mit Mehraufwandsentschädigung, AGH-MAE) mit sofortiger Wirkung auszusetzen, weil diese keinen Zugang zum ersten Arbeitsmarkt ermöglichen.
 Vielfach vernichten diese staatlich subventionierten Einsätze sogar reguläre Arbeitsplätze im Kleingewerbebereich, weil kein öffentlicher Auftrag preiswerter durchgeführt werden kann, als durch einen "1-Euro-Jobber".
 
-## ILA – International Liberty Agreement
+### ILA – International Liberty Agreement
 
 Wir PIRATEN werden – in Zusammenarbeit mit dem weltweiten Netzwerk an Piratenparteien und allen anderen Parteien und Organisationen, die gleiche oder ähnliche Vorstellungen haben – die Verhandlung und den Abschluss eines internationalen Vertrages – des "International Liberty Agreement (ILA) " – initiieren, der Mindeststandards für bürgerliche Freiheiten, insbesondere aber nicht ausschließlich in digitalen Netzen, verbindlich festlegt.
 
@@ -1855,7 +1855,7 @@ Das ILA soll unter anderem Vereinbarungen enthalten über
   - die Haftungsfreiheit für Netz-Anbieter und Dienste, die durch Benutzer eingestellte Inhalte veröffentlichen, und
   - die Verständigung auf internationale Verbreitungslizenzen, um die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers (und auch des grenzüberschreitenden Handels mit Medien) unnötig zu machen.
 
-## Stärkung der Rechte Prostituierter
+### Stärkung der Rechte Prostituierter
 
 Die Entscheidung zur Ausübung der Prostitution fällt
 
@@ -1872,11 +1872,11 @@ Deshalb werden wir alle Sonderregelungen zur Reglementierung von Prostitution da
 Die Stärkung der Rechte selbstbestimmt tätiger Sexarbeiterinnen und Sexarbeiter ist das beste Mittel gegen jedwede Fremdbestimmung.
 Sie dient der rechtlichen Gleichbehandlung sowie der freien und ungehinderten Berufsausübung.
 
-## Wege zum Bedingungslosen Grundeinkommen
+### Wege zum Bedingungslosen Grundeinkommen
 
 Wir PIRATEN setzen uns für die Einführung eines bedingungslosen Grundeinkommens ein, wie es in unserem Grundsatzprogramm beschrieben ist.
 
-### Bedingungsloses Grundeinkommen in Deutschland
+#### Bedingungsloses Grundeinkommen in Deutschland
 
 Wir wissen, dass ein bedingungsloses Grundeinkommen die Paradigmen des Sozialstaats wesentlich verändern wird.
 Statt mit klassischer Parteipolitik muss dessen Einführung daher mit einer breiten Beteiligung der Bürgerinnen und Bürger einhergehen.
@@ -1888,45 +1888,45 @@ Dazu wollen wir eine Enquete-Kommission im Deutschen Bundestag gründen, deren Z
 Für jedes Konzept sollen die voraussichtlichen Konsequenzen sowie Vor- und Nachteile aufgezeigt und der Öffentlichkeit transparent gemacht werden.
 Aufgrund des rapiden technologischen Wandels muss innerhalb der nächsten Legislatur die Grundlage für eine Volksabstimmung über die Einführung des Bedingungslosen Grundeinkommens geschaffen werden.
 
-### Bedingungsloses Grundeinkommen global
+#### Bedingungsloses Grundeinkommen global
 
 Wir PIRATEN unterstützen weltweit Initiativen zur Einführung des bedingungslosen Grundeinkommens und setzen uns für einen intensiven Erfahrungsaustausch über bisherige Pilotprojekte und zu ergreifende Zwischenschritte ein.
 
-### Einführungsphase des BGE
+#### Einführungsphase des BGE
 
 Mittelfristig muss das Grundeinkommen den "vier Kriterien" ohne Bedingungen, existenzsichernd, individuell berechnet, ohne Bedürftigkeitsprüfung genügen.
 In der Phase der Einführung sind Modelle denkbar, die diesen Kriterien nur teilweise genügen.
 
-### Ein Grundeinkommen ist nachhaltig zu finanzieren
+#### Ein Grundeinkommen ist nachhaltig zu finanzieren
 
 Wir PIRATEN starten mit vorsichtigen Annahmen und einem geringen Grundeinkommen.
 Sollte die Entwicklung dann günstiger verlaufen als die Annahmen, ist die Erhöhung des Grundeinkommens schnell beschlossen.
 Es darf jedoch nicht zur Schlechterstellung von einkommensschwachen Menschen kommen.
 
-### Kombination aus Grundeinkommen und Einkommen/Rente
+#### Kombination aus Grundeinkommen und Einkommen/Rente
 
 Ein Grundeinkommen wird zusätzlich z. B. zu Erwerbseinkommen und Renten- oder Pensionsbezug gezahlt.
 Diese Einkommen werden dann stärker besteuert werden, wobei das BGE die Steuerprogression unterstützt, da es als Grundsicherung oder als Steuerfreibetrag angesehen werden kann.
 
-### Sozialversicherungen beim Grundeinkommen
+#### Sozialversicherungen beim Grundeinkommen
 
 Wir wollen wenigstens die Pflege- und die Rentenversicherung als paritätisch finanzierte Sozialversicherung fortführen.
 Die Krankenkassen sollen auf ein steuerfinanziertes Gesundheitswesen umgestellt werden, damit alle Einkommen unabhängig von Einkommensart und Beitragsbemessungsgrenzen herangezogen werden.
 Dabei muss eine ausreichende Finanzierung des Gesundheitswesens sichergestellt werden.
 Es darf keine "Behandlung nach Kassenlage" erfolgen.
 
-## Weiterentwicklung des bestehenden Systems in Vorbereitung zum BGE
+### Weiterentwicklung des bestehenden Systems in Vorbereitung zum BGE
 
 Die Einführung eines Grundeinkommens wird das Steuer- und Sozialsystem erheblich verändern und somit in mehreren Schritten erfolgen müssen.
 Gerade durch die fortschreitende Digitalisierung ist eine Weiterentwicklung des bestehenden Steuer- und Sozialsystems selbst dann notwendig, wenn die Einführung des BGE keine Mehrheit in der Gesellschaft findet.
 Die politische Diskussion zeigt jedoch, dass einzelne Aspekte breite gesellschaftliche Unterstützung finden auch jenseits der BGE-Befürworter.
 Wir wollen diese Weiterentwicklung unterstützen, sofern sie auch für das BGE zielführend ist.
 
-### Weiterentwicklung des Sozialsystems
+#### Weiterentwicklung des Sozialsystems
 
 Das Sozialsystem kann in Richtung BGE geführt werden, indem für einzelne Gruppen ein Grundeinkommen umgesetzt wird oder die Vereinbarkeit des bestehenden mit dem Grundeinkommen verbessert wird.
 
-#### Kindergrundsicherung
+##### Kindergrundsicherung
 
 Zur Abschaffung der Kinderarmut setzen wir PIRATEN uns für die Einführung einer Kindergrundsicherung ein.
 Die Kindergrundsicherung soll Familien finanziell entlasten, Kinderarmut verhindern und jedem Kind die Möglichkeit geben, sein eigenes Potenzial zu entfalten.
@@ -1937,32 +1937,32 @@ Die Chancengleichheitsbeihilfe hat das Ziel, Betreuung, Mobilität, Bildung und 
 Die Beihilfe kann steuerpflichtig, bedarfsorientiert, altersabhängig oder abhängig vom Familieneinkommen gestaltet sein.
 Zudem kann sie teilweise auch Sachleistungen wie kostenfreien KiTa-Besuch enthalten.
 
-#### Bildungsgrundeinkommen
+##### Bildungsgrundeinkommen
 
 Wir PIRATEN setzen uns dafür ein, die BAföG-Leistungen durch ein Bildungsgrundeinkommen zu ersetzen.
 Dieses Bildungsgrundeinkommen sichert das Einkommen derer, die eine Ausbildung, ein Studium oder eine Fortbildung absolvieren, aber keinen Anspruch auf Grundsicherungsleistungen haben.
 
-#### Verbesserung der Einkommenssituation der eingewanderten Menschen und Flüchtlinge
+##### Verbesserung der Einkommenssituation der eingewanderten Menschen und Flüchtlinge
 
 Wir PIRATEN setzen uns für die Verbesserung der Situation der eingewanderten Menschen und Flüchtlinge ein.
 In einem reichen Land kann und muss die materielle Situation der am schlechtesten Gestellten, und dazu gehören viele Flüchtlinge und viele der eingewanderten Menschen, deutlich verbessert werden.
 
-#### Erhöhung des Regelsatzes der Mindestsicherungen
+##### Erhöhung des Regelsatzes der Mindestsicherungen
 
 Bei den Mindestsicherungen sind bis zur Einführung des Grundeinkommens der Regelsatz des Arbeitslosengeldes II zu erhöhen, um Armut nachhaltig zu verhindern.
 Wir PIRATEN fordern deshalb einen Regelsatz inklusive der Kosten der Unterkunft (KdU) über der Armutsgefährdungsgrenze.
 
-#### Abschaffung der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII)
+##### Abschaffung der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII)
 
 Wir PIRATEN setzen uns für die Verbesserung der Situation der Erwerbslosen ein, insbesondere für die Abschaffung und sofortige Nichtanwendung (Moratorium) der Sanktionen bei Hartz IV (§§ 31, 32 SGB II, § 39 a SGB XII).
 
-#### Grundsicherung im Alter und bei Erwerbsminderung
+##### Grundsicherung im Alter und bei Erwerbsminderung
 
 Wir PIRATEN setzen uns für die Abschaffung der Altersarmut und für die Prävention zukünftiger Altersarmut durch die Weiterentwicklung der Grundsicherung im Alter und bei Erwerbsminderung in Richtung auf ein Grundeinkommen für alte und erwerbsgeminderte Menschen ein.
 Die Bestrebungen, immer mehr Menschen in private Rentenversicherungen wie Riester- oder Rürup-Verträge zu drängen, lehnen wir ab.
 Sie dienen nur in den seltensten Fällen tatsächlich den Antragstellern.
 
-##### Grundsätzliche Vorgehensweise zur Bürgerversicherung
+###### Grundsätzliche Vorgehensweise zur Bürgerversicherung
 
 Alle bestehenden Rentensysteme, berufsständischen Versorgungssysteme und Pensionen im öffentlichen Dienst werden zu einer Rentenkasse zusammengeführt.
 Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet.
@@ -1977,7 +1977,7 @@ Der Staat schafft den gesetzlichen Rahmen.
 Die Rentenkasse ist für die Rente zweckgebunden\!
 Für Pensionsansprüche soll der Gesetzesgeber eine entsprechende Übergangslösung ausarbeiten.
 
-##### Betriebliche Altersvorsorge
+###### Betriebliche Altersvorsorge
 
 Der Gesetzgeber hat im Jahre 2004 das GKV-Modernisierungsgesetz (GMG) beschlossen, wodurch auf die Kapitalauszahlung einer betrieblichen Altersvorsorge in Form einer kapitalgebundenen Direktversicherung der volle Sozialversicherungsbeitrag der gesetzlichen Kranken- und Pflegeversicherung durch den Versicherten zu entrichten ist (§ 248 Satz 1 SGB V i.d.F. von Artikel 1 Nr. 148 GMG) .
 Diese Beitragspflicht wurde damit auf Einmalleistungen aus einer Kapitallebensversicherung ausgeweitet und zwar auch rückwirkend auf sogenannte Altverträge.
@@ -1990,7 +1990,7 @@ Insgesamt sollte eine Neuregelung der betrieblichen Altersvorsorge mit klaren un
 Die derzeitige Regelung, dass Verträge steuerlich gefördert werden, im Alter jedoch die Sozialversicherungspflicht voll greift, macht die betriebliche Altersvorsorge oft zu einem Verlustgeschäft, fördert stattdessen die private Versicherungswirtschaft und begünstigt vor allem die Arbeitgeber.
 Außerdem verringern sich durch die betriebliche Altersvorsorge die Einzahlungen in die gesetzliche Rentenversicherung, was das Solidarsystem durch ein geringeres sozialversicherungspflichtiges Bruttogehalt zusätzlich schwächt.
 
-##### Transparenz bei der privaten Altersvorsorge
+###### Transparenz bei der privaten Altersvorsorge
 
 Wir PIRATEN setzen uns für klar nachvollziehbare Kostenstrukturen bei allen Formen der privaten Rentenversicherung ein (nicht nur Riester- und Rüruprente):
 Die effektiv anfallenden Kosten und Gebühren einer privaten Rentenversicherung sind als Summe aller Einzelposten in der Gesamtlaufzeit, welche von den Versicherten an nichtstaatliche Versicherungsunternehmen zu zahlen sind, direkt neben der zu erwartenden Ablaufleistung (Auszahlungssumme) im Versicherungsangebot sowie in der Versicherungspolice auszuweisen.
@@ -1998,7 +1998,7 @@ Der Versicherungsberater hat auf die Gebühren im Gespräch explizit hinzuweisen
 Der spekulative Charakter der ausgewiesenen potenziellen Ablaufleistung ist klar darzustellen.
 Im Beratungsgespräch sowie in den Angebots- und Vertragsunterlagen muss deutlich darauf hingewiesen werden, dass möglicherweise die garantierten Werte nicht signifikant überschritten werden.
 
-### Weiterentwicklung des Steuersystems
+#### Weiterentwicklung des Steuersystems
 
 Das Steuersystem soll durch eine Reihe Steuerreformen in Richtung BGE geführt werden.
 Dies geschieht, indem jede Reform einen unabhängigen Finanzierungsbaustein zu einem bedingungslosen Sockeleinkommen beiträgt.
@@ -2006,24 +2006,24 @@ Im Unterschied zum BGE muss das Sockeleinkommen nicht existenzsichernd sein.
 Letztendlich soll es sich zu einem BGE entwickeln und schafft die neue, schlanke, für das BGE notwendige Verwaltungsstruktur.
 Das Sockeleinkommen ist kein zu versteuerndes Einkommen und wird nicht auf bestehende Sozialleistungen angerechnet.
 
-#### Vereinheitlichung der Umsatzsteuersätze
+##### Vereinheitlichung der Umsatzsteuersätze
 
 Wir PIRATEN fordern die Anhebung des ermäßigten Umsatzsteuersatzes mit dem Ziel, einen einheitlichen Regelsteuersatz zu schaffen und die sogenannte Mehrwertsteuer zu vereinfachen.
 Durch die Ausschüttung der Steuermehreinnahmen als Sockeleinkommen ist die Anhebung des Mehrwertsteuersatzes sozial, da das Sockeleinkommen die Kostenerhöhung durch den höheren Umsatzsteuersatz für Familien und einkommensschwache Menschen nicht nur ausgleicht, sondern sogar zu einem kleinen Teil übersteigt.
 
-#### Einführung einer Finanztransaktionssteuer
+##### Einführung einer Finanztransaktionssteuer
 
 Wir PIRATEN setzen uns dafür ein, dass eine Finanztransaktionssteuer eingeführt wird.
 Die Ausschüttung der Steuermehreinnahmen erfolgt in Form eines Sockeleinkommens.
 
-#### Vereinfachung der Einkommensteuer
+##### Vereinfachung der Einkommensteuer
 
 Wir PIRATEN fordern eine Reform der Einkommensteuer durch ein allgemein verständliches Steuersystem, das ohne Ausnahmen auskommt und für alle Einkommensarten gilt.
 Diese Reform umfasst:
 Sockeleinkommen statt "Aufstocken", personenbezogener Grundfreibetrag für alle statt unzeitgemäßem Ehegattensplitting, Kranken- und Pflegeversicherungsbeiträge von der Steuer abziehen statt absetzen, einheitliches Verfahren statt Sonderregelungen - Abschaffung diverser Ausnahmeregelungen.
 Erst durch die Kombination der vier Reformbestandteile gelingt die Gestaltung eines ausgeglicheneren Steuersystems bei gleichzeitiger Einführung eines Sockeleinkommens.
 
-### Maschinen müssen unser Sozialsystem sichern und ausbauen
+#### Maschinen müssen unser Sozialsystem sichern und ausbauen
 
 Die nächste Technologiewelle, die unsere gesellschaftlichen Grundfesten erschüttern wird, rollt leise, aber gewaltig an.
 Es gibt einen Unterschied zu den vergangenen technischen (R)evolutionen – die Geschwindigkeit.
@@ -2044,19 +2044,19 @@ Die gewonnen finanziellen Mittel könnten zur Etablierung des Bedingungslosen Gr
 Unser Streben ist es, Deutschland kompatibel mit der aktuellen und der nächsten Technologiewelle zu machen, die Struktur unserer Steuer- und Sozialsysteme so zu gestalten, dass mehr Automatisierung zu mehr realem, fühl- und messbarem Wohlstand für alle im Land führt und dadurch der soziale Frieden langfristig erhalten bleibt.
 Dies stellt einen Wettbewerbsvorteil von historischen Dimensionen dar.
 
-## Commons (Gemeingüter): Vorfahrt für Kooperation, Selbstorganisation und Gemeinsinn
+### Commons (Gemeingüter): Vorfahrt für Kooperation, Selbstorganisation und Gemeinsinn
 
 Wir PIRATEN setzen uns dafür ein, Freiräume für Selbstorganisation zu schaffen, Verantwortung zu teilen und Institutionen nachhaltig und erfolgreich zu organisieren.
 
 Dazu sollen die Möglichkeiten und Grenzen kooperativer Organisationsmodelle (sog. "Commons") zur nachhaltigen Nutzung gemeinsamer Ressourcen in einem fortlaufenden Prozess überprüft und Institutionen bei Bedarf reformiert oder neu geschaffen werden.
 
-### Commons als Bildungsaufgabe verstehen
+#### Commons als Bildungsaufgabe verstehen
 
 Die Inhalte und Konzepte von nach Commons-Prinzipien gestalteten Organisationsmodellen und Institutionen sind zum Lernziel in Bildungseinrichtungen und -projekten zu machen.
 Dazu können wir auf viele hervorragende Beispiele, auch aus Deutschland, zurückgreifen.
 Vor allem aber sollen bereits die Schülerinnen und Schüler die Praxis gemeinsamer Verantwortungsübernahme und Entscheidungsfindung üben.
 
-### Mit Commons Teilhabe ermöglichen
+#### Mit Commons Teilhabe ermöglichen
 
 Vorhandene Gemeingüter müssen erhalten, fortentwickelt und gemehrt werden.
 Verlust von Gemeingut ist zu vermeiden.
@@ -2071,17 +2071,17 @@ Freiraum ermöglicht Kreativität, aber auch Ruhe.
 Und das brauchen wir.
 Das ist menschlich.
 
-### Commons Vorrang gewähren
+#### Commons Vorrang gewähren
 
 Vor einer Privatisierung oder Verstaatlichung gesellschaftlicher Aufgabenbereiche ist im Einzelfall zu prüfen, ob Selbstorganisation und Selbstverwaltung möglich wäre.
 Bei gleicher oder besserer Eignungsprognose ist diesen Vorrang zu gewähren.
 
-### Commons-Projekte anleiten und unterstützen
+#### Commons-Projekte anleiten und unterstützen
 
 Alle Ebenen wirtschaftspolitischer Entscheidungs- und Verwaltungsstrukturen sind mit entsprechendem Fachwissen auszustatten.
 Diese Stellen werden so in die Lage versetzt, Selbstverwaltungsprojekte bei der Institutionenfindung und -umsetzung zu beraten, zu unterstützen und zu fördern oder etwaige Konflikte zu moderieren.
 
-### Quelloffene Software in der Verwaltung einsetzen
+#### Quelloffene Software in der Verwaltung einsetzen
 
 Für die öffentliche Verwaltung ist der Einsatz quelloffener Software grundsätzlich vorzuziehen.
 Nur wenn in speziellen Fällen schwerwiegende Gründe gegen einen Einsatz quelloffener Software sprechen, sollen proprietäre Lösungen erwogen werden.
@@ -2091,7 +2091,7 @@ Ausschreibungen sind entsprechend zu gestalten.
 Die einzelnen Behörden sollen bei der Umstellung auf offene Software unterstützt werden.
 Ein Vorbild hierfür kann die Landeshauptstadt München mit dem leider wieder aufgegebenem Projekt LiMux sein.
 
-### Daten offenlegen
+#### Daten offenlegen
 
 Daten bilden die Grundlage politischer Diskussion.
 Ihre Gewinnung wird oft durch Steuergelder finanziert, wie z. B. bei Verkehrs- und Umweltdaten und den öffentlichen Haushalten.
@@ -2104,30 +2104,30 @@ Von Antragsverfahren, einschränkenden Lizenzmodellen und Gebühren ist dabei ge
 Die Weiterverbreitung und auch die kommerzielle Nutzung sollen ausdrücklich gestattet werden.
 Neben für die Lektüre aufbereiteten Formaten sollen die Daten auch in freien maschinenlesbaren Formaten angeboten werden, die sich für die maschinelle Weiterverarbeitung und Aufbereitung eignen.
 
-### Internationale wissenschaftliche Vernetzung verbessern
+#### Internationale wissenschaftliche Vernetzung verbessern
 
 Der Umsetzung, der in den vorangehenden Absätzen genannten Programmpunkte, sind jeweils die wissenschaftlichen Erkenntnisse der Commons-Forschung zugrunde zu legen.
 Anleitende und umsetzende Institutionen sollen sich hierzu in nationalen oder internationalen Verbänden oder Forschungseinrichtungen engagieren und entsprechende organisatorische Zuständigkeiten im Rahmen ihrer Verwaltung schaffen.
 
 Staatliche Institutionen haben in ihren Jahresberichten zu Aktivität und Fortschritten auf diesem Gebiet öffentlich Rechenschaft zu legen.
 
-# Familie und Gesellschaft
+## Familie und Gesellschaft
 
-## Präambel
+### Präambel
 
 Wir PIRATEN stehen für eine zeitgemäße und gerechte Familienpolitik, die auf dem Prinzip der freiheitlichen Selbstbestimmung über Angelegenheiten des persönlichen Lebens beruht.
 Wir wollen, dass Politik der existierenden Vielfalt gerecht wird.
 Wir setzen uns dafür ein, die einseitige Bevorzugung traditioneller Rollen-, Familien- und Arbeitsmodelle zu überwinden.
 Echte Wahlfreiheit besteht erst, wenn längere berufliche Auszeiten oder Teilzeitarbeit unabhängig vom Geschlecht gesellschaftliche Normalität sind.
 
-### Freie Selbstbestimmung des Zusammenlebens
+#### Freie Selbstbestimmung des Zusammenlebens
 
 Wir PIRATEN bekennen uns zu allen denkbaren Formen des Zusammenlebens.
 Politik muss der Vielfalt der Lebensentwürfe gerecht werden und eine wirklich freie Entscheidung für die individuell gewünschte Form des Zusammenlebens ermöglichen.
 Eine ausschließlich historisch begründete Bevorzugung ausgewählter Familienmodelle lehnen wir ab.
 Wir setzen uns für die vollständige rechtliche Gleichstellung sämtlicher Lebensgemeinschaften ein.
 
-### Andere Lebenspartnerschaften
+#### Andere Lebenspartnerschaften
 
 Wir PIRATEN setzen uns dafür ein, dass der Begriff "Ehe" durch die "eingetragene Lebenspartnerschaft" ersetzt wird.
 Die auf der Ehe basierenden Rechten und Pflichten sind, sofern noch nicht geschehen, auf die "eingetragene Lebenspartnerschaft" zu übernehmen.
@@ -2135,7 +2135,7 @@ Die auf der Ehe basierenden Rechten und Pflichten sind, sofern noch nicht gesche
 Des Weiteren wollen wir für alle Formen der homosexuellen, heterosexuellen und polyamourösen (Liebesbeziehung zu mehr als einem Menschen) Partnerschaften, die eingetragene Lebenspartnerschaft öffnen.
 Damit soll sie über ihren monogamen Anspruch hinaus auch das Zusammenleben von mehr als zwei Personen einer Generation rechtlich regeln.
 
-### Kinderwünsche auch in nicht klassischen Familienbildern realisieren
+#### Kinderwünsche auch in nicht klassischen Familienbildern realisieren
 
 Wir PIRATEN setzen uns für die gleichwertige Anerkennung von Lebensmodellen ein, in denen Menschen füreinander Verantwortung übernehmen.
 Lebensgemeinschaften, in denen Kinder aufwachsen oder Menschen gepflegt werden, verdienen einen besonderen Schutz und Unterstützung durch den Staat und die Gesellschaft.
@@ -2143,7 +2143,7 @@ Wir setzen uns für den Abbau bestehender, geschlechtlicher Rollenzuschreibungen
 Der Wunsch, eine Lebens- bzw. Versorgungsgemeinschaft zu gründen, darf nicht am klassischen Familienbild hängen bleiben.
 Die geschlechtliche Identität oder die sexuelle Orientierung darf hierbei keine Rolle spielen.
 
-### Familienförderung dort, wo Kinder und anderweitig Bedürftige sind\!
+#### Familienförderung dort, wo Kinder und anderweitig Bedürftige sind\!
 
 Personen, die einen Teil ihrer Lebenszeit der Betreuung von Kindern und Bedürftigen widmen, darf kein Nachteil entstehen.
 Wir PIRATEN setzen uns für eine ernsthafte politische Auseinandersetzung mit den Konzepten des Bedingungslosen Grundeinkommens ein.
@@ -2157,14 +2157,14 @@ Jedes Kind hat einen Anspruch auf finanzielle Unterstützung durch den Staat.
 
 Das existierende Ehegattensplitting passt nicht in unser Familienbild und ist sukzessive abzuschaffen.
 
-### Kostenfreie und flexible Betreuungs- und Bildungsangebote
+#### Kostenfreie und flexible Betreuungs- und Bildungsangebote
 
 Betreuungs- und Bildungsangebote des Staates sind den Kindern kostenfrei zur Verfügung zu stellen.
 Entsprechende Angebote sollen wohnort- oder wahlweise arbeitsplatznah realisiert werden - auch über kommunale Grenzen hinweg.
 Zu berücksichtigen sind bei allen Betreuungs- und Bildungsangeboten die sich ergebenden Bedarfsveränderungen der Eltern.
 Kinderbetreuung soll auch außerhalb der bislang üblichen Öffnungszeiten gewährleistet sein.
 
-## Geschlechtsunabhängige Gleichbehandlung bei Hilfsangeboten für Gewaltopfer durchsetzen
+### Geschlechtsunabhängige Gleichbehandlung bei Hilfsangeboten für Gewaltopfer durchsetzen
 
 Wir PIRATEN setzen uns für den Auf- und Ausbau von geschlechtsunabhängigen Hilfsangeboten für Gewaltopfer durch das Bundesfamilienministerium ein.
 Dies gilt insbesondere für Opfer häuslicher Gewalt.
@@ -2176,19 +2176,19 @@ Um dies zu gewährleisten, setzen wir uns in einem ersten Schritt dafür ein, da
 Langfristig ist unser Ziel, dass die Hilfetelefone unsere Gesellschaft abbilden.
 Somit nicht nur Männer und Frauen, sondern auch trans\* und intersexuelle Menschen, sprich das LGBTI-Spektrum, gleichfalls abgedeckt wird.
 
-## Kinder- und Jugendrechte stärken
+### Kinder- und Jugendrechte stärken
 
 Die Rechte von Kindern und Jugendlichen haben für uns den selben Stellenwert wie die von Erwachsenen.
 Unser Ziel ist die größtmögliche Freiheit und Partizipation von Kindern und Jugendlichen.
 
-### Kinder- und Jugendrechte ins Grundgesetz (GG)
+#### Kinder- und Jugendrechte ins Grundgesetz (GG)
 
 Aktuell stehen die Menschenrechte des Kindes (UN-Menschenrechtskonvention über die Rechte des Kindes; kurz: UN-Kinderrechtskonvention) in Deutschland auf einer Ebene mit allen anderen Gesetzen.
 Das hat zur Folge, dass im Konfliktfall nicht die UN-Kinderrechtskonvention sondern das Gesetz Anwendung findet (Bsp.: Asylrecht, Gemeinderecht).
 Um die Rechte von Kindern und Jugendlichen aufzuwerten, fordern wir die Kinderrechte im Grundgesetz zu verankern.
 Kinderrechte sind Menschenrechte und müssen als solche geachtet werden.
 
-### Klagerecht von Kindern und Jugendlichen sowie rechtliche Beratung von jungen Erwachsenen
+#### Klagerecht von Kindern und Jugendlichen sowie rechtliche Beratung von jungen Erwachsenen
 
 Die Möglichkeit von Kindern und Jugendlichen ohne Zustimmung eines Vormundes juristische Mittel einzusetzen soll erheblich vereinfacht werden.
 Insbesondere soll es ohne Probleme möglich sein, dass Kinder und Jugendliche sich auch ohne Zustimmung des Vormunds juristisch beraten und vertreten lassen.
@@ -2201,48 +2201,48 @@ Die Beratungsstellen sollten mindestens folgende Aufgaben übernehmen:
   - erster juristischer Einschätzung
   - Vermittlung von Fachanwälten bzw. Notare
 
-## Akzeptanz der gesellschaftlichen Vielfalt
+### Akzeptanz der gesellschaftlichen Vielfalt
 
-### Interkulturelle Öffnung der Verwaltung
+#### Interkulturelle Öffnung der Verwaltung
 
 Um den Anforderungen einer vielfältigen Gesellschaft gerecht zu werden, setzen wir uns für die interkulturelle Öffnung der Verwaltung ein.
 Dies beinhaltet mehrsprachige Angebote in Formularen und auf Webseiten der Behörden sowie die Aus- und Weiterbildung von Bediensteten in interkultureller Kompetenz.
 
-### Diversität in der Verwaltung: Behörden gehen durch anonymisierte Bewerbungsverfahren mit gutem Beispiel voran
+#### Diversität in der Verwaltung: Behörden gehen durch anonymisierte Bewerbungsverfahren mit gutem Beispiel voran
 
 Damit Behörden auf die Interessen der Bevölkerung angemessen eingehen können, müssen sie die Diversität der Gesellschaft auch in ihren eigenen Reihen abbilden.
 Um dies zu erreichen, braucht es angemessene Bewerbungs- und Auswahlverfahren.
 Besondere Angebote für an Bewerbungen interessierte Menschen sollen Interesse und Selbstbewusstsein stärken und für mehr Bewerbungen aller gesellschaftlichen Gruppen sorgen.
 Wir PIRATEN fordern anonymisierte Bewerbungsverfahren in der Verwaltung, um möglicher Diskriminierung aufgrund von Geschlecht, Herkunft, Nationalität, Aussehen, Alter oder weiterer nicht-einstellungsrelevanter Merkmale vorzubeugen.
 
-### Für eine tolerante und erfolgreiche Arbeitsmarktpolitik
+#### Für eine tolerante und erfolgreiche Arbeitsmarktpolitik
 
 Arbeitsmarktpolitik sollte sich daran orientieren, Menschen in ihren Fähigkeiten zu bestärken, Vielfältigkeit anzuerkennen und Diskriminierung abzubauen.
 So können die Ziele, sowohl den Arbeitsmarkt offen und fair für alle Teilnehmer zu gestalten als auch als Volkswirtschaft erfolgreich zu sein, erreicht werden.
 
-## Diskriminierung auf allen Ebenen begegnen
+### Diskriminierung auf allen Ebenen begegnen
 
 Noch immer werden viele Menschen aufgrund ihrer Hautfarbe oder anderer äußerer Merkmale im alltäglichen Leben (z. B. bei der Vergabe von Wohnraum, Ausbildungs- und Arbeitsplätzen) benachteiligt.
 Gegen Diskriminierungen dieser Art sind gezielte Maßnahmen zu ergreifen.
 Statt einseitig bei Verhalten und Befähigungen der Benachteiligten anzusetzen, müssen diskriminierende Strukturen aufgedeckt, reflektiert und wirksam bekämpft werden.
 
-### Projektförderung
+#### Projektförderung
 
 Die Förderung von Toleranz und der Kampf gegen Diskriminierung ist eine gesamtgesellschaftliche Aufgabe.
 Zur Unterstützung der beteiligten Gruppen sind ausreichende finanzielle Mittel bereit zu stellen.
 Den Versuch, Rassismus, Diskriminierung, Intoleranz und Rechtsextremismus mit verschiedenen Formen politischen Protests gleichzusetzen, lehnen wir ab.
 Die Extremismusklausel stellt einen staatlichen Generalverdacht gegen zivilgesellschaftliches Engagement dar und gehört umgehend abgeschafft.
 
-### Nachvollziehbare und verantwortliche Erstellung von Studien
+#### Nachvollziehbare und verantwortliche Erstellung von Studien
 
 Studien, die im Zusammenhang mit der Diversität der Gesellschaft erstellt werden, sollen grundsätzlich nachvollziehbar und transparent und unter Hinzunahme von externer Expertise aus Forschung und Wissenschaft erarbeitet und zeitnah veröffentlicht werden.
 
-## Chancengleichheit im Bildungssystem
+### Chancengleichheit im Bildungssystem
 
 Wir PIRATEN setzen uns für mehr Chancengleichheit ein:
 Die sozio-kulturelle Herkunft darf nicht mehr über den Bildungserfolg entscheiden.
 
-### Chancengleichheit durch gemeinsames Lernen
+#### Chancengleichheit durch gemeinsames Lernen
 
 Um Chancengleichheit zu erreichen, setzen wir uns für ein gemeinsames Lernen von Kindern mit verschiedenem sozialen Hintergrund ein.
 Den unterschiedlichen sozialen und kulturellen Hintergründen der Lernenden soll mit Achtung begegnet werden.
@@ -2252,7 +2252,7 @@ Dies darf jedoch nicht mit Selektion der Lernenden in verschiedenen Klassen anha
 Der muttersprachliche Unterricht sollte bestehende Sprachfähigkeiten zertifizieren und somit als Qualifikation wertschätzen.
 Die Didaktik von "Deutsch als Zweitsprache" soll stärker in die Lehrerausbildung und die Fortbildungen eingehen.
 
-### Lehrkräfte fördern und sensibilisieren
+#### Lehrkräfte fördern und sensibilisieren
 
 Es gehört zu gelungener Inklusion, wenn auch Migrantinnen und Migranten als Lehrkräfte tätig sind.
 Dies hilft Kindern ohne Migrationshintergrund, Migranten zu respektieren, und Kindern mit Migrationshintergrund, sich die Lehrkräfte als Vorbild zu nehmen.
@@ -2260,13 +2260,13 @@ Wir schlagen die Vergabe von Stipendien für Lehramtsstudentinnen und -studenten
 Lehrkräfte müssen in ihrer Aus- und Weiterbildung sensibilisiert werden, wie sich Selektionsmechanismen auswirken.
 Ihnen sollte beispielsweise vermittelt werden, wie sich ihre eigene Herkunft, Bildung und gesellschaftliche Positionierung unbeabsichtigt auf ihren Unterricht und ihre Leistungsbewertungen auswirkt.
 
-# Gesundheitspolitik
+## Gesundheitspolitik
 
 Wir PIRATEN orientieren sich in ihren gesundheitspolitischen Positionen am Wohl der Patientinnen und Patienten, ohne die Seite der Leistungserbringer und Dienstleister im Gesundheitswesen zu vernachlässigen.
 Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehenden Mitteln notwendig ist.
 Für uns zeichnet sich eine gute Gesundheitsversorgung durch ihren niederschwelligen Zugang aus, der allen Menschen in Deutschland eine zugewandte Behandlung nach aktuellem Stand der Erkenntnis ermöglicht.
 
-## Transparenz im Gesundheitssystem
+### Transparenz im Gesundheitssystem
 
 Für Patientinnen und Patienten ist es kaum möglich die Qualität der ärztlichen Behandlung sowohl im Krankenhaus als auch insbesondere im niedergelassenen Bereich zu überprüfen.
 Wir PIRATEN fordern daher die verständliche Aufbereitung, Veröffentlichung und priorisierte Weiterentwicklung von Qualitätsmerkmalen.
@@ -2275,13 +2275,13 @@ Weiterhin fordern wir die Nachvollziehbarkeit von Entscheidungsprozessen von der
 Das gilt sowohl für die Entscheidungsträger in der Selbstverwaltung des Gesundheitswesens als auch für die politischen Gremien, die daran mitwirken.
 Dies schließt Beschlüsse über die Verwendung gemeinschaftlich aufgebrachter Mittel, z. B. Pflichtversicherungsbeiträge, ein.
 
-## Patientenvertretung stärken
+### Patientenvertretung stärken
 
 In den Organen der Selbstverwaltung des Gesundheitswesens ist die Patientenvertretung ohne Stimmrecht beteiligt.
 Wir PIRATEN wirken darauf hin, dass die Seite der Patientenvertretung mit Stimmrecht ausgestattet und gleichberechtigter Teil der Selbstverwaltungsorgane des Gesundheitswesens wird.
 Die Patientenvertretung ist finanziell und organisatorisch mit dem Ziel größerer Transparenz unabhängig auszustatten.
 
-## Überversorgung abbauen
+### Überversorgung abbauen
 
 Der Zugang zu medizinischen Angeboten ist für Patientinnen und Patienten heute stark abhängig von ihrem Wohnort.
 So sind in Großstädten je Einwohner deutlich mehr Ärzte angesiedelt als in ländlichen Regionen.
@@ -2293,7 +2293,7 @@ Mit dem Ziel einer ausgeglichenen Verteilung ist daher einem Überangebot von Ge
 Wir PIRATEN werden uns dafür einsetzen, dass jede Abweichung vom Durchschnitt der Versorgungsdichte besonders und öffentlich zu begründen ist.
 Dort, wo regionale Gebietskörperschaften oder Kommunen bewusst eine überdurchschnittliche Versorgung beibehalten, sind sie für deren Finanzierung aus dem eigenen Haushalt verantwortlich, um die Versichertengemeinschaft zu entlasten.
 
-## Unterversorgung vermeiden
+### Unterversorgung vermeiden
 
 Die Menschen in Deutschland haben ein Anrecht auf eine angemessene Gesundheitsversorgung.
 Dazu gehört auch, dass gemeindenah bzw. wohnortnah ausreichend Ärzte aller Fachrichtungen vertreten sind.
@@ -2304,7 +2304,7 @@ Wir sehen die Trägervielfalt (öffentliche, frei-gemeinnützige und private Tr�
 Gleichzeitig betrachten wir die Gewährleistung der Gesundheitsvorsorge und Behandlung von Krankheiten als Fürsorgepflicht des Staates.
 Deshalb befürworten wir Initiativen, die einen Erhalt von Kliniken in öffentlicher Trägerschaft zum Ziel haben.
 
-## Fehlversorgung beenden
+### Fehlversorgung beenden
 
 Bestimmte Leistungen, die aus Sicht der Gesundheitsdienstleister einerseits aufwändig und andererseits nicht angemessen honoriert sind, werden nicht oder nur in geringem Umfang erbracht.
 Neben aufsuchender Behandlung benachteiligt dies vor allem Patientinnen und Patienten mit Behinderungen, chronischen Erkrankungen oder eingeschränkter Mobilität.
@@ -2316,7 +2316,7 @@ Zur Bekämpfung von Fehlversorgung setzen wir PIRATEN zudem auf die Förderung d
 Nur belastbare Studien zur Beurteilung der Wirkung von Therapien und Medikamenten können Grundlage der Entscheidungen über die Erstattung der Kosten durch die Krankenkassen sein.
 Therapien und Medikamente, deren Wirksamkeitsnachweis nicht erbracht wurde, dürfen nur dann zu Lasten der gesetzlichen Krankenkassen erbracht werden, wenn für die zu behandelnde Krankheit keine heilenden Therapien zur Verfügung stehen oder eine wissenschaftliche Bewertung mit höchster Evidenz sich aus ethischen Gründen verbietet.
 
-## Stärkung der Versorgungsforschung
+### Stärkung der Versorgungsforschung
 
 Grundlage eines modernen Gesundheitssystems ist die fortlaufende Prüfung der angebotenen Gesundheitsleistungen.
 Wir wissen heute noch viel zu wenig über die Wirksamkeit von beispielsweise bestimmten Präventionsmaßnahmen.
@@ -2325,7 +2325,7 @@ Die Finanzierung soll durch die Einführung einer Positivliste erfolgen, wie sie
 Sie garantiert, dass Patientinnen und Patienten nur Arzneimittel mit einem hohen Grad an Nutzen und Bewährungsgrad und einem vernünftigen Kosten-Nutzen-Verhältnis verschrieben bekommen.
 Außerdem soll mit den Einsparungen die nicht-kommerzielle Forschung im Bereich der Arzneimittel gefördert werden, um insbesondere Therapien für seltene Krankheiten zu erforschen.
 
-## Gesundheitliche Bildung
+### Gesundheitliche Bildung
 
 Es besteht wissenschaftliche Einigkeit, dass Bildung und Umweltfaktoren große Auswirkungen auf die Gesundheit der Menschen haben.
 Wir setzen uns für die Erprobung eines Faches "Gesundheitsbildung" in Schulen ein, das vermittelt, welche Faktoren sich positiv und negativ auf Gesundheit auswirken und wie man sie erhalten kann.
@@ -2335,14 +2335,14 @@ In den Fokus der Aufklärung sollen vor allem jene Krankheits- und Störungsbild
 Wir PIRATEN sehen hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten.
 Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit gesundheitlichen Einschränkungen ein gleichberechtigter Teil der Gesellschaft sind.
 
-## Finanzierung
+### Finanzierung
 
 Die Finanzierung des Gesundheitssystems betrachten wir als gesamtgesellschaftliche Aufgabe.
 Daher sehen wir in der Einbeziehung sämtlicher Bürgerinnen und Bürger in die Sozialversicherung unter Berücksichtigung möglichst aller Einkommensarten ein sinnvolles Modell zur Finanzierung dieses Systems.
 Wir erkennen allerdings die Einschränkungen der Wahlfreiheit in dieser Art der Finanzierung für Bürgerinnen und Bürger sowie die Anbieter privater Krankenversicherungen an und verstehen ihre Bedenken.
 Daher setzen wir uns für einen Volksentscheid ein, um einen gesellschaftlichen Konsens in dieser wichtigen Frage des gemeinschaftlichen Zusammenlebens zu erreichen.
 
-## Vergütungssysteme überprüfen
+### Vergütungssysteme überprüfen
 
 Jede Form der Vergütung setzt Anreize, die zum Teil erwünscht sind, zum Teil jedoch auch zu unerwünschten und für das Gesamtsystem schädlichen Ergebnissen führt.
 Dies verstärkt sich in der Regel im Verlauf der Anwendung des Vergütungssystems.
@@ -2350,14 +2350,14 @@ Aus diesem Grund sind Vergütungssysteme regelhaft einer unabhängigen Analyse u
 Dies gilt für die Fallpauschalen in Krankenhäusern ebenso wie für pauschale- oder Einzelleistungsvergütungen im ambulanten Bereich.
 Hier sollen mit Modellprojekten neue Vergütungsformen regional entwickelt und getestet werden.
 
-## Notfallmedizin
+### Notfallmedizin
 
 Die Überlebenschancen von Patientinnen und Patienten hängen in Notfallsituationen unmittelbar von der Reaktion beteiligter Bürgerinnen und Bürger ab.
 Um die Bevölkerung besser in die Lage zu versetzen, in solchen Situationen richtig zu handeln, fordern wir Programme zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen.
 Ein angemessenes Verhalten in Notfallsituationen soll auch durch die Einrichtung und Förderung von Schulsanitätsdiensten auf freiwilliger Basis in Schulen erleichtert werden.
 Unterstützend möchten wir die Verbreitung von Defibrillatoren im öffentlichen Raum fördern.
 
-## Elektronische Gesundheitskarte
+### Elektronische Gesundheitskarte
 
 Wir erkennen den Vorteil an, den eine rasche Zugriffsmöglichkeit von Ärzten auf diagnose- und behandlungsrelevante Patientendaten hat.
 Elektronische Kommunikation im Gesundheitswesen ist der Schlüssel zum Abbau der Versorgungsgrenzen und der kontinuierlichen Versorgung chronisch erkrankter Patientinnen und Patienten.
@@ -2366,57 +2366,57 @@ Wir fordern ergänzend die verbindliche Einführung dezentraler Speichermöglich
 Durch diesen Speicher können, ergänzt durch die Möglichkeit rechtssicherer elektronischer Unterschriften, alle Anforderungen an eine moderne IT-Infrastruktur bei gleichzeitiger Wahrung des Datenschutzes erfüllt werden.
 So erhalten Patientinnen und Patienten die volle Entscheidungshoheit über ihre Daten und können die Vorteile dieser Technologie nutzen.
 
-## Pflegequalität und Pflegesicherheit
+### Pflegequalität und Pflegesicherheit
 
 Die Würde des Menschen ist unantastbar.
 Für Pflegebedürftige, private Pflegepersonen und berufliche Pflegekräfte scheint der Artikel 1 des Grundgesetzes aber nicht zu gelten.
 Wer heute pflegebedürftig ist oder Menschen pflegt, findet sich in einem kranken System wieder, bei dem - wieder einmal - die Wirtschaftsinteressen einen höheren Stellenwert genießen, als die Interessen der Patienten und Pflegekräfte.
 Diese Situation wollen wir durch folgende Punkte ändern:
 
-### Mehr Qualität in der Pflege durch adäquate Ausbildung
+#### Mehr Qualität in der Pflege durch adäquate Ausbildung
 
   - Altenpflege- und Krankenpflegeausbildungen müssen deutlich besser gefördert werden.
   - Finanzielle und arbeitsrechtliche Unterstützung von examinierten Pflegekräften für Weiterbildungsmaßnahmen.
   - Ausbildung und Einstellung von Hygienefachkräften, um das Risiko der Krankenhausinfektionen in den Griff zu bekommen.
   - Pflegewissenschaft und wissenschaftliche Pflegeabschlüsse müssen deutlich mehr gefördert werden, wie es im Europäischen Umland längst üblich ist.
 
-### Vermeidung von Abrechnungsbetrug
+#### Vermeidung von Abrechnungsbetrug
 
   - Einführung und Erweiterung von Kontrollkompetenzen für Behörden und Pflegekassen gegenüber Pflegeheimen, Pflegediensten und Pflegepersonen.
   - Neu in Betrieb genommene Seniorenheime dürfen nur noch von gemeinnützigen Unternehmen betrieben werden und jegliche Gewinne müssen reinvestiert werden.
 
-### Wissenschaftlich fundierter Personalschlüssel
+#### Wissenschaftlich fundierter Personalschlüssel
 
   - Umsetzung des gesetzlichen Personalschlüssels in der Alten- und Krankenpflege, um eine menschenwürdige Pflege in vollstationären Einrichtungen und Krankenhäusern zu gewährleisten.
   - Der jeweils aktuelle Krankenstand muss bei der Berechnung des Personalschlüssels unbedingt Berücksichtigung finden.
 
-### Verringerung von Verwaltungsaufwand und Bürokratie
+#### Verringerung von Verwaltungsaufwand und Bürokratie
 
   - Neuorganisation der Pflegeleistungen durch die Zusammenlegung einzelner Leistungen
   - Erhöhung von Pflegepauschalen.
   - Erleichterung der Antragstellung und Antragsbearbeitung durch Vereinfachung der Antragstellung und Antragsbearbeitung durch Vereinfachung und Vereinheitlichung des Formularwesens bei den Pflegekassen.
   - Reduzierung des Dokumentationsaufwandes für Pflegekräfte, damit mehr Zeit für die Pflege bleibt.
 
-### Soziale Absicherung von privaten Pflegepersonen
+#### Soziale Absicherung von privaten Pflegepersonen
 
   - Zahlung eines Grundeinkommens für die gesamte Pflegezeit
   - Rückkehrgarantie zum alten Arbeitgeber nach der Pflegezeit
   - Zahlung angemessener Rentenversicherungsbeiträge für alle Pflegepersonen
   - Anrechnung von Pflegezeiten in Rentenpunkten
 
-### Arbeitsbedingungen für Pflegekräfte verbessern
+#### Arbeitsbedingungen für Pflegekräfte verbessern
 
   - Sanktionen für Geschäftsleitungen im Falle von Verletzungen der gesetzlich verbindlichen, maximalen Wochenarbeitszeiten und der Ruhezeiten
   - Die Bezahlung von Pflegehilfskräften muss deutlich über dem gesetzlichen Mindestlohn liegen
   - Die Fachkraftquote in der Heimpersonalverordnung oder entsprechenden Regelungen auf Landesebene darf nicht abgesenkt werden.
   - Der Begriff "Fachkraft" in der Pflege soll gesetzlich geschützt und dem Begriff "Facharbeiter" gleichgestellt werden. Analog zum "Facharbeiter" sollen sich nur die Pflegekräfte "Fachkraft" nennen dürfen, die eine entsprechend mehrjährige erfolgreiche Ausbildung auf Grundlage entsprechender Berufsgesetze oder Rechtsverordnungen beurkundet bekommen haben.
 
-### Pflege ohne freiheitsentziehende Maßnahmen
+#### Pflege ohne freiheitsentziehende Maßnahmen
 
   - Einrichtungen der Alten- und Dauerpflege sollen fixierungsfreie Einrichtungen werden.
   - Statt gegen den Willen der Betroffenen eingesetzte, körpernahe, mechanische Fixierungen, wie Bettgitter und Gurtsysteme, sollen Hilfsmittel eingesetzt werden, die die Bewegungsfreiheit erhalten.
 
-### Den Beruf der Hebamme zukunftssicher erhalten
+#### Den Beruf der Hebamme zukunftssicher erhalten
 
 Wir setzen uns für den Erhalt der wohnortnahen, flächendeckenden und niederschwelligen geburtshilflichen Versorgung und Verbesserung der Versorgung von Müttern und Neugeborenen ein.
 Uns ist der Erhalt der Wahlfreiheit des Geburtsortes für Frauen und der Erhalt der Versorgung mit Hebammenhilfe wichtig.
@@ -2426,22 +2426,22 @@ Wir werden uns dafür einsetzen, dass die wohnortnahe, flächendeckende Versorgu
 Wir fordern die Verpflichtung der Kliniken, der angestellten Hebamme Art und Umfang der abgeschlossenen Haftpflichtversicherung mitzuteilen, die Einrichtung eines steuerfinanzierten Fonds für Haftpflichthärtefälle für außerklinische und klinische Geburtshilfe, die Verkürzung der Verjährungsfrist auf 10 Jahre und die Festlegung einer Haftungsobergrenze, so dass z.B. Inflationsrisiken über die Zeit der Verjährungsfrist ausgeglichen sind.
 Außerdem unterstützen wir das Bestreben, die Ausbildung von Hebammen in Deutschland zu akademisieren, um den Berufsabschluss international vergleichbar zu machen und die Hebammenwissenschaft als Forschungsfeld voranzutreiben.
 
-### Fachkräfte schützen
+#### Fachkräfte schützen
 
 Die Fachkraftquote in der Heimpersonalverordnung oder entsprechenden Regelungen auf Landesebene darf nicht abgesenkt werden.
 Der Begriff "Fachkraft" in der Pflege soll gesetzlich geschützt und dem Begriff "Facharbeiter" gleichgestellt werden.
 Analog zum "Facharbeiter" sollen sich nur jene Pflegekräfte "Fachkraft" nennen und als solche arbeiten dürfen, die eine entsprechend mehrjährige erfolgreiche Ausbildung auf Grundlage entsprechender Berufsgesetze oder Rechtsverordnungen beurkundet bekommen haben.
 
-## Drogen- und Suchtpolitik
+### Drogen- und Suchtpolitik
 
-### Neustart: Drogen- und Suchtpolitik
+#### Neustart: Drogen- und Suchtpolitik
 
 Wir PIRATEN streben die Zusammenarbeit mit allen gesellschaftlichen Gruppen an, die sich vorurteilsfrei mit dem Konsum von psychotropen Substanzen und dessen Folgen auseinandersetzen.
 Gemeinsam werden wir eine Politik betreiben, die riskantem Drogengebrauch durch Prävention entgegenwirkt, sowie Risiko-Konsumenten und Schwerstabhängigen durch Therapieangebote hilft.
 Der Gesetzgeber darf nur dort eingreifen, wo die Schutzrechte anderer berührt sind.
 Er soll einen effizienten Jugend- und Verbraucherschutz sicherstellen und das organisierte Verbrechen eindämmen.
 
-### Mündigkeit braucht Bildung – Prävention ist die Grundlage
+#### Mündigkeit braucht Bildung – Prävention ist die Grundlage
 
 Das Ziel unserer Drogen- und Suchtpolitik ist eine selbstverantwortliche und sozialverträgliche Genusskultur.
 Wir wollen Menschen aller Altersgruppen zu einem achtsamen Umgang mit psychotropen Substanzen und einem selbstbestimmten Konsum befähigen.
@@ -2450,7 +2450,7 @@ Um Wirkungen und mögliche Gefahren besser einschätzen zu können, bedarf es ei
 Sie muss auch die Fähigkeit vermitteln, mit den unterschiedlichen, gebräuchlichen Drogen umzugehen.
 Wir glauben, dass die Stärkung von sozialer Kompetenz und Selbstbewusstsein eine wichtige Grundlage für wirksame Prävention ist.
 
-### Nachhaltige Prävention fängt in der Schule an
+#### Nachhaltige Prävention fängt in der Schule an
 
 Die Maßnahmen zur Suchtprävention an Schulen und der Ausbildungsstand der Lehrkräfte sind unzureichend.
 Pilotprojekte haben gezeigt, wie nachhaltig eine gute Prävention bereits ab dem Grundschulalter wirkt.
@@ -2460,7 +2460,7 @@ Externe Fachreferenten sollen besonders in der Sekundarstufe das Wissen bei Lehr
 Vorurteile werden so durch Wissen überwunden.
 Die gewonnenen Erkenntnisse tragen die Schüler wie selbstverständlich in ihr soziales Umfeld.
 
-### Prävention als gesamtgesellschaftliche Aufgabe
+#### Prävention als gesamtgesellschaftliche Aufgabe
 
 Die umfassende Aufklärung über Drogen, ihren Gebrauch und mögliche Folgen darf sich nicht auf die Schule beschränken, sondern muss sich an die ganze Gesellschaft richten.
 Ärzte, Krankenhäuser, Bürgerämter, Sozialdienststellen, Jugendzentren und ähnliche Einrichtungen sollen geeignete Informationsmaterialien bereithalten und Ansprechmöglichkeiten bieten.
@@ -2471,12 +2471,12 @@ Der Einsatz von Streetworkern und Sozialarbeitern ist auszubauen, vor allem in b
 Es ist dringend notwendig, die Mittel für niederschwellige Hilfsangebote in der Suchthilfe deutlich aufzustocken.
 Die präventive Arbeit wird dabei stoffliche und nicht stoffgebundene Süchte gleichberechtigt einschließen.
 
-### Keine Werbung für Drogen
+#### Keine Werbung für Drogen
 
 Die einseitig positive Darstellung von suchterzeugenden Substanzen zu vermeiden, ist ein wesentlicher Aspekt von Prävention.
 Wir fordern daher ein ausnahmsloses Werbe- und Sponsoringverbot für Produkte, die psychotrope Substanzen in einer Konzentration enthalten, die geeignet ist, Abhängigkeiten zu erzeugen.
 
-### Verbraucherschutz – auch für Drogenkonsumenten
+#### Verbraucherschutz – auch für Drogenkonsumenten
 
 Das Wissen um Wirkstoff und Beimengungen ist Grundlage risikoarmen Drogengebrauchs.
 Umfassende, bedarfsgerechte Möglichkeiten zum Drugchecking sollen vor Ort ermöglicht werden.
@@ -2491,7 +2491,7 @@ Sie dürfen nicht ausschließlich auf Abstinenz ausgerichtet sein.
 
 Wir fordern ein bundesweites Angebot von Drogenkonsumräumen als weiteres wichtiges Element der Schadensverhütung und -minderung.
 
-### Diamorphinprogramme ermöglichen – nicht verhindern
+#### Diamorphinprogramme ermöglichen – nicht verhindern
 
 Für Diamorphinbehandlungen werden dringend mehr Vergabestellen benötigt.
 Die Umsetzung von Diamorphin-Programmen muss erleichtert werden, damit mehr Betroffene Zugang erhalten, auch solche mit weniger schädlichen Konsummustern.
@@ -2500,32 +2500,32 @@ Bei der Durchführung gilt es, neben Injektion auch Inhalation und orale Einnahm
 Gegebenenfalls ist in weitergehende Therapieangebote überzuleiten.
 Neben den Ärzten sind auch medizinisches Personal, Therapeuten und Mitarbeiter der sozialen Dienste zur fachbezogenen Weiterbildung zu verpflichten.
 
-### Zugang zu medizinischem Cannabis erleichtern
+#### Zugang zu medizinischem Cannabis erleichtern
 
 Cannabinoidhaltige Medikamente sollen anderen verkehrsfähigen Medikamenten gleichgestellt werden.
 Es liegt dabei im Ermessen des behandelnden Arztes, ob dabei der Echtstoff zum Einsatz kommen soll.
 Die Kosten sind von den Krankenkassen zu tragen.
 
-### Entkriminalisierung der Konsumenten
+#### Entkriminalisierung der Konsumenten
 
 Der private Umgang mit psychotropen Substanzen muss komplett entkriminalisiert werden.
 Anbau und Herstellung für den Eigenbedarf dürfen nicht bestraft werden.
 
 Wir PIRATEN fordern als Sofortmaßnahme einen bundeseinheitlich geregelten Richtwert von 30 Gramm für den duldbaren Besitz von Cannabis zum Eigenkonsum für Volljährige, um zumindest die Kriminalisierung der Cannabis-Konsumenten zu beenden und die Behörden zu entlasten.
 
-### Neufassung des Betäubungsmittelgesetzes
+#### Neufassung des Betäubungsmittelgesetzes
 
 Wir fordern eine Neufassung des Betäubungsmittelgesetzes, in der die erfassten, psychotropen Substanzen neu bewertet werden:
 Nur wenn eine Fremdgefährdung realistisch nicht ausgeschlossen werden kann, dürfen die Freiheitsrechte des Einzelnen eingeschränkt werden.
 
-### Informationelle Selbstbestimmung stärken
+#### Informationelle Selbstbestimmung stärken
 
 Die informationelle Selbstbestimmung ist auch im Bereich der Drogen- und Suchtpolitik zu gewährleisten:
 
   - Auf Drogenkonsum bezogene Daten aus ergebnislos gebliebenen polizeilichen Ermittlungen müssen umgehend wieder gelöscht werden. Register über Drogenkonsum dürfen nicht geführt werden.
   - Allgemeine und verdachtsunabhängige Drogentests am Arbeitsplatz lehnen wir PIRATEN ab. Sie sind auf gefährliche Berufe und Tätigkeiten zu begrenzen.
 
-### Keine Willkür beim Führerscheinentzug
+#### Keine Willkür beim Führerscheinentzug
 
 Die Gefährdung des Straßenverkehrs unter Einfluss von Rauschmitteln kann nicht geduldet werden.
 Aber die automatische und pauschale Sanktionierung des Konsums von Drogen und Medikamenten durch die Führerscheinbehörde nehmen wir nicht hin:
@@ -2534,14 +2534,14 @@ Aber die automatische und pauschale Sanktionierung des Konsums von Drogen und Me
   - Es muss ein unmittelbarer Zusammenhang zwischen dem Konsum und dem Führen des Kraftfahrzeuges vorliegen.
   - Allein die Vermutung oder die Feststellung, dass eine Person Drogen oder Medikamente konsumiert oder konsumiert hat, lässt keine Rückschlüsse auf die aktuelle Fahrtüchtigkeit zu und rechtfertigt keinen vorbeugenden Entzug der Fahrerlaubnis.
 
-### Keine Einschränkungen für e-Zigaretten
+#### Keine Einschränkungen für e-Zigaretten
 
 Der derzeit freie Handel und Gebrauch liquidverdampfender E-Zigaretten soll nicht über den Jugendschutz hinaus eingeschränkt werden.
 Stattdessen fordern wir die weitergehende Schaffung von Qualitätsstandards für Produktion und Handel von E-Zigaretten und Liquids.
 
 E-Zigaretten ins Nichtraucherschutzgesetz aufzunehmen, oder eine Besteuerung nach dem Tabaksteuergesetz lehnen wir hingegen ab.
 
-### Umwandlung der Tabaksteuer
+#### Umwandlung der Tabaksteuer
 
 Tabak und Nikotin müssen in die allgemeine Drogenaufklärung und Suchtprävention integriert werden, um den Tabak aus der Wahrnehmung als "Alltagsdroge" herauszuführen und sein Gefahrenpotenzial deutlich zu machen.
 Damit wird die Grundlage für eine verantwortungsvolle Selbstbestimmung im Umgang mit Tabak gelegt.
@@ -2552,7 +2552,7 @@ Daher streben wir PIRATEN ein allgemeines Werbeverbot für Tabak an.
 Wir fordern die Umwandlung der Tabaksteuer in eine zweckgebundene Abgabe.
 Diese ist für Aufklärung, Suchtprävention und suchtbezogene Forschung, Entzugs- und Entwöhnungsbehandlungen und als Beitrag zu den Folgekosten im Gesundheitsbereich zu verwenden.
 
-### Alkoholwerbung unterbinden und Deklarationspflicht verbessern
+#### Alkoholwerbung unterbinden und Deklarationspflicht verbessern
 
 Das vom Alkohol ausgehende Suchtpotenzial wird im gesellschaftlichen Alltag nur unzureichend wahrgenommen.
 Dem sollte durch verstärkte Einbeziehung des Alkohols in die allgemeine Drogenaufklärung und Suchtprävention entgegengewirkt werden.
@@ -2568,7 +2568,7 @@ Bei alkoholischen und alkoholhaltigen Getränken muss deutlich sichtbar auf das 
 
 In der Gastronomie sollen mehrere alkoholfreie Getränke angeboten werden, die günstiger sind als das billigste alkoholische Getränk.
 
-### Lizenzierte Fachabgabestellen – jetzt einführen
+#### Lizenzierte Fachabgabestellen – jetzt einführen
 
 Wir fordern Modellversuche für lizenzierte Fachabgabestellen.
 In diesen erfolgt der Verkauf von Tabak, Liquids für e-Zigaretten, Spirituosen und anderen psychotropen Substanzen.
@@ -2579,9 +2579,9 @@ Wie alle Genussmittel, müssen die angebotenen Substanzen dem Verbraucherschutz 
 Die Produkte dürfen nicht künstlich verteuert werden, damit ein Bezug über den Schwarzmarkt keine Alternative darstellt.
 Perspektivisch soll es möglich sein, derzeit illegale psychotrope Substanzen auch legal anzubauen oder herzustellen.
 
-## Psyche
+### Psyche
 
-### Verrückt ist auch normal
+#### Verrückt ist auch normal
 
 Das Ziel der politischen Arbeit der PIRATEN ist eine größtmögliche Inklusion aller Menschen.
 Um dieses Ziel zu erreichen, beziehen wir die psychiatrische und psychotherapeutische Versorgung in unser Programm mit ein.
@@ -2590,7 +2590,7 @@ Deshalb setzen wir uns für eine psychiatrische und psychotherapeutische Versorg
 
 Wir PIRATEN fordern darüber hinaus den zielgerichteten und zeitnahen Ausbau der gemeindenahen psychiatrischen Versorgung, eine inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen sowie eine deutliche Verbesserung der rechtlichen Situation von Menschen mit psychischen Störungen.
 
-#### Gesundheitliche Aufklärung
+##### Gesundheitliche Aufklärung
 
 Wir PIRATEN setzen uns für eine umfassende gesundheitliche Aufklärung als nächsten Schritt einer sozialen Inklusion von Menschen mit psychischen Störungen ein.
 In den Fokus der Aufklärung sollen vor allem jene Störungsbilder gerückt werden, die häufig von Vorurteilen und Ausgrenzungen betroffen sind und dadurch die Lebensqualität und medizinische Therapie der Betroffenen erheblich beeinträchtigen.
@@ -2601,21 +2601,21 @@ Wir PIRATEN sehen die Bundeszentrale für gesundheitliche Aufklärung (BZgA) als
 Wir sehen aber auch hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten.
 Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit psychischen Störungen ein gleichberechtigter Teil der Gesellschaft sind.
 
-#### Mehr psychiatrische Abteilungen an allgemeinen Krankenhäusern
+##### Mehr psychiatrische Abteilungen an allgemeinen Krankenhäusern
 
 Wir PIRATEN setzen uns dafür ein, den Ausbau von psychiatrischen Abteilungen in allgemeinen Krankenhäusern mit dem Ziel weiter fortzusetzen, dass alle Kreise und kreisfreien Städte im Sinne der gemeindenahen Psychiatrie mit psychiatrischen Abteilungen mit angeschlossenen Tageskliniken und psychiatrischen Institutsambulanzen versorgt werden.
 In Planungsregionen sollen durch Bettenabbau in allgemeinen Krankenhäusern frei werdende Bettenkapazitäten für die Errichtung von psychiatrischen Abteilungen mit entsprechend qualifiziertem Personal verwendet werden.
 Dabei muss perspektivisch gewährleistet sein, dass diese zunächst kleinen Einheiten durch Bettenaufstockung und psychiatriegerechte bauliche Verbesserungen in überschaubarer Frist eine regionale, gemeindeorientierte Pflichtversorgung übernehmen können.
 Mittelfristiges Ziel ist das System der Fachkrankenhäuser durch ein flächendeckendes System von psychiatrischen Fachabteilungen an Allgemeinkrankenhäusern zu ersetzen (Beispiel Saarland).
 
-#### Mehr Psychiatrische Institutsambulanzen
+##### Mehr Psychiatrische Institutsambulanzen
 
 Wir PIRATEN unterstützen das Konzept der multiprofessionellen Psychiatrischen Institutsambulanzen als Teil der gemeindenahen psychiatrischen Versorgung und setzen sich für den weiteren flächendeckenden Ausbau in Deutschland ein.
 Psychiatrische Institutsambulanzen werden an den Psychiatrischen Abteilungen in den Allgemeinkrankenhäusern errichtet.
 Wir sprechen uns dabei für die Ansiedlung von Psychiatrischen Abteilungen mit Psychiatrischen Institutsambulanzen in zentraler leicht erreichbarer Lage der Kreise und kreisfreien Städte ein, bei flächenweiten Kreisen sollen zusätzliche Außenstellen der Psychiatrischen Institutsambulanzen errichtet werden.
 Allgemeinkrankenhäuser, die für den Aufbau der Psychiatrischen Abteilung zunächst mit psychiatrischen Stationen beginnen, sollen bereits mit diesen Stationen auch Psychiatrische Institutsambulanzen in Betrieb nehmen.
 
-#### Bausteine der komplementären Versorgung
+##### Bausteine der komplementären Versorgung
 
 Wir PIRATEN fordern, dass in allen Gebietskörperschaften die Strukturen der sozialen, komplementären Versorgung für Menschen mit psychischen Störungen bedarfsdeckend aufgebaut bzw. (bei Trägerschaft von gemeinnützigen Vereinen) durch entsprechende Fördermittel erhalten werden.
 Diese komplementäre Versorgung ist das Kernstück der sozialen Inklusion; dazu gehört vor allem die Unterstützung in den Bereichen Wohnen, Arbeit und Freizeit.
@@ -2627,14 +2627,14 @@ Diese komplementäre Versorgung ist das Kernstück der sozialen Inklusion; dazu 
   - Freizeit: Die Freizeit sinnvoll mit anderen zu gestalten, ist für Menschen mit psychischen Störungen ebenfalls nicht so einfach wie für andere. Diverse Clubs, in denen sich alle (auch nicht Betroffene) treffen können, Patientencafés inmitten der Städte etc. sind daher unverzichtbare Bausteine einer komplementären sozialpsychiatrischen Versorgung.
   - Tagesstätten: Im Gegensatz zu Tageskliniken findet in Tagesstätten keine medizinische Versorgung statt, sondern Therapeuten aller Ausbildungstypen (z. B. Ergo-, Kunst- und Musiktherapeuten etc.) gestalten zusammen mit Beschäftigten der Gesundheits- und Krankenpflege, Sozialarbeit und engagierten Bürgerinnen und Bürgern den Alltag der Betroffenen. Tagesstätten haben sich zudem als besonders nützlich erwiesen, wenn Demenzkranke ältere Menschen von ihren berufstätigen Kindern versorgt werden und müssen daher flächendeckend angeboten werden.
 
-#### Bundesweite Notrufnummer
+##### Bundesweite Notrufnummer
 
 Wir PIRATEN setzen uns dafür ein, dass in allen Notrufleitstellen psychiatrisch geschultes Personal eingesetzt wird.
 Dieses soll eine kurzfristige Krisenintervention in psychischen Krisen ermöglichen, ähnlich wie dies bereits in Israel gehandhabt wird.
 Für psychische Notfälle soll es eine leicht zu merkende kostenfreie Rufnummer geben, die Anrufer mit der Leitstelle verbindet.
 Des Weiteren soll psychiatrische Notfallhilfe per E-Mail und SMS ganztags erreichbar sein.
 
-#### Internetangebot des Bundesministerium für Gesundheit
+##### Internetangebot des Bundesministerium für Gesundheit
 
 Wir PIRATEN fordern im Zuge der Aufklärung über psychische Störungen die Bereitstellung eines Internetangebotes vom Bundesministerium für Gesundheit (BMG) mit folgendem Inhalt:
 
@@ -2649,45 +2649,45 @@ Wir PIRATEN fordern im Zuge der Aufklärung über psychische Störungen die Bere
 An dieses Internetangebot soll eine Telefonhotline angeschlossen sein, die zu den Inhalten ebenfalls Auskunft geben kann.
 Die inhaltliche Ausgestaltung soll koordinierend vom BMG mit fachlicher Kompetenz erfolgen.
 
-#### Kenntnisse über psychiatrische Symptome und Krisenintervention
+##### Kenntnisse über psychiatrische Symptome und Krisenintervention
 
 Wir PIRATEN fordern, dass Ärzte in allen Fachbereichen, in denen sie mit Betroffenen mit psychiatrischen Diagnosen konfrontiert sind, vor allem aber in der Notfallmedizin, ausführliche und fortlaufende psychiatrische Weiterbildungen erhalten.
 Besonders wichtig ist auch eine fundierte Ausbildung und Training von Fähigkeiten in Krisenintervention und Deeskalation von Ärzten, Polizei und Rettungsdienstpersonal.
 Diesen Inhalten muss bereits frühzeitig, also noch während des Studiums oder der Ausbildung, mehr Bedeutung beigemessen werden.
 
-#### Pflegepersonal in der Psychiatrie
+##### Pflegepersonal in der Psychiatrie
 
 Wir PIRATEN fordern eine deutliche Erhöhung des Personalschlüssels auf psychiatrischen Stationen.
 Des weiteren soll das Pflegepersonal auf psychiatrischen Stationen durch umfangreichere und praxisbezogene Weiterbildungsmaßnahmen besser im Umgang mit Patientinnen und Patienten mit psychischen Störungen geschult werden.
 
-### Inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen
+#### Inklusive Arbeitsmarktpolitik für Menschen mit psychischen Störungen
 
-#### Sonderregelung Arbeitszeiten
+##### Sonderregelung Arbeitszeiten
 
 Wir PIRATEN fordern eine umfassende Novellierung und Ausarbeitung der Regelungen im bisherigen Behindertenrecht, die den Menschen mit chronischen somatischen und chronischen psychischen Störungen, die auf Grund ihrer Störungen in ihrer Leistungsfähigkeit eingeschränkt sind, die Wahlmöglichkeit zu eröffnen, ein ihren Einschränkungen gerecht werdendes Arbeitszeitmodell auszuwählen.
 Es muss hierzu unter strengster Beachtung des Datenschutzes und Nutzung der Aufsichtsbehörden gewährleistet werden, dass die Annahme eines Arbeitszeitmodells diskriminierungsfrei und erfolgreich ermöglicht wird.
 
-#### Sonderregelung Urlaubszeiten
+##### Sonderregelung Urlaubszeiten
 
 Wir PIRATEN fordern eine Reform der gesetzlichen Regelungen, um Menschen mit chronischen psychischen Störungen, entsprechend ihres störungsbedingten Erholungsbedarfs, mehr Urlaubstage zu gewähren.
 
 Zu den Sonderregelungen von Arbeits- und Urlaubszeiten sollen die Verbände der Arbeitgeber, der medizinischen Wissenschaften und der Betroffenen gemeinsam die Arbeitszeitmodelle und die Vorschläge für zusätzliche Urlaubstage im Rahmen einer Enquete-Kommission im Deutschen Bundestag erarbeiten und vorstellen, damit der Deutsche Bundestag darüber beschließen kann.
 Wir PIRATEN setzen uns dafür ein, dass die Vorschläge der Enquete-Kommission zur Abstimmung gestellt werden.
 
-#### Freistellungsoption von Mehrarbeit für Menschen mit psychischen Störungen
+##### Freistellungsoption von Mehrarbeit für Menschen mit psychischen Störungen
 
 Wir PIRATEN fordern eine Freistellungsoption bei Mehrarbeit für Menschen mit chronischen psychischen Störungen, ähnlich der Regelung in §124 SGB IX, (<http://www.gesetze-im-internet.de/sgb\_9/BJNR104700001.html> Fassung Art. 13 Abs. 26 G v. 12.4.2012 I 579), für Menschen mit Schwerbehinderung.
 
-### Rechte der psychiatrischen Patienten
+#### Rechte der psychiatrischen Patienten
 
-#### Persönliches Budget
+##### Persönliches Budget
 
 Seit dem 1. Januar 2008 haben Menschen mit Anspruch auf Teilhabeleistungen einen Rechtsanspruch auf das Persönliche Budget.
 Wir PIRATEN unterstützen dieses Konzept als Teilschritt zur Verwirklichung der Inklusion von Menschen mit gesundheitlichen Erkrankungen bzw. Störungen und wirken an seiner stetigen realitätsgerechten Verbesserung mit.
 Antragsstellungen sollen unabhängig vom Leistungsträger einfach und unbürokratisch ermöglicht werden.
 Des Weiteren fordern wir, dass Menschen mit Anspruch auf Teilhabeleistungen umfassend über diese Rechtsansprüche und das Beantragungsverfahren informiert werden.
 
-#### Qualität in der Diagnostik
+##### Qualität in der Diagnostik
 
 Wir PIRATEN fordern eine Reform der Richtlinien, die eine sorgfältigere psychiatrische Diagnostik sicherstellen.
 Psychiatrische Diagnosen müssen ausreichend begründet und gesichert sein, bevor sie gestellt werden dürfen.
@@ -2696,20 +2696,20 @@ Die wissenschaftlichen Fachverbände und Betroffenenverbände sollen gemeinsam e
 Zusätzlich soll ermöglicht werden, nicht oder nicht mehr zutreffende Diagnosen auf Antrag des Betroffenen löschen zu lassen.
 Dafür erforderliche Richtlinienänderungen sollen von den wissenschaftlichen Fachverbänden und Betroffenenverbänden gemeinsam erarbeitet werden.
 
-#### Freier Zugang zu Patientenakten
+##### Freier Zugang zu Patientenakten
 
 Jede Patientin und jeder Patient haben das Recht, ihre Patientenakte in vollem Umfang zu lesen.
 Wir PIRATEN fordern für alle Patientinnen und Patienten den freien, uneingeschränkten Zugang zu ihren Patientenakten.
 Die Einsichtnahme soll unbürokratisch, kostenfrei, zeitnah und in therapeutischer Umgebung (Begleit-Pflicht) ermöglicht werden.
 
-#### Weniger bürokratische Hürden für Patienten
+##### Weniger bürokratische Hürden für Patienten
 
 Wir PIRATEN setzen uns dafür ein, dass Patientinnen und Patienten, die sich in psychiatrischer Behandlung befinden oder sich in eine solche begeben wollen, ab dem Zeitpunkt der Feststellung der Behandlungsbedürftigkeit den Anspruch darauf erhalten, von einem Sozialarbeiter oder -pädagogen Unterstützung zu bekommen, wenn sich abzeichnet, dass Patientinnen und Patienten mittel- bis langfristig nicht in der Lage sein werden, eigenständig seinen Alltag zu bewältigen.
 Diese Unterstützung soll den Patientinnen und Patienten alltagspraktische Hilfestellung bieten, ohne dass dafür ein Betreuungsverfahren eingeleitet werden muss.
 
-# Europa
+## Europa
 
-## Für eine europäische Republik\!
+### Für eine europäische Republik\!
 
 Die Europäische Union ist heute als supranationale Institution ein Projekt der nationalen Mitgliedstaaten und nicht der Bürger.
 Wir PIRATEN sind daher der Ansicht, dass die Zukunft Europas nicht an den Interessen der einzelnen Mitgliedstaaten, sondern an den gemeinsamen Interessen aller Menschen in Europa ausgerichtet werden soll.
@@ -2725,7 +2725,7 @@ Die Freiheit des Internets werden wir auf europäischer und globaler Ebene mit a
 Wir setzen uns für eine erweiterte EU-Bürgerschaft ein.
 Die erweiterte EU-Bürgerschaft sichert ihren Inhabern am Hauptwohnsitz vollumfänglich die gleichen Rechte zu, wie dort beheimateten Menschen mit jeweiliger nationaler Staatsbürgerschaft.
 
-## Demokratie Add-on für Europa
+### Demokratie Add-on für Europa
 
 Wir fordern die Einberufung einer verfassungsgebenden Versammlung (Verfassungskonvent) für die Europäische Union.
 Ziel des Verfassungskonvents ist es, das politische System der EU und ihre Beziehung zu den Mitgliedstaaten und Regionen neu zu strukturieren und auf eine demokratische Basis zu heben.
@@ -2751,7 +2751,7 @@ Zudem wäre eine zweite Parlamentskammer sinnvoll, besetzt mit Vertretern der na
 Die Rechte der Kommission und des Europäischen Rates müssten im Gegenzug beschnitten werden.
 Wir plädieren für die Stärkung der Parlamentsrechte statt für eine Stärkung einzelner Führungspositionen.
 
-## Europäische Wirtschafts- und Währungsunion
+### Europäische Wirtschafts- und Währungsunion
 
 Die eklatanten Konstruktionsfehler der Europäischen Wirtschafts- und Währungsunion tragen im Zuge der Wirtschafts- und Finanzkrisen in einigen Mitgliedsstaaten maßgeblich zur Ausweitung der Ungleichgewichte unter den Eurostaaten bei.
 Die einseitige europäische Rettungspolitik aus Spardiktaten, Lohn-, Renten- und Sozialkürzungen stellt einen doppelten Schlag ins Gesicht der Bürger dar:
@@ -2764,7 +2764,7 @@ Wird nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer B
 Als letzter Schritt ist eine Verstaatlichung zu prüfen, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet.
 Eine Abfederung sozialer Einschnitte durch den Schutz von Kleinanlegern bzw. privater Renten- und Lebensversicherungen ist bis zu einem Höchstbetrag zu gewährleisten.
 
-## Transparenz und demokratische Kontrolle des ESM
+### Transparenz und demokratische Kontrolle des ESM
 
 Der ESM-Vertrag verstößt gegen die im Grundgesetz verankerten fundamentalen Rechtsprinzipien und Grundsätze einer demokratischen Staatsordnung (wie den Parlamentsvorbehalt und das Rechtsstaatsprinzip) sowie gegen die Transparenz-Grundsätze der PIRATEN.
 
@@ -2778,7 +2778,7 @@ Wir fordern:
   - Das Europäische Parlament soll die Befugnis erhalten, die Immunität der Mitglieder des europäischen Gouverneursrates und des Direktoriums aufheben zu können.
   - Die Gehälter der Mitglieder des Gouverneursrates und des Direktoriums sind offenzulegen.
 
-## Die Europäische Union kann ohne Solidarität nicht bestehen
+### Die Europäische Union kann ohne Solidarität nicht bestehen
 
 Um die wirtschaftlich angeschlagenen Eurostaaten auf die Beine zu bringen, fordern wir PIRATEN daher einen "Marshall-Plan für Europa " – ein Aufbau- und Investitionsprogramm, das sowohl die kurzfristige Konjunkturentwicklung fördert als auch das längerfristige Wachstumspotenzial stärkt.
 Ziel ist der Umbau und die Modernisierung der europäischen Volkswirtschaften hin zu einer energieeffizienten und ressourcenschonenden Wirtschaftsstruktur.
@@ -2791,7 +2791,7 @@ In der forcierten Einmischung der Europäischen Kommission in die Haushaltspolit
 Wir lehnen den europäischen Fiskalpakt daher als demokratisch nicht legitimierten Eingriff in die Haushaltshoheit der Mitgliedstaaten ab.
 Weitere Schritte zur Integration der Eurozone erfordern zwingend eine verstärkte demokratische Legitimation und Rechenschaftspflichten sowie die Ausweitung der parlamentarischen Kontrollrechte.
 
-## Europäische Energiepolitik
+### Europäische Energiepolitik
 
 Ein funktionierender europäischer Energiebinnenmarkt muss auf Versorgungssicherheit, Ressourcenschonung, Verbrauchernutzen und Wettbewerbsfähigkeit ausgerichtet sein.
 Die unvollendete Struktur des bestehenden EU-Energiebinnenmarkts muss an die Herausforderungen, denen Europa in den Bereichen Energie und Klimaschutz gegenübersteht, angepasst werden.
@@ -2814,7 +2814,7 @@ Bei der Umsetzung des europäischen Energiebinnenmarkts werden modernste interne
 Allerdings birgt die damit verbundene detailgetreue Dokumentation des individuellen Energieverbrauchs erhebliche Missbrauchsgefahren.
 Hier müssen höchste Datenschutzstandards eingehalten werden.
 
-## Digitale Agenda für Europa
+### Digitale Agenda für Europa
 
 Die Digitale Revolution verändert die gesellschaftlichen und wirtschaftlichen Strukturen in ganz Europa.
 Der freie und gleichberechtigte Zugang zum Internet ist Grundvoraussetzung für die Teilhabe am digitalen Leben.
@@ -2838,7 +2838,7 @@ Umfassende Transparenz und gerechte Mitbestimmung durch ihre Mitglieder muss auc
 
 Wir PIRATEN lehnen intransparent zustande gekommene und ohne Beteiligung der Zivilgesellschaft entwickelte internationale Freihandelsabkommen wie TTIP und CETA ab, die den zuvor genannten Prinzipien zu Immaterialgüterrechten und Datenschutz widersprechen.
 
-## Europäische Innen- und Sicherheitspolitik
+### Europäische Innen- und Sicherheitspolitik
 
 Wir PIRATEN wollen die europäische Flüchtlings- und Asylpolitik einer grundlegenden Neuausrichtung unterziehen.
 Eine "Festung Europa" ist nicht hinnehmbar.
@@ -2854,7 +2854,7 @@ Jeglichen Tendenzen hin zu einer repressiven europaweiten Überwachungsstruktur 
 Für uns PIRATEN ist der forcierte Einsatz von Drohnen innerhalb der EU-Sicherheitsarchitektur Ausdruck einer fatalen Fehlentwicklung.
 Abgesehen von eng definierten absoluten Ausnahmefällen lehnen wir PIRATEN den Einsatz von Drohnen in der Europäischen Union grundsätzlich ab.
 
-## Gemeinsame Sicherheits- und Verteidigungspolitik
+### Gemeinsame Sicherheits- und Verteidigungspolitik
 
 Wir PIRATEN stehen der Idee einer gemeinsamen europäischen Armee wohlwollend gegenüber.
 Wir betrachten die Gemeinsame Europäische Armee als selbständigen Teil eines transatlantischen Sicherheits- und Verteidigungsbündnisses.
@@ -2863,7 +2863,7 @@ Integriert in ein immer größer werdendes globales Sicherheitsbündnis, welches
 Wir PIRATEN setzen uns dafür ein, dass das so geschaffene und reformierte transatlantische Sicherheits- und Verteidigungsbündnis nach dem Subsidaritätsprinzip entworfen wird, bei der weiterhin die Nationalstaaten, die EU oder ein zu benennendes Organ des Bündnisses über die Einsätze entscheiden.
 Die Entscheidung über einen etwaigen Einsatz bedarf zwingend einer demokratischen Legitimation durch das EU-Parlament.
 
-## Europäische Verkehrspolitik
+### Europäische Verkehrspolitik
 
 Wir betrachten Mobilität als Grundrecht, jedoch den Betrieb eines subventionierten Autos und die Vergesellschaftung der externen Effekte – insbesondere der Umweltfolgen – hingegen als Hemmnis für eine zukunftsfähige Verkehrspolitik.
 Wir unterstützen die Reduzierung des Autoverkehrs im Rahmen einer multimodalen Verkehrsplanung, die eine abgasfreie urbane Mobilität zum Ziel hat.
@@ -2883,7 +2883,7 @@ Die Verringerung von Lärmbelästigung und Umweltbelastungen ist ein zentrales Z
 Daneben fordern wir die Vereinheitlichung und den Ausbau von Passagierrechten insbesondere auch im Bereich des Datenschutzes.
 Wir befürworten weiterhin den Einsatz neuer Kommunikationstechnologien, um Verkehr wo möglich zu vermeiden.
 
-## Zeitumstellung
+### Zeitumstellung
 
 Die Piraten wollen die Zeitumstellung in der Europäischen Union abschaffen.
 Die nach der Abschaffung gültige Zeit soll die Normalzeit sein.
@@ -2891,9 +2891,9 @@ Die nach der Abschaffung gültige Zeit soll die Normalzeit sein.
 Die Zeitumstellung hat keine Vorteile, sondern bringt lediglich Nachteile und mittleren bis hohen Umstellungsaufwand mit sich.
 Beibehalten wird sie aus EU- und Bundestagssicht nur noch wegen einer einheitlichen Umstellung innerhalb der EU, was sich allerdings auch durch eine Abschaffung erreichen ließe.
 
-# Außen- und Sicherheitspolitik
+## Außen- und Sicherheitspolitik
 
-## Außen- und sicherheitspolitisches Programm
+### Außen- und sicherheitspolitisches Programm
 
 Die Veränderung der internationalen Beziehungen durch die Digitalisierung der Welt macht es notwendig, außen- und sicherheitspolitische Konzepte für das 21. Jahrhundert zu erarbeiten, die diesen Rechnung tragen.
 Als PIRATEN können wir bei der Verletzung von Menschen- und Bürgerrechten nicht wegschauen.
@@ -2912,41 +2912,41 @@ Aus Sicht der PIRATEN bedarf es stattdessen einer Präventionspolitik.
 Es ist eine Analyse der Ursachen, aufgrund derer sich Menschen radikalisieren, nötig.
 Ein langfristiger außensicherheitspolitischer Ansatz ist hierzu erforderlich, welcher auch eine Gesamtbetrachtung politischer, rechtlicher, sozialer, wirtschaftlicher, ökologischer und militärischer Faktoren einschließt.
 
-## Transparente Außenpolitik
+### Transparente Außenpolitik
 
 Die langfristigen außenpolitischen Ziele Deutschlands sind transparent und offen zugänglich zu dokumentieren.
 Die Dokumentation muss in einem vom Auswärtigen Amt zu publizierenden Weißbuch erfolgen und bei gegebenem Anlass aktualisiert werden.
 
-### Transparente Europäische Außen- und Sicherheitspolitik
+#### Transparente Europäische Außen- und Sicherheitspolitik
 
 Im Zuge der Entwicklung der vertraglichen Grundlagen der Europäischen Union wurden Institutionen einer gemeinsamen Außen- und Sicherheitspolitik entwickelt und erweitert.
 Die PIRATEN fordern Transparenz, auch in der Außenpolitik.
 Deshalb steht sie dafür ein, dass die EU-Organe die langfristigen außenpolitischen Ziele der EU definieren und öffentlich kommunizieren.
 
-## PIRATEN gegen Cyberwar
+### PIRATEN gegen Cyberwar
 
 Offene und verdeckte Aktionen von staatlichen, privaten und öffentlichen Organisationen, die den Cyberspace als Konfliktdomäne nutzen und die Zivilbevölkerung gefährden, lehnen wir dezidiert ab.
 Schadsoftware, die in der Lage ist Menschenleben durch Angriffe auf gesellschaftliche Versorgungsnetzwerke (Stichwort: KRITIS) zu gefährden, betrachten wir als inakzeptables Sicherheitsrisiko und fordern ein Bekenntnis von Regierungen, im speziellen der deutschen Regierung, zu friedenserhaltenden Maßnahmen, gemäß den internationalen Konventionen zur Verbesserung des friedlichen menschlichen Zusammenlebens durch Technik auf der Welt.
 Wir PIRATEN Deutschland fordern alle Regierungen dieser Erde auf, die globalen Informations- und Kommunikationsnetze gemeinsam zu schützen und als ein hohes gemeinschaftliches Gut aller Menschen anzuerkennen.
 
-## Global Menschenrechte stärken
+### Global Menschenrechte stärken
 
-### Ablehnung von Körperstrafen
+#### Ablehnung von Körperstrafen
 
 Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung von Körperstrafen ein.
 
-### Ablehnung der Todesstrafe
+#### Ablehnung der Todesstrafe
 
 Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung der Todesstrafe ein.
 
-### Kategorische Ablehnung ethnischer Säuberungen
+#### Kategorische Ablehnung ethnischer Säuberungen
 
 Wir PIRATEN lehnen gewaltsame Vertreibung, Umsiedlung, Deportation und Mord kategorisch ab.
 Sie unterstützt UN-Initiativen die das Ziel haben, diese zu verhindern.
 
-## Die Vereinten Nationen (UN)
+### Die Vereinten Nationen (UN)
 
-### Stärkung der Vereinten Nationen (UNO)
+#### Stärkung der Vereinten Nationen (UNO)
 
 Die Vereinten Nationen als wichtigste Institution für die friedliche Verständigung zwischen den Staaten der Erde bedürfen innerer Reformen, um für die neuen Herausforderungen gerüstet zu sein.
 Eine angemessene Beteiligung aller Kontinente am Sicherheitsrat ist dauerhaft sicherzustellen.
@@ -2954,59 +2954,59 @@ Insbesondere sollen Schwellenländer, angesichts ihrer wachsenden regionalen Bed
 Die Vereinten Nationen können ihre Aufgaben nur erfüllen, wenn die Mitgliedstaaten ihren Beitragszahlungen nachkommen.
 Es bietet sich an, die Vereinten Nationen in Zukunft noch stärker an der Koordination von Katastrophenhilfeprojekten zu beteiligen.
 
-## Nukleare Abrüstung und Rüstungskontrolle
+### Nukleare Abrüstung und Rüstungskontrolle
 
-### Vision einer kernwaffenfreien Welt
+#### Vision einer kernwaffenfreien Welt
 
 Wir PIRATEN teilen die Vision einer kernwaffenfreien Welt und möchte diese durch konkrete Schritte - wo immer sie sich ergeben - verwirklichen.
 Dazu unterstützen wir Initiativen, welche Kommunikation, Vertrauensbildung und Transparenz zwischen den Staaten unter Berücksichtigung der jeweiligen Sicherheitsinteressen fördern.
 Die Ziele der nuklearen Abrüstung und Nichtverbreitung sollen dabei parallel verfolgt werden.
 
-### Schritte zur kernwaffenfreien Welt
+#### Schritte zur kernwaffenfreien Welt
 
-#### Ablehnung der nuklearen Teilhabe
+##### Ablehnung der nuklearen Teilhabe
 
 Wir PIRATEN lehnen die nukleare Teilhabe ab und setzt sich für ihre Abschaffung innerhalb der NATO ein.
 
-#### Abzug der Kernwaffen aus Deutschland
+##### Abzug der Kernwaffen aus Deutschland
 
 Wir PIRATEN setzen uns für den unilateralen Abzug der Kernwaffen aus Deutschland ein.
 
-#### Abzug der US-amerikanischen Kernwaffen aus Europa
+##### Abzug der US-amerikanischen Kernwaffen aus Europa
 
 Wir PIRATEN setzen uns für den unilateralen Abzug der US-amerikanischen Kernwaffen aus allen europäischen Staaten ein.
 Dies wäre eine vertrauensbildende Maßnahme, mit der weitere nukleare Abrüstung erleichtert werden soll.
 
-#### Erweiterung der IAEO Kontrollen und Verbesserung der Finanzierung
+##### Erweiterung der IAEO Kontrollen und Verbesserung der Finanzierung
 
 Wir PIRATEN setzen uns für die Einführung nuklearer Sicherungsmaßnahmen für den zivilen Kernbrennstoffkreislauf auch in Kernwaffenstaaten ein.
 Zu diesem Zweck muss die Ausstattung der IAEO soweit verbessert werden, dass sie die wachsenden Verpflichtungen erfüllen kann.
 
-#### Transparenz der Bestände von Kernwaffen und Sprengköpfen
+##### Transparenz der Bestände von Kernwaffen und Sprengköpfen
 
 Wir PIRATEN setzen uns für die Publikation der Bestände von militärischem Nuklearmaterial und Sprengkopfzahlen ein.
 
-#### Verzicht des Ersteinsatzes von Nuklearwaffen
+##### Verzicht des Ersteinsatzes von Nuklearwaffen
 
 Wir PIRATEN setzen uns für einen bedingungslosen Verzicht auf den Ersteinsatz von Kernwaffen ein.
 
-#### Unterstützung des CTBT und FM(C)T Vertrages
+##### Unterstützung des CTBT und FM(C)T Vertrages
 
 Wir PIRATEN unterstützen alle Bemühungen, die das Inkrafttreten des CTBT (Comprehensive Test Ban Treaty/ Teststoppvertrag) fördern.
 Wir unterstützen auch alle Bemühungen, mit den Verhandlungen zum FM(C) T (Fissile Material Cutoff Treaty) zu beginnen.
 
-#### Förderung von Kernwaffenfreien Zonen
+##### Förderung von Kernwaffenfreien Zonen
 
 Auf dem Weg zu einer kernwaffenfreien Welt ("Global Zero") setzen uns wir PIRATEN für die Schaffung einer kernwaffenfreien Zone in Mitteleuropa und anderen Regionen weltweit als vertrauensbildende Maßnahme ein.
 
-## Bildung im Globalen Süden stärken
+### Bildung im Globalen Süden stärken
 
 Wir fordern eine erhebliche Ausweitung der Ausgaben für die Bildung und Ausbildung von Menschen in schlecht entwickelten, armen Ländern oder Regionen in der Höhe von mindestens 10% des Haushaltes des Bundesministeriums der Verteidigung.
 Dies ist eine Querschnittsaufgabe aller Ministerien, die durch ihre Aufgabenstellung zu beteiligen sind und wird durch eine gemeinsame Stabsstelle umgesetzt.
 
-# Wirtschaft und Finanzen
+## Wirtschaft und Finanzen
 
-## Präambel
+### Präambel
 
 Die Wirtschafts-, Finanz- und Sozialordnung soll allen Menschen und der Gemeinschaft dienen.
 Traditionelle Kennzahlen, wie etwa das Bruttoinlandsprodukt (BIP) oder die Wachstumsrate, die nur bedingt mit dem Wohlstand der Menschen und der Nachhaltigkeit des Wirtschaftens verknüpft sind, sollen daher nicht mehr alleinige Orientierungsgrößen für die Wirtschaftspolitik sein.
@@ -3022,7 +3022,7 @@ Gerecht bedeutet, dass die Rahmenbedingungen in Wirtschaft und Gesellschaft so g
 Nachhaltig ist ein auf Dauer angelegter, verantwortungsvoller Umgang mit Ressourcen und der Umwelt.
 Die Haushalts- und Subventionspolitik, sowie das Finanzsystem, müssen dem Menschen und der Realwirtschaft langfristig dienen.
 
-## Wirtschaftspolitik
+### Wirtschaftspolitik
 
 Die Wirtschaftspolitik der PIRATEN basiert auf einem humanistischen Menschenbild und ist bestimmt von Freiheit, Transparenz und gerechter Teilhabe.
 Auf diesem Fundament stehen unsere Konzepte für eine freiheitliche und soziale Wirtschaftsordnung, deren Ziel die selbstbestimmte Entfaltung und das Wohlergehen aller Menschen ist.
@@ -3042,7 +3042,7 @@ Ebenso sind wir gegen ähnliche Freihandelsabkommen wie CETA oder TISA.
 
 Auch die Wirtschafts-Partnerschafts-Abkommen EPAs (Economic Partnership Agreements) zwischen der EU und afrikanischen Staaten sehen wir sehr kritisch, da sie Schutz- und Entwicklungsbedürfnisse afrikanischer Staaten hinter europäische Wirtschaftsinteressen stellen.
 
-## Ökologie
+### Ökologie
 
 Wir PIRATEN setzen uns für einen nachhaltigen Umgang mit natürlichen Ressourcen ein.
 Dazu gehört auch, dass die wirtschaftliche Nutzung von natürlichen Ressourcen so bepreist ist, dass eine Ausbeutung auf Kosten der Allgemeinheit nicht möglich ist.
@@ -3059,7 +3059,7 @@ Ein Wiederverkauf ist durch geeignete Maßnahmen zu verhindern.
 Der Kostenaufwand für eine Abholung und Weiterverteilung darf umgelegt werden.
 Der Aufwand ist nachzuweisen.
 
-## Verbraucherschutz
+### Verbraucherschutz
 
 Damit eine freie Marktwirtschaft auch sozial ist, müssen die Rechte der Konsumentinnen und Konsumenten gegenüber der Macht der Anbieter gestärkt werden.
 Dies kann jedoch nicht durch weitere Bevormundung des Einzelnen und wenig sinnvolle Warnungen geschehen.
@@ -3067,9 +3067,9 @@ Wir PIRATEN wollen stattdessen Produzenten und Dienstleister dazu verpflichten, 
 Die Möglichkeiten, die neue Medien hier bieten, sollten nicht nur für Werbung, sondern auch für solche Informationen genutzt werden.
 Nur informierte Konsumierende können frei entscheiden, wofür sie ihr Geld ausgeben und damit direkten Einfluss auf die Anbieter ausüben.
 
-## Arbeitsmarkt
+### Arbeitsmarkt
 
-### Arbeit und Mensch
+#### Arbeit und Mensch
 
 Arbeit ist für uns nicht nur eine handelbare Ware, sondern immer auch die persönliche Leistung eines Menschen.
 Es ist daher ein Gebot der Menschenwürde, dass jeder Mensch frei entscheiden kann, welchen Beruf er ausüben will, und welche Arbeit er annehmen will, aber auch, dass diese Leistung entsprechend gewürdigt wird.
@@ -3079,7 +3079,7 @@ Wir sehen dies als großen Fortschritt, den wir begrüßen und weiter vorantreib
 Daher betrachten wir das Streben nach absoluter Vollbeschäftigung als weder zeitgemäß noch sozial wünschenswert.
 Stattdessen wollen wir uns dafür einsetzen, dass alle Menschen gerecht am Gesamtwohlstand beteiligt werden und werden dazu die Einführung eines bedingungslosen Grundeinkommens prüfen.
 
-### Mindestlohn als Brückentechnologie
+#### Mindestlohn als Brückentechnologie
 
 Es gehört zu den Aufgaben des Staates sicherzustellen, dass auch im freien Markt die Menschenwürde respektiert wird.
 Wer voll berufstätig ist, darf nicht unter der Armutsgrenze leben und auf staatliche Zusatzleistungen angewiesen sein.
@@ -3087,7 +3087,7 @@ Zudem verzerren Dumpinglöhne die Wettbewerbsbedingungen innerhalb und zwischen 
 Um allen Menschen eine würdige Existenz und die Teilhabe am gesellschaftlichen Leben zu ermöglichen, werden wir uns daher für einen bundesweiten gesetzlichen Mindestlohn einsetzen.
 Mittelfristig wollen wir jedoch mit dem "Recht auf sichere Existenz und gesellschaftliche Teilhabe" ein umfassenderes System zur allgemeinen, bedingungslosen Existenzsicherung etablieren.
 
-### Betriebliche Mitbestimmung
+#### Betriebliche Mitbestimmung
 
 Wir PIRATEN treten für die stärkere Demokratisierung der Wirtschaft ein.
 Dieser Prozess findet aber nicht nur auf der Ebene von Staat und Markt statt, sondern auch innerhalb einzelner Unternehmen.
@@ -3095,12 +3095,12 @@ Das Arbeitsumfeld ist ein wesentlicher Teil des Lebensumfeldes, auf das Menschen
 Wir werden daher die existierenden Mitbestimmungsrechte für Angestellte verteidigen und wo nötig weiter ausbauen.
 Die Beteiligung der Mitarbeiterbasis an der Unternehmensführung begünstigt sozialere und nachhaltigere Entscheidungsfindung sowie unternehmerische Innovationen.
 
-## Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden (ausgenommen Rechtsanwalts-, Notar- und Ärztekammern)
+### Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden (ausgenommen Rechtsanwalts-, Notar- und Ärztekammern)
 
 Wir PIRATEN treten für die Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden wie der Industrie- und Handelskammer (IHK) sowie der Landwirtschafts- oder Handwerkskammer ein.
 Rechtsanwalts-, Notar- und Ärztekammern sind von diesem Ziel nicht erfasst.
 
-## Globalisierung
+### Globalisierung
 
 Die zunehmende weltweite Vernetzung sehen wir grundsätzlich als positive und bereichernde Entwicklung.
 Das Internet mit seinen fast unbegrenzten Möglichkeiten wird dabei ein immer bedeutenderer Wirtschaftsfaktor, der weit über nationale Politik hinausgeht.
@@ -3109,29 +3109,29 @@ Der weltweite Ausbau eines freien Internets ist daher nicht nur ein ideelles, so
 Wir werden uns dafür einsetzen, dass die Globalisierung dem Gemeinwohl aller Menschen dient.
 Konkret heißt das, dass wir uns dafür einsetzen werden, die Rechte der Menschen in weniger stark industrialisierten Ländern am Weltmarkt zu stärken, und dass wir in zunehmend vernetzten Märkten für den Angleich und die Verbesserung der Rahmenbedingungen für alle Arbeitnehmerinnen und Konsumenten eintreten werden.
 
-## Steuerpolitische Maßnahmen
+### Steuerpolitische Maßnahmen
 
   - Wiedereinführung einer Vermögenssteuer : PIRATEN setzen sich für die Wiedereinführung der Vermögenssteuer ein.
     Bei einem Freibetrag von 1 Mio. Euro pro Person wird ein Steuersatz von einem Prozent auf das den Freibetrag übersteigende Vermögen festgelegt.
   - Kapitalertragssteuersatz gleich Einkommensteuersatz : Kapitalerträge sind wie reguläres Einkommen zu versteuern
   - Spitzensteuersatz erhöhen: Der Spitzensteuersatz der Einkommensteuer soll ab einem Einkommen von 1 Mio. Euro auf 65 % erhöht werden
 
-## Steuerzahler haften nicht für Banken
+### Steuerzahler haften nicht für Banken
 
 Liquiditätsprobleme von Banken dürfen nicht zu Lasten der Steuerzahlerinnen und Steuerzahler gehen.
 Eigentümer und Gläubiger müssen in Krisen oberhalb der Einlagensicherung voll an Verlusten beteiligt werden.
 
-# Innen- und Rechtspolitik
+## Innen- und Rechtspolitik
 
-## Politische Transparenz und Antikorruption
+### Politische Transparenz und Antikorruption
 
-### Einflussnahme auf politische Entscheidungen offenlegen
+#### Einflussnahme auf politische Entscheidungen offenlegen
 
 Wir PIRATEN fordern die Offenlegung der Einflussnahme von Interessenverbänden und Lobbyisten auf politische Entscheidungen, um den demokratischen Prozess zu schützen und die Grundlagen von Entscheidungen transparent zu machen.
 
 Um die Unabhängigkeit von Bundestagsabgeordneten und Regierungsmitgliedern gegenüber illegitimer Einflussnahme zu stärken, streben wir die Umsetzung der folgenden Maßnahmen in den Bereichen Transparenz politischer Prozesse, Parteienfinanzierung, Nebentätigkeiten von Abgeordneten und Strafbarkeit von Abgeordnetenbestechung an:
 
-### Einrichtung eines Lobbyregisters für den Deutschen Bundestag
+#### Einrichtung eines Lobbyregisters für den Deutschen Bundestag
 
 Wir erkennen die Konsultation von Interessenvertretern – zum Beispiel Nichtregierungsorganisationen, Gewerkschaften, Umweltschutz-, Bürgerrechts- und Unternehmensverbänden – als integralen Bestandteil des politischen Willensbildungsprozesses der Gesellschaft an – solange dieser Austausch hinreichend offen und transparent ist.
 Die überproportionale Einflussnahme einzelner Gruppen durch die Verlagerung der politischen Willensbildung in informelle Beziehungsnetzwerke außerhalb des formalen Gesetzgebungsprozesses lehnen wir ab.
@@ -3153,7 +3153,7 @@ Es muss maschinenlesbar gestaltet sein, um im Sinne von OpenData die Verknüpfun
 
 Es soll geprüft werden, ob die Führung und Kontrolle des Registers mittelfristig an eine unabhängige öffentliche Institution, zum Beispiel den Bundesrechnungshof oder den Bundesbeauftragten für Datenschutz und Informationsfreiheit übertragen sowie die weitere Ausgestaltung durch ein eigenes Bundesgesetz geregelt werden kann.
 
-### Erweiterung und Verschärfung des Straftatbestandes der Abgeordnetenbestechung
+#### Erweiterung und Verschärfung des Straftatbestandes der Abgeordnetenbestechung
 
 Wir PIRATEN fordern klare und umfassende Regelungen zum wirksamen Vorgehen gegen Abgeordnetenbestechung, um die Rechtslage an den globalen Mindeststandard der von Deutschland bereits 2003 unterzeichneten, aber mangels Umsetzung in deutsches Recht immer noch nicht ratifizierten UN-Konvention gegen Korruption (UNCAC) anzupassen und Deutschlands internationale Schlusslichtrolle bei der Korruptionsstrafbarkeit von Abgeordneten zu beenden.
 
@@ -3166,7 +3166,7 @@ Die Annahme von Spenden durch einzelne Abgeordnete muss durch eine Änderung des
 Eine Bagatellregelung ("Schnittchenklausel") für die Bewirtung bei parlamentarischen Abenden und anderen Veranstaltungen sowie Ausnahmeregelungen für Zuwendungen im Rahmen von normalem parlamentarischen Verhalten ("parlamentarische Gepflogenheiten") sollen sicherstellen, dass die Abgeordneten nicht in der freien Ausübung ihres Mandats eingeschränkt werden.
 Sowohl die Schnittchenklausel als auch die parlamentarischen Gepflogenheiten sollen in einer Anlage zur Geschäftsordnung des Bundestages verankert und durch den Bundestagspräsidenten in einer Ausführungsbestimmung festlegt werden.
 
-### Verschärfung der Transparenz- und Nebeneinkunftsregeln von Abgeordneten
+#### Verschärfung der Transparenz- und Nebeneinkunftsregeln von Abgeordneten
 
 Wir PIRATEN erkennen die Rolle von Nebentätigkeiten für den beruflichen Wiedereinstieg nach der Zeit des Abgeordnetenmandats an – insbesondere für Freiberufler und persönlich haftende Kaufleute.
 Allerdings wird Wählern derzeit die Abwägung, ob und inwieweit sich Abgeordnete auf Grund ihrer Nebeneinkünfte in einem Interessenkonflikt befinden, durch intransparente Regelungen und Schlupflöcher erschwert bis unmöglich gemacht.
@@ -3189,7 +3189,7 @@ Verstöße gegen Verhaltensregeln und Anzeigepflichten müssen u. a. durch höhe
 
 Nebeneinkünfte, Aufwandsentschädigungen und geldwerte Vorteile sowie Auftraggeber müssen unmittelbar nach Erhalt maschinenlesbar über den Bundestagspräsidenten veröffentlicht werden, um die Daten mit dem Lobbyregister und dem Abstimmungsverhalten in Plenum und Ausschüssen verknüpfen zu können.
 
-### Eindämmung des politischen Sponsorings
+#### Eindämmung des politischen Sponsorings
 
 Wir PIRATEN lehnen die intransparente Finanzierung von politischen Veranstaltungen durch Sponsorengelder ab.
 Verbände und Unternehmen versuchen über Sponsorenengagements auf Parteitagen sowie Sommerfesten von Regierungsbehörden die vergleichsweise strengeren Auflagen für Parteispenden zu umgehen und sich über die Anmietung von Standflächen Zugang zu Entscheidungs- und Mandatsträgern zu verschaffen.
@@ -3201,7 +3201,7 @@ Um die Alimentierung der politischen Einflussbemühungen von Unternehmen über S
 
 Veranstaltungen der Bundesregierung, der Landesvertretungen der Bundesländer sowie des Deutschen Staatsoberhauptes sollen anstatt über Sponsorengelder aus Haushaltsmitteln finanziert werden, damit der Anreiz für die Haushaltsausschüsse der Parlamente steigt, die Sinnhaftigkeit von opulenten Sommerfesten genauer als bisher zu prüfen.
 
-### Einführung von Karenzzeiten für Spitzenpolitiker
+#### Einführung von Karenzzeiten für Spitzenpolitiker
 
 Wir PIRATEN lehnen es ab, dass ausgeschiedene Spitzenpolitiker im Bereich ihrer ehemaligen Zuständigkeiten kurzfristig Tätigkeiten der politischen Interessenvertretung für Unternehmen und Verbände übernehmen.
 
@@ -3212,7 +3212,7 @@ Darüber hinaus soll eine dreijährige Anzeigepflicht eingeführt werden, die si
 Zu diesem Zweck soll die Stelle eines unabhängigen Bundesbeauftragten für Ethik und Antikorruption geschaffen werden, der der Dienstaufsicht des BMI und der Rechtsaufsicht der Bundesregierung untersteht, jedoch keiner Fachaufsicht unterliegt.
 Dieser muss Verstöße gegen Anzeigevorschriften und Karenzzeiten mit öffentlichen Rügen und Bußgeldern ahnden und von einem ebenfalls einzurichtenden, aus Abgeordneten des Deutschen Bundestages, Zivilgesellschaft und Wirtschaft paritätisch besetzten, Bundesethikrat beraten werden, der die angezeigten, geplanten Tätigkeiten beurteilt und gegenüber dem Bundesbeauftragten öffentliche Empfehlungen ausspricht.
 
-### Anpassung des Abgeordnetengesetzes an die Anforderungen der UN-Konvention gegen Korruption
+#### Anpassung des Abgeordnetengesetzes an die Anforderungen der UN-Konvention gegen Korruption
 
 Wir PIRATEN treten dafür ein, das Abgeordnetengesetz (Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages) an die Anforderungen der UN-Konvention gegen Korruption, anzupassen.
 Dazu gehört:
@@ -3224,9 +3224,9 @@ Dazu gehört:
 Spenden sollten nur von Parteien bzw. Wählergemeinschaften angenommen werden dürfen.
 Für parteilose und fraktionslose Abgeordnete könnte gegebenenfalls eine Sonderregelung geschaffen werden.
 
-## Innere Sicherheit
+### Innere Sicherheit
 
-### Die moralische Autorität des Rechtssystems
+#### Die moralische Autorität des Rechtssystems
 
 Die Menschen werden sich um so mehr an die Gesetze halten, je mehr das Rechtssystem eine moralische Autorität entwickelt und ein gemeinschaftsstiftendes Element des Staates darstellt.
 In dem Maße, in dem sich gesetzestreue Menschen als "die Dummen" vorkommen müssen, wird diese Autorität des Rechtssystems leiden und die Kriminalität anwachsen.
@@ -3250,9 +3250,9 @@ Statt wirksame Maßnahmen gegen tatsächliche Risiken zu ergreifen, wird der Fok
 Wir PIRATEN treten für eine evidenzbasierte Sicherheitspolitik ein, für Maßnahmen, die ihre Wirksamkeit in der Praxis bewiesen haben.
 Wir wollen die Menschenrechte nicht einschränken, sondern erweitern, weil eine freiheitliche Gesellschaft viele Probleme über Mechanismen wie Zivilcourage auffangen kann.
 
-### Ermittlungsschwerpunkte setzen
+#### Ermittlungsschwerpunkte setzen
 
-#### Ermittlungsschwerpunkt Jugendkriminalität
+##### Ermittlungsschwerpunkt Jugendkriminalität
 
 In Zeiten knapper öffentlicher Haushalte können Polizei und Justiz nicht gleichermaßen alle Straftaten mit hoher Priorität verfolgen, sondern müssen Schwerpunkte setzen.
 Wir PIRATEN fordern, dass ein solcher Schwerpunkt die Jugendkriminalität wird.
@@ -3268,7 +3268,7 @@ Die Gesellschaft soll Straftäter in erster Linie als Menschen betrachten, die H
 Dies muss in besonderem Maße für Jugendliche gelten.
 Junge Erwachsene (18-21) müssen grundsätzlich die gleichen Rechte und Hilfen, die im SGB VIII definiert sind, in Anspruch nehmen können und dürfen wie Jugendliche unter 18 Jahren.
 
-#### Ermittlungsschwerpunkt Gewaltkriminalität
+##### Ermittlungsschwerpunkt Gewaltkriminalität
 
 Den dritten Ermittlungsschwerpunkt soll Gewaltkriminalität bilden.
 Körperliche und/oder sexualisierte Gewalt traumatisiert Menschen deutlich mehr als Delikte wie Diebstahl oder Betrug.
@@ -3281,13 +3281,13 @@ Alle Polizeibeamte sind dazu zu ermuntern, nicht aus falsch verstandener Loyalit
 
 Um die nötigen Ressourcen für diese Ermittlungsschwerpunkte zu schaffen, sollen - solange es noch keine parlamentarische Mehrheit für eine insgesamt andere Sucht- und Drogenpolitik gibt - künftig Drogendelikte nachrangig ermittelt werden.
 
-#### Ermittlungsschwerpunkt Steuer-, Korruptions- und Wirtschaftskriminalität
+##### Ermittlungsschwerpunkt Steuer-, Korruptions- und Wirtschaftskriminalität
 
 Wir PIRATEN möchten aus Gründen der sozialen Balance Steuer-, Korruptions- und Wirtschaftskriminalität zu einem weiteren Ermittlungsschwerpunkt machen.
 Dafür sind Ermittlungsbeamte und Juristen mit dem erforderlichen wirtschaftswissenschaftlichem Know-How einzustellen.
 Da in diesem Bereich nicht nur große finanzielle Schäden für die Gesellschaft vermieden werden können, sondern bei solchen Verfahren oft auch hohe Geldstrafen anfallen, sind dadurch keine Nachteile für die öffentlichen Haushalte zu befürchten.
 
-##### Korruption im Wirtschaftsleben offenlegen und wirksam bekämpfen
+###### Korruption im Wirtschaftsleben offenlegen und wirksam bekämpfen
 
 Wir PIRATEN setzen uns auf Bundes-, Länder- und Kommunalebene für gesetzliche Grundlagen zur systematischen Korruptionsprävention und -verfolgung ein.
 Bestechung und Vorteilsnahme mindern das volkswirtschaftliche Wohlstandsniveau und führen jedes Jahr zu hohen materiellen und immateriellen Schäden – für die letztendlich die Steuerzahler und Verbraucher aufkommen.
@@ -3300,7 +3300,7 @@ Daher fordern wir insbesondere die Umsetzung der folgenden Maßnahmen:
 Schwerpunktstaatsanwaltschaften für Korruptions- und Wirtschaftskriminalität müssen in allen Bundesländern eingerichtet und mit den entsprechenden personellen und finanziellen Ressourcen ausgestattet werden.
 Die von den Innenministern erstellten Berichte zur Korruptionsprävention sollen aus Gründen der Vergleich- und Nachvollziehbarkeit nach einem einheitlichen Format gestaltet werden.
 
-##### Voraussetzungen für die Verfolgung und Bestrafung von Korruptionsdelikten stärken
+###### Voraussetzungen für die Verfolgung und Bestrafung von Korruptionsdelikten stärken
 
 Wir PIRATEN streben die Einführung eines wirksamen Unternehmensstrafrechts nach Schweizer Vorbild an, damit Verfahren gegen juristische Personen eröffnet und Unternehmen unmittelbar für Korruptionsdelikte zur Verantwortung gezogen werden können.
 
@@ -3311,7 +3311,7 @@ Die Innenministerkonferenz soll darüber hinaus ein maschinenlesbares Korruption
 Dieses Register soll rechtskräftige Korruptionsfälle im Inland sowie von deutschen Unternehmen im Ausland begangene Korruptionsdelikte erfassen.
 Unternehmen oder Personen mit schweren Verfehlungen sollen für eine bestimmte Zeit von der Vergabe öffentlicher Aufträge ausgeschlossen werden.
 
-##### Maßnahmen zur Korruptionsprävention und moralische Wertvorstellungen in den unternehmerischen Grundsätzen verankern
+###### Maßnahmen zur Korruptionsprävention und moralische Wertvorstellungen in den unternehmerischen Grundsätzen verankern
 
 Wir PIRATEN fordern gesetzliche Vorschriften zur Verankerung von Maßnahmen zur Korruptionsbekämpfung bzw. -prävention in den unternehmensspezifischen Führungsgrundsätzen (Corporate Governance).
 Der Gesetzgeber soll Unternehmen der Privatwirtschaft und der öffentlichen Hand durch gesetzliche Mindeststandards dazu verpflichten, Systeme zur Überwachung der Regeltreue (Compliance) einzuführen und diese in der Unternehmensberichterstattung darzustellen.
@@ -3321,7 +3321,7 @@ Dazu gehören zum Beispiel die Ausarbeitung von Anti-Korruptions-Leitlinien, die
 Schmiergeldzahlungen an Amtsträger im Ausland müssen konsequenter als bisher als Korruption bestraft werden.
 Damit integere Unternehmen im globalen Wettbewerb keine Nachteile erleiden und darauf verzichten, Auslandsbestechung über die Verbuchung als Provisionen zu verschleiern, muss Deutschland in internationalen Organisationen auf die konsequente Verfolgung von Schmiergeldzahlungen sowie die Verankerung von moralischen Wertvorstellungen in Wirtschaftsabkommen drängen.
 
-##### Öffentliche Aufträge als Vorbilder für Integritätskriterien und Informationsfreiheit einsetzen
+###### Öffentliche Aufträge als Vorbilder für Integritätskriterien und Informationsfreiheit einsetzen
 
 Wir PIRATEN setzen uns für Informationsfreiheit und die Anwendung von Integritätskriterien bei der Vergabe öffentlicher Aufträge ein.
 Wir fordern insbesondere bei Großbauprojekten die verstärkte Anwendung des Präventionsinstruments eines Integritätspakts, um Auftraggeber und sich bewerbende bzw. ausführende Unternehmen zur Integrität zu verpflichten sowie ein klares Signal nach außen und innen zu senden.
@@ -3335,9 +3335,9 @@ Ausnahmetatbestände, wie zum Beispiel Geschäfts- und Betriebsgeheimnisse, müs
 Hürden, welche die Antragstellung auf Auskunft erschweren, wie zum Beispiel hohe Gebühren und lange Bearbeitungszeiten, müssen abgebaut werden.
 Die Regelungen der Informationsfreiheitsgesetze müssen konsequent auf Unternehmen mit Beteiligung der öffentlichen Hand ausgedehnt werden – auch wenn die öffentlichen Anteile an einem Unternehmen weniger als fünfzig Prozent betragen.
 
-### Prävention vor Strafe
+#### Prävention vor Strafe
 
-#### Primat der Prävention
+##### Primat der Prävention
 
 Grundsätzlich gibt es zwei Ansätze, um Kriminalität zu bekämpfen:
 Prävention (Vermeidung von Kriminalität) und Repression (Verfolgung von Kriminalität).
@@ -3366,7 +3366,7 @@ Wir wollen auch dem Missverständnis entgegen treten, dass flächendeckende Kame
 Kameras mögen vereinzelt bei der Aufklärung von Straftaten helfen, sie leisten aber keinen wahrnehmbaren Beitrag zur Vermeidung, allenfalls zur Verlagerung von Straftaten.
 Ihr Einsatz ist in den meisten Fällen nicht verhältnismäßig und daher abzulehnen.
 
-#### Kriminalität ist vielschichtig - Prävention muss es auch sein
+##### Kriminalität ist vielschichtig - Prävention muss es auch sein
 
 Kriminalität weist sehr unterschiedliche Erscheinungsformen auf und durchzieht so gut wie alle gesellschaftlichen Schichten.
 Es gibt zwar Korrelationen zwischen gesellschaftlichen Schichten und einzelnen Delikten - so wird man Erschleichung von Sozialleistungen eher bei Geringverdienern und Steuerhinterziehung vor allem bei Besserverdienenden finden - die Zuordnung von Kriminalität insgesamt zu einzelnen gesellschaftlichen Schichten ist jedoch immer eine bestenfalls verkürzte Beschreibung des Problems.
@@ -3375,7 +3375,7 @@ So vielschichtig, wie Kriminalität in ihren Erscheinungsformen ist, so vielschi
 Mit ein paar wenigen Maßnahmen lässt sich allenfalls Prävention für einige Delikte betreiben.
 Von daher lassen sich in diesem Programm auch nur einige Maßnahmen beispielhaft erläutern.
 
-#### Prävention durch Aufklärung
+##### Prävention durch Aufklärung
 
 Im einfachsten Fall erfolgt Prävention durch Aufklärung des Staates, was denn alles eine Straftat ist.
 Insbesondere Unterlassungsdelikte - gerade auch im Bereich des Arbeitsschutzes - werden häufig in Unkenntnis ihrer Strafbarkeit begangen.
@@ -3383,7 +3383,7 @@ Wir PIRATEN fordern, dass sich hier der Staat nicht auf ein bequemes "Unkenntnis
 
 Im Bereich von Tötungsdelikten könnte eine Aufklärung über die erfreulich hohen Aufklärungsraten dieser Delikte dazu beitragen, dass die dort ausgesprochenen Strafandrohungen mehr abschreckende Wirkung entfalten.
 
-#### Prävention durch eine andere Sucht- und Drogenpolitik
+##### Prävention durch eine andere Sucht- und Drogenpolitik
 
 Den vielleicht wirkungsvollsten Beitrag zur Prävention kann eine andere Sucht- und Drogenpolitik leisten.
 Es gibt keinen sachlich vernünftigen Grund, Konsumenten, Erzeuger und Händler von derzeit illegalen Drogen anders zu behandeln als die Konsumenten, Erzeuger und Händler von gesellschaftlich etablierten Drogen.
@@ -3400,7 +3400,7 @@ Deshalb fordern wir, Substitution deutlich niederschwelliger, zu jeder Uhrzeit u
 Die Vergabevorschriften sind von allen praxisfremden Vorschriften zu befreien, den behandelnden Medizinern sind deutlich größere Spielräume einzuräumen:
 Die Ärzte sollen ohne Sorge vor Strafverfolgung das tun können, was sie im Einzelfall nach bestem Wissen und Gewissen für richtig halten.
 
-#### Prävention durch Chancen für alle
+##### Prävention durch Chancen für alle
 
 Wir PIRATEN streben eine Gesellschaft an, die vielfältige Chancen für alle anbietet.
 In Deutschland verlassen nach wie vor viel zu viele junge Menschen als Verlierer das Bildungssystem, ganz ohne Abschluss, oder ohne Abschluss, der ihnen gute berufliche Chancen eröffnet.
@@ -3410,12 +3410,12 @@ Für die Details verweisen wir auf unsere bildungspolitische Programmatik.
 Bildung und Chancen für alle sind für uns ein Selbstzweck.
 Wir versprechen uns davon aber auch als erfreulichen Nebeneffekt eine Senkung der Kriminalität.
 
-#### Repression muss der Prävention dienen
+##### Repression muss der Prävention dienen
 
 Wir PIRATEN fordern, dass sich auch der repressive Teil der Kriminalitätsbekämpfung dem Primat der Prävention unterordnet.
 Sühne und Bestrafung halten wir für wenig geeignete Kategorien der Strafverfolgung und des Strafvollzugs, das Hauptziel muss stets die Vermeidung von künftigen Straftaten sein.
 
-#### Alternativen zu Haft- und Geldstrafen schaffen
+##### Alternativen zu Haft- und Geldstrafen schaffen
 
 Repression erfolgt derzeit primär über Haft- und Geldstrafen, beide Ansätze sind aus Sicht der Prävention kritisch zu betrachten.
 Geldstrafen mögen bei Delikten der Steuer- und Wirtschaftskriminalität der richtige Ansatz sein, sie versagen aber dort, wo Menschen mit kriminellen Handlungen ihr niedriges Einkommen aufzubessern versuchen.
@@ -3429,9 +3429,9 @@ Die hier geknüpften Kontakte, das dabei ausgetauschte Wissen erleichtern quasi 
 Wir PIRATEN fordern, hier Alternativen zu schaffen, damit Gerichte Strafen verhängen können, die weniger der Allgemeinheit schaden und mehr der Resozialisierung dienen.
 Wir sehen zum Beispiel keinen vernünftigen Grund, warum das Instrumentarium aus dem Jugendstrafrecht (z.B. tatbezogene Sühneleistungen, Arbeitsleistungen, Freizeitarrest) nicht auch im Erwachsenenstrafrecht zur Verfügung stehen soll.
 
-### Strafrechtsreform
+#### Strafrechtsreform
 
-#### Strafrechtsreform reformieren
+##### Strafrechtsreform reformieren
 
 In den vergangenen Jahren wurde viel Zeit und Energie darauf aufgewandt, sogenannte Schutzlücken im Strafgesetzbuch zu identifizieren und zu schließen, oft auch unter dem Einfluss tagesaktueller Ereignisse, was dazu geführt hat, dass das Strafgesetzbuch in hoher Frequenz geändert wurde.
 Dies ist schon für Polizei und Justiz kaum zumutbar, schon gar nicht für den wenig rechtskundigen Bürgerinnen und Bürger.
@@ -3444,7 +3444,7 @@ Ein reines Moralstrafrecht lehnen wir PIRATEN ebenso ab wie die Bestrafung von H
 Um eine kontraproduktive Stigmatisierung durch Strafe generell zu verhindern, wollen wir alle Straftatbestände dahingehend überprüfen, ob sie sinnvoll und erforderlich sind.
 Heutige Straftatbestände, die nicht strafwürdiges Verhalten unter Strafe stellen, sollen zu Ordnungswidrigkeiten oder Antragsdelikten herabgestuft, im Strafrahmen gesenkt oder gänzlich straffrei gestellt werden.
 
-#### Strafrecht muss dem realen Rechtsgüterschutz dienen
+##### Strafrecht muss dem realen Rechtsgüterschutz dienen
 
 Strafwürdig sind nur solche Handlungen, die individuelle Rechtsgüter anderer Menschen, wie zum Beispiel Leben, Gesundheit oder Eigentum, verletzen oder erheblich gefährden.
 
@@ -3453,7 +3453,7 @@ Falls diese Voraussetzungen nicht erfüllt sind, sollte eine Entkriminalisierung
 
 Auch solche Delikte, bei denen es keine Opfer gibt, wie zum Beispiel Besitz und Kauf von Drogen durch volljährige Konsumenten, sollten straffrei sein, denn es ist nicht Aufgabe des Strafrechts, mündige Bürgerinnen und Bürger vor sich selbst zu schützen.
 
-#### Keine Bestrafung bei nur geringem Unrechtsgehalt
+##### Keine Bestrafung bei nur geringem Unrechtsgehalt
 
 Aber auch hier wollen wir überprüfen, ob nicht bestimmte Taten straffrei bleiben sollen, wenn diese nur einen geringen Unrechtsgehalt aufweisen, zum Beispiel weil nur ein sehr kleiner Schaden entstanden ist oder sie nicht sozialschädlich sind.
 
@@ -3464,19 +3464,19 @@ Auch Whistleblower (Personen, die auf Missstände aufmerksam machen) müssen hä
 Insbesondere solche, die private oder staatliche Geheimnisse schützen sollen (z. B. §§ 94, 95, 96, 109g, 203, 353b und 355 StGB), hier aber ausnahmsweise nicht schützenswert sind.
 Die Mitteilung solcher Geheimnisse im Rahmen des Whistleblowings sollte zumindest begrenzt auf den notwendigen Umfang legalisiert werden.
 
-#### Abschaffung von bloßem Moralstrafrecht
+##### Abschaffung von bloßem Moralstrafrecht
 
 Auch stellt sich die Frage, ob ein moderner Staat das Recht hat, bestimmte Moralvorstellungen durchzusetzen, indem er entsprechende Verhaltensweisen unter Strafe stellt, obwohl sonst kein Rechtsgut Anderer verletzt wurde.
 Beispiele hierfür sind die §§ 173 und 184 StGB, die den Beischlaf zwischen einwilligungsfähigen volljährigen Verwandten und die Verbreitung pornografischer Schriften, und sei es nur durch den Versand an einen willigen Empfänger, unter Strafe stellen.
 Diskriminierend ist auch § 183 StGB, der nur exhibitionistische Handlungen von Männern, nicht aber von Frauen und "transsexuellen Eichhörnchen" unter Strafe stellt.
 
-#### Verteidigung der freiheitlich-demokratischen Grundordnung und des Rechtsstaats
+##### Verteidigung der freiheitlich-demokratischen Grundordnung und des Rechtsstaats
 
 Nicht abgeschafft werden sollen dagegen solche Verbote, die notwendig sind, um unsere freiheitlich-demokratische Grundordnung und den Rechtsstaat zu verteidigen.
 Deutschland muss wehrfähig gegen Bestrebungen bleiben, die sich gegen das Grundgesetz und die darin verbürgte verfassungsrechtliche Ordnung wenden, aber auch hier sollte geprüft werden, ob einzelne Bestimmungen des Strafgesetzbuches tatsächlich hierzu erforderlich sind, wie zum Beispiel das Verbot auf Deutschland zu schimpfen oder die Farben, die Flagge oder die Nationalhymne Deutschlands zu verunglimpfen.
 Hier sollten insbesondere die Meinungs- und Kunstfreiheit stärker berücksichtigt werden.
 
-#### Verhängung von Strafen muss besonders gerechtfertigt sein
+##### Verhängung von Strafen muss besonders gerechtfertigt sein
 
 Das Strafrecht ist das schärfste Mittel des Staates gegen die Freiheit seiner Bürgerinnen und Bürger und sollte daher nur mit Augenmaß angewendet werden.
 Strafe sollte daher - wie die Juristen sagen - ultima ratio, also letztes Mittel sein, wenn es um die Einwirkung des Staates auf seine Bürgerinnen und Bürger geht.
@@ -3484,13 +3484,13 @@ Haftstrafen greifen besonders empfindlich in das Grundrecht des Menschen auf Fre
 Als liberale Partei sollten wir an eine solche Rechtfertigung besonders strenge Maßstäbe anlegen.
 Hierfür wollen wir uns einsetzen.
 
-#### Kein Verkaufsverbot für Alkohol
+##### Kein Verkaufsverbot für Alkohol
 
 Ein nächtliches Verkaufsverbot für Alkohol lehnen wir ab.
 Wir halten das Verkaufsverbot für wirkungslos, da Alkohol auch auf Vorrat erworben werden kann oder das Verbot auf andere Art umgangen wird.
 Wir wollen die Aufklärung über die Gefahren des Alkoholkonsums bei allen Altersgruppen fördern.
 
-#### Whistleblower in der öffentlichen Verwaltung und im privaten Sektor gesetzlich stärker schützen
+##### Whistleblower in der öffentlichen Verwaltung und im privaten Sektor gesetzlich stärker schützen
 
 Wir PIRATEN setzen uns für eine allgemeine und umfassende gesetzliche Regelung zum Schutz von Personen ein, die Fälle von Korruption, Insiderhandel oder Ethikverstößen öffentlich machen (sogenannte "Whistleblower").
 
@@ -3498,20 +3498,20 @@ Im öffentlichen Sektor muss der im Beamtenrecht verankerte Schutz von Hinweisge
 
 Der Gesetzgeber soll darüber hinaus Unternehmen und öffentliche Stellen verpflichten, Hinweisgebersysteme einzurichten, um einen vertraulichen Kommunikationskanal zur Meldung von Straftaten und Ethikverstößen zu öffnen.
 
-### Abmahnwesen reformieren
+#### Abmahnwesen reformieren
 
 Wir fordern eine Reform des gesamten Abmahnwesens mit dem gesetzlichen Verbot der Massenabmahnung, durchgehende Deckelung der Kosten für abgemahnte Privatpersonen und Einführung eines Erstattungsanspruch des zu Unrecht Abgemahnten bzgl. der Rechtsanwaltskosten.
 Des weiteren hat die Beweislast beim Abmahnenden zu liegen.
 
-## Sicherheit in Freiheit
+### Sicherheit in Freiheit
 
-### Sicherheitsbewusstsein stärken
+#### Sicherheitsbewusstsein stärken
 
 Die gefühlte Sicherheit ist eine wichtige Voraussetzung für unser persönliches Wohlbefinden.
 Forschungsergebnisse zeigen aber, dass das hohe Maß an Sicherheit in Deutschland verbreitet unbekannt ist und dass das Kriminalitätsrisiko teilweise weit überschätzt wird.
 Wir wollen ein Programm zur Stärkung des Sicherheitsbewusstseins und zur sachlichen Information über Kriminalität in Deutschland auflegen, um verzerrten Einschätzungen und Darstellungen der Sicherheitslage entgegen zu wirken.
 
-### Systematische Evaluierung von Überwachungsbefugnissen und -programmen
+#### Systematische Evaluierung von Überwachungsbefugnissen und -programmen
 
 Vor Kriminalität zu schützen ist eine wichtige staatliche Aufgabe.
 Sie kann nach unserer Überzeugung nur durch eine intelligente, rationale und evidenzbasierte Sicherheitspolitik auf der Grundlage wissenschaftlicher Erkenntnisse erfüllt werden.
@@ -3519,13 +3519,13 @@ Um kluge Sicherheitsmaßnahmen fördern und schädliche Maßnahmen beenden zu k�
 Auf dieser Grundlage können wir sodann Grundrechtseingriffe aufheben oder verhindern, wo dies ohne Einbußen an Sicherheit – also ohne Einfluss auf die Kriminalitätsrate – möglich ist oder wo sich der Eingriff als unverhältnismäßig erweist.
 Wir wollen auch auf Maßnahmen verzichten, deren Effizienz so gering ist, dass die dadurch gebundenen Mittel an anderer Stelle mehr zu unserer Sicherheit beitragen können.
 
-### Privatsphäre rechtstreuer Bürger achten
+#### Privatsphäre rechtstreuer Bürger achten
 
 Zur Bewahrung unseres historischen Erbes an Freiheitsrechten und zur Sicherung der Effektivität der Gefahrenabwehr und Strafverfolgung treten wir dafür ein, dass eine staatliche Informationssammlung, Kontrolle und Überwachung künftig nur noch gezielt bei Personen erfolgt, die der Begehung oder Vorbereitung einer Straftat konkret verdächtig sind.
 Zum Schutz unserer offenen Gesellschaft und im Interesse einer effizienten Sicherheitspolitik wollen wir auf anlasslose, massenhafte, automatisierte Datenerhebungen, Datenabgleichungen und Datenspeicherungen verzichten.
 In einem freiheitlichen Rechtsstaat ist eine derart breite Erfassung beliebiger unschuldiger Personen nicht hinnehmbar und schädlich.
 
-### Freiheitspaket verabschieden
+#### Freiheitspaket verabschieden
 
 Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit einem "Freiheitspaket" wieder aufheben, darunter
 
@@ -3546,7 +3546,7 @@ Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit ei
   - den Einsatz von Überwachungsdrohnen sowie
   - den Einsatz von Rasterfahndungs-Software in Online-Netzwerken.
 
-### Grundrechtskonformität der Gesetzgebung stärken
+#### Grundrechtskonformität der Gesetzgebung stärken
 
 In den letzten Jahren musste das Bundesverfassungsgericht immer häufiger Gesetze aufheben, die unsere Grund- und Freiheitsrechte verletzten.
 Zur Verhinderung verfassungswidriger Gesetze wollen wir einem Drittel des Deutschen Bundestages oder zwei Fraktionen das Recht geben, ein Rechtsgutachten des Bundesverfassungsgerichts zur Verfassungskonformität eines Gesetzesvorhabens einzuholen.
@@ -3555,7 +3555,7 @@ Nach dem Vorbild anderer Verbandsklagerechte wollen wir Bürgerrechtsorganisatio
 Weiterhin setzen wir uns dafür ein, dass mittels eines anzustrebenden Staatsvertrages zwischen dem Bund und den Ländern der 23. Mai als "Tag des Grundgesetzes" zum bundeseinheitlichen Feiertag erklärt wird.
 Damit die Politiker sich der Verantwortung, die sie tragen, wirklich bewusst werden.
 
-### Sicherheitsforschung demokratisieren
+#### Sicherheitsforschung demokratisieren
 
 Die Sicherheitsforschung aus Steuergeldern wollen wir demokratisieren und an den Bedürfnissen und Rechten der Bürgerinnen und Bürger ausrichten.
 In beratenden Gremien sollen künftig neben Verwaltungs- und Industrievertretern in gleicher Zahl auch Volksvertreter sämtlicher Fraktionen, Kriminologen, Opferverbände und Nichtregierungsorganisationen vertreten sein.
@@ -3564,24 +3564,24 @@ Eine Entscheidung über die Ausschreibung eines Projekts soll erst getroffen wer
 Die Entwicklung von Technologien zur verstärkten Überwachung, Erfassung und Kontrolle von Bürgerinnen und Bürgern lehnen wir ab.
 Stattdessen muss die Sicherheitsforschung auf sämtliche Optionen zur Kriminal- und Unglücksverhütung erstreckt werden und eine unabhängige Untersuchung von Wirksamkeit, Kosten, schädlichen Nebenwirkungen und Alternativen zu den einzelnen Vorschlägen zum Gegenstand haben.
 
-## Waffen
+### Waffen
 
-### Änderungen am Kriegswaffenkontrollgesetz
+#### Änderungen am Kriegswaffenkontrollgesetz
 
 Wir PIRATEN setzen uns gemäß des UN-Instruments zum Markieren und Nachverfolgen von Schusswaffen (sog. Small Arms) für eine fälschungssichere Kennzeichnung der in Deutschland und in Lizenz im Ausland zu militärischen Zwecken produzierten oder importierten Schusswaffen ein, so wie dies für zivile Schusswaffen bereits im Waffengesetz geregelt ist.
 Durch eine fälschungssichere Kennzeichnung können über Drittländer erfolgte illegale Waffenexporte in Krisengebiete transparent nachvollzogen und die verantwortlichen Hersteller/Exporteure belangt werden.
 Gegen Drittländer, welche erwiesenermaßen Waffen in Krisengebiete weiterverkaufen, kann dann ein Exportverbot gezielt verhängt werden.
 Wir streben zur Umsetzung dieses Ziels eine schnelle Änderung des Kriegswaffenkontrollgesetzes an.
 
-### Waffenmissbrauch statistisch besser erfassen
+#### Waffenmissbrauch statistisch besser erfassen
 
 Wir PIRATEN fordern detaillierte Zahlen zu Waffen in der polizeilichen Kriminalstatistik bezüglich Missbrauchsart, Typ und Herkunft.
 Diese Zahlen sollen explizit den Status der Waffen umfassen, das heißt ob diese legal, illegal oder frei waren.
 Aussagekräftige Statistiken sind notwendig, um über die Wirksamkeit und die Folgen der Waffengesetzgebung fundierte Aussagen treffen zu können.
 
-## Polizei und Justiz
+### Polizei und Justiz
 
-### Polizei
+#### Polizei
 
 In den letzten Jahren wurden bei der Polizei und der Justiz aus Kostengründen Stellen abgebaut und teilweise versucht, diese durch technische Maßnahmen wie z.B. Kameraüberwachung zu ersetzen.
 Dieser Ansatz war von vorne herein zum Scheitern verurteilt.
@@ -3600,7 +3600,7 @@ Die Polizei darf nicht als Instrument der Schikanierung politisch Andersdenkende
 Ihr Einsatz hat sich stets am rechtsstaatlich Gebotenem sowie am Grundsatz der Verhältnismäßigkeit (also der Eignung, der Erforderlichkeit und der Proportionalität) zu orientieren.
 Unsere Rechtsordnung kennt weder die Rache als legitimes Ziel noch die Gruppenbestrafung als erlaubtes Mittel.
 
-#### Kennzeichnungspflicht für Polizisten
+##### Kennzeichnungspflicht für Polizisten
 
 Wir PIRATEN setzen uns für eine Kennzeichnungspflicht für Polizeibeamte ein.
 Beamtinnen und Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen.
@@ -3612,19 +3612,19 @@ Der Vorgesetzte ist für die wirksame Durchsetzung der Kennzeichnungspflicht und
 Polizistinnen und Polizisten sind zu verpflichten, Verstöße durch andere Polizisten zu verhindern oder - falls dies nicht möglich ist - zu melden sowie den/die beteiligten Beamten zu identifizieren.
 Verletzungen dieser Pflichten (Tragen des Kennzeichens, korrektes Führen der Zuordnungsliste, Verhindern/Melden von Verstößen) sind zu sanktionieren.
 
-### Justiz
+#### Justiz
 
-#### Angemessene Ausstattung der Gerichte gewährleisten
+##### Angemessene Ausstattung der Gerichte gewährleisten
 
 Wir werden uns dafür einsetzen, dass die Gerichte materiell und personell so ausgestattet werden, dass alle anhängigen Verfahren innerhalb der gesetzten Fristen des Bundesverfassungsgerichts und des Europäischen Gerichtshofes für Menschenrechte abgeschlossen werden können.
 
-#### Stärkung der Unabhängigkeit der Staatsanwaltschaften
+##### Stärkung der Unabhängigkeit der Staatsanwaltschaften
 
 Die Staatsanwaltschaften müssen ihre Aufgaben unabhängig von politischer Einflussnahme erfüllen können.
 Deshalb ist die bislang im Gerichtsverfassungsgesetz vorgesehene Möglichkeit von Weisungen im Einzelfall seitens der Justizminister von Bund und Ländern abzuschaffen.
 Es soll aber weiter zulässig sein, fallgruppenbezogene Weisungen seitens der Ministerien an die Staatsanwaltschaften zu erteilen.
 
-#### Umfassende Beweisverwertungsverbote
+##### Umfassende Beweisverwertungsverbote
 
 Wir PIRATEN setzen uns für die Schaffung umfassender Verwertungsverbote für illegal erlangte Beweismittel in Straf-, Ordnungswidrigkeiten- und Verwaltungsverfahren ein.
 Insbesondere wenn in die Grundrechte verdächtiger Bürgerinnen und Bürger oder Dritter eingegriffen wird, ist es für einen Rechtsstaat und seine Strafverfolgungsbehörden essenziell, nicht selbst das Gesetz zu brechen und dabei die Rechte seiner Bürgerinnen und Bürger zu missachten.
@@ -3635,52 +3635,52 @@ Wir sind der Meinung, nur ein vollständiger Ausschluss durch illegale Ermittlun
 Dies schließt auch alle Beweise ein, deren Erhebung erst durch die Erkenntnisse der illegalen Maßnahme angeregt wurde.
 Es ist zu erwarten, dass die resultierende Disziplinierung zu einer erhöhten Sorgfalt der Einsatzkräfte bei der Wahl und Anwendung ihrer Instrumente und bei der Ausführung ihrer Arbeit führt, ohne dass es zu einer nennenswerten Beeinträchtigung der Ermittlungsarbeit kommt.
 
-#### Kein fliegender Gerichtsstand bei Verstößen im Internet
+##### Kein fliegender Gerichtsstand bei Verstößen im Internet
 
 Wir werden uns dafür einsetzen, dass für Klagen wegen Rechtsverstößen, die im Internet begangen wurden, der fliegende Gerichtsstand keine Anwendung findet, solange nach den übrigen Vorschriften ein deutsches Gericht zuständig ist.
 Die derzeitige Rechtslage, die bei Veröffentlichungen im Internet eine Klage überall dort zulässt, wo der entsprechende Inhalt abgerufen werden kann, widerspricht dem Sinn und Zweck der Regelung, da ein solcher Gerichtsstand die Auswahl des Gerichts nach Erfolgschancen erlaubt und so die Beklagten benachteiligt.
 Das lehnen wir ab und wollen eine verbraucherfreundliche Regelung schaffen.
 
-#### Begründungserfordernis bei ablehnenden Entscheidungen erweitern
+##### Begründungserfordernis bei ablehnenden Entscheidungen erweitern
 
 In allen Gerichtsverfahren sind Klagen und Anträge nicht allein mit standardisierten Formeln abzulehnen, sondern die Begründung muss nachvollziehbar erkennen lassen, warum das konkrete Vorbringen nicht zulässig und begründet gewesen sein soll.
 
-#### Stärkung der Position des Ermittlungsrichters
+##### Stärkung der Position des Ermittlungsrichters
 
 Die Position des Ermittlungsrichters ist zu stärken.
 Insbesondere sind den Richtern vorbehaltene Beschlüsse, die einem Antrag der Staatsanwaltschaft oder Polizei stattgeben, sorgfältig und eigenständig zu begründen.
 Hierbei ist auch ausdrücklich auf die Eingriffe in die Rechte des Beschuldigten und Dritter einzugehen.
 
-#### Gewährleistung einer 2. Instanz
+##### Gewährleistung einer 2. Instanz
 
 Jede erstinstanzliche Entscheidung muss in einem Rechtsmittelverfahren unabhängig von der Höhe des Streitwertes überprüft werden können.
 Dadurch soll sichergestellt werden, dass einzelne Richter bei Verfahren, in denen sie die erste urteilende Instanz sind, keine willkürlichen Entscheidungen treffen können.
 So soll gewährleistet werden, dass Gerichtsverfahren Gerechtigkeit herstellen.
 
-#### Kostenerstattung bei Verfahrenseinstellung
+##### Kostenerstattung bei Verfahrenseinstellung
 
 Wir setzen uns dafür ein, dass die Beschuldigten eines eingestellten Ermittlungsverfahrens die Kosten des Strafverteidigers und seine Auslagen ersetzt bekommen, so wie es bei einem Freispruch bereits geregelt ist.
 Damit wird es Beschuldigten ermöglicht, sich frühzeitig Rechtsbeistand zu holen, ohne sich der Gefahr auszusetzen, bei ungerechtfertigten Verfahren gegen sie, die Kosten tragen zu müssen.
 
-#### Mehr Transparenz durch die Veröffentlichung aller Gerichtsentscheidungen
+##### Mehr Transparenz durch die Veröffentlichung aller Gerichtsentscheidungen
 
 Wir PIRATEN fordern mehr Transparenz in der Justiz.
 Um das zu fördern, sollen alle gerichtlichen Sachentscheidungen für jedermann kostenlos und anonymisiert online einsehbar sein und bei besonderer Bedeutung für die Rechtsfortbildung auch im Rahmen eines Rechtsinformationssystems in gleicher Weise veröffentlicht werden.
 Bei berechtigten, überwiegenden und schützenswerten Belangen kann der Veröffentlichung durch Antrag eines Beteiligten widersprochen werden.
 
-#### Protokollierungspflicht für Aussagen vor Gericht
+##### Protokollierungspflicht für Aussagen vor Gericht
 
 In strafrechtlichen Hauptverhandlungen sind Einlassungen der Angeklagten und Beweisaufnahmen umfassend, dauerhaft und nachvollziehbar so zu dokumentieren, dass diese durch Akteneinsicht bewertet werden können.
 Das Gleiche gilt auch für Beweisaufnahmen in allen anderen gerichtlichen Verfahren.
 
-#### Ton- und Videoaufzeichnungen von Vernehmungen und Gerichtsverhandlungen
+##### Ton- und Videoaufzeichnungen von Vernehmungen und Gerichtsverhandlungen
 
 Die Arbeit der Gerichte soll in Zukunft durch eine den gesamten Verlauf der Verhandlung erfassende Aufzeichnung in Ton oder Bild und Ton erleichtert und die Möglichkeiten der Nachprüfbarkeit erstinstanzlicher Urteile erweitert werden.
 Die so gefertigten Aufzeichnungen sind auf einem Datenträger zu speichern und zur jeweiligen Akte zu nehmen.
 Das Gleiche soll für polizeiliche und staatsanwaltschaftliche Vernehmungen im Ermittlungsverfahren gelten.
 Einsichtsrechte in diese Aufzeichnungen dürfen nur dem Gericht und den anderen Verfahrensbeteiligten und nur zu verfahrensinternen Zwecken zur Verfügung stehen.
 
-#### Angemessene Entschädigung zu Unrecht Inhaftierter
+##### Angemessene Entschädigung zu Unrecht Inhaftierter
 
 Die Entschädigung für Opfer ungerechtfertigter Strafverfolgung muss auf einen angemessenen Satz erhöht werden.
 Des Weiteren ist für erlittene Nachteile eine weitgehende Folgenbeseitigung anzustreben, insbesondere ein Ausgleich für verlorene Zeiten in der Sozialversicherung und entgangenes fiktives Einkommen.
@@ -3688,12 +3688,12 @@ Die derzeitige geringe Entschädigung von 25 Euro pro Hafttag ist unangemessen.
 Wir fordern eine gerechtere Entschädigung für vollständig oder zumindest im Wesentlichen für unschuldig befundene Personen.
 Es ist zudem unverständlich, dass von diesem Betrag ohne Rechtsgrundlage noch Verpflegungskosten abgezogen werden.
 
-## Keine Bundeswehr im Inneren
+### Keine Bundeswehr im Inneren
 
 Wir PIRATEN lehnen den Einsatz der Bundeswehr im Innern ab.
 Ausgenommen sind rein humanitäre, unbewaffnete Einsätze zur Rettung von Menschen, Tieren und bedeutenden Sachwerten im Katastrophenfall.
 
-# Trennung von Staat und Religion
+## Trennung von Staat und Religion
 
 Das Grundgesetz garantiert die Freiheit der Religion.
 Diese Freiheit beinhaltet auch die Freiheit von Religion.
@@ -3702,7 +3702,7 @@ Eine Trennung von Staat und Religion und die Neutralität des Staates gegenüber
 Diese Trennung ist noch nicht vollzogen.
 Wir PIRATEN fordern daher eine umfassende und konsequente Durchsetzung der Trennung von Staat und Religion.
 
-## Weltanschauliche und religiöse Neutralität des Staates
+### Weltanschauliche und religiöse Neutralität des Staates
 
 Der Status einer "Körperschaft des öffentlichen Rechts" für Kirchen, Religions- und Weltanschauungsgemeinschaften ist abzuschaffen.
 Von Artikel 137 der Weimarer Reichsverfassung sind die Absätze 5-6 ersatzlos aus dem Grundgesetz zu streichen.
@@ -3722,7 +3722,7 @@ In Kontrollinstanzen (wie Rundfunkräten, Ethikräten, Bundesprüfstellen, Schul
 Der öffentlich-rechtliche Rundfunk darf nicht zur Missionierung benutzt werden.
 Es darf keine festen Zeitkontingente für Religionsgemeinschaften geben.
 
-## Forschung, Lehre und Bildung
+### Forschung, Lehre und Bildung
 
 Forschung und Lehre müssen rational, ergebnisoffen und undogmatisch betrieben werden.
 Insofern sollen in staatlichen Einrichtungen religiöse Lehren nur unter geschichtswissenschaftlichen und gesellschaftswissenschaftlichen Gesichtspunkten gelehrt und erforscht werden.
@@ -3739,7 +3739,7 @@ Zu den Kernaufgaben der Schulen gehören die Vermittlung von Wissen und Ethik, d
 Die Vermittlung von religiösen und politischen Dogmen führt dagegen häufig zur Intoleranz gegenüber Andersdenkenden.
 Deshalb setzen wir uns dafür ein, den konfessionellen Religionsunterricht bundesweit, an allen staatlichen und staatlich geförderten Schulen, durch einen gemeinsamen weltanschaulich neutralen Ethik- und Weltanschauungsunterricht zu ersetzen.
 
-## Finanzierung und Subventionen
+### Finanzierung und Subventionen
 
 Der Verfassungsauftrag zur Ablösung der Staatsleistungen an die Kirchen (Art. 140 GG i.V.m. Art. 138 Weimarer Reichsverfassung) ist umzusetzen.
 Die auf historischen Rechtstiteln beruhenden Staatsleistungen an die Kirchen sind zu beenden.
@@ -3750,13 +3750,13 @@ Steuer- und gebührenrechtliche Sondervorteile (wie Freistellung von Grundsteuer
 Die Religionsgemeinschaften müssen Missionierung und Seelsorge ausschließlich aus Eigenmitteln bestreiten.
 Insbesondere ist die staatliche Finanzierung von Militär-, JVA- und Polizeiseelsorge einzustellen und durch einen weltanschaulich neutralen psychologischen Betreuungsdienst zu ersetzen.
 
-## Beschäftigte in kirchlichen Einrichtungen
+### Beschäftigte in kirchlichen Einrichtungen
 
 Die private Lebensführung des Einzelnen darf kein Diskriminierungsgrund und kein Entlassungsgrund sein.
 Damit würden Kündigungsschutz, Mitbestimmung, Streikrecht, Koalitionsfreiheit und Arbeitnehmerrechte entsprechend dem Betriebsverfassungs- und Personalvertretungsrecht gelten.
 Deshalb sprechen wir uns dafür aus, § 118 (2) des Betriebsverfassungsgesetzes (Sonderregelung für Religionsgemeinschaften) zu streichen und § 9 des Allgemeinen Gleichberechtigungsgesetzes entsprechend den EU-Regelungen umzugestalten.
 Wir sprechen uns dafür aus, dass für überwiegend aus öffentlichen Mitteln finanzierte Betriebe - etwa im Bereich des Sozial- und Gesundheitswesens - die Beachtung der Grundrechte und der Regeln des Allgemeinen Gleichberechtigungsgesetzes Voraussetzung für die öffentliche Förderung sein muss.
 
-## Datenschutz
+### Datenschutz
 
 Die Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgemeinschaft darf von staatlichen Stellen nicht erfragt und nicht registriert werden.
